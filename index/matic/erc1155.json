@@ -1,0 +1,8 @@
+{
+  "name": "SequenceERC1155Matic",
+  "logoURI": "https://duneanalytics.com/assets/glyph-128w.png",
+  "keywords": ["erc1155", "nft", "dune", "opensea"],
+  "timestamp": "2021-01-25T15:23:52.438Z",
+  "tokens": [],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
