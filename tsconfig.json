@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "CommonJS",
+    "strict": true,
+    "esModuleInterop": false,
+    "declaration": true,
+    "lib": ["es2017", "DOM"],
+    "resolveJsonModule": true,
+    "downlevelIteration": true
+  }
+}
