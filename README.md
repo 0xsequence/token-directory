@@ -21,7 +21,7 @@ If the token is already part of the list, the token
 Depending on the standard, your token entries should respect the following format:
 
 ### ERC20
-See [here]() for examples.
+See [here](https://github.com/0xsequence/token-directory/blob/main/index/mainnet/erc20.json) for examples.
 
 ```typescript
 {
@@ -39,7 +39,7 @@ See [here]() for examples.
 ```
 
 ### ERC721 and ERC1155
-See [here]() for examples.
+See [here](https://github.com/0xsequence/token-directory/blob/main/index/mainnet/erc721.json) for erc721 and [here](https://github.com/0xsequence/token-directory/blob/main/index/mainnet/erc1155.json) for erc1155 examples.
 
 ```typescript
 {
