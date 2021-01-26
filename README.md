@@ -10,12 +10,12 @@ The ERC-721 and ERC-1155 token lists present in this repository follow the [Sequ
 If a token is missing entirely, or contains incorrect or missing information, please stick to the following procedure;
 
 1. Fork the current Token Directory repository
-2. Add your token in the `tokens` array in the correct file in the [src/registry/]() folder
-   e.g. 
+2. Add your token in the `tokens` array in the correct file in the [src/registry/](https://github.com/0xsequence/token-directory/tree/main/src/registry) folder
+   e.g. Registring a new ERC-721 token on Mainnet should be done by adding entry [here](https://github.com/0xsequence/token-directory/blob/1cf0b62b63703f7f3433540f8f51d6350904d103/src/registry/mainnet/erc721.json#L6).
 3. [Open a PR](https://github.com/0xsequence/token-directory/compare) comparing the main branch with your fork
 4. In the PR, add an explanation if this PR is for an existing token that needs to be updated
 
-If the token is already part of the list, the token
+If the token is already part of the list, the token object in the registry will replace the existing token in the list (tokens will be matched by contract address).
 
 ## Formats
 Depending on the standard, your token entries should respect the following format:
