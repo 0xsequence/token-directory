@@ -31,7 +31,7 @@ interface TokenDump {
 }
 
 // List to fetch
-const ERC721_LIST_PATH = "./index/mainnet/erc721.json"
+const ERC721_LIST_PATH = "../index/mainnet/erc721.json"
 const config = getEnvConfig()
 const provider = new ethers.providers.InfuraProvider('mainnet', config['INFURA_API_KEY'])
 

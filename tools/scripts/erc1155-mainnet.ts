@@ -25,7 +25,7 @@ interface TokenDump {
 }
 
 // List to fetch
-const ERC1155_LIST_PATH = "./index/mainnet/erc1155.json"
+const ERC1155_LIST_PATH = "../index/mainnet/erc1155.json"
 const config = getEnvConfig()
 const provider = new ethers.providers.InfuraProvider('mainnet', config['INFURA_API_KEY'])
 

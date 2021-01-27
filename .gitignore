@@ -1,2 +1,4 @@
 node_modules
-config/creds.env
+tools/node_modules
+tools/config/creds.env
+yarn-error.log
