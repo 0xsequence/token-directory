@@ -4,6 +4,7 @@
   "description": "Tools for building token-directory index",
   "main": "index.js",
   "scripts": {
+    "build-list:all": "yarn build-list:erc20-mainnet && yarn build-list:erc721-mainnet && yarn build-list:erc1155-mainnet && yarn scrape-open-graph",
     "build-list:erc20-mainnet": "ts-node ./scripts/erc20-mainnet.ts && yarn run lint:fix-json",
     "build-list:erc721-mainnet": "ts-node ./scripts/erc721-mainnet.ts && yarn run lint:fix-json",
     "build-list:erc1155-mainnet": "ts-node ./scripts/erc1155-mainnet.ts && yarn run lint:fix-json",

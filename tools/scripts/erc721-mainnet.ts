@@ -1,7 +1,7 @@
 import * as fs from "fs"
 import * as ethers from 'ethers'
 import fetch from "node-fetch"
-import { nextVersion, VersionUpgrade, CollectibleList, CollectibleInfo } from '@0xsequence/collectible-lists'
+import { nextVersion, schema, VersionUpgrade, CollectibleList, CollectibleInfo } from '@0xsequence/collectible-lists'
 import { getEnvConfig } from "../src/utils"
 const Ajv = require("ajv")
 const isEqual = require("lodash.isequal")
@@ -10,8 +10,7 @@ const cliProgress = require('cli-progress');
 // Loading jsons
 const erc721json = require("@openzeppelin/contracts/build/contracts/ERC721.json")
 const erc721Dump: TokenDump[] = require("../src/data/erc721_dune_dump_2021_01_20.json")
-const erc721: CollectibleList = require("../index/mainnet/erc721.json")
-const schema = require("../../collectible-lists/src/collectiblelist.schema.json")
+const erc721: CollectibleList = require("../../index/mainnet/erc721.json")
 
 // Build ERC-721 list
 // 1. Load crv dump from Dune analytics
@@ -24,16 +23,16 @@ const missingTokens = [
   '0x06012c8cf97bead5deae237070f9587f8e7a266d'  // Cryptokitties
 ]
 
+// List to fetch
+const ERC721_LIST_PATH = "../index/mainnet/erc721.json"
+const config = getEnvConfig()
+const provider = new ethers.providers.InfuraProvider('mainnet', config['INFURA_API_KEY'])
+
 interface TokenDump {
   name: string;
   contract_address: string;
   n_transfers: number;
 }
-
-// List to fetch
-const ERC721_LIST_PATH = "../index/mainnet/erc721.json"
-const config = getEnvConfig()
-const provider = new ethers.providers.InfuraProvider('mainnet', config['INFURA_API_KEY'])
 
 // Building list
 const main = async () => {

@@ -8,27 +8,26 @@ const ogs = require('open-graph-scraper');
 // Progress bar
 const progressBar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
 
-
 const main = async () => {
 
   // Get all token list files
-  let folders = fs.readdirSync('index/')
+  let folders = fs.readdirSync('../index/').filter(folder => !folder.includes('.'))
   let files: string[] = folders.reduce((files: string[], folder:string) => {
-    const currentFiles: string[] = fs.readdirSync('index/' + folder) 
+    const currentFiles: string[] = fs.readdirSync('../index/' + folder) 
     currentFiles.forEach(file => {
-      files.push('index/' + folder + '/' + file)
+      files.push('../index/' + folder + '/' + file)
     })
     return files
   }, [])
 
   // Iterate over all lists
-  for (let i=2; i < files.length; i++) {
+  for (let i=0; i < files.length; i++) {
     const f: string = files[i]
     console.log('Images for ' + f)
-    const list_path =  "./" + f
+    const list_path =  f
 
     // Load list
-    let list = f.includes('erc20') ? require('.' + list_path) as TokenList : require('.' + list_path) as CollectibleList    
+    let list = f.includes('erc20') ? require('../' + list_path) as TokenList : require('../' + list_path) as CollectibleList    
     progressBar.start(list.tokens.length, 0)
     for (let j = 0; j < list.tokens.length; j++ ) {
       const t: CollectibleInfo | TokenInfo = list.tokens[j]

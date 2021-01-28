@@ -7,7 +7,7 @@ import { getEnvConfig } from "../src/utils"
 const isEqual = require("lodash.isequal")
 const cliProgress = require('cli-progress');
 const erc20json = require("@openzeppelin/contracts/build/contracts/ERC20.json")
-const erc20: TokenList = require("../index/mainnet/erc20.json")
+const erc20: TokenList = require("../../index/mainnet/erc20.json")
 
 // List to fetch
 const ERC20_LIST_URL = "https://tokens.coingecko.com/uniswap/all.json"

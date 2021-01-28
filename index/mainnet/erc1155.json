@@ -2,7 +2,7 @@
   "name": "Sequence ERC1155",
   "logoURI": "https://duneanalytics.com/assets/glyph-128w.png",
   "keywords": ["erc1155", "nft", "dune", "opensea"],
-  "timestamp": "2021-01-25T15:23:52.438Z",
+  "timestamp": "2021-01-27T22:43:52.813Z",
   "tokens": [
     {
       "chainId": 1,
@@ -305,7 +305,7 @@
       "logoURI": "https://lh3.googleusercontent.com/Wfzlvq_En_9Bqlvb-6_E88iND_rYVmnUb4KO0vYX_Mf1kqWYDRs7Mj7lICLZSvLsDCJ-SWBQTLMc46Gq6D5BjF-db6uzMa25NitQdA=s120",
       "extensions": {
         "link": "https://app.strongblock.com",
-        "description": "The first NFT entry in the StrongBlock collection is Bronze. Future entries will include Silver, Gold and Platinum. ",
+        "description": "The first NFT entry in the StrongBlock collection is Bronze. Future entries will include Silver, Gold and Platinum.",
         "ogImage": null
       }
     },
@@ -463,7 +463,7 @@
       "extensions": {
         "link": "https://www.luxexpression.com",
         "description": "Blockchain Collectibles inspired by radical ideas. \n👉Earn NFT Rewards on our Website: http://LuxExpression.com",
-        "ogImage": "https://d3n32ilufxuvd1.cloudfront.net/5a0f0f729422ea0071e2bd5c/2448109/screenshot-78d0897f-9150-45f4-a748-63b902e21f4c_readyscr_1024.jpg"
+        "ogImage": "https://d3n32ilufxuvd1.cloudfront.net/5a0f0f729422ea0071e2bd5c/2448109/screenshot-8a74cb32-ba44-439c-92b0-709d5ed98d2d_readyscr_1024.jpg"
       }
     },
     {
@@ -628,7 +628,7 @@
       "extensions": {
         "link": "https://dapp-craft.com/",
         "description": "Buy vouchers, visit our scene, get your wearables!\n\nThe voucher is an NFT that will allow you to get wearables when they are available in Decentraland.\n\nWe have 3 types of vouchers:\nVouchers for released wearables\nVouchers for licensed wearables\nVouchers for unlicensed wearables",
-        "ogImage": null
+        "ogImage": "https://static.tildacdn.com/tild3038-6566-4663-b963-626635383239/-/resize/504x/image_2020-10-12_16-.png"
       }
     },
     {
@@ -2428,7 +2428,7 @@
       "extensions": {
         "link": "https://app.rarible.com/collection/0xa6e5454d11b626ae5a3a02f45d7e5391af256163",
         "description": "Risk Volumes are a collection of Music playlists featuring a curated mix of indie/alternative gems, ongoing since 2009\r\nEach playlist features unique artwork created for the sole purpose of being paired with a Risk Volume",
-        "ogImage": null
+        "ogImage": "https://app.rarible.com/assets/android-chrome-384x384.png"
       }
     },
     {
@@ -7029,5 +7029,5 @@
       "extensions": { "link": null, "description": null, "ogImage": null }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": { "major": 1, "minor": 1, "patch": 1 }
 }
