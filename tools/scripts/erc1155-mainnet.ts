@@ -1,7 +1,7 @@
 import * as fs from "fs"
 import * as ethers from 'ethers'
 import fetch from "node-fetch"
-import { nextVersion, VersionUpgrade, CollectibleList, CollectibleInfo } from '@0xsequence/collectible-lists'
+import { nextVersion, schema, VersionUpgrade, CollectibleList, CollectibleInfo } from '@0xsequence/collectible-lists'
 import { getEnvConfig } from "../src/utils"
 const Ajv = require("ajv")
 const isEqual = require("lodash.isequal")
@@ -10,24 +10,23 @@ const cliProgress = require('cli-progress');
 // Loading jsons
 const erc1155json = require("@openzeppelin/contracts/build/contracts/ERC1155.json")
 const erc1155Dump: TokenDump[] = require("../src/data/erc1155_dune_dump_2021_01_25.json")
-const erc1155: CollectibleList = require("../index/mainnet/erc1155.json")
-const schema = require("../../collectible-lists/src/collectiblelist.schema.json")
+const erc1155: CollectibleList = require("../../index/mainnet/erc1155.json")
 
 // Build ERC-1155 list
 // 1. Load crv dump from Dune analytics
 // 2. Query contract info via opensea API
 // 3. Build list according to @0xsequence/collectible-lists
 
+// List to fetch
+const ERC1155_LIST_PATH = "../index/mainnet/erc1155.json"
+const config = getEnvConfig()
+const provider = new ethers.providers.InfuraProvider('mainnet', config['INFURA_API_KEY'])
+
 interface TokenDump {
   name: string;
   address: string;
   n_transfers: number;
 }
-
-// List to fetch
-const ERC1155_LIST_PATH = "../index/mainnet/erc1155.json"
-const config = getEnvConfig()
-const provider = new ethers.providers.InfuraProvider('mainnet', config['INFURA_API_KEY'])
 
 // Building list
 const main = async () => {

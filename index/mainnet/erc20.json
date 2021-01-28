@@ -2,7 +2,7 @@
   "name": "Sequence ERC20",
   "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
   "keywords": ["defi"],
-  "timestamp": "2021-01-25T15:36:16.623Z",
+  "timestamp": "2021-01-27T22:00:03.430Z",
   "tokens": [
     {
       "chainId": 1,
@@ -53,7 +53,7 @@
       "extensions": {
         "link": "https://tether.to/",
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en...",
-        "ogImage": null
+        "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png"
       }
     },
     {
@@ -248,6 +248,19 @@
       "extensions": {
         "link": "https://matchpool.co/",
         "description": "Matchpool is a decentralized matchmaking protocol where it helps people matches with each other. Examples include dating applications, membership clubs, business matching, and so on. The matchpool platforms helps people to manage their community pool. The Guppy token is an ERC20 token on the Ethereum network. \r\n\r\nGuppy tokens, also know as GUP, are used to make payments inside the Matchpool app. Guppy tokens can be purchased or earned on the platform or traded on exchanges.\r\n\r\nMatchpool uses Guppy tokens to incentivise matchmakers to correctly match members together. Guppy can also be used for any other kind of payment between members on the platform. Matchpool’s trusted algorithm rewards members Guppy tokens automatically across the platform for matches.\r\n\r\n",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+      "name": "Veritaseum",
+      "symbol": "VERI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/695/thumb/veritaseum.png?1547034460",
+      "extensions": {
+        "link": "http://veritas.veritaseum.com/",
+        "description": null,
         "ogImage": null
       }
     },
@@ -1535,7 +1548,7 @@
       "extensions": {
         "link": "https://kstarcoin.com",
         "description": "KStarCoin is KStarLive’s ERC20 based cryptocurrency that will allow KStarLive to connect fans of Hallyu around the world to Korea. KStarCoin will be integrated into KStarLive's upcoming incentivized platform for our 8.5 Million subscribers.\r\n\r\nThe project was born from our belief that fans should be rewarded for the value they add to the platform. Fans are currently posting high-quality content online, and getting no proper credit for it. In our blockchain users will be able to perform P2P transactions thanks to the use of smart contracts. Users can also crowdfund concerts, greets and meets, as well as other events. They can even buy the tickets for said events with KStarCoin. We are here to connect international fans with their stars.",
-        "ogImage": "http://storage.googleapis.com/cr-resource/image/49173789409470108ca84495ca540fab/1172696/650/236463b9a4949c9be555e6014b7e8453.jpg?_1611603968"
+        "ogImage": "http://storage.googleapis.com/cr-resource/image/49173789409470108ca84495ca540fab/1172696/650/236463b9a4949c9be555e6014b7e8453.jpg?_1611787831"
       }
     },
     {
@@ -1974,7 +1987,11 @@
       "symbol": "REM",
       "decimals": 4,
       "logoURI": "https://assets.coingecko.com/coins/images/2152/thumb/semme.png?1561622861",
-      "extensions": { "link": null, "description": null, "ogImage": null }
+      "extensions": {
+        "link": "https://remme.io/",
+        "description": "\"Remme is an ecosystem of Identity and Access Management products with a digital key at its heart. Founded in 2015, Remme is building the decentralized Public Key Infrastructure protocol and PKI-enabled apps to address the challenges of Web 3.0.\r\n\r\nRemme Protocol aims to become the next-generation blockchain-based PKI alternative. It is open-source and customizable to suit business needs. Remme Protocol provides a basis for establishing self-sovereign and authority-issued identities, with a host of use cases.\r\n\r\nRemme Auth is a 2-click authentication solution that allows users to securely access a website without passwords. Instead, the solution uses Web Cryptography API and blockchain technology.\r\n\r\nWith the Protocol being built on EOSIO codebase, REMChain is an independent blockchain fueled by the REM token. REM is an ERC-20 token on Ethereum with the permanent possibility to swap it to REMChain native tokens in both directions.\"",
+        "ogImage": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5ca3a445b4f8d253c80615c6_remme-fb-cover-new.png"
+      }
     },
     {
       "chainId": 1,
@@ -2805,7 +2822,7 @@
       "extensions": {
         "link": "http://www.hyprr.com/",
         "description": "Howdoo is a revolutionary new messaging and social media platform that offers greater choice and control to users. Designed to encourage a more open and decentralized approach to mass social networking, it’s a platform that gives people full command over their personal data. It’s about incentivizing participation and contribution; allowing this value to flow freely across the network; enabling users to select for themselves the content they want to engage with; and inspiring a fairer, more community-driven form of moderation.",
-        "ogImage": null
+        "ogImage": "https://hyprr.com/static/assets/images/LogoMeta.png"
       }
     },
     {
@@ -5548,7 +5565,7 @@
       "extensions": {
         "link": "https://ferrum.network",
         "description": "Ferrum is a DAG-based interoperability network that connects to any blockchain and works natively with fiat currencies. It’s like the Lightning Network but for every blockchain. The advanced financial products that run on the network - like our West African fiat gateway (Kudi Exchange) and non-custodial cross-chain OTC wallet (UniFyre Wallet) - aim to empower millions of people around the world. Our network and products are powered by the FRM token, which is spent and burned with every transaction. And coming in later 2020, a high-speed cross chain DEX and mobile cold store application.",
-        "ogImage": "https://secureservercdn.net/104.238.71.140/z9z.56c.myftpupload.com/wp-content/uploads/2020/12/Screenshot-2020-12-12-at-21.50.46.png?time=1611579443"
+        "ogImage": "https://ferrum.network/wp-content/uploads/2020/12/Screenshot-2020-12-12-at-21.50.46.png"
       }
     },
     {
@@ -6606,6 +6623,19 @@
     },
     {
       "chainId": 1,
+      "address": "0xfbcecb002177e530695b8976638fbd18d2038c3c",
+      "name": "Belifex",
+      "symbol": "BEFX",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/9547/thumb/belifex.png?1586748867",
+      "extensions": {
+        "link": "http://www.belifex.com/",
+        "description": "BELIFEX blockchain is a blockchain database that supports and encourages community building and social interaction. BELIFEX blockchain creates a platform for mass adoption which combines all concepts from social media, advertisement and artificial intelligence. BELIFEX is also building a platform that allows all tokens that are Ethereum based to be traded. The Decentralized Exchange platform is a 0% tradingfee based on the Ethereum blockchain with no additional deposit and withdrawal necessary, nor any need for a signup.",
+        "ogImage": "images/logo/logo.png"
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
       "name": "HUSD",
       "symbol": "HUSD",
@@ -7283,7 +7313,7 @@
     {
       "chainId": 1,
       "address": "0xb5a4ac5b04e777230ba3381195eff6a60c3934f2",
-      "name": "inSure",
+      "name": "inSure DeFi",
       "symbol": "SURE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/10354/thumb/logo200.png?1578435990",
@@ -7485,7 +7515,7 @@
       "extensions": {
         "link": "https://tether.to/",
         "description": "Each XAU₮ token represents ownership of one troy fine ounce of physical gold on a specific gold bar. XAU₮, which is available as an ERC-20 token on the Ethereum blockchain and as a TRC20 token on the TRON blockchain, can be transferred to any on-chain address from the purchasers’ Tether wallet. Furthermore, Tether Gold (XAU₮) is the only product among the competition that offers zero custody fees and has direct control over the physical gold storage, safely held in a Switzerland vault, adopting best in class security and anti-threat measures. Today, Tether Gold (XAU₮) is the best way to hold Gold. ",
-        "ogImage": null
+        "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png"
       }
     },
     {
@@ -8382,7 +8412,7 @@
       "extensions": {
         "link": "https://sora.org/",
         "description": "Sora believes that economies should be decentralized, yet rational. The Sora Decentralized Autonomous Economy (DAE) is the world's first decentralized economy, where everyone participates to create the best world together. Soramitsu (www.soramitsu.co.jp), founded by Makoto Takemiya, Ryu Okada, and Ikkei Matsuda, is one of the contributors to Sora (www.sora.org) with the aim to create a new type of economic system to improve the efficiency of society.",
-        "ogImage": null
+        "ogImage": "https://static.tildacdn.com/tild3064-6361-4864-b336-333635366531/1DXuvFuYkCGTfW58Yio_.png"
       }
     },
     {
@@ -9284,6 +9314,19 @@
     },
     {
       "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11683/thumb/Balancer.png?1592792958",
+      "extensions": {
+        "link": "https://balancer.finance/",
+        "description": "Balancer is a non-custodial portfolio manager, liquidity provider, and price sensor\r\n\r\nThe Balancer Protocol Governance Token (BAL) are distributed to Liquidity Providers of Balancer. BALs are a key way of decentralizing the governance of the protocol such that it can remain resilient over time, protected from the failure of any single stakeholder. \r\n\r\nThe proposed amount of distributed BALs to liquidity providers is 145,000 per week, or approximately 7.5M per year. This means in the first year of BAL’s existence there would be 30% supply inflation off the initially allocated supply of 25M tokens. This high rate of supply inflation is meant to kickstart the distribution of governance rights of the protocol out to those who earn it.",
+        "ogImage": "https://balancer.finance/wp-content/uploads/2020/02/dark_transparent-1024x633.png"
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0x4f56221252d117f35e2f6ab937a3f77cad38934d",
       "name": "CryptoCricketClub",
       "symbol": "3CS",
@@ -9623,7 +9666,7 @@
     {
       "chainId": 1,
       "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
-      "name": "MCDex",
+      "name": "MCDEX",
       "symbol": "MCB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11796/thumb/mcb.png?1594355515",
@@ -9917,19 +9960,6 @@
         "link": "https://dkargo.io/main_en.html",
         "description": "dKargo uses blockchain technology to solve trust issues among participants scattered in the logistics industry\r\nand establishing an efficient logistics network based on cooperation that was previously unimaginable.",
         "ogImage": "https://dkargo.io/images/meta_preview_logo.jpg"
-      }
-    },
-    {
-      "chainId": 1,
-      "address": "0x53db6b7fee89383435e424764a8478acda4dd2cd",
-      "name": "Vibz8",
-      "symbol": "VIBS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11880/thumb/vibslogo200.png?1595739621",
-      "extensions": {
-        "link": "https://vibs.me/",
-        "description": "The main task of VIBS is to use it in the CCUNiverse mobile application as a means of payment, rewarding users.\r\nI remind you that CCUniverse is the current UVU coin, which based on VIBS wants to create its extensive mobile application and then perform the rest of its previous assumptions.\r\nWhat will this application do?\r\nThe application will present a new / different blockchain / cryptocurrency project every day.\r\nWill choose the less known, but promising as a good investment.\r\nIn addition to coins, typically technological projects will appear: start-ups and projects that bring innovative products to the market.\r\nWe believe that investors, traders and also people who are thinking about developing or creating their business will be interested in our application.\r\nIn addition, there will be a lot of rankings and a Raffle of free coins every day.\r\nDiscovering a new project / new coin will cost $ 1 and the funds will be allocated to free coins and the development of VIBS and UVU.",
-        "ogImage": null
       }
     },
     {
@@ -11489,7 +11519,7 @@
       "extensions": {
         "link": "https://libera.finance/",
         "description": "Libera allows users or entities to create their own decentralized crypto custodies, which can be adopted by any DEX, CEX or DeFi application. Hodlers of the assets can be elected from the top users of the exchange, or from ones who contributed to its growth. Each custody is connected only to a particular trading platform (CEX, DEX or Dapp), but the platform itself can use several custodies for the same asset.",
-        "ogImage": null
+        "ogImage": "https://static.tildacdn.com/tild3966-6161-4030-b634-636464353164/Libera_Protocol-01.png"
       }
     },
     {
@@ -12722,9 +12752,9 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12381/thumb/perpetual_protocol_logo.jpg?1599469619",
       "extensions": {
-        "link": "https://perp.fi/",
+        "link": "https://perp.exchange/",
         "description": null,
-        "ogImage": "https://uploads-ssl.webflow.com/5e9ecdc01e2165c196a303e0/5f3b651a69b04089bd4e65a6_meme-in-litepapaer-dark.png"
+        "ogImage": "/og-image.png"
       }
     },
     {
@@ -15519,7 +15549,7 @@
       "extensions": {
         "link": "https://mettalex.com/",
         "description": "A decentralized commodities exchange",
-        "ogImage": "https://mettalex.com/wp-content/uploads/Mettalex-Icon.png"
+        "ogImage": "https://mettalex.com/wp-content/uploads/How-Mettalex-Differs.png"
       }
     },
     {
@@ -15700,7 +15730,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12751/thumb/uQBJL3A.png?1602237225",
       "extensions": {
         "link": "https://snowswap.org/",
-        "description": "SNOW is the governance token for SnowSwap",
+        "description": "Snowswap is a decentralized exchange for swapping wrapped, yield-bearing tokens with minimal slippage. Snowswap supports wrapped token swaps for numerous Defi projects including Harvest finance, Yearn, ANKR, and CREAM. Initially, the focus was stablecoins but has since expanded to include wrapped bitcoin and ethereum 2.0 staking tokens as well.",
         "ogImage": null
       }
     },
@@ -17482,7 +17512,7 @@
       "extensions": {
         "link": "https://dvision.network/",
         "description": "Dvision Network is essentially a blockchain-based VR content ecosystem, which also powers the NFT marketplace within virtual reality.  Dvision Network presents a new virtual reality world, where humanity can lead an affluent life, at the very center of the ICT based fourth industrial revolution. In fact, to be more precise, Dvision has 3 important platform pillars, which can be explained briefly as an NFT marketplace (VR-Market), where you can also create and trade unique items; Tailored Virtual Reality (VR-Space), where you can customize and acquire the virtual space; Collection of VR-Spaces (VR-City), it’s a public VR world, where you can enjoy the metaverse with other users. ",
-        "ogImage": "/images/meta_img.jpg?20210126051817"
+        "ogImage": "/images/meta_img.jpg?20210128082230"
       }
     },
     {
@@ -17885,7 +17915,7 @@
       "extensions": {
         "link": "https://ferrum.network/",
         "description": "FRMx it is imbued with many valuable utilities, and it grants its holders governance over the FRMx and FRM staking regimes. This means that FRMx holders will inform, shape and vote on the structure of upcoming FRM and FRMx staking rounds.",
-        "ogImage": "https://secureservercdn.net/104.238.71.140/z9z.56c.myftpupload.com/wp-content/uploads/2020/12/Screenshot-2020-12-12-at-21.50.46.png?time=1611579443"
+        "ogImage": "https://ferrum.network/wp-content/uploads/2020/12/Screenshot-2020-12-12-at-21.50.46.png"
       }
     },
     {
@@ -18742,7 +18772,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13201/thumb/debase_logo.png?1606190818",
       "extensions": {
         "link": "https://debaseonomics.io/",
-        "description": "A flexible supply token, which is pegged to 1 DAI",
+        "description": "DEBASE is a decentralized meta algorithmic stable coin protocol that uses a modular architecture to combine multiple stabilization strategies (both internal and external) to stabilize the monetary token $DEBASE to peg.",
         "ogImage": null
       }
     },
@@ -18820,7 +18850,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13215/thumb/degov.png?1606277121",
       "extensions": {
         "link": "https://debaseonomics.io/",
-        "description": "Degov is the governance token for the Debase.",
+        "description": "DEGOV is the fully-decentralized fairly-distributed governance token of the DEBASE protocol. The DEBASE protocol is highly parameterized making on-chain governance powerful. Threshold quorum is 20% of the maximum supply (25,000 tokens fixed supply). Additionally, DEGOV holders with more than 250 DEGOV are permitted to submit proposals for voting. DEGOV holders earn DAI rewards from the DEBASE Treasury under certain conditions of the DEBASE economy.",
         "ogImage": null
       }
     },
@@ -18938,7 +18968,7 @@
       "extensions": {
         "link": "https://syncbond.com/",
         "description": "Projects in the decentralized finance space started utilizing stake and proof-of-liquidity mechanics to develop a trustless economy but fundamental flaws have held these projects behind. The SYNC Network addresses these problems and offers a workable solution through tradeable stakes bonding Uniswap liquidity pairs with a fully trustless ERC-20 token (SYNC).\r\n\r\nSYNC enables users to earn interest by staking a cyptographic bond to Uniswap liquidity pair tokens (Crypto Bonds).\r\n\r\nCrypto Bonds are an NFT (ERC-721) token with collectible attributes, accruing interest rates, and the ability to separately trade and speculate on them within a secondary market.\r\n\r\nSYNC Network works to bring stability and risk mitigation to decentralized finance by solidifying a guarantee on holding liquidity pairs for an extended period of time. The Sync Network can help build a needed, stable foundation for the DeFi space and a fully functioning, more robust trustless economy.\r\n\r\n\r\n--\r\nThe SYNC Network is...",
-        "ogImage": "https://syncbond.com/wp-content/uploads/2020/11/Sync-phase1.jpg"
+        "ogImage": null
       }
     },
     {
@@ -19067,7 +19097,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13249/thumb/DSD.jpg?1606713628",
       "extensions": {
         "link": "https://dsd.finance/app/#/",
-        "description": "The first fully DeFi compliant stablecoin.",
+        "description": "\r\n\r\n\r\n",
         "ogImage": null
       }
     },
@@ -19081,7 +19111,7 @@
       "extensions": {
         "link": "https://www.zin.finance/",
         "description": "Zin is a 100% deflationary token, fuelling the Zin Finance platform. The platform will be an investment app along with staking and other features.",
-        "ogImage": null
+        "ogImage": "https://zin.finance/wp-content/uploads/2020/11/information.svg"
       }
     },
     {
@@ -19584,10 +19614,10 @@
       "name": "Curate",
       "symbol": "XCUR",
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/13327/thumb/xcur_logo.jpg?1607920655",
+      "logoURI": "https://assets.coingecko.com/coins/images/13327/thumb/XCUR.png?1611628267",
       "extensions": {
         "link": "https://curate.style",
-        "description": "XCUR is the official token for the Curate shopping app and DeFi platform",
+        "description": "\"XCUR is the official token for the CURATE marketplace app and DeFi platform.\r\n\r\nCURATE is a marketplace app centred around the theme of content discovery on clothing/fashion, gaming/tech, crypto assets and health/beauty and more. Curate utilises blockchain technology as a payment infrastructure and means of rewarding engagement i.e buying, selling or based on our rewards engagement algorithm.\r\n\r\nTags:\r\n\r\nMarketplace\r\nShopping\r\nRewards\r\nDeFi\r\nPayments\r\nFashion\r\nNFTs\r\nGaming\r\nDiscovery\"",
         "ogImage": null
       }
     },
@@ -20134,7 +20164,7 @@
       "extensions": {
         "link": "https://scifi.finance/",
         "description": "SPICE is a governance token that gives governance control over SCIFI, the Galactic Council and the Galactic Treasury to holders of the SPICE token. SPICE will always be represented in SCIFI with a fixed allocation of 2.5%.",
-        "ogImage": "https://scifi-cms.com/wp-content/uploads/2020/12/SCIFI-Medium-Footer.png"
+        "ogImage": null
       }
     },
     {
@@ -21278,7 +21308,7 @@
       "extensions": {
         "link": "https://www.moneyswap.io/",
         "description": null,
-        "ogImage": "https://moneyswap-prod-s3.s3.ap-northeast-2.amazonaws.com/static/PC_210125/assets/icon/sns_logo.png"
+        "ogImage": "https://moneyswap-prod-s3.s3.ap-northeast-2.amazonaws.com/static/PC_210125/assets/img/sns_logo.png"
       }
     },
     {
@@ -21478,26 +21508,26 @@
     },
     {
       "chainId": 1,
-      "address": "0xfa9c3dc54baa9eefbe9453b1f3b3b93ad2af0a77",
-      "name": "Dynamic Supply",
-      "symbol": "DST",
+      "address": "0x236ecfb32c2b496f942c86d43b8ca4f6bd931e30",
+      "name": "Morph",
+      "symbol": "MORC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13609/thumb/dst.jpg?1610274254",
+      "logoURI": "https://assets.coingecko.com/coins/images/13609/thumb/0PAc0nMs_400x400.png?1611734234",
       "extensions": {
-        "link": "https://dyn.supply/",
+        "link": "https://morph.finance/",
         "description": null,
         "ogImage": null
       }
     },
     {
       "chainId": 1,
-      "address": "0x55696efc7c9779d868ac34ac6b4a4c5fed61ac12",
-      "name": "Dynamic Supply Trac",
-      "symbol": "DSTR",
+      "address": "0x970b596ea3cb9864397f799902f0a579cdc3377b",
+      "name": "Morph Tracker",
+      "symbol": "MORT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13610/thumb/DSTR.png?1610341247",
+      "logoURI": "https://assets.coingecko.com/coins/images/13610/thumb/0PAc0nMs_400x400.png?1611734232",
       "extensions": {
-        "link": "https://dyn.supply/",
+        "link": "https://morph.finance/",
         "description": null,
         "ogImage": null
       }
@@ -21629,7 +21659,7 @@
       "extensions": {
         "link": "https://nordfinance.io/",
         "description": null,
-        "ogImage": null
+        "ogImage": "https://nordfinance.io/wp-content/uploads/2021/01/Main-illustration.png"
       }
     },
     {
@@ -21888,7 +21918,7 @@
       "extensions": {
         "link": "https://yop.finance/",
         "description": "YOP is a yield optimization platform & protocol. It is an all-in-one yOptimization application that makes it easy for everyone to access DeFi. It gives you control, custody, insights and flexibility directly in one single application. \r\n\r\nOur platform brings together all the tools and our protocol brings together all the access to contracts and pools. All powered by our token, $YOP.",
-        "ogImage": "https://secureservercdn.net/160.153.138.219/j66.58c.myftpupload.com/wp-content/uploads/2021/01/yop-meta-img.jpg?time=1611495091"
+        "ogImage": "https://secureservercdn.net/160.153.138.219/j66.58c.myftpupload.com/wp-content/uploads/2021/01/yop-meta-img.jpg?time=1611715938"
       }
     },
     {
@@ -22079,7 +22109,7 @@
       "name": "Excavo Finance",
       "symbol": "CAVO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13711/thumb/YnFor7XM_400x400.png?1611097167",
+      "logoURI": "https://assets.coingecko.com/coins/images/13711/thumb/CAVO.png?1611628062",
       "extensions": {
         "link": "https://excavo.finance/",
         "description": "Excavo protocol is the automated market maker (amm) based on a constant product formula for inventory management specially built for professional.",
@@ -22174,6 +22204,19 @@
       "extensions": {
         "link": "https://insured.finance/",
         "description": "Insured Finance is Building the Future of Digital Asset Insurance. Insured Finance is an upcoming crypto insurance solution that will allow its users to secure comprehensive coverage on their digital asset holdings. Market participants can easily request or provide coverage on a wide variety of cryptocurrency assets. Claims are fully collateralized and payouts are instant.",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f7b618993cc3848d6c7ed9cdd5e835e4fe22b98",
+      "name": "Nami Corporation To",
+      "symbol": "NAMI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13729/thumb/nami_logo_256.png?1611224464",
+      "extensions": {
+        "link": "https://nami.io/",
+        "description": "Nami Corporation is a FinTech startup operating in the field of Investment and Technology, based on Blockchain technology. Nami has built and developed an ecosystem of financial products and services to fully support investors, optimize activities and profits for its community.\r\nNAMI is a cryptocurrency that can operate throughout the Nami ecosystem, NAMI plays the role of central token, used for exchanging, fee deduction and staking rewards.\r\n\r\n",
         "ogImage": null
       }
     },
@@ -22361,6 +22404,188 @@
     },
     {
       "chainId": 1,
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "name": "Opium",
+      "symbol": "OPIUM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13758/thumb/opium-token-black_%281%29.png?1611767960",
+      "extensions": {
+        "link": "https://www.opium.network/",
+        "description": "OPIUM is a governance token that gives users a right to govern Opium Protocol.",
+        "ogImage": "https://opium.network/assets/image.png"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df",
+      "name": "PAID Network",
+      "symbol": "PAID",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13761/thumb/paid_network.png?1611626711",
+      "extensions": {
+        "link": "https://paidnetwork.com/",
+        "description": "PAID Network is a business toolkit for all your needs, encompassing SMART Agreements, escrow, reputation-scoring, dispute arbitration and resolution, as well as DeFi tools such as insurance, borrowing and lending. PAID aims to take the lawyers out of legal contracts, making simple, easy-to-use SMART Agreements available for users. Reputation-scoring tracks user behavior, while escrow and dispute arbitration/resolution ensure PAID users receive the value stipulated in their contract. DeFi tools work in concert with the aforementioned elements to provide a one-stop solution for conducting business transactions.",
+        "ogImage": "https://paidnetwork.com/wp-content/uploads/2020/09/polkadot.png"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d2de5397d7c657c3d424634a2ddf4e0d73d789",
+      "name": "Bliss",
+      "symbol": "BLISS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13762/thumb/eD2mpsGhthNTkzYlFjNACI_Oy8IwC9kh7TISfep2ZcaRYoNiVFOwiUprqlrzwVTHRddCUULAEQGyPPjaTqG2ZLCPvCX5ycQF3TMrffadkJGDKe_wQ0N8QT2MO4xXMJ4c6PJgi2MG0WySER24ZbvahGPjtxBBPIb3fS21Seydik57qQyJMYB73il_L636mqaIT1gc9h75K5uT8UK.jpg?1611695377",
+      "extensions": {
+        "link": "https://nirvanadefi.com",
+        "description": "Bliss is the second token issued from the Nirvana Defi ecosystem, with Bliss you are able to stake and earn WBTC rewards. ",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ec75589856562646afe393455986cad26c4cc5f",
+      "name": "Interop",
+      "symbol": "TROP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13763/thumb/Interop.jpg?1611631842",
+      "extensions": {
+        "link": "https://interop.finance/",
+        "description": "You’re looking at the newest community driven go- to platform for everything NFT and more. Watch and join the show, be a player or be a spectator in our world with many highs & challenges.",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7",
+      "name": "LenDeFi Token",
+      "symbol": "LDFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13764/thumb/logo-200.png?1611649291",
+      "extensions": {
+        "link": "https://lendefi.io/",
+        "description": "LenDeFi allows secured lending and removes any counterparty risk between the borrower and the lender, who then can deal on a trustless basis.\r\n\r\nThe lender will receive a variable interest and be secured by the liquidity provided on the DeFi ecosystem in such protocols as Uniswap . Hence, if the borrower is not able to maintain their loan, the Protocol will ensure the lender is repaid and the borrower credited with the remaining equity.\r\nBorrowers can select from a wide variety of supported assets to invest by borrowing funds from the Protocol. Supported assets can be added and removed via Lendefi’s decentralized governance mechanism (the “DAO”).",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x91383a15c391c142b80045d8b4730c1c37ac0378",
+      "name": "XStable",
+      "symbol": "XST",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/13765/thumb/9CmDZpcX_400x400.jpg?1611662189",
+      "extensions": {
+        "link": "https://xstable.finance/",
+        "description": "XStable is a synthetic stablecoin protocol that derives it's supply and price values from true market demand.",
+        "ogImage": "https://xstable.finance/img/screenshot.png"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888877a18532b78d259577d00057054c50dd8",
+      "name": "Universal Dollar",
+      "symbol": "U8D",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13766/thumb/Gn8x1TZN_400x400.jpg?1611662713",
+      "extensions": {
+        "link": "https://u8d.finance/",
+        "description": "Universal Dollar (U8D) is an algorithmic decentralized stable coin based on the ERC-20 token built to be self-stabilizing. To start using U8D and get benefits of decentralised finance read and proceed with the following steps.",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
+      "name": "Secret  ERC20 ",
+      "symbol": "WSCRT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/13767/thumb/Secret_S_Black_Coingecko.png?1611667298",
+      "extensions": {
+        "link": "https://scrt.network",
+        "description": "Secret is the native coin of the Secret Network, a decentralized network for private / secure computation. Nodes on the network (known as secret nodes) can perform generalizable computations over encrypted data, which allows smart contracts (known as secret contracts) to use private and sensitive data as inputs. Our focus is on computational privacy, not just transactional privacy. Developers can build decentralized, privacy-preserving \"Secret Apps\" on the network. The privacy functionality of the Secret Network is critical for many fields, including decentralized finance, Web3, machine learning, access control, and many more.\r\n\r\nThe Secret Network is supported by many independent development teams and entities, including Enigma, Secret Foundation, Secretnodes.org, Chain of Secrets, and more",
+        "ogImage": "https://scrt.network/cover.png"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b5016cea1c425f915e13727f7657025de3208fe",
+      "name": "Tokemon",
+      "symbol": "TKMN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13769/thumb/RDpa3fCw_400x400.png?1611697299",
+      "extensions": {
+        "link": "https://tokemon.io/",
+        "description": "Tokemon is a configurable trading insight bot which allows the user to choose various metrics, regarding select ERC20 tokens, for which they will get notifications about.\r\n\r\nThe insights derived from the specified metrics are delivered right to your telegram inbox—users can even specify the delivery interval! Just sit back and get notified when a token was created, it's price moves up or down meaningfully, or a token reached a price level you preset. You can even receive notifications when a wallet you're following makes an action!\r\n\r\nTokemon can also be set to follow your favorite telegram channels, or famous twitter handles, and notify you when specified information is out there.\r\n\r\nWith Tokemon, you can sleep and trade—just preset buy/sell orders, or activate trailing sell/buy on your volatile tokens. Actually, you can set a trade based on signals for any of the notifications and metrics Tokemon calculates. Imagine, you can buy a token in a second after it's shilled in a Telegram...",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x833e4c02c47b7e38f5b9a80b26eb07d23d1961f4",
+      "name": "The Bitcoin Family",
+      "symbol": "FAMILY",
+      "decimals": 4,
+      "logoURI": "https://assets.coingecko.com/coins/images/13776/thumb/the_bitcoin_family.png?1611712529",
+      "extensions": {
+        "link": "https://yolofamilytravel.com/",
+        "description": "FAMILY is the social money of Didi Taihuttu and The Bitcoin Family",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x98c36c0e953463bd5146c8783ce081ce1d187acf",
+      "name": "Polyient Games Unit",
+      "symbol": "PGU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13777/thumb/gap1KZNe_400x400.jpg?1611716610",
+      "extensions": {
+        "link": "https://www.polyient.games/",
+        "description": "The Polyient Games Ecosystem is changing the way gamers and investors interact with non-fungible tokens (NFTs)",
+        "ogImage": "https://www.polyient.games/assets/social/EhkfTxrWsAQVKva.png"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x99fe3b1391503a1bc1788051347a1324bff41452",
+      "name": "SportX",
+      "symbol": "SX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13779/thumb/sportx.png?1611725183",
+      "extensions": {
+        "link": "https://sportx.bet/",
+        "description": "SportX is a community-owned sports betting exchange and political prediction market built on the Ethereum and Matic blockchains.",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51",
+      "name": "BITToken",
+      "symbol": "BITT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13783/thumb/BITT_Logo_256pixels.png?1611733961",
+      "extensions": {
+        "link": "https://www.bittoken.club/",
+        "description": "BITT is an ERC20 token built to reward holders and community members through fun and unique utility. BITT is constantly evolving to further benefit holders. Investors can earn rewards by interacting with BITT social platforms, as well as holding, staking, and spending BITT. Holders also receive discounts on branded BITT tools such as the Bitswap DEX aggregator and exchange. BITT's deflationary instrument is activated whenever BITT is used to purchase an NFT on the Bitswap platform. The project seeks to be inclusive of all members of the diverse crypto space through social integrations. Existing communities can incorporate BITT into their Discord or Telegram servers with the TIP.CC bot.",
+        "ogImage": "https://secureservercdn.net/160.153.137.99/ez9.333.myftpupload.com/wp-content/uploads/2020/12/Discord-header-3-1024x576.png"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb97d5cf2864fb0d08b34a484ff48d5492b2324a0",
+      "name": "Klondike Finance",
+      "symbol": "KLON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13787/thumb/klondike.jpg?1611759069",
+      "extensions": {
+        "link": "https://klondike.finance/",
+        "description": null,
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "name": "WETH",
       "symbol": "WETH",
@@ -22373,5 +22598,5 @@
       }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": { "major": 1, "minor": 2, "patch": 0 }
 }
