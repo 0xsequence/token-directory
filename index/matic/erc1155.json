@@ -1,8 +1,22 @@
 {
   "name": "SequenceERC1155Matic",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc1155", "nft", "dune", "opensea"],
+  "keywords": ["erc1155", "nft"],
   "timestamp": "2021-01-25T15:23:52.438Z",
-  "tokens": [],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x2e56c100fae2e38c8447ac225d34a486700ea994",
+      "name": "Skyweaver (Dev)",
+      "standard": "erc1155",
+      "symbol": "SW CARDS",
+      "logoURI": "https://www.skyweaver.net/images/skyweaver-logo.svg",
+      "extensions": {
+        "link": "https://www.skyweaver.net/",
+        "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "ogImage": "https://skyweaver.net/images/skyweavercover.jpg"
+      }
+    }
+  ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
