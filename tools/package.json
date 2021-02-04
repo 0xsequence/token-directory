@@ -1,6 +1,6 @@
 {
   "name": "token-directory-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tools for building token-directory index",
   "main": "index.js",
   "scripts": {
