@@ -10,7 +10,7 @@
       "name": "Skyweaver (Dev)",
       "standard": "erc1155",
       "symbol": "SW CARDS",
-      "logoURI": "https://www.skyweaver.net/images/skyweaver-logo.svg",
+      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
@@ -18,5 +18,5 @@
       }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": { "major": 1, "minor": 0, "patch": 1 }
 }
