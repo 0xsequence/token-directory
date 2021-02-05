@@ -48,11 +48,17 @@ const main = async () => {
       validSymbol = info.symbol
     }
 
+    // Ensure valid Symbol and description
     validSymbol = validSymbol.length <= 20 ? validSymbol : validSymbol.slice(0,20)
     const validDescription = !info.description.en || info.description.en.length <= 1000 ? info.description.en : info.description.en.slice(0,997) + '...'
 
+    // Use higher resolution logos from Coingecko
+    const enhance_logo = newList.tokens[i].logoURI?.replace(/\/thumb\//g, "/large/")
+
+    // Store new token
     newList.tokens[i] = {
       ...newList.tokens[i],
+      logoURI: enhance_logo,
       //@ts-ignore
       extensions: {
         "link": !info.links.homepage[0] || info.links.homepage[0] === "" ? null : info.links.homepage[0],
