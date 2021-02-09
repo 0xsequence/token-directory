@@ -16,7 +16,22 @@
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x396992c9294e3cf23e72b3f05815d7bcd250542b",
+      "name": "PepemonFactory",
+      "standard": "erc1155",
+      "symbol": "PEPEMON",
+      "logoURI": "https://lh3.googleusercontent.com/uqxQbpi4bFe43rwk7dzB0EWdc846u8EhBe4EVcV89g1MfIvhD_H63b5N-ZXhUMXJ1vDSmihi_oGJ8L0HNVRQ24w=s120",
+      "extensions": {
+        "link": "https://pepemon.finance/",
+        "description": "Pepemon's Storefront - Come get your unique Gen1 Starter NFT's now!",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0xcb6768a968440187157cfe13b67cac82ef6cc5a4"
+      }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 1 }
+  "version": { "major": 1, "minor": 1, "patch": 0 }
 }

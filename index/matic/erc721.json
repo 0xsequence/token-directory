@@ -16,7 +16,112 @@
         "description": "Neon District is a free-to-play cyberpunk role-playing game. Collect characters and gear, craft and level up teams, and battle against other players through competitive multiplayer and in turn-based combat.",
         "ogImage": "https://www.neondistrict.io/wp-content/uploads/2019/08/neon_district_city.jpeg"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x1ff58e665531953a3c667e2d831586777fe4be31",
+      "name": "BLOCKLORDS",
+      "standard": "erc721",
+      "symbol": "LORD",
+      "logoURI": "https://lh3.googleusercontent.com/MRMaF2uWhPfU0v7O-nsFSdN6o6o68S5IhDu9psWKmNQYLosfGwgFpCEK8D4BSe4F176-29SRgivCy8cAfTEweKAh=s60",
+      "extensions": {
+        "link": "https://blocklords.io",
+        "description": "BLOCKLORDS is a smart-contract based grand strategy game where players are thrown into a medieval world and will have to fight their way to the top. HERO NFTs include a hero’s name, base stats, equipped item, traits, and title, making them valuable assets and necessary in order to play BLOCKLORDS ETH at launch.",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x2c04e6dd23c33a66f58dfb79dfb15285336c92d0"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xbd0fbd0ec1a20b05ebe590340b9eb1c11fc312ce",
+      "name": "InStarToken",
+      "standard": "erc721",
+      "symbol": "IST",
+      "logoURI": "https://lh3.googleusercontent.com/YaBhKSGpVX049OjlbwnmVyugkq4r_5tRm7mpyJoBtNXsgwxx797Iy_t_5j6U9jzogcFHBvZikQjcmhy_eay-dywQ=s60",
+      "extensions": {
+        "link": "https://www.infinitystar.io",
+        "description": "Infinity Star is an auto-battle RPG, set in a not-so distant dystopian future about characters who escaped an evil research lab\r\nto gain their freedom back. Grind your gears and gather companions to escape the lab for freedom! \r\n中国大陆的各位玩家，请访问 https://infinitystar.cc/ 谢谢大家！",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x543ecfb0d28fa40d639494957e7cba52460f490e"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x439b161307afc4a4f1b5fa6a21ca689e081cd322",
+      "name": "Gods Unchained Legacy",
+      "standard": "erc721",
+      "symbol": "GODS",
+      "logoURI": "https://storage.opensea.io/0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab-featured-1556588688.png",
+      "extensions": {
+        "link": "https://godsunchained.com/?refcode=0x5b3256965e7C3cF26E11FCAf296DfC8807C01073",
+        "description": "Alert: This is the legacy collection.  Gods Unchained is a free-to-play, turn-based competitive trading card game in which cards can be bought and sold on the OpenSea marketplace. Players use their collection to build decks of cards, and select a God to play with at the start of each match. The goal of the game is to reduce your opponent's life to zero. Each deck contains exactly 30 cards. On OpenSea, cards can be sold for a fixed price, auctioned, or sold in bundles.",
+        "ogImage": "https://godsunchained.com/assets/images/backgrounds/wide-hi-res-god.jpg",
+        "originChainId": 1,
+        "originAddress": "0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x9d170170fe5731bb70eeae41a353d3520087de74",
+      "name": "Emblem Vault V2",
+      "standard": "erc721",
+      "symbol": "Emblem.pro",
+      "logoURI": "https://lh3.googleusercontent.com/VkSY4QiLanH0h2oS37cjRAENLDLBqLKUX3YC4ZvdEW60zI9OXoRl4E9uR1x3d8hU8ekFai4Ruwq4FObZ0VH2NpU=s120",
+      "extensions": {
+        "link": "https://emblem.pro",
+        "description": "An entire wallet inside an NFT. Emblem Vaults are containers of assets. Transfer / Gift / Sell entire collections of tokens and assets by transferring the NFT.",
+        "ogImage": "https://uploads-ssl.webflow.com/5eb3d91888ad6f4b2ba7e995/5eb41b530505e2d9f0282474_img%203-min.jpg",
+        "originChainId": 1,
+        "originAddress": "0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x7f43a00b12f00876cbeefaf7640ef5f0cdedf24e",
+      "name": "Spells of Genesis Askian Card",
+      "standard": "erc721",
+      "symbol": "SOG",
+      "logoURI": "https://lh3.googleusercontent.com/goVIYxudzy3_02oJzt4oOXbOVQj4HL3NSTZEa1Gol4HjZiMKBttKm9QCAkK5Q_pcLLzFrMBO37yoaoFEPT84rUL9aQ=s60",
+      "extensions": {
+        "link": "http://www.spellsofgenesis.com",
+        "description": "The 1st blockchain-based mobile game ever made, Spells of Genesis combines TCG functionalities with the point-and-shoot aspects of arcade games. Players have to collect and combine cards to create the strongest deck in order to fight their enemies.",
+        "ogImage": "https://spellsofgenesis.com/wp-content/uploads/2020/04/soglogo.jpg",
+        "originChainId": 1,
+        "originAddress": "0x9227a3d959654c8004fa77dffc380ec40880fff6"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x449a061985915a333473a7ccf5114313c50bd04e",
+      "name": "Drakons",
+      "standard": "erc721",
+      "symbol": "DRKNS",
+      "logoURI": "https://lh3.googleusercontent.com/bHdj9EEm0_xQB9qFMqWrd0qpJoiQft70_wWpaJsQZFG4VkHGcAMLhYTZAOtUW0MK87MQikXJ7X7DWZ8TjtFGCyE=s60",
+      "extensions": {
+        "link": "https://www.drakons.io/",
+        "description": "Drakons are genetically unique and artistically designed digital dragons created as crypto collectibles. Collect according to their attributes in terms of Agility, Strength, Intelligence and Health Points. Collect now so you can breed, sire, sell, battle and be a Drakon Master!",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x989e1fb123b67afd66e10574c8b409bc6e812d9a"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x85bc2e8aaad5dbc347db49ea45d95486279ed918",
+      "name": "cometh spaceships",
+      "standard": "erc721",
+      "symbol": "SPACESHIP",
+      "logoURI": "https://lh3.googleusercontent.com/J0Z4_cs_Ap2f8Q0USIQ40gnO1ovuhIIKa9qoNjX10_WK0d-w-25ykX9go0riOgF86XGvbcEVtjyCtyv0WDyrIn-cwoZip6vBEC7agBc=s120",
+      "extensions": {
+        "link": "https://www.cometh.io",
+        "description": "Cometh is a DeFi powered game with yield generating NFT.\r\nGet spaceships, explore the galaxy and earn tokens.",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0xbcd4f1ecff4318e7a0c791c7728f3830db506c71"
+      }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": { "major": 1, "minor": 1, "patch": 0 }
 }
