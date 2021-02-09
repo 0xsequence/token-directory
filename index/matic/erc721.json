@@ -14,7 +14,9 @@
       "extensions": {
         "link": "https://neondistrict.io/",
         "description": "Neon District is a free-to-play cyberpunk role-playing game. Collect characters and gear, craft and level up teams, and battle against other players through competitive multiplayer and in turn-based combat.",
-        "ogImage": "https://www.neondistrict.io/wp-content/uploads/2019/08/neon_district_city.jpeg"
+        "ogImage": "https://www.neondistrict.io/wp-content/uploads/2019/08/neon_district_city.jpeg",
+        "originChainId": 1,
+        "originAddress": null
       }
     },
     {
