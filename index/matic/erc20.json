@@ -14,7 +14,9 @@
       "extensions": {
         "link": "https://yearn.finance",
         "description": "Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.\r\n\r\nIt started out as a passion project by Andre Cronje to automate the process of switching capital between lending platforms in search of the best yield offered, as the lending yield is a floating rate rather than fixed rate. Funds are shifted between dYdX, AAVE, and Compound automatically as interest rates change between these protocols. \r\n\r\nThe service offered includes major USD tokens such as DAI, USDT, USDC, and TUSD. For example, if a user deposits DAI into yearn.finance, the user will receive yDAI token in return, which is a yield-bearing DAI token. \r\n\r\nLater on, it collaborated with Curve Finance to release a yield-bearing USD tokens pool that includes four y-tokens: yDAI, yUSDT, yUSDC and yTUSD, it is named as yUSD. \r\n\r\nY...",
-        "ogImage": null
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
       }
     },
     {
@@ -27,7 +29,9 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
+        "originChainId": 1,
+        "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
       }
     },
     {
