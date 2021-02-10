@@ -90,7 +90,7 @@ const main = async () => {
         })
       }
     } else {
-      console.log('Token does not exist on mainnet: ' + root)
+      console.log(`Token does not exist on mainnet (root|child) - ${root} | ${child}`)
     }
   }
 
