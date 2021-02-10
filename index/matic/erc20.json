@@ -817,7 +817,22 @@
     {
       "chainId": 137,
       "address": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
-      "name": "WETH",
+      "name": "wETH",
+      "symbol": "MATICWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png?1547036627",
+      "extensions": {
+        "link": "https://weth.io/",
+        "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "name": "wETH",
       "symbol": "MATICWETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png?1547036627",
@@ -830,5 +845,5 @@
       }
     }
   ],
-  "version": { "major": 1, "minor": 3, "patch": 0 }
+  "version": { "major": 1, "minor": 4, "patch": 0 }
 }
