@@ -13,7 +13,7 @@
       "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
       "extensions": {
         "link": "https://makerdao.com/",
-        "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
+        "description": "Dai is the native stablecoin for the Maker protocol. It is the world’s first crypto-collateralized and decentralized stablecoin, whose value is soft pegged to the US Dollar. The collateralized assets backing Dai are other cryptocurrencies instead of fiat and are held within smart contracts rather than in institutions.",
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
@@ -358,7 +358,7 @@
       "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
       "extensions": {
         "link": "https://makerdao.com/",
-        "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
+        "description": "Dai is the native stablecoin for the Maker protocol. It is the world’s first crypto-collateralized and decentralized stablecoin, whose value is soft pegged to the US Dollar. The collateralized assets backing Dai are other cryptocurrencies instead of fiat and are held within smart contracts rather than in institutions.",
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
@@ -783,7 +783,52 @@
         "originChainId": 1,
         "originAddress": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x104592a158490a9228070e0a8e5343b499e125d0",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/large/frax_logo.png?1608476506",
+      "extensions": {
+        "link": "https://frax.finance",
+        "description": "The first fractional-algorithmic stablecoin",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x853d955acef822db058eb8505911ed77f175b99e"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x21389a523b3a9f39bb3a4065572994455faf59e8",
+      "name": "Rotten",
+      "symbol": "ROT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12560/large/rot_logo.png?1600762626",
+      "extensions": {
+        "link": "https://rottenswap.org/#/",
+        "description": "RottenSwap, a deflationary SushiSwap fork.",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0xd04785c4d8195e4a54d9dec3a9043872875ae9e2"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
+      "name": "WETH",
+      "symbol": "MATICWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png?1547036627",
+      "extensions": {
+        "link": "https://weth.io/",
+        "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8"
+      }
     }
   ],
-  "version": { "major": 1, "minor": 1, "patch": 0 }
+  "version": { "major": 1, "minor": 3, "patch": 0 }
 }

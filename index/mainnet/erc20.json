@@ -22596,7 +22596,20 @@
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
         "ogImage": null
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
+      "name": "WETH",
+      "symbol": "MATICWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png?1547036627",
+      "extensions": {
+        "link": "https://weth.io/",
+        "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
+        "ogImage": null
+      }
     }
   ],
-  "version": { "major": 1, "minor": 2, "patch": 2 }
+  "version": { "major": 1, "minor": 3, "patch": 0 }
 }

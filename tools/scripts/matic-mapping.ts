@@ -3,27 +3,27 @@ import { TokenInfo, TokenList, nextVersion, VersionUpgrade } from "@uniswap/toke
 import { CollectibleInfo, CollectibleList } from "@0xsequence/collectible-lists"
 import fetch from "node-fetch"
 
-const ERC20_LIST_PATH = "../index/matic/erc20.json"
-const ERC721_LIST_PATH = "../index/matic/erc721.json"
+const ERC20_LIST_PATH   = "../index/matic/erc20.json"
+const ERC721_LIST_PATH  = "../index/matic/erc721.json"
 const ERC1155_LIST_PATH = "../index/matic/erc1155.json"
 
 // Load mainnet lists
-const erc20_mainnet: TokenList = require("../../index/mainnet/erc20.json")
-const erc721_mainnet: CollectibleList = require("../../index/mainnet/erc721.json")
+const erc20_mainnet: TokenList         = require("../../index/mainnet/erc20.json")
+const erc721_mainnet: CollectibleList  = require("../../index/mainnet/erc721.json")
 const erc1155_mainnet: CollectibleList = require("../../index/mainnet/erc1155.json")
 
 // Matic lists
-const erc20_matic: TokenList = require("../../index/matic/erc20.json")
-const erc721_matic: CollectibleList = require("../../index/matic/erc721.json")
+const erc20_matic: TokenList         = require("../../index/matic/erc20.json")
+const erc721_matic: CollectibleList  = require("../../index/matic/erc721.json")
 const erc1155_matic: CollectibleList = require("../../index/matic/erc1155.json")
 
 // Only get token addresses
-const erc20_addresses_mainnet   = erc20_mainnet.tokens.map(t => t.address)
-const erc721_addresses_mainnet  = erc721_mainnet.tokens.map(t => t.address)
-const erc1155_addresses_mainnet = erc1155_mainnet.tokens.map(t => t.address)
-const erc20_addresses_matic     = erc20_matic.tokens.map(t => t.address)
-const erc721_addresses_matic    = erc721_matic.tokens.map(t => t.address)
-const erc1155_addresses_matic   = erc1155_matic.tokens.map(t => t.address)
+const erc20_addresses_mainnet   = erc20_mainnet.tokens.map(t => t.address.toLocaleLowerCase())
+const erc721_addresses_mainnet  = erc721_mainnet.tokens.map(t => t.address.toLocaleLowerCase())
+const erc1155_addresses_mainnet = erc1155_mainnet.tokens.map(t => t.address.toLocaleLowerCase())
+const erc20_addresses_matic     = erc20_matic.tokens.map(t => t.address.toLocaleLowerCase())
+const erc721_addresses_matic    = erc721_matic.tokens.map(t => t.address.toLocaleLowerCase())
+const erc1155_addresses_matic   = erc1155_matic.tokens.map(t => t.address.toLocaleLowerCase())
 
 // New Matic tokens
 const erc20_matic_new: TokenInfo[] = []
