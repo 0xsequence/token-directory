@@ -33161,7 +33161,33 @@
         "description": "Cryptoarg is a digital art collective uniting Argentinian artists of the likes of Frenetik Void, Milton Sanz, Fede Bona and Crypt0baby. This massive collaborative project brings together 23 thriving artists and their unique visions on the concept of CHAOS. CHAOS can be understood as a driving force of nature, a logic hidden deep within mathematics, a philosophy of life or a counterpoint to order and civility. Chaos is deeply rooted in all creative endeavors as a necessary energy for change. We live through and survive chaos in our daily lives, and we try to interpret it to understand the universe around us. As artists from a developing country, these creators live surrounded by chaos, sometimes struggling with it, sometimes thriving from it. Each artwork in this project is a creative interpretation with the individual perspective of each artist, creating a once in a lifetime compendium that brings a new perspective on the possibilities and perils of CHAOS.",
         "ogImage": null
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+      "name": "Axie Infinity",
+      "standard": "erc721",
+      "symbol": "AXIE",
+      "logoURI": "https://lh3.googleusercontent.com/_BYA3bhx1ebgDr3QsuQuh2OMSznmS_TkwJhikCtCVMh4RUcpn2gnJmmOHHA28gy0mKP50flV31iXsDBUr_zjBaXNJA=s120",
+      "extensions": {
+        "link": "https://axieinfinity.com",
+        "description": "Axies are fierce creatures that love to battle, build, and hunt for treasure!\r\nBuild up a collection and use them across an ever expanding universe of games!\r\nAxie players can earn tokens such as DAI, KNC, and SLP which can be converted easily to ETH!.",
+        "ogImage": "https://storage.googleapis.com/axie-cdn/new-banner.png"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
+      "name": "CryptoKitties",
+      "standard": "erc721",
+      "symbol": "CKITTY",
+      "logoURI": "https://lh3.googleusercontent.com/C272ZRW1RGGef9vKMePFSCeKc1Lw6U40wl9ofNVxzUxFdj84hH9xJRQNf-7wgs7W8qw8RWe-1ybKp-VKuU5D-tg=s60",
+      "extensions": {
+        "link": "https://www.cryptokitties.co/",
+        "description": "CryptoKitties is a game centered around breedable, collectible, and oh-so-adorable creatures we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you; it cannot be replicated, taken away, or destroyed.",
+        "ogImage": "https://www.cryptokitties.co/images/share.png"
+      }
     }
   ],
-  "version": { "major": 1, "minor": 1, "patch": 1 }
+  "version": { "major": 1, "minor": 2, "patch": 0}
 }
