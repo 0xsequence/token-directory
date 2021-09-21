@@ -6,6 +6,66 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0x5151bFa48249C57695336C66d51054c9367f6D33",
+      "name": "Skyweaver",
+      "standard": "erc1155",
+      "symbol": "SKYWVR",
+      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "extensions": {
+        "link": "https://www.skyweaver.net/",
+        "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
+        "originChainId": 137,
+        "originAddress": "0x5151bFa48249C57695336C66d51054c9367f6D33"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xDFd64eE208629DCb1cEF4a148c50Bb3079D449e3",
+      "name": "Skyweaver (stg)",
+      "standard": "erc1155",
+      "symbol": "SKYWVR",
+      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "extensions": {
+        "link": "https://www.skyweaver.net/",
+        "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
+        "originChainId": 137,
+        "originAddress": "0xDFd64eE208629DCb1cEF4a148c50Bb3079D449e3"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xC4c544D22BCc110652944BcA5Cf6330dd04D081a",
+      "name": "Skyweaver (dev)",
+      "standard": "erc1155",
+      "symbol": "SKYWVR",
+      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "extensions": {
+        "link": "https://www.skyweaver.net/",
+        "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
+        "originChainId": 137,
+        "originAddress": "0xC4c544D22BCc110652944BcA5Cf6330dd04D081a"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x87C8d4d17Dff2CD604c399a7d243eE0311581ec3",
+      "name": "Skyweaver (local)",
+      "standard": "erc1155",
+      "symbol": "SKYWVR",
+      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "extensions": {
+        "link": "https://www.skyweaver.net/",
+        "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
+        "originChainId": 137,
+        "originAddress": "0x87C8d4d17Dff2CD604c399a7d243eE0311581ec3"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x2e56c100fae2e38c8447ac225d34a486700ea994",
       "name": "Skyweaver (Dev)",
       "standard": "erc1155",
