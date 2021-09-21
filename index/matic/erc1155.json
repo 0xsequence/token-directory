@@ -66,6 +66,66 @@
     },
     {
       "chainId": 137,
+      "address": "0xdde0A6b9617781b8984790F0d0a40232556869Dd",
+      "name": "Test Dai (Wrapped)",
+      "standard": "erc1155",
+      "symbol": "wDAI",
+      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "extensions": {
+        "link": null,
+        "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
+        "ogImage": null,
+        "originChainId": 137,
+        "originAddress": "0xdde0A6b9617781b8984790F0d0a40232556869Dd"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xb634304708e3bf20B19472822DDDAd4CE59EE485",
+      "name": "Test Dai (Wrapped) (stg)",
+      "standard": "erc1155",
+      "symbol": "wDAI",
+      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "extensions": {
+        "link": null,
+        "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
+        "ogImage": null,
+        "originChainId": 137,
+        "originAddress": "0xb634304708e3bf20B19472822DDDAd4CE59EE485"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xDbC352232F6B6A5a2f18Ea58DC9E79df59e54575",
+      "name": "Test Dai (Wrapped) (dev)",
+      "standard": "erc1155",
+      "symbol": "wDAI",
+      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "extensions": {
+        "link": null,
+        "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
+        "ogImage": null,
+        "originChainId": 137,
+        "originAddress": "0xDbC352232F6B6A5a2f18Ea58DC9E79df59e54575"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x972A6BA04AE120F9B51F0770FEb03c1785877e4E",
+      "name": "Test Dai (Wrapped) (local)",
+      "standard": "erc1155",
+      "symbol": "wDAI",
+      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "extensions": {
+        "link": null,
+        "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
+        "ogImage": null,
+        "originChainId": 137,
+        "originAddress": "0x972A6BA04AE120F9B51F0770FEb03c1785877e4E"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x2e56c100fae2e38c8447ac225d34a486700ea994",
       "name": "Skyweaver (Dev)",
       "standard": "erc1155",
