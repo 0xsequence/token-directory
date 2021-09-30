@@ -8,6 +8,34 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0xC315C4821De5AF612B888efE290E1Ce6779d8739",
+      "name": "Niftyswap (Skyweaver)",
+      "standard": "erc1155",
+      "symbol": "NIFTY"
+    },
+    {
+      "chainId": 137,
+      "address": "0x00702cc8E5DCFF2dF4139f2112344c8CdA6893EB",
+      "name": "Niftyswap (Skyweaver) (stg)",
+      "standard": "erc1155",
+      "symbol": "NIFTY"
+    },
+    {
+      "chainId": 137,
+      "address": "0x11441f64a4815bf5330125903bfffFA5de420746",
+      "name": "Niftyswap (Skyweaver) (dev)",
+      "standard": "erc1155",
+      "symbol": "NIFTY"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc7Cd84149469e1ac06262aC7383deF21b6e3429A",
+      "name": "Niftyswap (Skyweaver) (local)",
+      "standard": "erc1155",
+      "symbol": "NIFTY"
+    },
+    {
+      "chainId": 137,
       "address": "0x5151bFa48249C57695336C66d51054c9367f6D33",
       "name": "Skyweaver",
       "standard": "erc1155",
