@@ -100,6 +100,7 @@
       "name": "Test Dai (Wrapped)",
       "standard": "erc1155",
       "symbol": "wDAI",
+      "decimals": 18,
       "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
       "extensions": {
         "link": null,
@@ -115,6 +116,7 @@
       "name": "Test Dai (Wrapped) (stg)",
       "standard": "erc1155",
       "symbol": "wDAI",
+      "decimals": 18,
       "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
       "extensions": {
         "link": null,
@@ -130,6 +132,7 @@
       "name": "Test Dai (Wrapped) (dev)",
       "standard": "erc1155",
       "symbol": "wDAI",
+      "decimals": 18,
       "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
       "extensions": {
         "link": null,
@@ -145,6 +148,7 @@
       "name": "Test Dai (Wrapped) (local)",
       "standard": "erc1155",
       "symbol": "wDAI",
+      "decimals": 18,
       "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
       "extensions": {
         "link": null,
