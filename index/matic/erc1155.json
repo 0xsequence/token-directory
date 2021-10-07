@@ -187,7 +187,37 @@
         "originChainId": 1,
         "originAddress": "0xcb6768a968440187157cfe13b67cac82ef6cc5a4"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x2d0d9b4075e231bff33141d69df49ffcf3be7642",
+      "name": "dokidoki.momiji",
+      "standard": "erc1155",
+      "symbol": "MOMIJI",
+      "logoURI": "https://lh3.googleusercontent.com/4atnnFqMOyNdFlQwKuxD9ijUeIOzcJCwIrPCIsUnnzJFaOlEfkrQFHWIVDUS4L3GmLNyIbq3STFZOOVZ64kTpSy3iGM2PJAa3CZWu48=s120",
+      "extensions": {
+        "link": "https://degacha.com/introduce/gacha",
+        "description": "### THE WORLD’s FIRST BLOCKCHAIN GACHAPON MACHINE & PLATFORM\r\nGachapon (ガチャポン) refers to the crazy popular Japanese vending-machine style game in which players deposit coins to receive a capsule-ball containing a randomized collectible. Now you can experience the thrill of Gachapon anywhere in the world, while acquiring provably scarce & authentic digital collectibles backed by blockchain NFT technology\r\n\r\nhttps://degacha.com/introduce/gacha",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x7cdc0421469398e0f3aa8890693d86c840ac8931"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x1d1fb628ee4a40d08f8c4b3696030e7aa56daddb",
+      "name": "BCCG",
+      "standard": "erc1155",
+      "symbol": "BCCG",
+      "logoURI": "https://lh3.googleusercontent.com/lcpoI_5KaLJO8LA6Y0dx42FyTOvZne-tW4EKtoD9UdL6Vdk2UANPwo531EWSslwySarGdu3C9shBAJQsyhoasCa1=s120",
+      "extensions": {
+        "link": "https://bondly.finance",
+        "description": "The Official Bondly Collectible Card Game",
+        "ogImage": "/assets/images/metaimg.png",
+        "originChainId": 1,
+        "originAddress": "0x8280d56ac92b5bff058d60c99932fdecdcc9441a"
+      }
     }
   ],
-  "version": { "major": 1, "minor": 1, "patch": 0 }
+  "version": { "major": 1, "minor": 2, "patch": 0 }
 }
