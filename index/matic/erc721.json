@@ -125,7 +125,67 @@
         "originChainId": 1,
         "originAddress": "0xbcd4f1ecff4318e7a0c791c7728f3830db506c71"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x7183688c9d484ac0324bfa5f20a8408bd26011f5",
+      "name": "CryptoKitties",
+      "standard": "erc721",
+      "symbol": "CKITTY",
+      "logoURI": "https://lh3.googleusercontent.com/C272ZRW1RGGef9vKMePFSCeKc1Lw6U40wl9ofNVxzUxFdj84hH9xJRQNf-7wgs7W8qw8RWe-1ybKp-VKuU5D-tg=s60",
+      "extensions": {
+        "link": "https://www.cryptokitties.co/",
+        "description": "CryptoKitties is a game centered around breedable, collectible, and oh-so-adorable creatures we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you; it cannot be replicated, taken away, or destroyed.",
+        "ogImage": "https://www.cryptokitties.co/images/share.png",
+        "originChainId": 1,
+        "originAddress": "0x06012c8cf97bead5deae237070f9587f8e7a266d"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x7b2a989c4d1ad1b79a84ce2eb79da5d8d9c2b7a7",
+      "name": "DigitalaxNFT",
+      "standard": "erc721",
+      "symbol": "DTX",
+      "logoURI": "https://lh3.googleusercontent.com/_zhfNuizp8GZsusOGbYLkV38vCsgeRIpb2cWf7YMoFlmMSSMmn3GRwJWZZ-xOqhl8lZCLf_ko4EcwWZ8GIYMoZMhvw=s120",
+      "extensions": {
+        "link": "https://marketplace.digitalax.xyz/",
+        "description": "The DIGITALAX ERC-721 NFTs are the master garments and accessories on the DIGITALAX marketplace and are each designed exclusively by our 30+ Global Designer Network — a group of uber talented 3D digital fashion designers from Europe, US, Asia, Afria, Australia! \r\n\r\nDIGITALAX is the first dedicated Digital-Only Fashion Auction Exchange Platform and Open Source Digital Fashion Toolkit. We are bringing new industry standards around digital goods, Open Digital licenses, digital fashion pricing transparency, digital supply chain automation and addressing core problems around NFT liquidity and stability. We are positioning as THE first digital fashion NFT engine built on the Ethereum network for all gaming, VR and metaverses.\r\n\r\nCheck out more of our exclusive and amazing digital fashion designs at www.digitalax.xyz",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x0b509f4b044f713a91bb50535914f7ad160532fe"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x10d10bd7fcf71efd8f9238a580292ac3f058ea95",
+      "name": "Sandbox's LANDs",
+      "standard": "erc721",
+      "symbol": "LAND",
+      "logoURI": "https://lh3.googleusercontent.com/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A=s60",
+      "extensions": {
+        "link": "https://www.sandbox.game/",
+        "description": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS.  LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.",
+        "ogImage": "/The-Sandbox.png",
+        "originChainId": 1,
+        "originAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xaf55d762ec89932362322dda4e744d9c4037d96c",
+      "name": "Sorare New",
+      "standard": "erc721",
+      "symbol": "SOR",
+      "logoURI": "https://lh3.googleusercontent.com/gj47nmAR3valkmpVbwamiuTJfWEWSCyVeORdjM6DRWrZ1o8WaqBxFXmpBrzZnGoWaPwq1Y0jiXRrBLbnLcawAp92=s120",
+      "extensions": {
+        "link": "https://sorare.com",
+        "description": "Sorare is a fantasy football game where managers can trade official digital collectibles. The platform is growing fast, with a global audience collecting, buying, and selling their favorite players in the form of blockchain-backed NFTs. The Sorare team has secured the rights to European giants like Atletico Madrid, Juventus, and Bayern Munich, as well as the MLS, Korean League, and Japanese League.",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205"
+      }
     }
   ],
-  "version": { "major": 1, "minor": 1, "patch": 0 }
+  "version": { "major": 1, "minor": 2, "patch": 0 }
 }
