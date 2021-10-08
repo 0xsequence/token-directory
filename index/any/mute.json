@@ -1,0 +1,10 @@
+{
+  "name": "sequence-mute-list",
+  "chainId": 0,
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x81067076DCb7d3168CCf7036117b9d72051205E2"
+    }
+  ]
+}
