@@ -1,0 +1,33 @@
+{
+  "name": "sequence-misc-polygon",
+  "chainId": 137,
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": [],
+  "timestamp": "2021-10-13T15:23:52.438Z",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x00702cc8e5dcff2df4139f2112344c8cda6893eb",
+      "name": "Skyweaver Niftyswap (stg)",
+      "standard": "niftyswap20",
+      "symbol": "SWAP",
+      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xda5f2ed6d7da48b25430ee97c8862315e29e3337",
+      "name": "Skyweaver Conquest Entries Factory (stg)",
+      "standard": "skyweaver-conquest-factory",
+      "symbol": "GET-CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xda5f2ed6d7da48b25430ee97c8862315e29e3337",
+      "name": "Skyweaver Conquest (stg)",
+      "standard": "skyweaver-conquest",
+      "symbol": "CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    }
+  ]
+}
