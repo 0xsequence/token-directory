@@ -7,6 +7,30 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0xC315C4821De5AF612B888efE290E1Ce6779d8739",
+      "name": "Skyweaver Niftyswap",
+      "standard": "niftyswap20",
+      "symbol": "SWAP",
+      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x11441f64a4815bf5330125903bfffFA5de420746",
+      "name": "Skyweaver Niftyswap (dev)",
+      "standard": "niftyswap20",
+      "symbol": "SWAP",
+      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc7Cd84149469e1ac06262aC7383deF21b6e3429A",
+      "name": "Skyweaver Niftyswap (local)",
+      "standard": "niftyswap20",
+      "symbol": "SWAP",
+      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+    },
+    {
+      "chainId": 137,
       "address": "0x00702cc8e5dcff2df4139f2112344c8cda6893eb",
       "name": "Skyweaver Niftyswap (stg)",
       "standard": "niftyswap20",
@@ -23,7 +47,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xda5f2ed6d7da48b25430ee97c8862315e29e3337",
+      "address": "0x51c967a0dbf24eacf10dbe8dc5b39f6149d791de",
       "name": "Skyweaver Conquest (stg)",
       "standard": "skyweaver-conquest",
       "symbol": "CONQUEST",
