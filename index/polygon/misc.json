@@ -39,7 +39,31 @@
     },
     {
       "chainId": 137,
-      "address": "0xda5f2ed6d7da48b25430ee97c8862315e29e3337",
+      "address": "0x9731B978F681D1ab873E8D55b8d3436E56E85b4C",
+      "name": "Skyweaver Conquest Entries Factory",
+      "standard": "skyweaver-conquest-factory",
+      "symbol": "GET-CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x291Ef7330Bb5E9D9FACF483059424A1E38122367",
+      "name": "Skyweaver Conquest Entries Factory (dev)",
+      "standard": "skyweaver-conquest-factory",
+      "symbol": "GET-CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x8421f3ee8b8886eF2BcF57B91dA7F778Bd8F443E",
+      "name": "Skyweaver Conquest Entries Factory (local)",
+      "standard": "skyweaver-conquest-factory",
+      "symbol": "GET-CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xdA5F2ED6d7DA48b25430ee97c8862315e29e3337",
       "name": "Skyweaver Conquest Entries Factory (stg)",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
@@ -47,7 +71,31 @@
     },
     {
       "chainId": 137,
-      "address": "0x51c967a0dbf24eacf10dbe8dc5b39f6149d791de",
+      "address": "0x85117852a3dEA4fa50aFFF171b9B09A4D83C8E4F",
+      "name": "Skyweaver Conquest",
+      "standard": "skyweaver-conquest",
+      "symbol": "CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xB97BcAE15446E9bB89AF882bb114c156E2C48905",
+      "name": "Skyweaver Conquest (dev)",
+      "standard": "skyweaver-conquest",
+      "symbol": "CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x9d3FFDb80046820352EF98b955F50e7a76AEcd5F",
+      "name": "Skyweaver Conquest (local)",
+      "standard": "skyweaver-conquest",
+      "symbol": "CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x51c967A0dbF24EACf10DbE8Dc5B39F6149d791dE",
       "name": "Skyweaver Conquest (stg)",
       "standard": "skyweaver-conquest",
       "symbol": "CONQUEST",
