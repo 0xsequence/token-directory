@@ -7,7 +7,7 @@
   "tokens": [
     {
       "chainId": 137,
-      "address": "0xC315C4821De5AF612B888efE290E1Ce6779d8739",
+      "address": "0x2f88096676eA7491305C82752F87a4DF73E77a5c",
       "name": "Skyweaver Niftyswap",
       "standard": "niftyswap20",
       "symbol": "SWAP",
@@ -15,7 +15,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x11441f64a4815bf5330125903bfffFA5de420746",
+      "address": "0x844b7f8596587B59e4837fEa3053CaCc85bFB520",
       "name": "Skyweaver Niftyswap (dev)",
       "standard": "niftyswap20",
       "symbol": "SWAP",
@@ -23,7 +23,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xc7Cd84149469e1ac06262aC7383deF21b6e3429A",
+      "address": "0xE3517b74d554c114028C14F4638b0FA6729711Ef",
       "name": "Skyweaver Niftyswap (local)",
       "standard": "niftyswap20",
       "symbol": "SWAP",
@@ -31,7 +31,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x00702cc8e5dcff2df4139f2112344c8cda6893eb",
+      "address": "0x913461Bc49c5a78959611Bb682bDFA42d94d1413",
       "name": "Skyweaver Niftyswap (stg)",
       "standard": "niftyswap20",
       "symbol": "SWAP",
