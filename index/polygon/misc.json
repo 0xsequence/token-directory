@@ -44,32 +44,32 @@
     },
     {
       "chainId": 137,
-      "address": "0x9731B978F681D1ab873E8D55b8d3436E56E85b4C",
-      "name": "Skyweaver Conquest Entries Factory",
+      "address": "0xA841aa6805957486cC2e30bb30b737e3F5b14E17",
+      "name": "Skyweaver Conquest Tickets Factory",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
       "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
     },
     {
       "chainId": 137,
-      "address": "0x291Ef7330Bb5E9D9FACF483059424A1E38122367",
-      "name": "Skyweaver Conquest Entries Factory (dev)",
+      "address": "0x650884E9763d5FA8e99CC7A5DcC801B7E1177c77",
+      "name": "Skyweaver Conquest Tickets Factory (dev)",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
       "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
     },
     {
       "chainId": 137,
-      "address": "0x8421f3ee8b8886eF2BcF57B91dA7F778Bd8F443E",
-      "name": "Skyweaver Conquest Entries Factory (local)",
+      "address": "0x3fC9211261800878725cdeDa675A3a8c97088dd9",
+      "name": "Skyweaver Conquest Tickets Factory (local)",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
       "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
     },
     {
       "chainId": 137,
-      "address": "0xdA5F2ED6d7DA48b25430ee97c8862315e29e3337",
-      "name": "Skyweaver Conquest Entries Factory (stg)",
+      "address": "0x3b63D566a82C230CBA2C3Ac1DAfa7ddC673694Cd",
+      "name": "Skyweaver Conquest Tickets Factory (stg)",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
       "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
