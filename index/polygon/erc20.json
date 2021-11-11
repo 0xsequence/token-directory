@@ -9,14 +9,14 @@
     {
       "chainId": 137,
       "address": "0xbE41C134fc3517cB0ec94b6EEaFb66cf9998782f",
-      "name": "Test Dai",
-      "symbol": "tDAI",
+      "name": "Test USDC",
+      "symbol": "tUSDC",
       "decimals": 18,
-      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
       "extensions": {
-        "link": "https://makerdao.com/",
-        "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "ogImage": "https://makerdao.com/dai.png",
+        "link": "https://www.circle.com/en/usdc",
+        "description": "TEST CURRENCY, NOT THE REAL USDC. USDC is a token tracking the price of 1 USD.",
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": ""
       }
@@ -24,14 +24,14 @@
     {
       "chainId": 137,
       "address": "0x9400294c78F7Dd244F4b5af6DfFF6C971d25aD86",
-      "name": "Test Dai (stg)",
-      "symbol": "tDAI",
+      "name": "Test USDC (stg)",
+      "symbol": "tUSDC",
       "decimals": 18,
-      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
       "extensions": {
-        "link": "https://makerdao.com/",
-        "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "ogImage": "https://makerdao.com/dai.png",
+        "link": "https://www.circle.com/en/usdc",
+        "description": "TEST CURRENCY, NOT THE REAL USDC. USDC is a token tracking the price of 1 USD.",
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": ""
       }
@@ -39,14 +39,14 @@
     {
       "chainId": 137,
       "address": "0xA804304F8e7C9AB5932aC3A4CC1468e40183d199",
-      "name": "Test Dai (dev)",
-      "symbol": "tDAI",
+      "name": "Test USDC (dev)",
+      "symbol": "tUSDC",
       "decimals": 18,
-      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
       "extensions": {
-        "link": "https://makerdao.com/",
-        "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "ogImage": "https://makerdao.com/dai.png",
+        "link": "https://www.circle.com/en/usdc",
+        "description": "TEST CURRENCY, NOT THE REAL USDC. USDC is a token tracking the price of 1 USD.",
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": ""
       }
@@ -54,14 +54,14 @@
     {
       "chainId": 137,
       "address": "0x52eEB232e0b5D17bed01BF2734D50175c43B204d",
-      "name": "Test Dai (local)",
-      "symbol": "tDAI",
+      "name": "Test USDC (local)",
+      "symbol": "tUSDC",
       "decimals": 18,
-      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
       "extensions": {
-        "link": "https://makerdao.com/",
-        "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "ogImage": "https://makerdao.com/dai.png",
+        "link": "https://www.circle.com/en/usdc",
+        "description": "TEST CURRENCY, NOT THE REAL USDC. USDC is a token tracking the price of 1 USD.",
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": ""
       }
@@ -594,7 +594,7 @@
     {
       "chainId": 137,
       "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-      "name": "USD Coin",
+      "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
