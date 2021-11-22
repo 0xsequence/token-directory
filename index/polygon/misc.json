@@ -23,7 +23,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xE3517b74d554c114028C14F4638b0FA6729711Ef",
+      "address": "0xE2258CeFFac74Fd839a81018D8dAA31cA04634Fe",
       "name": "Skyweaver Niftyswap (local)",
       "standard": "niftyswap20",
       "symbol": "SWAP",
@@ -60,7 +60,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x3fC9211261800878725cdeDa675A3a8c97088dd9",
+      "address": "0x392E2a5f8a44efE257a5F9865F960414762909E5",
       "name": "Skyweaver Conquest Tickets Factory (local)",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
@@ -92,7 +92,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x9d3FFDb80046820352EF98b955F50e7a76AEcd5F",
+      "address": "0x54058E958DAa2D9Fdc3ea48c027EB9D0b0C5FC21",
       "name": "Skyweaver Conquest (local)",
       "standard": "skyweaver-conquest",
       "symbol": "CONQUEST",
