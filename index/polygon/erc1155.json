@@ -53,7 +53,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x87C8d4d17Dff2CD604c399a7d243eE0311581ec3",
+      "address": "0xFe52b949359ad121072a0c3df3CB61a519fa6581",
       "name": "Skyweaver (local)",
       "standard": "erc1155",
       "symbol": "SKYWVR",
