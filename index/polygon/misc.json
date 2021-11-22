@@ -15,7 +15,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x844b7f8596587B59e4837fEa3053CaCc85bFB520",
+      "address": "0x7F6B2BB2217F2CDCcD304CB04C4Bf98704d30D54",
       "name": "Skyweaver Niftyswap (dev)",
       "standard": "niftyswap20",
       "symbol": "SWAP",
@@ -23,7 +23,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xE2258CeFFac74Fd839a81018D8dAA31cA04634Fe",
+      "address": "0x58D82D9fb669AEc50832F3703698479Ff7567559",
       "name": "Skyweaver Niftyswap (local)",
       "standard": "niftyswap20",
       "symbol": "SWAP",
@@ -31,7 +31,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x913461Bc49c5a78959611Bb682bDFA42d94d1413",
+      "address": "0x95584e36255681f5335702057E150A02CC9A3032",
       "name": "Skyweaver Niftyswap (stg)",
       "standard": "niftyswap20",
       "symbol": "SWAP",
@@ -52,7 +52,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x650884E9763d5FA8e99CC7A5DcC801B7E1177c77",
+      "address": "0x241C42c409C4Ba4f449eC9cF3b5b853a4A5E8D4C",
       "name": "Skyweaver Conquest Tickets Factory (dev)",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
@@ -60,7 +60,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x392E2a5f8a44efE257a5F9865F960414762909E5",
+      "address": "0x2e7dd4b107E7449700Df4eB74dF910443B0a8AcF",
       "name": "Skyweaver Conquest Tickets Factory (local)",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
@@ -68,7 +68,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x3b63D566a82C230CBA2C3Ac1DAfa7ddC673694Cd",
+      "address": "0x742ac8f575563F090ABC70e5cA19932472Ec76eF",
       "name": "Skyweaver Conquest Tickets Factory (stg)",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
@@ -84,7 +84,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xB97BcAE15446E9bB89AF882bb114c156E2C48905",
+      "address": "0xAd91e3d57a32404b968816Cf100217baAc949E22",
       "name": "Skyweaver Conquest (dev)",
       "standard": "skyweaver-conquest",
       "symbol": "CONQUEST",
@@ -92,7 +92,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x54058E958DAa2D9Fdc3ea48c027EB9D0b0C5FC21",
+      "address": "0xFfcd4498a8cCA9c40e3E620ED74cb12610002323",
       "name": "Skyweaver Conquest (local)",
       "standard": "skyweaver-conquest",
       "symbol": "CONQUEST",
@@ -100,7 +100,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x51c967A0dbF24EACf10DbE8Dc5B39F6149d791dE",
+      "address": "0x8c7337Ea62020cC959b38A728104A90F75e15B57",
       "name": "Skyweaver Conquest (stg)",
       "standard": "skyweaver-conquest",
       "symbol": "CONQUEST",

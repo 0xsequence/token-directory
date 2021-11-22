@@ -23,7 +23,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xDFd64eE208629DCb1cEF4a148c50Bb3079D449e3",
+      "address": "0x27A11C1563a5dDa238379B95c91B3AbBaD9C0cf6",
       "name": "Skyweaver (stg)",
       "standard": "erc1155",
       "symbol": "SKYWVR",
@@ -38,7 +38,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xC4c544D22BCc110652944BcA5Cf6330dd04D081a",
+      "address": "0x54b1a9A7a5577E5aD78b77FA2bA7A01d41f09fB4",
       "name": "Skyweaver (dev)",
       "standard": "erc1155",
       "symbol": "SKYWVR",
