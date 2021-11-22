@@ -23,21 +23,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-      "name": "Test USDC (stg)",
-      "symbol": "tUSDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-      "extensions": {
-        "link": "https://www.circle.com/en/usdc",
-        "description": "TEST CURRENCY, NOT THE REAL USDC. USDC is a token tracking the price of 1 USD.",
-        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
-        "originChainId": 1,
-        "originAddress": ""
-      }
-    },
-    {
-      "chainId": 137,
       "address": "0xfCFdE38A1EeaE0ee7e130BbF66e94844Bc5D5B6B",
       "name": "Test USDC (dev)",
       "symbol": "tUSDC",
