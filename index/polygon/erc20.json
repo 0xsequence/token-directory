@@ -26,7 +26,7 @@
       "address": "0xfCFdE38A1EeaE0ee7e130BbF66e94844Bc5D5B6B",
       "name": "Test USDC (dev)",
       "symbol": "tUSDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
@@ -41,7 +41,7 @@
       "address": "0x1B95DF265442a0cDd5159B81AB3F6C78C0C47E93",
       "name": "Test USDC (local)",
       "symbol": "tUSDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
