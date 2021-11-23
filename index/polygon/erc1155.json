@@ -189,6 +189,24 @@
         "originChainId": 1,
         "originAddress": "0x8280d56ac92b5bff058d60c99932fdecdcc9441a"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xc4c544d22bcc110652944bca5cf6330dd04d081a",
+      "name": "Old SW (dev)",
+      "standard": "erc1155",
+      "extensions": {
+        "blacklist": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xdfd64ee208629dcb1cef4a148c50bb3079d449e3",
+      "name": "Old SW (stg)",
+      "standard": "erc1155",
+      "extensions": {
+        "blacklist": true
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
