@@ -63,7 +63,8 @@
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
-        "originAddress": "0x87C8d4d17Dff2CD604c399a7d243eE0311581ec3"
+        "originAddress": "0x87C8d4d17Dff2CD604c399a7d243eE0311581ec3",
+        "blacklist": true
       }
     },
     {
