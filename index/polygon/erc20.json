@@ -5069,6 +5069,30 @@
       "extensions": {
         "blacklist": true
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x647a337036b448Bed2fF75f27789A73f6Ff56f3f",
+      "name": "BuyItUp",
+      "extensions": {
+        "blacklist": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x5b56A425F8b45D82EBB57dcA4F02528409ae763B",
+      "name": "JustForFun",
+      "extensions": {
+        "blacklist": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x9E2d266D6c90F6C0D80a88159b15958f7135B8Af",
+      "name": "StakeShare",
+      "extensions": {
+        "blacklist": true
+      }
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
