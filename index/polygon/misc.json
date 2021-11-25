@@ -11,7 +11,10 @@
       "name": "Skyweaver Niftyswap",
       "standard": "niftyswap20",
       "symbol": "SWAP",
-      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png",
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -48,7 +51,10 @@
       "name": "Skyweaver Conquest Tickets Factory",
       "standard": "skyweaver-conquest-factory",
       "symbol": "GET-CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png",
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -80,7 +86,10 @@
       "name": "Skyweaver Conquest",
       "standard": "skyweaver-conquest",
       "symbol": "CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png",
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
