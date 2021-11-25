@@ -18,7 +18,8 @@
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
-        "originAddress": "0x5151bFa48249C57695336C66d51054c9367f6D33"
+        "originAddress": "0x5151bFa48249C57695336C66d51054c9367f6D33",
+        "blacklist": true
       }
     },
     {
@@ -80,7 +81,8 @@
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
         "ogImage": null,
         "originChainId": 137,
-        "originAddress": "0xdde0A6b9617781b8984790F0d0a40232556869Dd"
+        "originAddress": "0xdde0A6b9617781b8984790F0d0a40232556869Dd",
+        "blacklist": true
       }
     },
     {

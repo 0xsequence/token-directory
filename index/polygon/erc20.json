@@ -18,7 +18,8 @@
         "description": "TEST CURRENCY, NOT THE REAL USDC. USDC is a token tracking the price of 1 USD.",
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
-        "originAddress": ""
+        "originAddress": "",
+        "blacklist": true
       }
     },
     {
