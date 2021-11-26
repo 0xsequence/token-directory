@@ -70,6 +70,22 @@
     },
     {
       "chainId": 137,
+      "address": "0x0ce2ABE65F4F354321Fa9f000aC14b7A2B3F6f65",
+      "name": "USDC (Wrapped)",
+      "standard": "erc1155",
+      "symbol": "wUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "link": null,
+        "description": "Wrapped USDC into ERC-1155 token contract.",
+        "ogImage": null,
+        "originChainId": 137,
+        "originAddress": "0x0ce2ABE65F4F354321Fa9f000aC14b7A2B3F6f65"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0xdde0A6b9617781b8984790F0d0a40232556869Dd",
       "name": "Test Dai (Wrapped)",
       "standard": "erc1155",
