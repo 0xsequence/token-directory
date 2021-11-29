@@ -8,6 +8,21 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
+      "name": "Skyweaver",
+      "standard": "erc1155",
+      "symbol": "SKYWVR",
+      "logoURI": "https://assets.skyweaver.net/_tX5dRVi/webapp/icons/skyweaver-token.png",
+      "extensions": {
+        "link": "https://www.skyweaver.net/",
+        "description": "Skyweaver is a Free-to-Play, trading card game powered by Polygon and Ethereum.",
+        "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
+        "originChainId": 137,
+        "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x5151bFa48249C57695336C66d51054c9367f6D33",
       "name": "Skyweaver",
       "standard": "erc1155",
