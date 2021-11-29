@@ -7,6 +7,40 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0x9B609Bf3A3977Ee7254210E0A0D835251540c4D5",
+      "name": "Skyweaver Niftyswap",
+      "standard": "niftyswap20",
+      "symbol": "SWAP",
+      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xB5c3023dbEcE7a6Bb78014000CD1C8ce940B50a0",
+      "name": "Skyweaver Market Fee"
+    },
+    {
+      "chainId": 137,
+      "address": "0x787efdB84E94AbC631E5A1983c937D220529B94c",
+      "name": "Skyweaver Treasury"
+    },
+    {
+      "chainId": 137,
+      "address": "0x059d3242dEd5bad6008Ed0899F5e0e22Cab0586A",
+      "name": "Skyweaver Conquest Tickets Factory",
+      "standard": "skyweaver-conquest-factory",
+      "symbol": "GET-CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x86815CD8a85414a032E631F375F966a6CC366f9F",
+      "name": "Skyweaver Conquest",
+      "standard": "skyweaver-conquest",
+      "symbol": "CONQUEST",
+      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
       "address": "0x2f88096676eA7491305C82752F87a4DF73E77a5c",
       "name": "Skyweaver Niftyswap",
       "standard": "niftyswap20",
