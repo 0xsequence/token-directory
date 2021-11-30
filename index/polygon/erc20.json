@@ -79,7 +79,8 @@
         "description": "Matic Network provides scalable, secure and instant Ethereum transactions. It is built on an implementation of the PLASMA framework and functions as an off chain scaling solution. Matic Network offers scalability solutions along with other tools to the developer ecosystem, which enable Matic to seamlessly integrate with dApps while helping developers create an enhanced user experience.",
         "ogImage": "/banners/matic-network-1x1.png",
         "originChainId": 1,
-        "originAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+        "originAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "blacklist": true
       }
     },
     {
