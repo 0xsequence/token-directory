@@ -5095,6 +5095,14 @@
       "extensions": {
         "blacklist": true
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xeCDFf6Fd2f184f8B8987682A10Aa6890ca74c5A8",
+      "name": "minereum",
+      "extensions": {
+        "blacklist": true
+      }
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
