@@ -50,7 +50,8 @@
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0xDFd64eE208629DCb1cEF4a148c50Bb3079D449e3"
-      }
+      },
+      "blacklist": true
     },
     {
       "chainId": 137,
@@ -65,7 +66,8 @@
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0xC4c544D22BCc110652944BcA5Cf6330dd04D081a"
-      }
+      },
+      "blacklist": true
     },
     {
       "chainId": 137,
