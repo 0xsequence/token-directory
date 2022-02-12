@@ -20,6 +20,21 @@
         "originChainId": 4,
         "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
       }
+    },
+    {
+      "chainId": 4,
+      "address": "0xc2e78eff7b3862356968bf24b9e89b265552a62f",
+      "name": "Fractional Art",
+      "standard": "erc1155",
+      "symbol": "FRAC",
+      "logoURI": "https://cdn-images-1.medium.com/max/144/1*Po2tdYhpie8hcy_vddNrXA@2x.png",
+      "extensions": {
+        "link": "https://dev.fractional.art/",
+        "description": "Fractional ownership of the world’s most sought after NFTs. Fractional reduces entry costs, increases access, and enables new communities.",
+        "ogImage": "https://assets.fractional.art/media/placeholder.png",
+        "originChainId": 4,
+        "originAddress": "0xc2e78eff7b3862356968bf24b9e89b265552a62f"
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
