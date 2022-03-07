@@ -1,0 +1,20 @@
+{
+  "name": "sequence-erc721-rinkeby",
+  "chainId": 4,
+  "tokenStandard": "erc721",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc721", "nft"],
+  "timestamp": "2021-12-08T19:03:47.288Z",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x8952487fd1dbfca106301bb60ef81e08f2b7f2a2",
+      "name": "Coworker Cats",
+      "standard": "erc721",
+      "extensions": {
+        "blacklist": true
+      }
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
