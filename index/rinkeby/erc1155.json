@@ -35,15 +35,6 @@
         "originChainId": 4,
         "originAddress": "0xc2e78eff7b3862356968bf24b9e89b265552a62f"
       }
-    },
-    {
-      "chainId": 4,
-      "address": "0x88b48f654c30e99bc2e4a1559b4dcf1ad93fa656",
-      "name": "Donut Official",
-      "standard": "erc1155",
-      "extensions": {
-        "blacklist": true
-      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
