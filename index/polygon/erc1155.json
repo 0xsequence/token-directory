@@ -228,6 +228,19 @@
     },
     {
       "chainId": 137,
+      "address": "0xa5511e9941e303101b50675926fd4d9c1a8a8805",
+      "name": "Ember Sword Badge",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/WKoNbcQGx1OCdRCfU5hEkcI_TFHfO-VxMladWaNEQBB01YD-lVeHhg92_b19-nzgUJp7SlWZpMbiAQwfpWIUhzuwlYO0-r8ydRPsmg=s130",
+      "extensions": {
+        "link": "https://embersword.com/",
+        "description": "Ember Sword is a Platform-Agnostic Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles and land. Ember Sword has the fast-paced combat of aRPGs, combined with the isometric view and skill-based abilities of MOBAs, set in a persistent MMORPG fantasy universe.",
+        "ogImage": "https://embersword.com/thumbnail.png"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0xc4c544d22bcc110652944bca5cf6330dd04d081a",
       "name": "Old SW (dev)",
       "standard": "erc1155",
