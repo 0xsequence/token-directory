@@ -7029,6 +7029,19 @@
       "symbol": "BLUE",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
+    },
+    {
+      "chainId": 1,
+      "address": "0x76BE3b62873462d2142405439777e971754E8E77",
+      "name": "Parallel",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s130",
+      "extensions": {
+        "link": "https://parallel.life/",
+        "description": "Sci-fi collectable card game with NFTs.",
+        "ogImage": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/assets/parallel.png"
+      }
     }
   ],
   "version": { "major": 1, "minor": 1, "patch": 1 }
