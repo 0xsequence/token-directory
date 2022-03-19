@@ -2013,11 +2013,11 @@
       "name": "Sandbox's ASSETs",
       "standard": "erc1155",
       "symbol": "ASSET",
-      "logoURI": "https://lh3.googleusercontent.com/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A=s60",
+      "logoURI": "https://lh3.googleusercontent.com/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A=s130",
       "extensions": {
         "link": "https://www.sandbox.game/",
         "description": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS.  LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.",
-        "ogImage": "/The-Sandbox.png"
+        "ogImage": "https://lh3.googleusercontent.com/4NQIRoGmzXeXQN4mjuhWuuDZSNW7_BqRXux5upd4Nn_A-bfsGxCnPF8qn98Y6MyHRDPGXIlgfZADcSOe6M2DyrDKXdbdaTgkZN5l=h600"
       }
     },
     {
