@@ -8,6 +8,19 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xC5bcc8BA3F33Ab0d64f3473e861BDC0685b19Ef5",
+      "name": "Mechanium",
+      "symbol": "$MECHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24374/large/w4K4OOMo_400x400.jpg?1647940092",
+      "extensions": {
+        "link": "https://mechachain.io/",
+        "description": "Build your own Mecha, fight for the future of humanity in the outer space and earn precious Mechaniums. MechaChain is a mobile play-to-earn Mecha fighting game where the player can customize their own robot by assembling NFTs and earn cryptocurrency through fun and competitive team fights.",
+        "ogImage": "https://mechachain.io/wp-content/uploads/Logo-Token-White-copie2.png.webp"
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
       "name": "GameCredits",
       "symbol": "GAME",
