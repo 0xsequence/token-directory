@@ -85,6 +85,19 @@
     },
     {
       "chainId": 137,
+      "address": "0xaCd4E2d936Be9B16c01848A3742A34B3D5A5bDfa",
+      "name": "Mechanium",
+      "symbol": "$MECHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24374/large/w4K4OOMo_400x400.jpg?1647940092",
+      "extensions": {
+        "link": "https://mechachain.io/",
+        "description": "Build your own Mecha, fight for the future of humanity in the outer space and earn precious Mechaniums. MechaChain is a mobile play-to-earn Mecha fighting game where the player can customize their own robot by assembling NFTs and earn cryptocurrency through fun and competitive team fights.",
+        "ogImage": "https://mechachain.io/wp-content/uploads/Logo-Token-White-copie2.png.webp"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x7240feeb4d8862a25f3d22c063528557aa42da85",
       "name": "UniLend Finance",
       "symbol": "UFT",
