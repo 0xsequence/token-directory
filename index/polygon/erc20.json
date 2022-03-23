@@ -93,7 +93,9 @@
       "extensions": {
         "link": "https://mechachain.io/",
         "description": "Build your own Mecha, fight for the future of humanity in the outer space and earn precious Mechaniums. MechaChain is a mobile play-to-earn Mecha fighting game where the player can customize their own robot by assembling NFTs and earn cryptocurrency through fun and competitive team fights.",
-        "ogImage": "https://mechachain.io/wp-content/uploads/Logo-Token-White-copie2.png.webp"
+        "ogImage": "https://mechachain.io/wp-content/uploads/Logo-Token-White-copie2.png.webp",
+        "originChainId": 1,
+        "originAddress": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5"
       }
     },
     {
