@@ -7055,6 +7055,19 @@
         "description": "Illuvium is an open-world RPG, monster collector and autobattler game built on the Ethereum Blockchain, releasing on PC and Mac in 2022. Play-to-earn in a graphically-rich, vividly-realized sci-fi adventure and conquer the wilderness to help your crash-landed colony flourish. Race across stunning alien landscapes on your quest to uncover the cause of the cataclysm that shattered Illuvium. Hunt and capture Illuvials and train and fuse them into powerful evolutions. Build the ultimate Illuvial team to take into battles and tournaments in PvE and PvP Arenas and become the most legendary Ranger on Illuvium.",
         "ogImage": "https://www.illuvium.io/images/seo/open_graph.jpg"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xddb149ae8e6635df01a530da1e46921bd78dc385",
+      "name": "ESSENCE//",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/ePiw_GozPKduVcOOFo984j4Z8PnOi4arZjLOWWymRdelQ1EZ3n7ZCLmy8L613abEvosM3_qX5vuAtDHLNhjckzW-1XyvnXIMc-xT=s130",
+      "extensions": {
+        "link": "https://avatar.fvckrender.xyz/",
+        "description": "ESSENCE// is the redeem token for the FVCK_AVATAR// collection created by FVCKRENDER. The redemption requires you to burn one (1) ESSENCE// which will randomly generate one (1) FVCK_AVATAR//.",
+        "ogImage": "https://avatar.fvckrender.xyz/assets/images/meta-img.png"
+      }
     }
   ],
   "version": { "major": 1, "minor": 1, "patch": 1 }
