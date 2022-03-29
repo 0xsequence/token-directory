@@ -38,6 +38,21 @@
     },
     {
       "chainId": 4,
+      "address": "0x6cf6afcaad7a5af1e0c46da135c49b0721e39c42",
+      "name": "Exquisite Art",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/Kh7KY1NjDsEZrWP2HZcZi6e0hsOjHQQ_J-3W3fst0O5CAS-wDXRJMqZQ9OEX_gG-G0HBEFloOHHVNyyZfITIvaLFFKIK5ouSfiiVcA=s0",
+      "extensions": {
+        "link": "https://testnets.opensea.io/collection/exquisite-art",
+        "description": "Exquisite Art is a collection of pixel artwork inspired by projects on Ethereum, created by @scotato.",
+        "ogImage": "https://lh3.googleusercontent.com/IErZEkAbINAsjep9RmAkAzHfLI6U1YpOtX_EH6K8Q4dAX1BgA9p_vtgw3CDASrICxDve5E_R0GV9VX8tN_-Et49Jeb3WcCm2Ys0BtcA=s0",
+        "originChainId": 4,
+        "originAddress": "0x6cf6afcaad7a5af1e0c46da135c49b0721e39c42"
+      }
+    },
+    {
+      "chainId": 4,
       "address": "0x88b48f654c30e99bc2e4a1559b4dcf1ad93fa656",
       "name": "Donut Official",
       "standard": "erc1155",
