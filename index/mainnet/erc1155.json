@@ -2010,14 +2010,14 @@
     {
       "chainId": 1,
       "address": "0xa342f5d851e866e18ff98f351f2c6637f4478db5",
-      "name": "Sandbox's ASSETs",
+      "name": "The Sandbox ASSETS",
       "standard": "erc1155",
       "symbol": "ASSET",
       "logoURI": "https://lh3.googleusercontent.com/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A=s130",
       "extensions": {
         "link": "https://www.sandbox.game/",
         "description": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS.  LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.",
-        "ogImage": "https://lh3.googleusercontent.com/4NQIRoGmzXeXQN4mjuhWuuDZSNW7_BqRXux5upd4Nn_A-bfsGxCnPF8qn98Y6MyHRDPGXIlgfZADcSOe6M2DyrDKXdbdaTgkZN5l=h600"
+        "ogImage": "https://user-images.githubusercontent.com/5290015/161845579-af133955-b50b-47e5-9858-dbbede7ef63e.png"
       }
     },
     {
@@ -7046,7 +7046,7 @@
     {
       "chainId": 1,
       "address": "0x4222b2a98daa443c6a0a761300d7d6bfd9161e52",
-      "name": "illuvium",
+      "name": "Illuvium",
       "standard": "erc1155",
       "symbol": null,
       "logoURI": "https://lh3.googleusercontent.com/0S8Z5H1aDbHjndyeC84QVYretKAdScL666MUN1krsdQFrAISdg9m9K_5sTfQUwQ-EYm6E8YaiKWdbwg6g4tKYO9YjVeGtg-MdWkYQQ=s130",
