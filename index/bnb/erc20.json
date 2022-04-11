@@ -1,5 +1,5 @@
 {
-  "name": "sequence-erc20-bsc",
+  "name": "sequence-erc20-bnb",
   "chainId": 56,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
@@ -24,8 +24,8 @@
     {
       "chainId": 56,
       "address": "0x55d398326f99059fF775485246999027B3197955",
-      "name": "BSC-USD",
-      "symbol": "BSC-USD",
+      "name": "BNB-USD",
+      "symbol": "BNB-USD",
       "decimals": 18,
       "logoURI": "https://www.bscscan.com/token/images/busdt_128.png",
       "extensions": {
