@@ -18,7 +18,37 @@
         "description": "Ethereum is a global, open-source platform for decentralized applications. In other words, the vision is to create a world computer that anyone can build applications in a decentralized manner; while all states and data are distributed and publicly accessible. Ethereum supports smart contracts in which developers can write code in order to program digital value. Examples of decentralized apps (dapps) that are built on Ethereum includes token, non-fungible tokens, decentralized finance apps, lending protocol, decentralized exchanges, and much more.",
         "ogImage": null,
         "originChainId": 1,
-        "originAddress": null
+        "originAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+      }
+    },
+    {
+      "chainId": 56,
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/Matic.png?1553498071",
+      "extensions": {
+        "link": "https://polygon.technology/",
+        "description": "Polygon Network provides scalable, secure and instant Ethereum transactions. It is built on an implementation of the PLASMA framework and functions as an off chain scaling solution. Polygon Network offers scalability solutions along with other tools to the developer ecosystem, which enable Polygon to seamlessly integrate with dApps while helping developers create an enhanced user experience.",
+        "ogImage": "/banners/matic-network-1x1.png",
+        "originChainId": 1,
+        "originAddress": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+      }
+    },
+    {
+      "chainId": 56,
+      "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+      "name": "Fantom",
+      "symbol": "FTM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016",
+      "extensions": {
+        "link": "http://fantom.foundation",
+        "description": "FANTOM is a new DAG based Smart Contract platform that intends to solve the scalability issues of existing public distributed ledger technologies. \r\n\r\nThe platform intends to distinguish itself from the traditional block ledger-based storage infrastructure by attempting to employ an improved version of existing DAG-based pro-tocols. The FANTOM platform adopts a new protocol known as the “Lachesis Protocol” to maintain consensus. This protocol is intended to be integrated into the Fantom OPERA Chain. The aim is to allow applications built on top of the FANTOM OPERA Chain to enjoy instant transactions and near zero transaction costs for all users. \r\n\r\nThe mission of FANTOM is to provide compatibility between all transaction bodies around the world, and create an ecosystem which allows real-time transactions and data sharing with low cost.",
+        "ogImage": "https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2021/01/19225127/Fantom-1.png"
+        "originChainId": 1,
+        "originAddress": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870"
       }
     },
     {
