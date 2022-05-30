@@ -8,6 +8,21 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1644979850",
+      "extensions": {
+        "link": "https://www.binance.com/",
+        "description": "As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0xbE41C134fc3517cB0ec94b6EEaFb66cf9998782f",
       "name": "Test USDC",
       "symbol": "tUSDC",
