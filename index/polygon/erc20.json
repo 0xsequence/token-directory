@@ -17,8 +17,8 @@
         "link": "https://www.binance.com/",
         "description": "As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.",
         "ogImage": null,
-        "originChainId": 1,
-        "originAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+        "originChainId": 56,
+        "originAddress": "0x0000000000000000000000000000000000000000"
       }
     },
     {
