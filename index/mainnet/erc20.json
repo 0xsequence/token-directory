@@ -8,6 +8,21 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1644979850",
+      "extensions": {
+        "link": "https://www.binance.com/",
+        "description": "As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.",
+        "ogImage": null,
+        "originChainId": 56,
+        "originAddress": "0x0000000000000000000000000000000000000000"
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0xC5bcc8BA3F33Ab0d64f3473e861BDC0685b19Ef5",
       "name": "Mechanium",
       "symbol": "$MECHA",
