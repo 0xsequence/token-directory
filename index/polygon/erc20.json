@@ -8,6 +8,36 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+      "name": "QuickSwap (OLD)",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.png",
+      "extensions": {
+        "link": "https://quickswap.exchange/",
+        "description": "Quickswap is a decentralized exchange (DEX) on the Polygon Network. It is a based on the Uniswap V2 AMM protocol and allows users on Polygon to trade tokens through a liquidity pool.",
+        "ogImage": null,
+        "originChainId": 137,
+        "originAddress": ""
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
+      "name": "QuickSwap (NEW)",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png",
+      "extensions": {
+        "link": "https://quickswap.exchange/",
+        "description": "Quickswap is a decentralized exchange (DEX) on the Polygon Network. It is a based on the Uniswap V2 AMM protocol and allows users on Polygon to trade tokens through a liquidity pool.",
+        "ogImage": null,
+        "originChainId": 137,
+        "originAddress": ""
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
       "name": "BNB",
       "symbol": "BNB",
