@@ -185,7 +185,22 @@
         "originChainId": 1,
         "originAddress": "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205"
       }
-    }
+    },
+    {
+      "chainId": 137,
+      "address": "0x7c0EBABFc394ec6D926E801fE0e69A1f15a7FE4D",
+      "name": "DAZN Boxing Moments",
+      "standard": "erc721",
+      "symbol": "DBM",
+      "logoURI": "https://quandefi-public-bucket.s3.us-east-1.amazonaws.com/DAZN/DAZN%20Boxing.io_stacked_black_v1.png",
+      "extensions": {
+        "link": "https://www.daznboxing.io/",
+        "description": "Make Fight Night Last Forever. The DAZN Boxing Matchroom Collection 1 includes the release of 30,000 boxing moments. Build your own digital collection of the biggest moments in boxing either by purchasing a pack from DAZNBoxing.io or via the marketplace.",
+        "ogImage": "https://quandefi-public-bucket.s3.us-east-1.amazonaws.com/DAZN/DAZN%20Banner.png",
+        "originChainId": 1,
+        "originAddress": null
+      }
+    },
   ],
-  "version": { "major": 1, "minor": 2, "patch": 0 }
+  "version": { "major": 1, "minor": 2, "patch": 1 }
 }
