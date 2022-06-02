@@ -12,7 +12,7 @@
       "name": "QuickSwap (OLD)",
       "symbol": "QUICK",
       "decimals": 18,
-      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/25393/large/quickswap.jpg?1651680141",
       "extensions": {
         "link": "https://quickswap.exchange/",
         "description": "Quickswap is a decentralized exchange (DEX) on the Polygon Network. It is a based on the Uniswap V2 AMM protocol and allows users on Polygon to trade tokens through a liquidity pool.",
