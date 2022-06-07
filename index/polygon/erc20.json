@@ -8,6 +8,21 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0x03f61137bfb86be07394f0fd07a33984020f96d8",
+      "name": "Xpendium",
+      "symbol": "XPND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24520/large/2XyH_HyB_400x400.jpg?1647963390",
+      "extensions": {
+        "link": "https://timeraiders.io/",
+        "description": "Xpendium ($XPND) is the native token for Time Raiders. Time Raiders is a fast-paced Shoot and Loot, Time Travel, Play-To-Earn, NFT game. Players travel through time and fight enemies to find loot. They can use this precious loot to power up their characters and weapons, craft it into new items, or sell it. Everything in the game is an NFT that can be traded for Xpendium ($XPND).",
+        "ogImage": null,
+        "originChainId": 137,
+        "originAddress": ""
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
       "name": "QuickSwap (OLD)",
       "symbol": "QUICK",
