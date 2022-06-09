@@ -6,6 +6,36 @@
   "keywords": ["erc20", "arbitrum"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "link": "https://www.circle.com/en/usdc",
+        "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
+        "originChainId": 1,
+        "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "Dai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "extensions": {
+        "link": "https://makerdao.com/",
+        "description": "Dai is the native stablecoin for the Maker protocol. It is the world’s first crypto-collateralized and decentralized stablecoin, whose value is soft pegged to the US Dollar. The collateralized assets backing Dai are other cryptocurrencies instead of fiat and are held within smart contracts rather than in institutions.",
+        "ogImage": "https://makerdao.com/dai.png",
+        "originChainId": 1,
+        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
