@@ -6982,7 +6982,7 @@
       "name": "Dai",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.skyweaver.net/YBzz5Q_O/webapp/icons/dai-token.png",
+      "logoURI": "https://assets.sequence.info/YBzz5Q_O/images/tokens/dai-token.png",
       "extensions": {
         "link": "https://makerdao.com/",
         "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
