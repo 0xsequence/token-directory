@@ -148,6 +148,14 @@
       "standard": "skyweaver-conquest",
       "symbol": "CONQUEST",
       "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xeD55b5b5837A1248034e9c1E5E7BD6fcb960dAeD",
+      "name": "YouMeme (scam)",
+      "extensions": {
+        "blacklist": true
+      }
     }
   ]
 }
