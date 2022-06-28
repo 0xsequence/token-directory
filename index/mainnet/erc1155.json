@@ -7068,6 +7068,45 @@
         "description": "ESSENCE// is the redeem token for the FVCK_AVATAR// collection created by FVCKRENDER. The redemption requires you to burn one (1) ESSENCE// which will randomly generate one (1) FVCK_AVATAR//.",
         "ogImage": "https://avatar.fvckrender.xyz/assets/images/meta-img.png"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xcaEA26bdCCfa9090d056b6533a608C6157CaA948",
+      "name": "Sugar (Genesis)",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/jHzWhVR-HRQdpuHk-fSUoZmgkEfunBUm-B4mytKb9RlUOMd7hyfU-dzH4bGb1AipQXsohpo1cbhy4BsZXGW2PRbb6U8_3VJS_C-2=s0",
+      "extensions": {
+        "link": "https://sugar.game/",
+        "description": "And then, a game.",
+        "ogImage": "https://lh3.googleusercontent.com/aDcJl5sBMfcjpV22Qa3mMDExyuqi8eXrZJwYoR2Bk7O5cB2CWWvWen_HM5cP3bRwaGpwLxykuQUfuQcytp8vPlmz2TT0Dwk6dUcLAA=h600"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xA16891897378a82E9F0ad44A705B292C9753538C",
+      "name": "PILLS",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/df-aZlI03CFKpDsdAU7PMmKW35LYFyehEO2lbZtfU8qD5G2Y2VTaQirRnb_ZuUs4t2Rcj-saVj-8niCmSszQd7nGrhcyN5Olt9uWqUA=s0",
+      "extensions": {
+        "link": "https://www.pills.game/",
+        "description": "An on-chain RPG set within a crypto-themed universe known as Chainspace. Mint your avatar, customize it, level it up, advance your skills, acquire resources to make wearables you can equip or sell to other players. Embark on epic quests that will see you encounter Andre, Banteg, Maki, Vitalik, Stani and others.",
+        "ogImage": "https://lh3.googleusercontent.com/EMQgw-9Okf26dIXNlPWbMv-hQBsYMlVVTicv5upjwRYy1Yfn8VRjd_GcwkYb6fPZKk3QSAG9hVux0a0PsalqxzYcuqFZGwf0S7O99t0=h600"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d36745510dC7a75570755B295694e8Ec625b7d2",
+      "name": "ICE64",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://openseauserdata.com/files/13cb02d911dfb5ae67ea33a523a012ec.png",
+      "extensions": {
+        "link": "http://ice64.com/",
+        "description": "ICE64 is a series of 16 photographs by Sam King, documenting the desolate landscape of Iceland during the winter, enduring harsh yet beautiful conditions. Every image is an original 1 of 1 NFT, with an accompanying edition of a smaller SVG based artwork.",
+        "ogImage": "https://openseauserdata.com/files/19bf6969947921d9bfdecaba62b537da.png"
+      }
     }
   ],
   "version": { "major": 1, "minor": 1, "patch": 1 }
