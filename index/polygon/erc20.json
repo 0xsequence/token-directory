@@ -5201,6 +5201,45 @@
       "extensions": {
         "blacklist": true
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xef938b6da8576a896f6e0321ef80996f4890f9c4",
+      "name": "Decentral Games",
+      "symbol": "DG",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15478.png",
+      "extensions": {
+        "link": "https://decentral.games/",
+        "description": "We build games that reward you to play. Play, earn, and scale your own metaverse guild. ICE Poker beta is now live.",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xc6480da81151b2277761024599e8db2ad4c388c8",
+      "name": "Decentral Games Governance",
+      "symbol": "xDG",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15510.png",
+      "extensions": {
+        "link": "https://decentral.games/",
+        "description": "We build games that reward you to play. Play, earn, and scale your own metaverse guild. ICE Poker beta is now live.",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xc6480da81151b2277761024599e8db2ad4c388c8",
+      "name": "Decentral Games ICE",
+      "symbol": "ICE",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/decentralgames_32.png?v=2",
+      "extensions": {
+        "link": "https://decentral.games/",
+        "description": "We build games that reward you to play. Play, earn, and scale your own metaverse guild. ICE Poker beta is now live.",
+        "ogImage": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
