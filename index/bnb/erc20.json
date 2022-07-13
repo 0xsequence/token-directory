@@ -76,7 +76,7 @@
       "extensions": {
         "link": "http://fantom.foundation",
         "description": "FANTOM is a new DAG based Smart Contract platform that intends to solve the scalability issues of existing public distributed ledger technologies. \r\n\r\nThe platform intends to distinguish itself from the traditional block ledger-based storage infrastructure by attempting to employ an improved version of existing DAG-based pro-tocols. The FANTOM platform adopts a new protocol known as the “Lachesis Protocol” to maintain consensus. This protocol is intended to be integrated into the Fantom OPERA Chain. The aim is to allow applications built on top of the FANTOM OPERA Chain to enjoy instant transactions and near zero transaction costs for all users. \r\n\r\nThe mission of FANTOM is to provide compatibility between all transaction bodies around the world, and create an ecosystem which allows real-time transactions and data sharing with low cost.",
-        "ogImage": "https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2021/01/19225127/Fantom-1.png"
+        "ogImage": "https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2021/01/19225127/Fantom-1.png",
         "originChainId": 1,
         "originAddress": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870"
       }
