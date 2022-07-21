@@ -8,6 +8,36 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0xF57F3A0b3415cC2daE6b3A3c4Fd3FC58626bE16E",
+      "name": "Dark Earth Genesis Collection",
+      "standard": "erc721",
+      "symbol": "DEC",
+      "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-icon.png",
+      "extensions": {
+        "link": "https://darkearth.gg/",
+        "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
+        "ogImage": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-banner.png",
+        "originChainId": 137,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xcF06A29C07a1CD8f232C9Ad3e3FFcF1feDA4cee5",
+      "name": "Mystery Capsule by Dark Earth",
+      "standard": "erc721",
+      "symbol": "MC",
+      "logoURI": "",
+      "extensions": {
+        "link": "https://darkearth.gg/",
+        "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
+        "ogImage": "",
+        "originChainId": 137,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x7227e371540CF7b8e512544Ba6871472031F3335",
       "name": "Neon District",
       "standard": "erc721",
