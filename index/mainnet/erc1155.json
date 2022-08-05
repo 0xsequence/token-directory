@@ -7107,6 +7107,45 @@
         "description": "ICE64 is a series of 16 photographs by Sam King, documenting the desolate landscape of Iceland during the winter, enduring harsh yet beautiful conditions. Every image is an original 1 of 1 NFT, with an accompanying edition of a smaller SVG based artwork.",
         "ogImage": "https://openseauserdata.com/files/19bf6969947921d9bfdecaba62b537da.png"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x497a9A79e82e6fC0FF10a16f6F75e6fcd5aE65a8",
+      "name": "Ragnarok Meta",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/YlcQvN-frHPgKaH5R3qMsKipRTHhaKmVOzCHWA0JG-bDQ6y8stEVcj5Hu0kF1l6aADm9jR1ttC1sjexKGAh_WevEQTW9AOBauLlO=s168",
+      "extensions": {
+        "link": "http://ragnarok.xyz/",
+        "description": "Ragnarök is the first metaRPG. Become one of the 7777 Ronin to get access. Your NFT becomes your digital identity.Your profile picture, your in-game character. Slay Monsters, Loot Objects and Craft NFTs. Gain XP, Level Up and Change Classes. Trade, Earn, and Own Real Estate. The line between the physical and digital world is blurring. Ragnarök is rewriting the rules.Dare you take the pill?",
+        "ogImage": "https://lh3.googleusercontent.com/2buuq0gpefFU-g9c5g7Nky88lGkrP1yktYYnk6ekwg4slMdGweXzPp6LS5UGGYzgp96qfr_1gTwDwSpU-HbtJajN3Swg25SSCpjFtg=h400"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7daec605e9e2a1717326eedfd660601e2753a057",
+      "name": "10KTF Stockroom",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/8Psw091U98gxhuI5MH0GDpjEebrlZ3XxzqDbP8eD35j0IyyFapeFu-zKYu_z1jn7PiduRxkXPgSc2wp-PgDpr3Ji70mD9yu1ksb3eQ=s168",
+      "extensions": {
+        "link": "https://10ktf.com/",
+        "description": "10KTF Stockroom is a collection of the finest Tools and Materials held by the esteemed customers of 10KTF for use in future endeavors.",
+        "ogImage": "https://lh3.googleusercontent.com/tVCv9HufVR8IeN7G5TTdpPehLDLEkzt5pQ96j-S-Dks6PJfbHr3jB13X6bhhVZH1POX1reyYI6XlAUhG96S03cbaqosLsGaFh-VYGQ=h400"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7deb7bce4d360ebe68278dee6054b882aa62d19c",
+      "name": "MetaHero Universe: United Planets",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/cyJeHA0Oo-KveczexdimAxDHTCtmvApkn2SWFhq_QmU4CotxW1uCRp-rBydovapL65kG5geRCrGZts74o3eZS9VONQ6549A4DIMCjg=s168",
+      "extensions": {
+        "link": "https://metaherouniverse.com/",
+        "description": "Home to MetaHero Identities, MetaHero Universe is a decentralized and community-governed social gaming platform with experiences spanning nine planets and one moon, each with a Planetary DAO. Each planet token represents Planetary DAO voting power, imbuing collectors with a voice and the ability to collectively envision, build, and shape the futures of both the platform through its own DAO (the United Planets DAO) and each of the planetary experiences that comprise it. Each planet will serve as its own unique and interactive environment, providing opportunities to the DAOs and players via land-based sales, environmental resources, cosmetics, gameplay, and more.",
+        "ogImage": "https://lh3.googleusercontent.com/fEEzNF6EuX_aiEloEjM1U3pLv4hqWVbR9jxGH-7chpgaPqy5zUtUGib7PnTDZpMWWzxT3NuYrWd1iJqKHbTcUyzj81CJqe6Cc1Q6=h400"
+      }
     }
   ],
   "version": { "major": 1, "minor": 1, "patch": 1 }
