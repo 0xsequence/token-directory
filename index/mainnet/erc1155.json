@@ -7146,6 +7146,71 @@
         "description": "Home to MetaHero Identities, MetaHero Universe is a decentralized and community-governed social gaming platform with experiences spanning nine planets and one moon, each with a Planetary DAO. Each planet token represents Planetary DAO voting power, imbuing collectors with a voice and the ability to collectively envision, build, and shape the futures of both the platform through its own DAO (the United Planets DAO) and each of the planetary experiences that comprise it. Each planet will serve as its own unique and interactive environment, providing opportunities to the DAOs and players via land-based sales, environmental resources, cosmetics, gameplay, and more.",
         "ogImage": "https://lh3.googleusercontent.com/fEEzNF6EuX_aiEloEjM1U3pLv4hqWVbR9jxGH-7chpgaPqy5zUtUGib7PnTDZpMWWzxT3NuYrWd1iJqKHbTcUyzj81CJqe6Cc1Q6=h400"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x48e854addccee85ccd4f7a5e660564eae4b577d0",
+      "name": "Genetic Engineering Laboratory",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/0_kmZxx1ODlBn4h2zCNz_Zs5NuumuIrut9jUDoWbPx9x6XDQdPX_wz4q0ixWPflhSm816wmUNFHRC-q99ShP52t0Zxd9evXqCUq1GlY=s168",
+      "extensions": {
+        "link": "http://ragnarok.xyz/",
+        "description": "The Ragnarök Genetic Engineering Laboratory has taken DNA samples from the 5 races of Ronin Zero and incorporated them into five different Secure Liquid Digital Chips airdropped to all Ronin Zero. To breed, you need 2x SLD Chips. Handle with care.",
+        "ogImage": "https://lh3.googleusercontent.com/00wd_M-IV5KPY0v5cIk3Tj_okJRYIh6Nt6o2vT7fo1E6ShtEzGklBMeSeBi8UJr1OH1YMMuqcjbl8-7ONHetShdDg4Lt0d07f3HM=h400"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x38398a2d7A4278b8d83967E0D235164335A0394A",
+      "name": "Parallel Auxiliary Items",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/LeItKzKejHYq2ZQ1r6DM1UKD6XgUFhGTKY-HCwzzIi7ELMTVk_qPeElgVi9zRZgTG2kaNiSc2m_iWuUAQhU2ucrkvnb_YF6nddP_Bg=s168",
+      "extensions": {
+        "link": "https://parallel.life/",
+        "description": "Auxiliary items for Parallel Alpha.",
+        "ogImage": "https://lh3.googleusercontent.com/p74_EZPo7GKb-Vr_veun9ScVE8QKhujCSn165g17XYiLbFpZlSXycuQeq4s4q44pWJRUXq4ZbzUAcIRZGQmQ1SUeni_J70lBPn2DHw=h400"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d4bbC0387dD4759EEe30f6A482AC6dC2Df3Facf",
+      "name": "RTFKT X NIKE MONOLITH",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/9Lu26NAuB18NXWaXsCTVfpetIL-3ue4nIexfFqCcMOfpX1MVD5nw87PwACPFEpNwSvWhSGhJL3HCjkOw30y-ir3j82d4eWyy8msu=s168",
+      "extensions": {
+        "link": "https://rtfkt.com/",
+        "description": "MNLTH Quest will continue... 🗿⚔️ an experience powered by DART X.",
+        "ogImage": "https://lh3.googleusercontent.com/K5OfGfP39l4NuYGcsfQ74_pCmt4fvgpYPk7Ht_78SKmY_pSSJXrpH74MslYx3HEfymMoEAMZ-n_PqAbWsEECzqIvIpqcdiUSIS0F=h400"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7bE4001BfF2c5F4a61dd2435E4c9A19D8d12343",
+      "name": "RTFKT PodX",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/NEt4bwVmIhlQ60QPEXeDMF2-4ExtSt3r0EKAJt-LKF08TCGZGDVWH9M7H5b0-dF3dmrcgXbUola4ZB-2A4VE23Be8qT9vTWPJAELnA=s168",
+      "extensions": {
+        "link": "https://rtfkt.com/",
+        "description": "PodX is the core of RTFKT Pod ecosystem. This collection is dedicated to RTFKT rooms, experiences, furniture design, made by RTFKT and its collaborators. The Metaverse built, step by step, together. Powered with Cyber (https://oncyber.io)",
+        "ogImage": "https://lh3.googleusercontent.com/nSwJMkw57ExJ6f1J5zXYuIvkmQ-bcX6xI_AHGesn83Cdm_wkM-0Kf4_wKwP1fIY_vK76bxszz6oARsbeL_qQdizwe02WcE0OspD9Ww=h400"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f",
+      "name": "RTFKT SKIN VIAL: EVO X",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/v4-XPbgjgyBgyHasvmgMVVV5_Ev6ULl7uGex4mq4fFb2MJ0W6y4yXoMh1kpHizQ01nGSto6Baho2zrQ-5WiTJZjX5qnmsxeX761dXw=h400",
+      "extensions": {
+        "link": "https://rtfkt.com/",
+        "description": "RTFKT Skin Vials allow you to change the look of the RTFKT x NIKE DUNK GENESIS CRYPTOKICKS or any compatible CRYPTOKICKS with limited edition skins.RTFKT's first Skin Vial Tech collection, EVO X, features 8 Clone X DNA based Evolutive Skins",
+        "ogImage": "https://lh3.googleusercontent.com/nSwJMkw57ExJ6f1J5zXYuIvkmQ-bcX6xI_AHGesn83Cdm_wkM-0Kf4_wKwP1fIY_vK76bxszz6oARsbeL_qQdizwe02WcE0OspD9Ww=h400"
+      }
     }
   ],
   "version": { "major": 1, "minor": 1, "patch": 1 }
