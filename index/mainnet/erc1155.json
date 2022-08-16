@@ -7211,6 +7211,19 @@
         "description": "RTFKT Skin Vials allow you to change the look of the RTFKT x NIKE DUNK GENESIS CRYPTOKICKS or any compatible CRYPTOKICKS with limited edition skins.RTFKT's first Skin Vial Tech collection, EVO X, features 8 Clone X DNA based Evolutive Skins",
         "ogImage": "https://lh3.googleusercontent.com/v4-XPbgjgyBgyHasvmgMVVV5_Ev6ULl7uGex4mq4fFb2MJ0W6y4yXoMh1kpHizQ01nGSto6Baho2zrQ-5WiTJZjX5qnmsxeX761dXw=h400"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7bE4001BfF2c5F4a61dd2435E4c9A19D8d12343",
+      "name": "A0K1VERSE Credits",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/yTxiUsGxGsWxmn4hZDulFX82hC4rOHlQxETB1STP9U5Nuy1tcisPpdKJexpT4sgzSWzHYOwPgnpxOvhoLv_vSkdodxOUTY7t_tFzEy0=s168",
+      "extensions": {
+        "link": "https://a0k1verse.xyz/",
+        "description": "Credits are ERC-1155 token with a total supply cap of 50,000. Only 25,000 Credits will be made available for initial public release, while the remaining 25,000 will be used as earn able rewards for A0K1VERSE citizens. Starting February 22nd, A0K1VERSE citizens will be able to redeem their credits for a personal passport. Additional details and rewards can be found on A0K1VERSE.xyz",
+        "ogImage": "https://lh3.googleusercontent.com/JtV8EvfBzISJSUEo53uM7K1l1wT59X5SuGf8ZkX-_CqxAkOsvMy-5GdCUv_--fNUlCi9UqMRSE8KpqGekOFsUrIif3-YEcS6NlSv1E0=h400"
+      }
     }
   ],
   "version": { "major": 1, "minor": 1, "patch": 1 }
