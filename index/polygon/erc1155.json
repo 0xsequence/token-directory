@@ -241,6 +241,19 @@
     },
     {
       "chainId": 137,
+      "address": "0x88883145049dec03c00cb7708cbc938058802520",
+      "name": "Cooltopia ItemFactory",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/sZ6wFwRqbIocpaXqjkAZzWWNraJmj1H-GeYzV0cg63FU44BE31oIE6o5Dv1gfXRO3lDN1CtkNLLU6k8tV9iXWeYMjQsOOAjk_0MKaw=s168",
+      "extensions": {
+        "link": "https://www.coolcatsnft.com/",
+        "description": "Cool Pets love these items, I'm sure if you use enough of them on an egg they'll grow into a glorious Cool Pet. Also, there may be more than meets the eye to these items in the future... but there also may not.",
+        "ogImage": "https://lh3.googleusercontent.com/Vurdrs-QMNIHO6QXfEWlzXjfEnFaGfj8vNq34RErkLqqA7wDnuHNJfs4WWyb9NjFT7XQBcKCzyCTWCl6SMmFzNrHEPoI9kPd5F0p-g=h400"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0xc4c544d22bcc110652944bca5cf6330dd04d081a",
       "name": "Old SW (dev)",
       "standard": "erc1155",
