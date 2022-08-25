@@ -254,6 +254,19 @@
     },
     {
       "chainId": 137,
+      "address": "0x22d5f9b75c524fec1d6619787e582644cd4d7422",
+      "name": "Sunflower Land Collectibles",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://lh3.googleusercontent.com/rpnk-Yq7k8ueMvjkVAkHr5cRAhIuAoVzJ_C9wYFDvbwOMcQHM3EGSJU1Ex5M9wzO6tU_PIp_aki37tCfQgrOqS6MYkSibIpI7kRVIw=s128",
+      "extensions": {
+        "link": "https://sunflower-land.com/",
+        "description": "Sunflower Land is a NFT & Crypto-Farming Game on Polygon.Players must plant crops, chop wood, mine rocks and much more in their search for exotic and rare resources. Each item in this collection has a unique set of ingredients and total supply.",
+        "ogImage": "https://lh3.googleusercontent.com/nAa17XwBwDzX9fPFUtpTDFlzxlK_YCXSWhyzDioIzhhZ_NWGudNTacAcM79o3ss482y-KnatQWnF1ZIHjm8JEZXYsOfeRLXYUviqvA=h400"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0xc4c544d22bcc110652944bca5cf6330dd04d081a",
       "name": "Old SW (dev)",
       "standard": "erc1155",
