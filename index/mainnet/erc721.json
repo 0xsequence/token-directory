@@ -3,7 +3,12 @@
   "chainId": 1,
   "tokenStandard": "erc721",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
-  "keywords": ["erc721", "nft", "dune", "opensea"],
+  "keywords": [
+    "erc721",
+    "nft",
+    "dune",
+    "opensea"
+  ],
   "timestamp": "2021-01-27T22:36:56.645Z",
   "tokens": [
     {
@@ -186,7 +191,9 @@
       "symbol": "GEGO",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/nK55ym-M/logos/1/0x27b4bc90fbe56f02ef50f2e2f79d7813aa8941a7",
-      "extensions": { "link": "https://dego.finance/home" }
+      "extensions": {
+        "link": "https://dego.finance/home"
+      }
     },
     {
       "chainId": 1,
@@ -1318,7 +1325,9 @@
       "symbol": "BORDER",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/NC6dFewG/logos/1/0x9237cb5a161b860c65c61330e090cdebd847b6cf",
-      "extensions": { "link": "https://comikabu.com/" }
+      "extensions": {
+        "link": "https://comikabu.com/"
+      }
     },
     {
       "chainId": 1,
@@ -4554,7 +4563,9 @@
       "symbol": "PLUR",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/RK9uF8Cm/logos/1/0xc707d91f2205a507e36ea9dce1ed8a7bd2dc6ab2",
-      "extensions": { "description": "Art by Tonya Zimmerman aka CryptoTonya" }
+      "extensions": {
+        "description": "Art by Tonya Zimmerman aka CryptoTonya"
+      }
     },
     {
       "chainId": 1,
@@ -4779,7 +4790,9 @@
       "symbol": "CJOF",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/wndLL7jL/logos/1/0x218f7bede2349a3a25b2ab688b9553e602e5f95b",
-      "extensions": { "description": "CHOJO x My Crypto Heroes fighter NFTs!" }
+      "extensions": {
+        "description": "CHOJO x My Crypto Heroes fighter NFTs!"
+      }
     },
     {
       "chainId": 1,
@@ -5328,7 +5341,9 @@
       "symbol": "DFL",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1ye1Ms90/logos/1/0x2d625b7bcaeedf1bc75f6e90dc37eddd20ce413b",
-      "extensions": { "description": "animated words" }
+      "extensions": {
+        "description": "animated words"
+      }
     },
     {
       "chainId": 1,
@@ -5739,7 +5754,9 @@
       "symbol": "SGR",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/Ey3JKjFQ/logos/1/0xa5fe4205c2aaed761eb89faa5b87e13954e3cb73",
-      "extensions": { "description": "Exclusive Mints from SugarClub" }
+      "extensions": {
+        "description": "Exclusive Mints from SugarClub"
+      }
     },
     {
       "chainId": 1,
@@ -5839,7 +5856,9 @@
       "symbol": "TAMAG",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/PcSx8YT7/logos/1/0xa6d82fc1f99a868eaab5c935fe7ba9c9e962040e",
-      "extensions": { "link": "https://www.niftygotchi.com" }
+      "extensions": {
+        "link": "https://www.niftygotchi.com"
+      }
     },
     {
       "chainId": 1,
@@ -6672,7 +6691,9 @@
       "symbol": "ETH",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/O91DX4Pk/logos/1/0xe977bfe8b83db27616ec10c7862066d37e0326a9",
-      "extensions": { "description": "The Art of Toonpunk" }
+      "extensions": {
+        "description": "The Art of Toonpunk"
+      }
     },
     {
       "chainId": 1,
@@ -6918,7 +6939,9 @@
       "symbol": "SUGAR",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/C4hKa_m_/logos/1/0xba0d69d83b4b914f1107de4067ee34e863b80bde",
-      "extensions": { "description": "Merch, NFTs, exclusive art and more!" }
+      "extensions": {
+        "description": "Merch, NFTs, exclusive art and more!"
+      }
     },
     {
       "chainId": 1,
@@ -7006,7 +7029,9 @@
       "type": "",
       "symbol": "VINYL",
       "decimals": 0,
-      "extensions": { "description": "Official Proof of Beats Vinyl Record" }
+      "extensions": {
+        "description": "Official Proof of Beats Vinyl Record"
+      }
     },
     {
       "chainId": 1,
@@ -7811,7 +7836,9 @@
       "type": "",
       "symbol": "KennBosak.gif",
       "decimals": 0,
-      "extensions": { "description": "Kenn Bosak gif" }
+      "extensions": {
+        "description": "Kenn Bosak gif"
+      }
     },
     {
       "chainId": 1,
@@ -8630,7 +8657,9 @@
       "symbol": "SWTR",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/7MreIYW1/logos/1/0xae4015cdc92792e78b865bf6621d7576cb586d15",
-      "extensions": { "link": "https://swether.io/" }
+      "extensions": {
+        "link": "https://swether.io/"
+      }
     },
     {
       "chainId": 1,
@@ -8652,7 +8681,9 @@
       "symbol": "ETH",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/CelSomOM/logos/1/0xfc5b4fe32494dfe71fe20994264a6be7237ef9a8",
-      "extensions": { "description": "Art by Harv" }
+      "extensions": {
+        "description": "Art by Harv"
+      }
     },
     {
       "chainId": 1,
@@ -9602,7 +9633,9 @@
       "symbol": "HODL",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0xe8ebeb96e74f81ec8aad8e2e3e8a68309cb86908.png",
-      "extensions": { "description": "Move over HODL, it's time to BUIDL" }
+      "extensions": {
+        "description": "Move over HODL, it's time to BUIDL"
+      }
     },
     {
       "chainId": 1,
@@ -10137,7 +10170,9 @@
       "symbol": "PLUR",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/c19Pxfos/logos/1/0xf8e94e7d4f2e2cc9a07512ae9813841a0000cb4e",
-      "extensions": { "description": "Art by CryptoTonya" }
+      "extensions": {
+        "description": "Art by CryptoTonya"
+      }
     },
     {
       "chainId": 1,
@@ -10281,7 +10316,9 @@
       "symbol": "LSD",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/oSAa85MQ/logos/1/0x185f74df3e8c5f2a9fb7b3ec5e90494b91b6ca4e",
-      "extensions": { "description": "Grab a tab and enjoy the trip." }
+      "extensions": {
+        "description": "Grab a tab and enjoy the trip."
+      }
     },
     {
       "chainId": 1,
@@ -10757,7 +10794,9 @@
       "symbol": "LS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/u-Wiky8N/logos/1/0x27bab5db0f14590feaed4bf00798dadab90f2fcd",
-      "extensions": { "description": "Unique artworks by Ellesse" }
+      "extensions": {
+        "description": "Unique artworks by Ellesse"
+      }
     },
     {
       "chainId": 1,
@@ -11097,7 +11136,9 @@
       "symbol": "ETH",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/h--vhEwq/logos/1/0xfef5bdaf153e3b59165974d382cdf70f9883edec",
-      "extensions": { "description": "beta.cent.co/@Horus" }
+      "extensions": {
+        "description": "beta.cent.co/@Horus"
+      }
     },
     {
       "chainId": 1,
@@ -11158,7 +11199,9 @@
       "symbol": "Q",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/_RbrkLwe/logos/1/0xae28f53deb0d0dbb224bedfe3b70f1095781befb",
-      "extensions": { "description": "Digital art from Quasimondo." }
+      "extensions": {
+        "description": "Digital art from Quasimondo."
+      }
     },
     {
       "chainId": 1,
@@ -11377,7 +11420,9 @@
       "symbol": "CBP",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/fYjiP8xm/logos/1/0xa3f0100e53cfffc34822c8b82ffde1e91c429472",
-      "extensions": { "description": "Collectible crypto button pins" }
+      "extensions": {
+        "description": "Collectible crypto button pins"
+      }
     },
     {
       "chainId": 1,
@@ -11723,7 +11768,9 @@
       "symbol": "usa shop",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/KiRprKKs/logos/1/0x86c8732e9fca604d7aa676f80030ebdf6b32ff3b",
-      "extensions": { "description": "四神隊戦エンブレム" }
+      "extensions": {
+        "description": "四神隊戦エンブレム"
+      }
     },
     {
       "chainId": 1,
@@ -11813,7 +11860,9 @@
       "symbol": "NFSFFS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0x8cc6736215a153a7685fe116d61c1143d1f56f66.png",
-      "extensions": { "description": "not for sale" }
+      "extensions": {
+        "description": "not for sale"
+      }
     },
     {
       "chainId": 1,
@@ -11845,7 +11894,9 @@
       "symbol": "HANS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/OpHldT_V/logos/1/0xc75e88ec39e4be9a3e735d52259cf0cd71061d22",
-      "extensions": { "description": "瀚思未来学院" }
+      "extensions": {
+        "description": "瀚思未来学院"
+      }
     },
     {
       "chainId": 1,
@@ -12562,7 +12613,9 @@
       "type": "",
       "symbol": "DOA",
       "decimals": 0,
-      "extensions": { "description": "*Día de Muertos*" }
+      "extensions": {
+        "description": "*Día de Muertos*"
+      }
     },
     {
       "chainId": 1,
@@ -12863,7 +12916,9 @@
       "symbol": "CJOA",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/wndLL7jL/logos/1/0x055d9683acf78f097249de7321be9a58c29800ca",
-      "extensions": { "description": "CHOJO x My Crypto Heroes fighter NFTs!" }
+      "extensions": {
+        "description": "CHOJO x My Crypto Heroes fighter NFTs!"
+      }
     },
     {
       "chainId": 1,
@@ -13155,7 +13210,9 @@
       "symbol": "MNS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/9U0g1vF9/logos/1/0xb14420e754f27fe1722f575f49017da44e4b86f3",
-      "extensions": { "description": "MATIC NFT Store for exchange." }
+      "extensions": {
+        "description": "MATIC NFT Store for exchange."
+      }
     },
     {
       "chainId": 1,
@@ -13380,7 +13437,9 @@
       "symbol": "CHARM",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/jwCkUzB4/logos/1/0x48d97463a455c39d8149fdd73ac5b7fc8a5ec3b1",
-      "extensions": { "link": "http://www.cryptocharms.io" }
+      "extensions": {
+        "link": "http://www.cryptocharms.io"
+      }
     },
     {
       "chainId": 1,
@@ -14141,7 +14200,9 @@
       "symbol": "CryptoAI",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/oYuATbAT/logos/1/0x118ac664ae5595562e2405b1788267c87f52c549",
-      "extensions": { "description": "CryptoAI" }
+      "extensions": {
+        "description": "CryptoAI"
+      }
     },
     {
       "chainId": 1,
@@ -14725,7 +14786,9 @@
       "symbol": "BDG",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0x50cc538f5de3b406d33dab779127e2b61afc2745.png",
-      "extensions": { "description": "NFTs redeemable for perks on OpenSea." }
+      "extensions": {
+        "description": "NFTs redeemable for perks on OpenSea."
+      }
     },
     {
       "chainId": 1,
@@ -14894,7 +14957,9 @@
       "symbol": "ARTE",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/sbyfiSE6/logos/1/0x7fefc0559b7aa8eeaea9f6c7f1c2926e9a9fe997",
-      "extensions": { "description": "Unique creations and interpretations." }
+      "extensions": {
+        "description": "Unique creations and interpretations."
+      }
     },
     {
       "chainId": 1,
@@ -15311,7 +15376,9 @@
       "symbol": "URBEN",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/xX3MvX4A/logos/1/0xfea5b4cbe821ebffad4d68ef04bbb1963a1fc48d",
-      "extensions": { "link": "http://www.benharriott.com/" }
+      "extensions": {
+        "link": "http://www.benharriott.com/"
+      }
     },
     {
       "chainId": 1,
@@ -15957,7 +16024,9 @@
       "symbol": "GRIN",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/VYE0kad4/logos/1/0x0d4e46d72e7a366c1226252210c8bef9539a4004",
-      "extensions": { "description": "古灵阁(中国)社区纪念" }
+      "extensions": {
+        "description": "古灵阁(中国)社区纪念"
+      }
     },
     {
       "chainId": 1,
@@ -16023,7 +16092,9 @@
       "symbol": "ARTM",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/S1w2wr7X/logos/1/0xd265ac44dd8d8b1f2b892af8ba7e550291d8b0bb",
-      "extensions": { "description": "Empowering the DBCH community." }
+      "extensions": {
+        "description": "Empowering the DBCH community."
+      }
     },
     {
       "chainId": 1,
@@ -16396,7 +16467,9 @@
       "symbol": "DW",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/bCsiJBJk/logos/1/0x8aff6a8320ba596c59df10a56b2420229294366e",
-      "extensions": { "description": "Exclusive digital art from Sugar Club" }
+      "extensions": {
+        "description": "Exclusive digital art from Sugar Club"
+      }
     },
     {
       "chainId": 1,
@@ -16624,7 +16697,9 @@
       "symbol": "H99",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/RsHTci9o/logos/1/0x0733411463d71e33a41c73b63367389b886c1d12",
-      "extensions": { "link": "https://www.instagram.com/hawnter99/" }
+      "extensions": {
+        "link": "https://www.instagram.com/hawnter99/"
+      }
     },
     {
       "chainId": 1,
@@ -16715,7 +16790,9 @@
       "symbol": "HBC",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/86HSzi4A/logos/1/0xe855c24c45fbf47236f1dd389246c38435e6394d",
-      "extensions": { "description": "HBTC交易所纪念" }
+      "extensions": {
+        "description": "HBTC交易所纪念"
+      }
     },
     {
       "chainId": 1,
@@ -16837,7 +16914,9 @@
       "type": "",
       "symbol": "UCTIX",
       "decimals": 0,
-      "extensions": { "description": "HSLU Blockchain Präsentation" }
+      "extensions": {
+        "description": "HSLU Blockchain Präsentation"
+      }
     },
     {
       "chainId": 1,
@@ -16869,7 +16948,9 @@
       "symbol": "BB",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/qKW2wFnn/logos/1/0xd3c22f8020066b46441e957ba18b6c73561d28e3",
-      "extensions": { "description": "Thinking outside the box." }
+      "extensions": {
+        "description": "Thinking outside the box."
+      }
     },
     {
       "chainId": 1,
@@ -16968,7 +17049,9 @@
       "symbol": "CLA",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/lyniftsN/logos/1/0x6033049f08bcee81f42f563ffd2ad9c0c2424519",
-      "extensions": { "description": "Acrylic paintings and photo art." }
+      "extensions": {
+        "description": "Acrylic paintings and photo art."
+      }
     },
     {
       "chainId": 1,
@@ -17060,7 +17143,9 @@
       "symbol": "OX",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/6_CekwAe/logos/1/0xc92e685f6451fbb2c75df4dc116d27280ff55e73",
-      "extensions": { "description": "OX Originals" }
+      "extensions": {
+        "description": "OX Originals"
+      }
     },
     {
       "chainId": 1,
@@ -17654,7 +17739,9 @@
       "symbol": "WoW",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/J0KY_rsm/logos/1/0x76bd634d66265f4138f46df36efe89c61ce7396a",
-      "extensions": { "link": "https://wowcrypto.io" }
+      "extensions": {
+        "link": "https://wowcrypto.io"
+      }
     },
     {
       "chainId": 1,
@@ -18203,7 +18290,9 @@
       "symbol": "SRT",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/eFSAc5QN/logos/1/0x3c6f980cff572e6e04cb560cb318c27f5d72d9d4",
-      "extensions": { "description": "Manifesting fire!" }
+      "extensions": {
+        "description": "Manifesting fire!"
+      }
     },
     {
       "chainId": 1,
@@ -18922,7 +19011,9 @@
       "symbol": "KVD",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0x059c329231db9bbb0db155c1569cefcb125c53fb.png",
-      "extensions": { "description": "Kate Vass Digital" }
+      "extensions": {
+        "description": "Kate Vass Digital"
+      }
     },
     {
       "chainId": 1,
@@ -19041,7 +19132,9 @@
       "symbol": "TGIF",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/WXhxy8H2/logos/1/0xdf3eafb7cd32d150ed15a447876b9e1ec9217683",
-      "extensions": { "description": "A mixed bag of creations." }
+      "extensions": {
+        "description": "A mixed bag of creations."
+      }
     },
     {
       "chainId": 1,
@@ -19209,7 +19302,9 @@
       "symbol": "COE",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/rIqtPIhA/logos/1/0x4a471c6094716624bff0b13ef3a5f98ebb389151",
-      "extensions": { "description": "1/1 Hand-made greeting cards." }
+      "extensions": {
+        "description": "1/1 Hand-made greeting cards."
+      }
     },
     {
       "chainId": 1,
@@ -20078,7 +20173,9 @@
       "symbol": "CXMAS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0x5f37ef03130f92925ea56579b891261118773aea.jpg",
-      "extensions": { "link": "https://cryptoxmas.xyz/" }
+      "extensions": {
+        "link": "https://cryptoxmas.xyz/"
+      }
     },
     {
       "chainId": 1,
@@ -20389,7 +20486,9 @@
       "symbol": "TOON",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/S0VJPljg/logos/1/0x9d1dd09b584057edd6717b0896388027dc10a27b",
-      "extensions": { "description": "Cartoons made by WebCartoons Studio" }
+      "extensions": {
+        "description": "Cartoons made by WebCartoons Studio"
+      }
     },
     {
       "chainId": 1,
@@ -20477,7 +20576,9 @@
       "symbol": "Ryo-tsun",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/WFPuSjcQ/logos/1/0x24f412072dbb3804b1664a2447901fd27d98f3aa",
-      "extensions": { "description": "MCH  The Seven Blue Dragons" }
+      "extensions": {
+        "description": "MCH  The Seven Blue Dragons"
+      }
     },
     {
       "chainId": 1,
@@ -20999,7 +21100,9 @@
       "symbol": "BB",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0x128c4e08334c43f87979da36b8e2722e906f4d27.png",
-      "extensions": { "description": "// :: httpxx :: //" }
+      "extensions": {
+        "description": "// :: httpxx :: //"
+      }
     },
     {
       "chainId": 1,
@@ -21250,7 +21353,9 @@
       "symbol": "ERX",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/Udz45Tjr/logos/1/0xdddf35668ae06cb2a2b28bc77064f229ca4a842b",
-      "extensions": { "description": "Creations by @erixink" }
+      "extensions": {
+        "description": "Creations by @erixink"
+      }
     },
     {
       "chainId": 1,
@@ -21578,7 +21683,9 @@
       "type": "",
       "symbol": "IFYOUHIGHBYEXTRAWEG",
       "decimals": 0,
-      "extensions": { "link": "https://niftygateway.com/collections/extraweg2" }
+      "extensions": {
+        "link": "https://niftygateway.com/collections/extraweg2"
+      }
     },
     {
       "chainId": 1,
@@ -21714,7 +21821,9 @@
       "symbol": "PCAU",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/H5H0c-v_/logos/1/0xd43f974bb7f15442556351e2dd4a2e5d8d7592fb",
-      "extensions": { "link": "https://www.princesscamel.com" }
+      "extensions": {
+        "link": "https://www.princesscamel.com"
+      }
     },
     {
       "chainId": 1,
@@ -21809,7 +21918,9 @@
       "symbol": "nsx",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0x85e419b74c3d1c72ec05fc09e781dfe8ebb5e72d.png",
-      "extensions": { "description": "nostroscryptovoxels" }
+      "extensions": {
+        "description": "nostroscryptovoxels"
+      }
     },
     {
       "chainId": 1,
@@ -21969,7 +22080,9 @@
       "symbol": "SHB",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/y_xTzUT-/logos/1/0x8f3b73567cb501b38ac1859c9de7c766cafef35a",
-      "extensions": { "description": "Let us proceed together apace. Onward." }
+      "extensions": {
+        "description": "Let us proceed together apace. Onward."
+      }
     },
     {
       "chainId": 1,
@@ -22018,7 +22131,9 @@
       "type": "",
       "symbol": "CYCLE",
       "decimals": 0,
-      "extensions": { "link": "http://cycletoken.me" }
+      "extensions": {
+        "link": "http://cycletoken.me"
+      }
     },
     {
       "chainId": 1,
@@ -22080,7 +22195,9 @@
       "type": "",
       "symbol": "CPAI",
       "decimals": 0,
-      "extensions": { "description": "[Paint + Ethereum] : Color Your Crypto" }
+      "extensions": {
+        "description": "[Paint + Ethereum] : Color Your Crypto"
+      }
     },
     {
       "chainId": 1,
@@ -22660,7 +22777,9 @@
       "symbol": "GLZ",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/vRSKqqPh/logos/1/0xe8b2cd982a5255b2edd3ef7f53b26baa1e595dc9",
-      "extensions": { "description": "Self taught, always learning. " }
+      "extensions": {
+        "description": "Self taught, always learning. "
+      }
     },
     {
       "chainId": 1,
@@ -23019,7 +23138,9 @@
       "symbol": "oPH",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/DqSqukJI/logos/1/0x0dd501b642e4db186d68910e1bc18d5ee6731e0a",
-      "extensions": { "description": "ART WORKS for SALE" }
+      "extensions": {
+        "description": "ART WORKS for SALE"
+      }
     },
     {
       "chainId": 1,
@@ -23652,7 +23773,9 @@
       "type": "",
       "symbol": "HRM",
       "decimals": 0,
-      "extensions": { "link": "https://wisdommingle.com" }
+      "extensions": {
+        "link": "https://wisdommingle.com"
+      }
     },
     {
       "chainId": 1,
@@ -23962,7 +24085,9 @@
       "symbol": "ETH",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/j63s2S9V/logos/1/0x033e32f62be8b5b079b35290f7638d6fad8b2f92",
-      "extensions": { "description": "Ivan's Photo Collection" }
+      "extensions": {
+        "description": "Ivan's Photo Collection"
+      }
     },
     {
       "chainId": 1,
@@ -23993,7 +24118,9 @@
       "symbol": "COLOR",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/LMSHJ2dK/logos/1/0x98aefff101e211ba8f8784defeb5299dda50d94f",
-      "extensions": { "description": "Unused Storefront" }
+      "extensions": {
+        "description": "Unused Storefront"
+      }
     },
     {
       "chainId": 1,
@@ -24071,7 +24198,9 @@
       "symbol": "DAMX",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/8oVTO9qt/logos/1/0x7cac385c7bdd9071b7ee675bf05ae07d40aad323",
-      "extensions": { "description": "DIGITAL ART MATRIX" }
+      "extensions": {
+        "description": "DIGITAL ART MATRIX"
+      }
     },
     {
       "chainId": 1,
@@ -24686,7 +24815,9 @@
       "symbol": "Fringe",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/3Y3MfxK1/logos/1/0x12c15e6ee47b032f69b4edf9b9bb18b4b310f1c8",
-      "extensions": { "link": "http://www.hyperspaced.io/" }
+      "extensions": {
+        "link": "http://www.hyperspaced.io/"
+      }
     },
     {
       "chainId": 1,
@@ -24736,7 +24867,9 @@
       "symbol": "ETH",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/lx8j9asq/logos/1/0x0ba0da84d81283f91c4460cc349189acaa8fd42c",
-      "extensions": { "description": " The minting voyage continues..." }
+      "extensions": {
+        "description": " The minting voyage continues..."
+      }
     },
     {
       "chainId": 1,
@@ -25293,7 +25426,9 @@
       "symbol": "BBC",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/4EnpTi3j/logos/1/0x1f0da6e1686d5c16b89f95ca4788431508a926f8",
-      "extensions": { "description": "My cats, ready to take over the world!" }
+      "extensions": {
+        "description": "My cats, ready to take over the world!"
+      }
     },
     {
       "chainId": 1,
@@ -25672,7 +25807,9 @@
       "symbol": "TILE",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/C5LgvYxs/logos/1/0x3b085d6ca98ac2cdf7e5cadff93c86a665371e11",
-      "extensions": { "description": "Tileable background art" }
+      "extensions": {
+        "description": "Tileable background art"
+      }
     },
     {
       "chainId": 1,
@@ -25704,7 +25841,9 @@
       "symbol": "PBP",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/BSTHPlm-/logos/1/0x413a8d306de2c58626ca1a83bbfa7c08659bb03e",
-      "extensions": { "description": "An internal Alpha at Dapper Labs" }
+      "extensions": {
+        "description": "An internal Alpha at Dapper Labs"
+      }
     },
     {
       "chainId": 1,
@@ -25764,7 +25903,9 @@
       "symbol": "OZI",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/QCJTlj2U/logos/1/0x87b3f848f9795c4a6accf69ee962a9857634ae22",
-      "extensions": { "link": "http://www.modsgallery.art" }
+      "extensions": {
+        "link": "http://www.modsgallery.art"
+      }
     },
     {
       "chainId": 1,
@@ -25787,7 +25928,9 @@
       "symbol": "EXPLOSIONS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0xc5edf3ae6eadc6957be14af3a274a84959439097.gif",
-      "extensions": { "description": "The best explosions you can buy" }
+      "extensions": {
+        "description": "The best explosions you can buy"
+      }
     },
     {
       "chainId": 1,
@@ -25806,7 +25949,9 @@
       "symbol": "McLovin",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/quE0h8a_/logos/1/0x2b27fee96b644e051e7b5e2aed0598dcc2386936",
-      "extensions": { "description": "Where McLovin.Crypto makes NFT's" }
+      "extensions": {
+        "description": "Where McLovin.Crypto makes NFT's"
+      }
     },
     {
       "chainId": 1,
@@ -26239,7 +26384,9 @@
       "symbol": "KG",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/8AQzMZ80/logos/1/0xbd8929059d0594f37426dccdf57ee39e45831c81",
-      "extensions": { "description": "deleted" }
+      "extensions": {
+        "description": "deleted"
+      }
     },
     {
       "chainId": 1,
@@ -26262,7 +26409,9 @@
       "symbol": "ETH",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/EUXK_FSR/logos/1/0x98fb982050b0177ce1a062f1c7bdebf068482697",
-      "extensions": { "description": "Mintbase mints by oculardelusion" }
+      "extensions": {
+        "description": "Mintbase mints by oculardelusion"
+      }
     },
     {
       "chainId": 1,
@@ -26482,7 +26631,9 @@
       "symbol": "VIOROS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/Ptf9d5qr/logos/1/0x5efdb4488fc33d5931a66a1249b52678098a058d",
-      "extensions": { "description": "NFT-à-porter" }
+      "extensions": {
+        "description": "NFT-à-porter"
+      }
     },
     {
       "chainId": 1,
@@ -26684,7 +26835,9 @@
       "symbol": "ART",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/uHkRRJGL/logos/1/0x37489d90100f8f097ae4d5a97aca2b4a74a0b853",
-      "extensions": { "description": "Crypto Art." }
+      "extensions": {
+        "description": "Crypto Art."
+      }
     },
     {
       "chainId": 1,
@@ -26713,7 +26866,9 @@
       "symbol": "V",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/n2LaLqgT/logos/1/0x6bda95bbcb1100e8d7ea2956183a3cf892165f2a",
-      "extensions": { "description": "Cool, new, and the future. " }
+      "extensions": {
+        "description": "Cool, new, and the future. "
+      }
     },
     {
       "chainId": 1,
@@ -26857,7 +27012,9 @@
       "symbol": "CloudAlejandro",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/x4GiUMyI/logos/1/0x57b9522b1723af5050498dce68a61aeb362e22af",
-      "extensions": { "description": "🎥🕋🏞🌅🏙🦄🦁" }
+      "extensions": {
+        "description": "🎥🕋🏞🌅🏙🦄🦁"
+      }
     },
     {
       "chainId": 1,
@@ -27315,7 +27472,9 @@
       "symbol": "PKS99",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/2aZGcy5j/logos/1/0x50c5d9bf2fa9442f43354c4ad30c7a7c9bbbfc71",
-      "extensions": { "description": "2 set of 1999 1st Edition Pokemon HOLOS" }
+      "extensions": {
+        "description": "2 set of 1999 1st Edition Pokemon HOLOS"
+      }
     },
     {
       "chainId": 1,
@@ -27402,7 +27561,9 @@
       "symbol": "GNTF",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/OmtOqM7H/logos/1/0xb89bd7ed0551746a8e49c760f9ba92a052d25e2d",
-      "extensions": { "description": "https://coinartist.io/" }
+      "extensions": {
+        "description": "https://coinartist.io/"
+      }
     },
     {
       "chainId": 1,
@@ -27425,7 +27586,9 @@
       "symbol": "LSA",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/2a_wLBdS/logos/1/0x0e0a6e8fffc38927aef7190903aee44a024a872d",
-      "extensions": { "description": "chained and unchained art" }
+      "extensions": {
+        "description": "chained and unchained art"
+      }
     },
     {
       "chainId": 1,
@@ -28416,7 +28579,9 @@
       "type": "",
       "symbol": "MAGC",
       "decimals": 0,
-      "extensions": { "link": "http://www.cielxnoel.com" }
+      "extensions": {
+        "link": "http://www.cielxnoel.com"
+      }
     },
     {
       "chainId": 1,
@@ -28503,7 +28668,9 @@
       "symbol": "GRP",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/9EYXA5Z6/logos/1/0x3cffee3853ea80cc69329500c84231d58f72d7c2",
-      "extensions": { "description": "MyCryptoHeroes Land Graphite" }
+      "extensions": {
+        "description": "MyCryptoHeroes Land Graphite"
+      }
     },
     {
       "chainId": 1,
@@ -28740,7 +28907,9 @@
       "symbol": "EXTRE",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/oEyNQNHG/logos/1/0xefe49dd1d252af04e6358df2241803418634066f",
-      "extensions": { "link": "https://beta.cent.co/silentnight" }
+      "extensions": {
+        "link": "https://beta.cent.co/silentnight"
+      }
     },
     {
       "chainId": 1,
@@ -28773,7 +28942,9 @@
       "symbol": "QQ",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/H9Y5k7pl/logos/1/0x866e5396a10f51b82c96fd77a0c11c506db13b8e",
-      "extensions": { "description": "Artist from Munich" }
+      "extensions": {
+        "description": "Artist from Munich"
+      }
     },
     {
       "chainId": 1,
@@ -28891,7 +29062,9 @@
       "symbol": "BITR",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/zpE1hb6x/logos/1/0xac645ea91f6c6a9cf91903123aba17bda7b1afd2",
-      "extensions": { "description": "creating stories, creating worlds. \n" }
+      "extensions": {
+        "description": "creating stories, creating worlds. \n"
+      }
     },
     {
       "chainId": 1,
@@ -29430,7 +29603,9 @@
       "symbol": "GM",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/dLHrOb4p/logos/1/0x947ae87c81aa201925de59a0d6fcff719ce589c2",
-      "extensions": { "description": "TRASHED ART - MAKE OFFER AND TAKE IT" }
+      "extensions": {
+        "description": "TRASHED ART - MAKE OFFER AND TAKE IT"
+      }
     },
     {
       "chainId": 1,
@@ -29813,7 +29988,9 @@
       "type": "",
       "symbol": "AotN",
       "decimals": 0,
-      "extensions": { "description": "Digitised pic of Angel of the North" }
+      "extensions": {
+        "description": "Digitised pic of Angel of the North"
+      }
     },
     {
       "chainId": 1,
@@ -29823,7 +30000,9 @@
       "symbol": "OCT",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/CeL-vCvw/logos/1/0x6345948eee870411b39874e3b9ee8147ae32ed5b",
-      "extensions": { "description": "OCTAhedrons by Collin \u0026 friends." }
+      "extensions": {
+        "description": "OCTAhedrons by Collin \u0026 friends."
+      }
     },
     {
       "chainId": 1,
@@ -29907,7 +30086,9 @@
       "type": "",
       "symbol": "MODS",
       "decimals": 0,
-      "extensions": { "description": "32x32x32 vox models" }
+      "extensions": {
+        "description": "32x32x32 vox models"
+      }
     },
     {
       "chainId": 1,
@@ -30013,7 +30194,9 @@
       "symbol": "TST",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0xa1d993d1a11f49b34a7eb8d18111fa861fdb8a43.jpg",
-      "extensions": { "description": "Test storefront" }
+      "extensions": {
+        "description": "Test storefront"
+      }
     },
     {
       "chainId": 1,
@@ -30125,7 +30308,9 @@
       "symbol": "LUVI",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/4HzdU3bR/logos/1/0xbb6c03b455c0690b10c64297115aa81378f34e8c",
-      "extensions": { "description": "you love art? \n-me too." }
+      "extensions": {
+        "description": "you love art? \n-me too."
+      }
     },
     {
       "chainId": 1,
@@ -30333,7 +30518,9 @@
       "type": "",
       "symbol": "DCL_MEMES",
       "decimals": 0,
-      "extensions": { "description": "What did you do during Coronavirus?" }
+      "extensions": {
+        "description": "What did you do during Coronavirus?"
+      }
     },
     {
       "chainId": 1,
@@ -30694,7 +30881,9 @@
       "symbol": "ARTS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/zZLioMYi/logos/1/0x52ed952a7f6cc369e7b63a8cdb2e442d51ffbae1",
-      "extensions": { "link": "https://www.artofrjm.com" }
+      "extensions": {
+        "link": "https://www.artofrjm.com"
+      }
     },
     {
       "chainId": 1,
@@ -30904,7 +31093,9 @@
       "type": "",
       "symbol": "UVOX",
       "decimals": 0,
-      "extensions": { "description": "A vox file of a funny voxel-cow." }
+      "extensions": {
+        "description": "A vox file of a funny voxel-cow."
+      }
     },
     {
       "chainId": 1,
@@ -30935,7 +31126,9 @@
       "type": "",
       "symbol": "NNNQC",
       "decimals": 0,
-      "extensions": { "description": "Quality Data entered here" }
+      "extensions": {
+        "description": "Quality Data entered here"
+      }
     },
     {
       "chainId": 1,
@@ -31241,7 +31434,9 @@
       "symbol": "SZB",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/SsoPKxhr/logos/1/0x96012ae7f61744a2dc441ec8e0c809a3de1ec906",
-      "extensions": { "description": "Szilvia Bruneleski Art" }
+      "extensions": {
+        "description": "Szilvia Bruneleski Art"
+      }
     },
     {
       "chainId": 1,
@@ -31307,7 +31502,9 @@
       "symbol": "GBPCHF",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/wMKcukJ1/logos/1/0xe6afef13efe96a719111ceeb49684ce8d52decab",
-      "extensions": { "description": "Standard DOCU" }
+      "extensions": {
+        "description": "Standard DOCU"
+      }
     },
     {
       "chainId": 1,
@@ -31548,7 +31745,9 @@
       "symbol": "SYHN",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/55zybyMc/logos/1/0x77c8379aa889890f2524c375f822e331e5820fec",
-      "extensions": { "description": "Tampa, FL | he / they | 18 " }
+      "extensions": {
+        "description": "Tampa, FL | he / they | 18 "
+      }
     },
     {
       "chainId": 1,
@@ -31712,7 +31911,9 @@
       "symbol": "yo",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/faS3Lmo1/logos/1/0x17acfd9e0e639c2185729a6948a310e803ea7bfc",
-      "extensions": { "description": "Yo yo" }
+      "extensions": {
+        "description": "Yo yo"
+      }
     },
     {
       "chainId": 1,
@@ -31813,7 +32014,9 @@
       "symbol": "ELD",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/1/0x8eee2f59e98375eda08a00148ad4a852f26003d6.jpg",
-      "extensions": { "description": "Digital Art Gallery" }
+      "extensions": {
+        "description": "Digital Art Gallery"
+      }
     },
     {
       "chainId": 1,
@@ -31823,7 +32026,9 @@
       "symbol": "GDE",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/KlMAc4KB/logos/1/0x7a8f67d646f791563ce3f7334cc41db7d1cbd87a",
-      "extensions": { "description": " ERC-721 NFT Digital Limited Editions" }
+      "extensions": {
+        "description": " ERC-721 NFT Digital Limited Editions"
+      }
     },
     {
       "chainId": 1,
@@ -31950,7 +32155,9 @@
       "type": "",
       "symbol": "MRGF",
       "decimals": 0,
-      "extensions": { "description": "Jairo Carrera Groba" }
+      "extensions": {
+        "description": "Jairo Carrera Groba"
+      }
     },
     {
       "chainId": 1,
@@ -33119,5 +33326,10 @@
         "ogImage": "https://www.cryptokitties.co/images/share.png"
       }
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 0
+  }
 }

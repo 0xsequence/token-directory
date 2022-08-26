@@ -60,7 +60,9 @@
       "symbol": "SWAP",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/OkG3WEuT/logos/137/0x2f88096676ea7491305c82752f87a4df73e77a5c.png",
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -108,7 +110,9 @@
       "symbol": "GET-CONQUEST",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0xa841aa6805957486cc2e30bb30b737e3f5b14e17.png",
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -148,7 +152,9 @@
       "symbol": "CONQUEST",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0x85117852a3dea4fa50afff171b9b09a4d83c8e4f.png",
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -186,7 +192,10 @@
       "name": "YouMeme (scam)",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     }
-  ]
+  ],
+  "version": null
 }

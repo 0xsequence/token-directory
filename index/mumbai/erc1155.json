@@ -3,7 +3,10 @@
   "chainId": 80001,
   "tokenStandard": "erc1155",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
-  "keywords": ["erc1155", "nft"],
+  "keywords": [
+    "erc1155",
+    "nft"
+  ],
   "timestamp": "2022-03-14T23:27:42.783Z",
   "tokens": [
     {
@@ -22,5 +25,10 @@
         "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
       }
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }

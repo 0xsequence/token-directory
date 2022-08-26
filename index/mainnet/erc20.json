@@ -3,7 +3,12 @@
   "chainId": 1,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
-  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
   "timestamp": "2021-01-27T22:00:03.43Z",
   "tokens": [
     {
@@ -151,7 +156,9 @@
       "symbol": "COVAL",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/l8zIXOHN/logos/1/0x3d658390460295fb963f54dc0899cfb1c30776df.png",
-      "extensions": { "link": "https://circuitsofvalue.com/" }
+      "extensions": {
+        "link": "https://circuitsofvalue.com/"
+      }
     },
     {
       "chainId": 1,
@@ -299,7 +306,9 @@
       "symbol": "VERI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/OYthcWtg/logos/1/0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374.png",
-      "extensions": { "link": "http://veritas.veritaseum.com/" }
+      "extensions": {
+        "link": "http://veritas.veritaseum.com/"
+      }
     },
     {
       "chainId": 1,
@@ -610,7 +619,9 @@
       "symbol": "ZRX",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/JB-jNuOb/logos/1/0xe41d2489571d322189246dafa5ebde1f4699f498.png",
-      "extensions": { "link": "https://0x.org/" }
+      "extensions": {
+        "link": "https://0x.org/"
+      }
     },
     {
       "chainId": 1,
@@ -715,7 +726,9 @@
       "symbol": "KNC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/uzhlMM7H/logos/1/0xdd974d5c2e2928dea5f71b9825b8b646686bd200.png",
-      "extensions": { "link": "https://kyber.network/" }
+      "extensions": {
+        "link": "https://kyber.network/"
+      }
     },
     {
       "chainId": 1,
@@ -1039,7 +1052,9 @@
       "symbol": "QUO",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/4fEcEPka/logos/1/0xefd720c94659f2ccb767809347245f917a145ed8.png",
-      "extensions": { "link": "https://www.quoxent.com/" }
+      "extensions": {
+        "link": "https://www.quoxent.com/"
+      }
     },
     {
       "chainId": 1,
@@ -3326,7 +3341,9 @@
       "symbol": "ELEC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Yv1iot0k/logos/1/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9.jpg",
-      "extensions": { "link": "https://electrify.asia/" }
+      "extensions": {
+        "link": "https://electrify.asia/"
+      }
     },
     {
       "chainId": 1,
@@ -4501,7 +4518,9 @@
       "symbol": "CHR",
       "decimals": 6,
       "logoURI": "https://assets.sequence.info/MUaIv5wA/logos/1/0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2.png",
-      "extensions": { "link": "https://chromia.com/" }
+      "extensions": {
+        "link": "https://chromia.com/"
+      }
     },
     {
       "chainId": 1,
@@ -4982,7 +5001,9 @@
       "symbol": "THRN",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/fRrq6UPP/logos/1/0x35a735b7d1d811887966656855f870c05fd0a86d.jpg",
-      "extensions": { "link": "https://thorncoin.com/" }
+      "extensions": {
+        "link": "https://thorncoin.com/"
+      }
     },
     {
       "chainId": 1,
@@ -5235,7 +5256,9 @@
       "symbol": "SBTC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/dX1H41bx/logos/1/0xb8e103b60a33597136ea9511f46b6dbeb643a3a5.jpg",
-      "extensions": { "link": "https://www.siambitcoin.com/" }
+      "extensions": {
+        "link": "https://www.siambitcoin.com/"
+      }
     },
     {
       "chainId": 1,
@@ -6094,7 +6117,9 @@
       "symbol": "ETY",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/LhzB5AYU/logos/1/0x5acd07353106306a6530ac4d49233271ec372963.png",
-      "extensions": { "link": "http://www.etheryun.net/" }
+      "extensions": {
+        "link": "http://www.etheryun.net/"
+      }
     },
     {
       "chainId": 1,
@@ -6184,7 +6209,9 @@
       "symbol": "USDK",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/URfY6Vij/logos/1/0x1c48f86ae57291f7686349f12601910bd8d470bb.png",
-      "extensions": { "link": "https://www.oklink.com/" }
+      "extensions": {
+        "link": "https://www.oklink.com/"
+      }
     },
     {
       "chainId": 1,
@@ -6341,7 +6368,9 @@
       "symbol": "DYT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/K_8u7Z4y/logos/1/0x740623d2c797b7d8d1ecb98e9b4afcf99ec31e14.png",
-      "extensions": { "link": "https://doyourtip.io/" }
+      "extensions": {
+        "link": "https://doyourtip.io/"
+      }
     },
     {
       "chainId": 1,
@@ -6511,7 +6540,9 @@
       "symbol": "808TA",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/YFjkCXPv/logos/1/0x5b535edfa75d7cb706044da0171204e1c48d00e8.png",
-      "extensions": { "link": "https://808exchange.net/" }
+      "extensions": {
+        "link": "https://808exchange.net/"
+      }
     },
     {
       "chainId": 1,
@@ -7616,7 +7647,9 @@
       "symbol": "GOM2",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/qSIsE7ZO/logos/1/0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7.jpg",
-      "extensions": { "link": "https://animalgo.io/" }
+      "extensions": {
+        "link": "https://animalgo.io/"
+      }
     },
     {
       "chainId": 1,
@@ -7785,7 +7818,9 @@
       "symbol": "BIGO",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/rEi0T5Aj/logos/1/0xa6e7dc135bdf4b3fee7183eab2e87c0bb9684783.jpg",
-      "extensions": { "link": "https://bigocoin.co/" }
+      "extensions": {
+        "link": "https://bigocoin.co/"
+      }
     },
     {
       "chainId": 1,
@@ -7878,7 +7913,9 @@
       "symbol": "CUBE",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/wrmBRxOb/logos/1/0xdf801468a808a32656d2ed2d2d80b72a129739f4.png",
-      "extensions": { "link": "https://www.somniumspace.com/" }
+      "extensions": {
+        "link": "https://www.somniumspace.com/"
+      }
     },
     {
       "chainId": 1,
@@ -7940,7 +7977,9 @@
       "symbol": "ASAC",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/G4Xq3yp2/logos/1/0x6913ccabbc337f0ea7b4109dd8200d61c704d332.jpg",
-      "extensions": { "link": "https://asaccoin.com/" }
+      "extensions": {
+        "link": "https://asaccoin.com/"
+      }
     },
     {
       "chainId": 1,
@@ -8099,7 +8138,9 @@
       "symbol": "PBTC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/wAfu862k/logos/1/0x5228a22e72ccc52d415ecfd199f99d0665e7733b.png",
-      "extensions": { "link": "https://ptokens.io/" }
+      "extensions": {
+        "link": "https://ptokens.io/"
+      }
     },
     {
       "chainId": 1,
@@ -8230,7 +8271,9 @@
       "symbol": "ANK",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/WCWJs3_k/logos/1/0x3c45b24359fb0e107a4eaa56bd0f2ce66c99a0e5.png",
-      "extensions": { "link": "http://applenetwork.io/" }
+      "extensions": {
+        "link": "http://applenetwork.io/"
+      }
     },
     {
       "chainId": 1,
@@ -8240,7 +8283,9 @@
       "symbol": "CRTS",
       "decimals": 9,
       "logoURI": "https://assets.sequence.info/xBV7YQvM/logos/1/0x94ca37d108e89775dc8ae65f51ae28c2d9599f9a.png",
-      "extensions": { "link": "https://cryptotipsfriends.com/" }
+      "extensions": {
+        "link": "https://cryptotipsfriends.com/"
+      }
     },
     {
       "chainId": 1,
@@ -8440,7 +8485,9 @@
       "symbol": "JT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/j9W3xx_3/logos/1/0xeb7355c2f217b3485a591332fe13c8c5a76a581d.jpg",
-      "extensions": { "link": "https://www.jbex.com/" }
+      "extensions": {
+        "link": "https://www.jbex.com/"
+      }
     },
     {
       "chainId": 1,
@@ -8516,7 +8563,9 @@
       "symbol": "FRNK",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/3wsw9fe5/logos/1/0xf938c9a22c6fc9e6b81b24b68db94b92dc4a7976.png",
-      "extensions": { "link": "https://frinkcoin.best" }
+      "extensions": {
+        "link": "https://frinkcoin.best"
+      }
     },
     {
       "chainId": 1,
@@ -8620,7 +8669,9 @@
       "symbol": "MLR",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/ze165BiV/logos/1/0xf26893f89b23084c4c6216038d6ebdbe9e96c5cb.jpg",
-      "extensions": { "link": "https://megaltr.com/" }
+      "extensions": {
+        "link": "https://megaltr.com/"
+      }
     },
     {
       "chainId": 1,
@@ -8751,7 +8802,9 @@
       "symbol": "YFR",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/yJfrHDuR/logos/1/0xd6940a1ffd9f3b025d1f1055abcfd9f7cda81ef9.png",
-      "extensions": { "link": "https://youforia.nl/" }
+      "extensions": {
+        "link": "https://youforia.nl/"
+      }
     },
     {
       "chainId": 1,
@@ -8761,7 +8814,9 @@
       "symbol": "TRZ",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/L6flM_p7/logos/1/0x23935765cdf2f7548f86042ff053d16a22c4e240.png",
-      "extensions": { "link": "https://www.tradez.xyz/" }
+      "extensions": {
+        "link": "https://www.tradez.xyz/"
+      }
     },
     {
       "chainId": 1,
@@ -8866,7 +8921,9 @@
       "symbol": "69C",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Sl_uEXCE/logos/1/0x02fdd6866333d8cd8b1ca022d382080698060bc2.png",
-      "extensions": { "link": "http://4chan.org/biz/" }
+      "extensions": {
+        "link": "http://4chan.org/biz/"
+      }
     },
     {
       "chainId": 1,
@@ -9362,7 +9419,9 @@
       "symbol": "FMA",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/CL2iBcbU/logos/1/0x0f8794f66c7170c4f9163a8498371a747114f6c4.png",
-      "extensions": { "link": "https://www.flamanet.io/" }
+      "extensions": {
+        "link": "https://www.flamanet.io/"
+      }
     },
     {
       "chainId": 1,
@@ -9962,7 +10021,9 @@
       "symbol": "MCB",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/LH3fDI_d/logos/1/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.png",
-      "extensions": { "link": "https://mcdex.io/" }
+      "extensions": {
+        "link": "https://mcdex.io/"
+      }
     },
     {
       "chainId": 1,
@@ -10186,7 +10247,9 @@
       "symbol": "YCURVE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/nohQItDH/logos/1/0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8.png",
-      "extensions": { "link": "https://www.curve.fi/" }
+      "extensions": {
+        "link": "https://www.curve.fi/"
+      }
     },
     {
       "chainId": 1,
@@ -10371,7 +10434,9 @@
       "symbol": "SCURVE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/AHYZ0sjt/logos/1/0xc25a3a3b969415c80451098fa907ec722572917f.png",
-      "extensions": { "link": "https://www.curve.fi/" }
+      "extensions": {
+        "link": "https://www.curve.fi/"
+      }
     },
     {
       "chainId": 1,
@@ -10501,7 +10566,9 @@
       "symbol": "XAMP",
       "decimals": 9,
       "logoURI": "https://assets.sequence.info/hy40YHUD/logos/1/0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27.png",
-      "extensions": { "link": "https://www.antiample.org/" }
+      "extensions": {
+        "link": "https://www.antiample.org/"
+      }
     },
     {
       "chainId": 1,
@@ -10550,7 +10617,9 @@
       "symbol": "SHIB",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/3UXeKqPf/logos/1/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png",
-      "extensions": { "link": "https://shibatoken.com/" }
+      "extensions": {
+        "link": "https://shibatoken.com/"
+      }
     },
     {
       "chainId": 1,
@@ -10560,7 +10629,9 @@
       "symbol": "YFFI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/dveP0ZCA/logos/1/0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669.jpg",
-      "extensions": { "link": "https://www.yffi.finance/" }
+      "extensions": {
+        "link": "https://www.yffi.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -10583,7 +10654,9 @@
       "symbol": "BONK",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/XRdiSF_b/logos/1/0x6d6506e6f438ede269877a0a720026559110b7d5.png",
-      "extensions": { "link": "https://bonktoken.com/" }
+      "extensions": {
+        "link": "https://bonktoken.com/"
+      }
     },
     {
       "chainId": 1,
@@ -10620,7 +10693,9 @@
       "symbol": "MSV",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/qStVvPla/logos/1/0x3d3ab800d105fbd2f97102675a412da3dc934357.jpg",
-      "extensions": { "link": "http://3msv.io/" }
+      "extensions": {
+        "link": "http://3msv.io/"
+      }
     },
     {
       "chainId": 1,
@@ -10683,7 +10758,9 @@
       "symbol": "SBTCCURVE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/4dYBU-XV/logos/1/0x075b1bb99792c9e1041ba13afef80c91a1e70fb3.png",
-      "extensions": { "link": "https://www.curve.fi/" }
+      "extensions": {
+        "link": "https://www.curve.fi/"
+      }
     },
     {
       "chainId": 1,
@@ -10813,7 +10890,9 @@
       "symbol": "TRADE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/O_T6cMUj/logos/1/0x6f87d756daf0503d08eb8993686c7fc01dc44fb1.PNG",
-      "extensions": { "link": "https://unitrade.app/" }
+      "extensions": {
+        "link": "https://unitrade.app/"
+      }
     },
     {
       "chainId": 1,
@@ -11138,7 +11217,9 @@
       "symbol": "CHERRY",
       "decimals": 4,
       "logoURI": "https://assets.sequence.info/b3sAb5Ev/logos/1/0x4ecb692b0fedecd7b486b4c99044392784877e8c.jpg",
-      "extensions": { "link": "http://cherryhotwife.com/tour/" }
+      "extensions": {
+        "link": "http://cherryhotwife.com/tour/"
+      }
     },
     {
       "chainId": 1,
@@ -11216,7 +11297,9 @@
       "symbol": "MEME",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/5Y3_Yj2N/logos/1/0xd5525d397898e5502075ea5e830d8914f6f0affe.jpg",
-      "extensions": { "link": "https://dontbuymeme.com" }
+      "extensions": {
+        "link": "https://dontbuymeme.com"
+      }
     },
     {
       "chainId": 1,
@@ -11226,7 +11309,9 @@
       "symbol": "KEN",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/t7M00Zkk/logos/1/0x6a7ef4998eb9d0f706238756949f311a59e05745.jpg",
-      "extensions": { "link": "https://keysians.com/" }
+      "extensions": {
+        "link": "https://keysians.com/"
+      }
     },
     {
       "chainId": 1,
@@ -11331,7 +11416,9 @@
       "symbol": "SHRIMP",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/uuEb2srO/logos/1/0x38c4102d11893351ced7ef187fcf43d33eb1abe6.jpg",
-      "extensions": { "link": "https://shrimp.finance/" }
+      "extensions": {
+        "link": "https://shrimp.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -11341,7 +11428,9 @@
       "symbol": "OM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/98rSEm4I/logos/1/0x3593d125a4f7849a1b059e64f4517a86dd60c95d.png",
-      "extensions": { "link": "https://www.mantradao.com/" }
+      "extensions": {
+        "link": "https://www.mantradao.com/"
+      }
     },
     {
       "chainId": 1,
@@ -11416,7 +11505,9 @@
       "symbol": "PASTA",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/4Tu7k1zt/logos/1/0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e.png",
-      "extensions": { "link": "https://spaghetti.money/" }
+      "extensions": {
+        "link": "https://spaghetti.money/"
+      }
     },
     {
       "chainId": 1,
@@ -11507,7 +11598,9 @@
       "symbol": "YAMV2",
       "decimals": 24,
       "logoURI": "https://assets.sequence.info/bpZoralx/logos/1/0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a.png",
-      "extensions": { "link": "http://yam.finance/" }
+      "extensions": {
+        "link": "http://yam.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -11517,7 +11610,9 @@
       "symbol": "AGA",
       "decimals": 4,
       "logoURI": "https://assets.sequence.info/17aWQV64/logos/1/0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20.png",
-      "extensions": { "link": "https://agatoken.com/" }
+      "extensions": {
+        "link": "https://agatoken.com/"
+      }
     },
     {
       "chainId": 1,
@@ -11580,7 +11675,9 @@
       "symbol": "DFIO",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/NKz4SLmt/logos/1/0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff.png",
-      "extensions": { "link": "https://defiomega.com/" }
+      "extensions": {
+        "link": "https://defiomega.com/"
+      }
     },
     {
       "chainId": 1,
@@ -11724,7 +11821,9 @@
       "symbol": "XTK",
       "decimals": 6,
       "logoURI": "https://assets.sequence.info/52frroiF/logos/1/0xbff0e42eec4223fbd12260f47f3348d29876db42.jpg",
-      "extensions": { "link": "https://xtake.finance/" }
+      "extensions": {
+        "link": "https://xtake.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -11734,7 +11833,9 @@
       "symbol": "COOM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/kvkV5InV/logos/1/0x2f3e054d233c93c59140c0905227c7c607c70cbb.jpg",
-      "extensions": { "link": "https://coomer.cash/" }
+      "extensions": {
+        "link": "https://coomer.cash/"
+      }
     },
     {
       "chainId": 1,
@@ -11744,7 +11845,9 @@
       "symbol": "YBREE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/8Rj9-GCS/logos/1/0x11f4c6b3e8f50c50935c7889edc56c96f41b5399.jpg",
-      "extensions": { "link": "https://yieldbreeder.com/" }
+      "extensions": {
+        "link": "https://yieldbreeder.com/"
+      }
     },
     {
       "chainId": 1,
@@ -11767,7 +11870,9 @@
       "symbol": "YVAULT-LP-YCURVE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Tfr8pIK3/logos/1/0x5dbcf33d8c2e976c6b560249878e6f1491bca25c.png",
-      "extensions": { "link": "https://yearn.finance/" }
+      "extensions": {
+        "link": "https://yearn.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -11804,7 +11909,9 @@
       "symbol": "VIDYA",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/gvrue5dr/logos/1/0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30.png",
-      "extensions": { "link": "https://team3d.io/" }
+      "extensions": {
+        "link": "https://team3d.io/"
+      }
     },
     {
       "chainId": 1,
@@ -12065,7 +12172,9 @@
       "symbol": "ANC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Rh69VmMU/logos/1/0xbbe319b73744db9d54f5d29df7d8256b7e43995c.png",
-      "extensions": { "link": "https://aragonchina.xyz/" }
+      "extensions": {
+        "link": "https://aragonchina.xyz/"
+      }
     },
     {
       "chainId": 1,
@@ -12075,7 +12184,9 @@
       "symbol": "RCKT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/f8R1BjpW/logos/1/0x78571accaf24052795f98b11f093b488a2d9eaa4.jpg",
-      "extensions": { "link": "https://rockettoken.net/" }
+      "extensions": {
+        "link": "https://rockettoken.net/"
+      }
     },
     {
       "chainId": 1,
@@ -12112,7 +12223,9 @@
       "symbol": "CVP",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/OiAXE_2d/logos/1/0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1.jpg",
-      "extensions": { "link": "https://powerpool.finance" }
+      "extensions": {
+        "link": "https://powerpool.finance"
+      }
     },
     {
       "chainId": 1,
@@ -12122,7 +12235,9 @@
       "symbol": "SUSHI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/tQumQWE6/logos/1/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
-      "extensions": { "link": "https://sushiswap.org/" }
+      "extensions": {
+        "link": "https://sushiswap.org/"
+      }
     },
     {
       "chainId": 1,
@@ -12132,7 +12247,9 @@
       "symbol": "NEWTON",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/ODtWZVHa/logos/1/0xae9cbe6ebf72a51c9fcea3830485614486318fd4.jpg",
-      "extensions": { "link": "https://www.newtonium.org/" }
+      "extensions": {
+        "link": "https://www.newtonium.org/"
+      }
     },
     {
       "chainId": 1,
@@ -12234,7 +12351,9 @@
       "symbol": "DOGEFI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/rwB3KSrR/logos/1/0x9b9087756eca997c5d595c840263001c9a26646d.png",
-      "extensions": { "link": "https://www.dogefi.army/" }
+      "extensions": {
+        "link": "https://www.dogefi.army/"
+      }
     },
     {
       "chainId": 1,
@@ -12244,7 +12363,9 @@
       "symbol": "DISTX",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/8KXU_x5j/logos/1/0x4b4701f3f827e1331fb22ff8e2beac24b17eb055.png",
-      "extensions": { "link": "https://www.distx.io/" }
+      "extensions": {
+        "link": "https://www.distx.io/"
+      }
     },
     {
       "chainId": 1,
@@ -12306,7 +12427,9 @@
       "symbol": "PYLON",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/X_1_IRdx/logos/1/0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2.png",
-      "extensions": { "link": "https://pylon.finance/#/" }
+      "extensions": {
+        "link": "https://pylon.finance/#/"
+      }
     },
     {
       "chainId": 1,
@@ -12316,7 +12439,9 @@
       "symbol": "ADEL",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/57427TZ_/logos/1/0x94d863173ee77439e4292284ff13fad54b3ba182.png",
-      "extensions": { "link": "https://delphi.akropolis.io/" }
+      "extensions": {
+        "link": "https://delphi.akropolis.io/"
+      }
     },
     {
       "chainId": 1,
@@ -12326,7 +12451,9 @@
       "symbol": "WTF",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/CQZYIrbD/logos/1/0x0501e7a02c285b9b520fdbf1badc74ae931ad75d.jpg",
-      "extensions": { "link": "https://walnut.finance/" }
+      "extensions": {
+        "link": "https://walnut.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -12336,7 +12463,9 @@
       "symbol": "KIMCHI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/5zgI6-yN/logos/1/0x1e18821e69b9faa8e6e75dffe54e7e25754beda0.png",
-      "extensions": { "link": "https://kimchi.finance/" }
+      "extensions": {
+        "link": "https://kimchi.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -12346,7 +12475,9 @@
       "symbol": "DFT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/4NxHcNjc/logos/1/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1.jpg",
-      "extensions": { "link": "https://defiat.net/" }
+      "extensions": {
+        "link": "https://defiat.net/"
+      }
     },
     {
       "chainId": 1,
@@ -12370,7 +12501,9 @@
       "symbol": "SHARE",
       "decimals": 9,
       "logoURI": "https://assets.sequence.info/LDQGLz7x/logos/1/0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d.png",
-      "extensions": { "link": "https://dollarprotocol.com/" }
+      "extensions": {
+        "link": "https://dollarprotocol.com/"
+      }
     },
     {
       "chainId": 1,
@@ -12393,7 +12526,9 @@
       "symbol": "YFFS",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Z2qQmsZI/logos/1/0x90d702f071d2af33032943137ad0ab4280705817.jpg",
-      "extensions": { "link": "https://yffs.finance/" }
+      "extensions": {
+        "link": "https://yffs.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -12403,7 +12538,9 @@
       "symbol": "NOODLE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/BW3wQ5fQ/logos/1/0x420ab548b18911717ed7c4ccbf46371ea758458c.jpg",
-      "extensions": { "link": "https://noodle.finance/#" }
+      "extensions": {
+        "link": "https://noodle.finance/#"
+      }
     },
     {
       "chainId": 1,
@@ -12518,7 +12655,9 @@
       "symbol": "BOOST",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/T95-wxt-/logos/1/0x3e780920601d61cedb860fe9c4a90c9ea6a35e78.jpg",
-      "extensions": { "link": "https://boosted.finance/" }
+      "extensions": {
+        "link": "https://boosted.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -12555,7 +12694,9 @@
       "symbol": "TON",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/9CYzVM-b/logos/1/0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a.jpg",
-      "extensions": { "link": "https://toncommunity.org/" }
+      "extensions": {
+        "link": "https://toncommunity.org/"
+      }
     },
     {
       "chainId": 1,
@@ -12565,7 +12706,9 @@
       "symbol": "BACON",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/iK2IEbAp/logos/1/0x175ab41e2cedf3919b2e4426c19851223cf51046.png",
-      "extensions": { "link": "https://www.baconswap.org/" }
+      "extensions": {
+        "link": "https://www.baconswap.org/"
+      }
     },
     {
       "chainId": 1,
@@ -12603,7 +12746,9 @@
       "symbol": "OIN",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/JnI5I16W/logos/1/0x9aeb50f542050172359a0e1a25a9933bc8c01259.jpg",
-      "extensions": { "link": "https://oin.finance/" }
+      "extensions": {
+        "link": "https://oin.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -12613,7 +12758,9 @@
       "symbol": "KIF",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/zAkNoMTr/logos/1/0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa.png",
-      "extensions": { "link": "https://www.kitten.finance/" }
+      "extensions": {
+        "link": "https://www.kitten.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -12663,7 +12810,9 @@
       "symbol": "YFIB",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/w-TNZn9F/logos/1/0x47632da9227e322eda59f9e7691eacc6430ac87c.jpg",
-      "extensions": { "link": "https://yfibusiness.finance/" }
+      "extensions": {
+        "link": "https://yfibusiness.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -12686,7 +12835,9 @@
       "symbol": "TRUMP",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/5LcvfyU6/logos/1/0x012ba3ae1074ae43a34a14bca5c4ed0af01b6e53.png",
-      "extensions": { "link": "https://yuge.money/" }
+      "extensions": {
+        "link": "https://yuge.money/"
+      }
     },
     {
       "chainId": 1,
@@ -12696,7 +12847,9 @@
       "symbol": "GBP",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/pQw_xg2c/logos/1/0x0cf58006b2400ebec3eb8c05b73170138a340563.png",
-      "extensions": { "link": "https://www.tendies.dev/" }
+      "extensions": {
+        "link": "https://www.tendies.dev/"
+      }
     },
     {
       "chainId": 1,
@@ -12720,7 +12873,9 @@
       "symbol": "YFA",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/noPTWYkI/logos/1/0xef327568556310d344c49fb7ce6cbfe7b2bb83e6.png",
-      "extensions": { "link": "https://yfa.cash/" }
+      "extensions": {
+        "link": "https://yfa.cash/"
+      }
     },
     {
       "chainId": 1,
@@ -12757,7 +12912,9 @@
       "symbol": "FAM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/OeuBUuEd/logos/1/0x9d24364b97270961b2948734afe8d58832efd43a.png",
-      "extensions": { "link": "https://yefam.finance/" }
+      "extensions": {
+        "link": "https://yefam.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -12846,7 +13003,9 @@
       "symbol": "DFX",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/dirAlsmw/logos/1/0xf1f5de69c9c8d9be8a7b01773cc1166d4ec6ede2.jpg",
-      "extensions": { "link": "https://www.definitex.org/" }
+      "extensions": {
+        "link": "https://www.definitex.org/"
+      }
     },
     {
       "chainId": 1,
@@ -12934,7 +13093,9 @@
       "symbol": "BUILD",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/XCmlVkaw/logos/1/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739.PNG",
-      "extensions": { "link": "https://build.finance/" }
+      "extensions": {
+        "link": "https://build.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -13011,7 +13172,9 @@
       "symbol": "YELD",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/-Ikl1-xQ/logos/1/0x468ab3b1f63a1c14b361bc367c3cc92277588da1.png",
-      "extensions": { "link": "https://yeld.finance/" }
+      "extensions": {
+        "link": "https://yeld.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -13060,7 +13223,9 @@
       "symbol": "MAKI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/jnY4J-3F/logos/1/0x270d09cb4be817c98e84feffde03d5cd45e30a27.png",
-      "extensions": { "link": "https://maki.finance" }
+      "extensions": {
+        "link": "https://maki.finance"
+      }
     },
     {
       "chainId": 1,
@@ -13240,7 +13405,9 @@
       "symbol": "SASHIMI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/LQ8bU1Xu/logos/1/0xc28e27870558cf22add83540d2126da2e4b464c2.png",
-      "extensions": { "link": "https://sashimi.cool/" }
+      "extensions": {
+        "link": "https://sashimi.cool/"
+      }
     },
     {
       "chainId": 1,
@@ -13276,7 +13443,9 @@
       "symbol": "SOLARITE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/uRn-tQYt/logos/1/0x930ed81ad809603baf727117385d01f04354612e.jpg",
-      "extensions": { "link": "https://pylon.finance/" }
+      "extensions": {
+        "link": "https://pylon.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -13326,7 +13495,9 @@
       "symbol": "NYAN",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Ow_XCz4Q/logos/1/0xc9ce70a381910d0a90b30d408cc9c7705ee882de.png",
-      "extensions": { "link": "https://nyan.finance/" }
+      "extensions": {
+        "link": "https://nyan.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -13362,7 +13533,9 @@
       "symbol": "CREED",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/xrVffa9U/logos/1/0x675e7d927af7e6d0082e0153dc3485b687a6f0ad.jpg",
-      "extensions": { "link": "https://creed.finance" }
+      "extensions": {
+        "link": "https://creed.finance"
+      }
     },
     {
       "chainId": 1,
@@ -13412,7 +13585,9 @@
       "symbol": "MOON",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/_9lZrjvJ/logos/1/0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824.jpg",
-      "extensions": { "link": "https://moonswap.fi/" }
+      "extensions": {
+        "link": "https://moonswap.fi/"
+      }
     },
     {
       "chainId": 1,
@@ -13474,7 +13649,9 @@
       "symbol": "PHA",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/oym--1SR/logos/1/0x6c5ba91642f10282b576d91922ae6448c9d52f4e.png",
-      "extensions": { "link": "https://phala.network/" }
+      "extensions": {
+        "link": "https://phala.network/"
+      }
     },
     {
       "chainId": 1,
@@ -13484,7 +13661,9 @@
       "symbol": "YMEN",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/9VzkcRvu/logos/1/0xd0c59798f986d333554688cd667033d469c2398e.png",
-      "extensions": { "link": "https://ymen.finance/" }
+      "extensions": {
+        "link": "https://ymen.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -13494,7 +13673,9 @@
       "symbol": "HGET",
       "decimals": 6,
       "logoURI": "https://assets.sequence.info/aPj9Mktj/logos/1/0x7968bc6a03017ea2de509aaa816f163db0f35148.png",
-      "extensions": { "link": "https://www.hedget.com/" }
+      "extensions": {
+        "link": "https://www.hedget.com/"
+      }
     },
     {
       "chainId": 1,
@@ -13504,7 +13685,9 @@
       "symbol": "HEGIC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/0bRWtJYk/logos/1/0x584bc13c7d411c00c01a62e8019472de68768430.png",
-      "extensions": { "link": "https://www.hegic.co/" }
+      "extensions": {
+        "link": "https://www.hegic.co/"
+      }
     },
     {
       "chainId": 1,
@@ -13528,7 +13711,9 @@
       "symbol": "BGTT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/nfdP3q81/logos/1/0x7a545ed3863221a974f327199ac22f7f12535f11.png",
-      "extensions": { "link": "https://baguettetoken.com/" }
+      "extensions": {
+        "link": "https://baguettetoken.com/"
+      }
     },
     {
       "chainId": 1,
@@ -13633,7 +13818,9 @@
       "symbol": "ZOM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/_MpOVoJI/logos/1/0x1a231e75538a931c395785ef5d1a5581ec622b0e.jpeg",
-      "extensions": { "link": "https://zoomprotocol.com/" }
+      "extensions": {
+        "link": "https://zoomprotocol.com/"
+      }
     },
     {
       "chainId": 1,
@@ -13735,7 +13922,9 @@
       "symbol": "UNDB",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/sjG0FZSC/logos/1/0xd03b6ae96cae26b743a6207dcee7cbe60a425c70.png",
-      "extensions": { "link": "http://unidexbot.com/" }
+      "extensions": {
+        "link": "http://unidexbot.com/"
+      }
     },
     {
       "chainId": 1,
@@ -13875,7 +14064,9 @@
       "symbol": "KASSIAHOTEL",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/CYXZfZMz/logos/1/0x06ff1a3b08b63e3b2f98a5124bfc22dc0ae654d3.png",
-      "extensions": { "link": "https://pylon.finance/atlas/farms" }
+      "extensions": {
+        "link": "https://pylon.finance/atlas/farms"
+      }
     },
     {
       "chainId": 1,
@@ -14019,7 +14210,9 @@
       "symbol": "YAM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/bpZoralx/logos/1/0x0aacfbec6a24756c20d41914f2caba817c0d8521.png",
-      "extensions": { "link": "https://yam.finance/" }
+      "extensions": {
+        "link": "https://yam.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -14096,7 +14289,9 @@
       "symbol": "DEUS",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/wprv8fQQ/logos/1/0x3b62f3820e0b035cc4ad602dece6d796bc325325.jpg",
-      "extensions": { "link": "http://deus.finance/" }
+      "extensions": {
+        "link": "http://deus.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -14198,7 +14393,9 @@
       "symbol": "POSH",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/v62sic5v/logos/1/0x685aea4f02e39e5a5bb7f7117e88db1151f38364.png",
-      "extensions": { "link": "https://shill.win/" }
+      "extensions": {
+        "link": "https://shill.win/"
+      }
     },
     {
       "chainId": 1,
@@ -14340,7 +14537,9 @@
       "symbol": "JUICE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/XbVqNF5P/logos/1/0x889efb523cc39590b8483eb9491890ac71407f64.jpg",
-      "extensions": { "link": "https://moonjuice.xyz/" }
+      "extensions": {
+        "link": "https://moonjuice.xyz/"
+      }
     },
     {
       "chainId": 1,
@@ -14376,7 +14575,9 @@
       "symbol": "MEXP",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/q18t2stD/logos/1/0xde201daec04ba73166d9917fdf08e1728e270f06.png",
-      "extensions": { "link": "https://niftymoji.com/mint/" }
+      "extensions": {
+        "link": "https://niftymoji.com/mint/"
+      }
     },
     {
       "chainId": 1,
@@ -14425,7 +14626,9 @@
       "symbol": "MANY",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/34HTaWo6/logos/1/0xab7aaf9e485a3bc885985184abe9fc6aba727bd6.png",
-      "extensions": { "link": "https://many.global" }
+      "extensions": {
+        "link": "https://many.global"
+      }
     },
     {
       "chainId": 1,
@@ -14448,7 +14651,9 @@
       "symbol": "POT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Ah2MCekn/logos/1/0x042afd3869a47e2d5d42cc787d5c9e19df32185f.png",
-      "extensions": { "link": "https://pot.finance" }
+      "extensions": {
+        "link": "https://pot.finance"
+      }
     },
     {
       "chainId": 1,
@@ -14458,7 +14663,9 @@
       "symbol": "HIPPO",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/PO0tyql7/logos/1/0x81313f7c5c9c824236c9e4cba3ac4b049986e756.png",
-      "extensions": { "link": "https://hippo-finance.com/" }
+      "extensions": {
+        "link": "https://hippo-finance.com/"
+      }
     },
     {
       "chainId": 1,
@@ -14482,7 +14689,9 @@
       "symbol": "YFIIG",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/AA00eRau/logos/1/0xef8ba8cba86f81b3108f60186fce9c81b5096d5c.png",
-      "extensions": { "link": "https://yfiigold.finance/" }
+      "extensions": {
+        "link": "https://yfiigold.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -14520,7 +14729,9 @@
       "symbol": "COMB",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/4w3KtDET/logos/1/0x7d36cce46dd2b0d28dde12a859c2ace4a21e3678.jpg",
-      "extensions": { "link": "https://combine.finance/" }
+      "extensions": {
+        "link": "https://combine.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -14557,7 +14768,9 @@
       "symbol": "JOON",
       "decimals": 4,
       "logoURI": "https://assets.sequence.info/W8ldd7EH/logos/1/0x174897edd3ce414084a009d22db31c7b7826400d.png",
-      "extensions": { "link": "https://joonian.media/" }
+      "extensions": {
+        "link": "https://joonian.media/"
+      }
     },
     {
       "chainId": 1,
@@ -14686,7 +14899,9 @@
       "symbol": "SAFE2",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/o4A50dOp/logos/1/0x250a3500f48666561386832f1f1f1019b89a2699.jpg",
-      "extensions": { "link": "https://www.coverprotocol.com/" }
+      "extensions": {
+        "link": "https://www.coverprotocol.com/"
+      }
     },
     {
       "chainId": 1,
@@ -14828,7 +15043,9 @@
       "symbol": "YFIII",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/ZWMQa6O9/logos/1/0x4be40bc9681d0a7c24a99b4c92f85b9053fc2a45.png",
-      "extensions": { "link": "https://dify.finance" }
+      "extensions": {
+        "link": "https://dify.finance"
+      }
     },
     {
       "chainId": 1,
@@ -14838,7 +15055,9 @@
       "symbol": "RBC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/1LjXjpEY/logos/1/0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3.png",
-      "extensions": { "link": "https://rubic.exchange/" }
+      "extensions": {
+        "link": "https://rubic.exchange/"
+      }
     },
     {
       "chainId": 1,
@@ -14861,7 +15080,9 @@
       "symbol": "WAR",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/ImNFzzXi/logos/1/0xf4a81c18816c9b0ab98fac51b36dcb63b0e58fde.png",
-      "extensions": { "link": "https://yieldwars.com/" }
+      "extensions": {
+        "link": "https://yieldwars.com/"
+      }
     },
     {
       "chainId": 1,
@@ -14951,7 +15172,9 @@
       "symbol": "YFE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/QhTd2pJz/logos/1/0x33811d4edbcaed10a685254eb5d3c4e4398520d2.png",
-      "extensions": { "link": "https://yfemoney.com/" }
+      "extensions": {
+        "link": "https://yfemoney.com/"
+      }
     },
     {
       "chainId": 1,
@@ -14987,7 +15210,9 @@
       "symbol": "AHF",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/WL2tSCDq/logos/1/0xd6d3608f2d770d0a8d0da62d7afe21ea1da86d9c.jpg",
-      "extensions": { "link": "https://americanhorror.finance" }
+      "extensions": {
+        "link": "https://americanhorror.finance"
+      }
     },
     {
       "chainId": 1,
@@ -15024,7 +15249,9 @@
       "symbol": "YFIEC",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/EEgMjMkR/logos/1/0x2e6e152d29053b6337e434bc9be17504170f8a5b.jpg",
-      "extensions": { "link": "https://yfiec.finance" }
+      "extensions": {
+        "link": "https://yfiec.finance"
+      }
     },
     {
       "chainId": 1,
@@ -15034,7 +15261,9 @@
       "symbol": "DODO",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/axQzNsJa/logos/1/0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd.png",
-      "extensions": { "link": "https://dodoex.io/" }
+      "extensions": {
+        "link": "https://dodoex.io/"
+      }
     },
     {
       "chainId": 1,
@@ -15082,7 +15311,9 @@
       "symbol": "COZOM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/2gyusK1x/logos/1/0x41523a22144f3d129dddf1e9a549333148d0c37d.png",
-      "extensions": { "link": "https://www.niftex.com/launches/details/COZOM" }
+      "extensions": {
+        "link": "https://www.niftex.com/launches/details/COZOM"
+      }
     },
     {
       "chainId": 1,
@@ -15105,7 +15336,9 @@
       "symbol": "METRIC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/-aIeECGo/logos/1/0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac.png",
-      "extensions": { "link": "https://metric.exchange/" }
+      "extensions": {
+        "link": "https://metric.exchange/"
+      }
     },
     {
       "chainId": 1,
@@ -15115,7 +15348,9 @@
       "symbol": "APE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/A3aHe2y1/logos/1/0x209c1808febf6c1ab7c65764bb61ad67d3923fcc.jpg",
-      "extensions": { "link": "https://apecoin.dev/" }
+      "extensions": {
+        "link": "https://apecoin.dev/"
+      }
     },
     {
       "chainId": 1,
@@ -15152,7 +15387,9 @@
       "symbol": "STEAK",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/bSVwEBCa/logos/1/0xeed9e4f2450035d6426276a8aa2084966ee3b1bb.jpg",
-      "extensions": { "link": "https://steaks.finance/" }
+      "extensions": {
+        "link": "https://steaks.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -15268,7 +15505,9 @@
       "symbol": "ORB",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/SX2DDywt/logos/1/0x1b7c4d4f226ccf3211b0f99c4fdfb84a2606bf8e.png",
-      "extensions": { "link": "https://orb.bz/" }
+      "extensions": {
+        "link": "https://orb.bz/"
+      }
     },
     {
       "chainId": 1,
@@ -15331,7 +15570,9 @@
       "symbol": "ZAC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/to3WJfEd/logos/1/0x98a90499b62ae48e151a66b0f647570b5a473b1c.png",
-      "extensions": { "link": "https://zac.finance/" }
+      "extensions": {
+        "link": "https://zac.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -15355,7 +15596,9 @@
       "symbol": "MBBASED",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/VKVuRDLM/logos/1/0x26cf82e4ae43d31ea51e72b663d26e26a75af729.png",
-      "extensions": { "link": "https://based.money/" }
+      "extensions": {
+        "link": "https://based.money/"
+      }
     },
     {
       "chainId": 1,
@@ -15378,7 +15621,9 @@
       "symbol": "BLV",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/xGzk5dIq/logos/1/0x8da25b8ed753a5910013167945a676921e864436.png",
-      "extensions": { "link": "https://www.bellevuenetwork.io/" }
+      "extensions": {
+        "link": "https://www.bellevuenetwork.io/"
+      }
     },
     {
       "chainId": 1,
@@ -15441,7 +15686,9 @@
       "symbol": "YEA",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/3nsYchlu/logos/1/0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec.png",
-      "extensions": { "link": "http://yea.finance/" }
+      "extensions": {
+        "link": "http://yea.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -15530,7 +15777,9 @@
       "symbol": "DARK",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/-UY9MuEu/logos/1/0x3108ccfd96816f9e663baa0e8c5951d229e8c6da.jpg",
-      "extensions": { "link": "https://www.dark.build/" }
+      "extensions": {
+        "link": "https://www.dark.build/"
+      }
     },
     {
       "chainId": 1,
@@ -15635,7 +15884,9 @@
       "symbol": "INDEX",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/fRBZj7Uc/logos/1/0x0954906da0bf32d5479e25f46056d22f08464cab.png",
-      "extensions": { "link": "https://www.indexcoop.com/" }
+      "extensions": {
+        "link": "https://www.indexcoop.com/"
+      }
     },
     {
       "chainId": 1,
@@ -15713,7 +15964,9 @@
       "symbol": "HATE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/j-W8hoQD/logos/1/0x054bd236b42385c938357112f419dc5943687886.png",
-      "extensions": { "link": "https://heavensgate.finance/" }
+      "extensions": {
+        "link": "https://heavensgate.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -15881,7 +16134,9 @@
       "symbol": "DOKI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/0zLW9fK2/logos/1/0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544.png",
-      "extensions": { "link": "https://dokidoki.finance" }
+      "extensions": {
+        "link": "https://dokidoki.finance"
+      }
     },
     {
       "chainId": 1,
@@ -15930,7 +16185,9 @@
       "symbol": "DOGES",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/VF0ZlGFS/logos/1/0xb4fbed161bebcb37afb1cb4a6f7ca18b977ccb25.png",
-      "extensions": { "link": "https://doge-finance.com/" }
+      "extensions": {
+        "link": "https://doge-finance.com/"
+      }
     },
     {
       "chainId": 1,
@@ -15940,7 +16197,9 @@
       "symbol": "DANDY",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/onlr3Tqb/logos/1/0x9dfc4b433d359024eb3e810d77d60fbe8b0d9b82.jpg",
-      "extensions": { "link": "https://dego.finance/" }
+      "extensions": {
+        "link": "https://dego.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -15990,7 +16249,9 @@
       "symbol": "CRAFT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/NvrF0gkQ/logos/1/0xa09ff006c652496e72d648cef2f4ee6777efdf6f.jpg",
-      "extensions": { "link": "https://decraft.finance/" }
+      "extensions": {
+        "link": "https://decraft.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -16026,7 +16287,9 @@
       "symbol": "FIN",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/8q3ie6Lr/logos/1/0x054f76beed60ab6dbeb23502178c52d6c5debe40.png",
-      "extensions": { "link": "https://definer.org/" }
+      "extensions": {
+        "link": "https://definer.org/"
+      }
     },
     {
       "chainId": 1,
@@ -16062,7 +16325,9 @@
       "symbol": "PSHP",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/iIB-Vp7v/logos/1/0x88d59ba796fdf639ded3b5e720988d59fdb71eb8.png",
-      "extensions": { "link": "https://payship.org" }
+      "extensions": {
+        "link": "https://payship.org"
+      }
     },
     {
       "chainId": 1,
@@ -16164,7 +16429,9 @@
       "symbol": "EYE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/rTNHjQZb/logos/1/0x155ff1a85f440ee0a382ea949f24ce4e0b751c65.png",
-      "extensions": { "link": "http://behodler.info" }
+      "extensions": {
+        "link": "http://behodler.info"
+      }
     },
     {
       "chainId": 1,
@@ -16174,7 +16441,9 @@
       "symbol": "SWAG",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/rO21iyj-/logos/1/0x87edffde3e14c7a66c9b9724747a1c5696b742e6.jpeg",
-      "extensions": { "link": "https://www.swag.finance/" }
+      "extensions": {
+        "link": "https://www.swag.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -16184,7 +16453,9 @@
       "symbol": "NOTRUMP",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/qp2pFAZD/logos/1/0x40ce0a1d8f4999807b92ec266a025f071814b15d.png",
-      "extensions": { "link": "https://omen.eth.link" }
+      "extensions": {
+        "link": "https://omen.eth.link"
+      }
     },
     {
       "chainId": 1,
@@ -16194,7 +16465,9 @@
       "symbol": "YESTRUMP",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Sb0Knvcg/logos/1/0x5963fd7ca9b17b85768476019f81cb43d9d1818e.png",
-      "extensions": { "link": "https://omen.eth.link" }
+      "extensions": {
+        "link": "https://omen.eth.link"
+      }
     },
     {
       "chainId": 1,
@@ -16271,7 +16544,9 @@
       "symbol": "HAUT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/TM9HSmcC/logos/1/0x3142dad33b1c6e1371d8627365f2ee2095eb6b37.png",
-      "extensions": { "link": "https://www.niftex.com/fullExchange/HAUT" }
+      "extensions": {
+        "link": "https://www.niftex.com/fullExchange/HAUT"
+      }
     },
     {
       "chainId": 1,
@@ -16281,7 +16556,9 @@
       "symbol": "GEM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/zS7TEvHO/logos/1/0x30b1efb052205e6ca3c4888c3c50c5b339cc0602.jpg",
-      "extensions": { "link": "https://gems.cargo.build/" }
+      "extensions": {
+        "link": "https://gems.cargo.build/"
+      }
     },
     {
       "chainId": 1,
@@ -16317,7 +16594,9 @@
       "symbol": "YFDT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/SWeHnr5h/logos/1/0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd.png",
-      "extensions": { "link": "https://yfdt.finance/" }
+      "extensions": {
+        "link": "https://yfdt.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -16327,7 +16606,9 @@
       "symbol": "DEA",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/JfiFuv5-/logos/1/0x80ab141f324c3d6f2b18b030f1c4e95d4d658778.jpg",
-      "extensions": { "link": "https://deus.finance/" }
+      "extensions": {
+        "link": "https://deus.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -16350,7 +16631,9 @@
       "symbol": "ASWAP",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/yHNYTbQC/logos/1/0xad0887734461af8c6033068bde4047dbe84074cc.png",
-      "extensions": { "link": "https://arbiswap.online/" }
+      "extensions": {
+        "link": "https://arbiswap.online/"
+      }
     },
     {
       "chainId": 1,
@@ -16374,7 +16657,9 @@
       "symbol": "UTU",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/dAok3VMY/logos/1/0xa58a4f5c4bb043d2cc1e170613b74e767c94189b.png",
-      "extensions": { "link": "https://protocol.utu.io/" }
+      "extensions": {
+        "link": "https://protocol.utu.io/"
+      }
     },
     {
       "chainId": 1,
@@ -16492,7 +16777,9 @@
       "symbol": "YFIP",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/UomK8w0T/logos/1/0xb9782532fa7062a6f73df1ce71d75c0e16046ebc.png",
-      "extensions": { "link": "https://yfipaprika.finance/" }
+      "extensions": {
+        "link": "https://yfipaprika.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -16781,7 +17068,9 @@
       "symbol": "DFGL",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/r6HXkmov/logos/1/0xe3a64a3c4216b83255b53ec7ea078b13f21a7dad.jpg",
-      "extensions": { "link": "https://defigold.finance/" }
+      "extensions": {
+        "link": "https://defigold.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -16856,7 +17145,9 @@
       "symbol": "YIELDX",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/cRdWFGWd/logos/1/0xe52d53c8c9aa7255f8c2fa9f7093fea7192d2933.png",
-      "extensions": { "link": "https://yieldxfarming.io/" }
+      "extensions": {
+        "link": "https://yieldxfarming.io/"
+      }
     },
     {
       "chainId": 1,
@@ -16905,7 +17196,9 @@
       "symbol": "DOGDEFI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/jpAkrPz4/logos/1/0x80bb277f4355a43cdbb86a82f9876c946476d9eb.jpg",
-      "extensions": { "link": "https://dogdeficoin.com/" }
+      "extensions": {
+        "link": "https://dogdeficoin.com/"
+      }
     },
     {
       "chainId": 1,
@@ -16955,7 +17248,9 @@
       "symbol": "WOO",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Jfi_Y5fb/logos/1/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.jpg",
-      "extensions": { "link": "https://woo.network/" }
+      "extensions": {
+        "link": "https://woo.network/"
+      }
     },
     {
       "chainId": 1,
@@ -16979,7 +17274,9 @@
       "symbol": "CANDY",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/HlD28tdN/logos/1/0x50eb346fc29a80d97563a50146c3fcf9423b5538.png",
-      "extensions": { "link": "https://www.niftex.com/launches/details/CANDY" }
+      "extensions": {
+        "link": "https://www.niftex.com/launches/details/CANDY"
+      }
     },
     {
       "chainId": 1,
@@ -16989,7 +17286,9 @@
       "symbol": "BUGS",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/ICkV8CqD/logos/1/0xbc3ec4e491b835dce394a53e9a9a10ac19564839.png",
-      "extensions": { "link": "https://www.niftex.com/launches/details/BUGS" }
+      "extensions": {
+        "link": "https://www.niftex.com/launches/details/BUGS"
+      }
     },
     {
       "chainId": 1,
@@ -16999,7 +17298,9 @@
       "symbol": "COKE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/dBzRTteK/logos/1/0xa3a3f076413a362bb0d69eea1dc5b0e79c831edc.png",
-      "extensions": { "link": "https://www.niftex.com/launches/details/COKE" }
+      "extensions": {
+        "link": "https://www.niftex.com/launches/details/COKE"
+      }
     },
     {
       "chainId": 1,
@@ -17062,7 +17363,9 @@
       "symbol": "YFRM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/UNksRXFn/logos/1/0xbe685c5e06866cfb94a4242e3df8f2fa3e7c2b73.png",
-      "extensions": { "link": "https://yfrm.finance" }
+      "extensions": {
+        "link": "https://yfrm.finance"
+      }
     },
     {
       "chainId": 1,
@@ -17167,7 +17470,9 @@
       "symbol": "YYFI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/lbJ9dlo_/logos/1/0xaf20b44c1c651d1d29cfb916ee2a0630b828eb7a.png",
-      "extensions": { "link": "https://yyfiprotocol.com/" }
+      "extensions": {
+        "link": "https://yyfiprotocol.com/"
+      }
     },
     {
       "chainId": 1,
@@ -17203,7 +17508,9 @@
       "symbol": "KP3R",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/RP22A6CS/logos/1/0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44.jpg",
-      "extensions": { "link": "https://keep3r.network/" }
+      "extensions": {
+        "link": "https://keep3r.network/"
+      }
     },
     {
       "chainId": 1,
@@ -17239,7 +17546,9 @@
       "symbol": "3CRV",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/aUbObnND/logos/1/0x6c3f90f043a72fa612cbac8115ee7e52bde6e490.png",
-      "extensions": { "link": "https://www.curve.fi/" }
+      "extensions": {
+        "link": "https://www.curve.fi/"
+      }
     },
     {
       "chainId": 1,
@@ -17395,7 +17704,9 @@
       "symbol": "PTERIA",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/J9bV7QIJ/logos/1/0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b.png",
-      "extensions": { "link": "https://pteria.org/" }
+      "extensions": {
+        "link": "https://pteria.org/"
+      }
     },
     {
       "chainId": 1,
@@ -17418,7 +17729,9 @@
       "symbol": "SMPL",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/SRQ0F81Y/logos/1/0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b.jpg",
-      "extensions": { "link": "https://smplfoundation.com" }
+      "extensions": {
+        "link": "https://smplfoundation.com"
+      }
     },
     {
       "chainId": 1,
@@ -17495,7 +17808,9 @@
       "symbol": "ROOK",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/EcZ45vr8/logos/1/0xfa5047c9c78b8877af97bdcb85db743fd7313d4a.jpg",
-      "extensions": { "link": "https://app.keeperdao.com/" }
+      "extensions": {
+        "link": "https://app.keeperdao.com/"
+      }
     },
     {
       "chainId": 1,
@@ -17585,7 +17900,9 @@
       "symbol": "CHM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/k7LhMCNH/logos/1/0x538a151dd910c1d1227719bd400d6c4f99ea06d0.png",
-      "extensions": { "link": "https://www.cryptochrome.org/" }
+      "extensions": {
+        "link": "https://www.cryptochrome.org/"
+      }
     },
     {
       "chainId": 1,
@@ -17634,7 +17951,9 @@
       "symbol": "DREAM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/l2QyWJi_/logos/1/0xa93d5cfaa41193b13321c035b4bdd2b534172762.png",
-      "extensions": { "link": "https://zzz.finance/" }
+      "extensions": {
+        "link": "https://zzz.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -17788,7 +18107,9 @@
       "symbol": "MTI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/FHo2oQM7/logos/1/0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346.png",
-      "extensions": { "link": "https://mti.finance/" }
+      "extensions": {
+        "link": "https://mti.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -17798,7 +18119,9 @@
       "symbol": "TEAT",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/zDA6Vepp/logos/1/0x38d58b82cb24a3e0410a7991f255174c9fd8093b.png",
-      "extensions": { "link": "https://www.teal.digital/" }
+      "extensions": {
+        "link": "https://www.teal.digital/"
+      }
     },
     {
       "chainId": 1,
@@ -17808,7 +18131,9 @@
       "symbol": "YFIM",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/SBxN8oE5/logos/1/0x2e2f3246b6c65ccc4239c9ee556ec143a7e5de2c.jpg",
-      "extensions": { "link": "https://app.yfi.mobi/#/" }
+      "extensions": {
+        "link": "https://app.yfi.mobi/#/"
+      }
     },
     {
       "chainId": 1,
@@ -17912,7 +18237,9 @@
       "symbol": "ECTO",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/-t-1XpZ4/logos/1/0x921c87490ccbef90a3b0fc1951bd9064f7220af6.png",
-      "extensions": { "link": "https://boobanker.org/#/" }
+      "extensions": {
+        "link": "https://boobanker.org/#/"
+      }
     },
     {
       "chainId": 1,
@@ -17922,7 +18249,9 @@
       "symbol": "RAK",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/AiUNfHmb/logos/1/0xa8b0f154a688c22142e361707df64277e0a0be66.png",
-      "extensions": { "link": "https://rake.finance" }
+      "extensions": {
+        "link": "https://rake.finance"
+      }
     },
     {
       "chainId": 1,
@@ -18223,7 +18552,9 @@
       "symbol": "COC",
       "decimals": 8,
       "logoURI": "https://assets.sequence.info/Mkt0hk5B/logos/1/0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf.png",
-      "extensions": { "link": "https://cocktail.money/" }
+      "extensions": {
+        "link": "https://cocktail.money/"
+      }
     },
     {
       "chainId": 1,
@@ -18274,7 +18605,9 @@
       "symbol": "IBETH",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/eXT4lKOu/logos/1/0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a.png",
-      "extensions": { "link": "https://alphafinance.io/" }
+      "extensions": {
+        "link": "https://alphafinance.io/"
+      }
     },
     {
       "chainId": 1,
@@ -18402,7 +18735,9 @@
       "symbol": "EXRD",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/ukkSfZG1/logos/1/0x6468e79a80c0eab0f9a2b574c8d5bc374af59414.png",
-      "extensions": { "link": "https://www.radixdlt.com/" }
+      "extensions": {
+        "link": "https://www.radixdlt.com/"
+      }
     },
     {
       "chainId": 1,
@@ -18479,7 +18814,9 @@
       "symbol": "ENB",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/2g1sgjb1/logos/1/0xa6fb1df483b24eeab569e19447e0e107003b9e15.png",
-      "extensions": { "link": "https://earnbase.org" }
+      "extensions": {
+        "link": "https://earnbase.org"
+      }
     },
     {
       "chainId": 1,
@@ -18687,7 +19024,9 @@
       "symbol": "ARCH",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/rImLeeRP/logos/1/0x1f3f9d3068568f8040775be2e8c03c103c61f3af.png",
-      "extensions": { "link": "https://archerdao.io/" }
+      "extensions": {
+        "link": "https://archerdao.io/"
+      }
     },
     {
       "chainId": 1,
@@ -18844,7 +19183,9 @@
       "symbol": "7ADD",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Rpgnrgd7/logos/1/0xed36482c7f8e5850e91ac0cf6bf2130a1aa2df92.png",
-      "extensions": { "link": "https://holdtowin.eth.link/" }
+      "extensions": {
+        "link": "https://holdtowin.eth.link/"
+      }
     },
     {
       "chainId": 1,
@@ -18998,7 +19339,9 @@
       "symbol": "KEX",
       "decimals": 6,
       "logoURI": "https://assets.sequence.info/4kyylsSS/logos/1/0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8.jpg",
-      "extensions": { "link": "https://kira.network/" }
+      "extensions": {
+        "link": "https://kira.network/"
+      }
     },
     {
       "chainId": 1,
@@ -19034,7 +19377,9 @@
       "symbol": "CORN",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/aa53fQeO/logos/1/0xa456b515303b2ce344e9d2601f91270f8c2fea5e.png",
-      "extensions": { "link": "https://cornichon.ape.tax/" }
+      "extensions": {
+        "link": "https://cornichon.ape.tax/"
+      }
     },
     {
       "chainId": 1,
@@ -19165,7 +19510,9 @@
       "symbol": "WCRES",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/xAil5k6v/logos/1/0xa0afaa285ce85974c3c881256cb7f225e3a1178a.png",
-      "extensions": { "link": "https://defi.crescofin.ch/" }
+      "extensions": {
+        "link": "https://defi.crescofin.ch/"
+      }
     },
     {
       "chainId": 1,
@@ -19390,7 +19737,9 @@
       "symbol": "BADGER",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/cxpZszvd/logos/1/0x3472a5a71965499acd81997a54bba8d852c6e53d.jpg",
-      "extensions": { "link": "https://app.badger.finance/" }
+      "extensions": {
+        "link": "https://app.badger.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -19696,7 +20045,9 @@
       "symbol": "YETI",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/1WRXGZTP/logos/1/0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d.png",
-      "extensions": { "link": "https://powerindex.io/#/" }
+      "extensions": {
+        "link": "https://powerindex.io/#/"
+      }
     },
     {
       "chainId": 1,
@@ -19786,7 +20137,9 @@
       "symbol": "RBASE",
       "decimals": 9,
       "logoURI": "https://assets.sequence.info/94vtlEuq/logos/1/0xe8b251822d003a2b2466ee0e38391c2db2048739.jpg",
-      "extensions": { "link": "https://www.rbase.finance/" }
+      "extensions": {
+        "link": "https://www.rbase.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -19836,7 +20189,9 @@
       "symbol": "1337",
       "decimals": 4,
       "logoURI": "https://assets.sequence.info/6uDpWSp8/logos/1/0x35872fea6a4843facbcdbce99e3b69596a3680b8.png",
-      "extensions": { "link": "https://e1337.pro/" }
+      "extensions": {
+        "link": "https://e1337.pro/"
+      }
     },
     {
       "chainId": 1,
@@ -20045,7 +20400,9 @@
       "symbol": "POLIS",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/9owhi_KJ/logos/1/0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626.jpg",
-      "extensions": { "link": "https://polispay.org/" }
+      "extensions": {
+        "link": "https://polispay.org/"
+      }
     },
     {
       "chainId": 1,
@@ -20081,7 +20438,9 @@
       "symbol": "VVT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Dxg50wce/logos/1/0x755be920943ea95e39ee2dc437b268917b580d6e.jpg",
-      "extensions": { "link": "https://versoview.com/" }
+      "extensions": {
+        "link": "https://versoview.com/"
+      }
     },
     {
       "chainId": 1,
@@ -20117,7 +20476,9 @@
       "symbol": "N3RDZ",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/xJa-VT1B/logos/1/0x32c868f6318d6334b2250f323d914bc2239e4eee.png",
-      "extensions": { "link": "https://n3rd.finance" }
+      "extensions": {
+        "link": "https://n3rd.finance"
+      }
     },
     {
       "chainId": 1,
@@ -20484,7 +20845,9 @@
       "symbol": "CHAL",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/ZDQw0XV6/logos/1/0x1cc0744c5106bb47a61c4e41f517cb6f1c49b547.png",
-      "extensions": { "link": "https://chalice.finance" }
+      "extensions": {
+        "link": "https://chalice.finance"
+      }
     },
     {
       "chainId": 1,
@@ -20587,7 +20950,9 @@
       "symbol": "WCOINBASE-IOU",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/2jje4uTE/logos/1/0x4185cf99745b2a20727b37ee798193dd4a56cdfa.png",
-      "extensions": { "link": "https://deus.finance/" }
+      "extensions": {
+        "link": "https://deus.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -20597,7 +20962,9 @@
       "symbol": "ONX",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/GKRK97vl/logos/1/0xe0ad1806fd3e7edf6ff52fdb822432e847411033.png",
-      "extensions": { "link": "https://onx.finance" }
+      "extensions": {
+        "link": "https://onx.finance"
+      }
     },
     {
       "chainId": 1,
@@ -20688,7 +21055,9 @@
       "symbol": "TBB",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/Qn6s6ydW/logos/1/0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2.jpg",
-      "extensions": { "link": "https://tradebutler.tools/" }
+      "extensions": {
+        "link": "https://tradebutler.tools/"
+      }
     },
     {
       "chainId": 1,
@@ -20725,7 +21094,9 @@
       "symbol": "1INCH",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/voHEf2ke/logos/1/0x111111111117dc0aa78b770fa6a738034120c302.png",
-      "extensions": { "link": "https://1inch.exchange/" }
+      "extensions": {
+        "link": "https://1inch.exchange/"
+      }
     },
     {
       "chainId": 1,
@@ -20774,7 +21145,9 @@
       "symbol": "FNK",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/YJrtlgly/logos/1/0xb5fe099475d3030dde498c3bb6f3854f762a48ad.png",
-      "extensions": { "link": "https://fnktoken.com/" }
+      "extensions": {
+        "link": "https://fnktoken.com/"
+      }
     },
     {
       "chainId": 1,
@@ -20784,7 +21157,9 @@
       "symbol": "WHITE",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/LICR0FO4/logos/1/0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44.png",
-      "extensions": { "link": "https://www.whiteheart.finance/" }
+      "extensions": {
+        "link": "https://www.whiteheart.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -20995,7 +21370,9 @@
       "symbol": "BCS",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/lRBpQT44/logos/1/0x03066da434e5264ef0b32f787923f974a5726fdc.png",
-      "extensions": { "link": "https://basiscoin.finance/" }
+      "extensions": {
+        "link": "https://basiscoin.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -21071,7 +21448,9 @@
       "symbol": "STRNG",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/fBrW9glE/logos/1/0x350a6a30c79df3600c4e0e67deab0a64b645e2c2.png",
-      "extensions": { "link": "https://thestronghold.finance/" }
+      "extensions": {
+        "link": "https://thestronghold.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -21094,7 +21473,9 @@
       "symbol": "SAC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/JQqxgLzY/logos/1/0xacd8f2523a4613eee78904354187c81bb05ae2b8.jpg",
-      "extensions": { "link": "https://stand.cash/" }
+      "extensions": {
+        "link": "https://stand.cash/"
+      }
     },
     {
       "chainId": 1,
@@ -21104,7 +21485,9 @@
       "symbol": "SAS",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/JQqxgLzY/logos/1/0x4c38d0e726b6c86f64c1b281348e725973542043.jpg",
-      "extensions": { "link": "https://stand.cash/" }
+      "extensions": {
+        "link": "https://stand.cash/"
+      }
     },
     {
       "chainId": 1,
@@ -21287,7 +21670,9 @@
       "symbol": "LDO",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/xt5P7i9H/logos/1/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
-      "extensions": { "link": "https://stake.lido.fi/" }
+      "extensions": {
+        "link": "https://stake.lido.fi/"
+      }
     },
     {
       "chainId": 1,
@@ -21336,7 +21721,9 @@
       "symbol": "ZZZV2",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/vmFoBuYi/logos/1/0x93ed140172ff226dad1f7f3650489b8daa07ae7f.jpg",
-      "extensions": { "link": "https://zzz.finance/" }
+      "extensions": {
+        "link": "https://zzz.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -21346,7 +21733,9 @@
       "symbol": "ZKS",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/2yVxFE3x/logos/1/0xe4815ae53b124e7263f08dcdbbb757d41ed658c6.jpg",
-      "extensions": { "link": "https://zks.org/en" }
+      "extensions": {
+        "link": "https://zks.org/en"
+      }
     },
     {
       "chainId": 1,
@@ -21382,7 +21771,9 @@
       "symbol": "RFY",
       "decimals": 9,
       "logoURI": "https://assets.sequence.info/S-m5Dr2P/logos/1/0x3f5be50e4651ee184109a0b1b71d344d12e8b603.png",
-      "extensions": { "link": "https://rfyield.finance/" }
+      "extensions": {
+        "link": "https://rfyield.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -21470,7 +21861,9 @@
       "symbol": "FSD",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/uMPJAWj1/logos/1/0xd27af03cb73a29ee2f37194c70c4ee13b68fe8cb.jpg",
-      "extensions": { "link": "https://freqset.finance/" }
+      "extensions": {
+        "link": "https://freqset.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -21493,7 +21886,9 @@
       "symbol": "VTD",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/WvK_Zy5G/logos/1/0xf0e3543744afced8042131582f2a19b6aeb82794.jpg",
-      "extensions": { "link": "https://vtd.finance/" }
+      "extensions": {
+        "link": "https://vtd.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -21503,7 +21898,9 @@
       "symbol": "MORC",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/wRKO2-5p/logos/1/0x236ecfb32c2b496f942c86d43b8ca4f6bd931e30.png",
-      "extensions": { "link": "https://morph.finance/" }
+      "extensions": {
+        "link": "https://morph.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -21513,7 +21910,9 @@
       "symbol": "MORT",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/wRKO2-5p/logos/1/0x970b596ea3cb9864397f799902f0a579cdc3377b.png",
-      "extensions": { "link": "https://morph.finance/" }
+      "extensions": {
+        "link": "https://morph.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -21667,7 +22066,9 @@
       "symbol": "CUDOS",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/gN0QvLuR/logos/1/0x817bbdbc3e8a1204f3691d14bb44992841e3db35.png",
-      "extensions": { "link": "https://www.cudos.org/" }
+      "extensions": {
+        "link": "https://www.cudos.org/"
+      }
     },
     {
       "chainId": 1,
@@ -21848,7 +22249,9 @@
       "symbol": "BBR",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/gATSleUT/logos/1/0x7671904eed7f10808b664fc30bb8693fd7237abf.png",
-      "extensions": { "link": "https://bbr.finance/" }
+      "extensions": {
+        "link": "https://bbr.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -22151,7 +22554,9 @@
       "symbol": "CVR",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/zTtt0g2Y/logos/1/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6.png",
-      "extensions": { "link": "https://www.polkacover.com/" }
+      "extensions": {
+        "link": "https://www.polkacover.com/"
+      }
     },
     {
       "chainId": 1,
@@ -22226,7 +22631,9 @@
       "symbol": "MDX",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/5xZH-2i_/logos/1/0x947aeb02304391f8fbe5b25d7d98d649b57b1788.png",
-      "extensions": { "link": "https://trade.mandala.exchange/" }
+      "extensions": {
+        "link": "https://trade.mandala.exchange/"
+      }
     },
     {
       "chainId": 1,
@@ -22304,7 +22711,9 @@
       "symbol": "ARMOR",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/IrA2mX2Z/logos/1/0x1337def16f9b486faed0293eb623dc8395dfe46a.png",
-      "extensions": { "link": "https://armor.fi" }
+      "extensions": {
+        "link": "https://armor.fi"
+      }
     },
     {
       "chainId": 1,
@@ -22570,7 +22979,9 @@
       "symbol": "KLON",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/wHdr6vY_/logos/1/0xb97d5cf2864fb0d08b34a484ff48d5492b2324a0.jpg",
-      "extensions": { "link": "https://klondike.finance/" }
+      "extensions": {
+        "link": "https://klondike.finance/"
+      }
     },
     {
       "chainId": 1,
@@ -22598,5 +23009,10 @@
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network."
       }
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  }
 }

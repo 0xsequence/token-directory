@@ -3,7 +3,10 @@
   "chainId": 42161,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
-  "keywords": ["erc20", "arbitrum"],
+  "keywords": [
+    "erc20",
+    "arbitrum"
+  ],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
     {
@@ -38,5 +41,10 @@
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
       }
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }

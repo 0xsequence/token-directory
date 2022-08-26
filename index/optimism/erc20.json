@@ -3,7 +3,10 @@
   "chainId": 10,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
-  "keywords": ["erc20", "optimism"],
+  "keywords": [
+    "erc20",
+    "optimism"
+  ],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
     {
@@ -37,6 +40,581 @@
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+      "name": "0xBitcoin",
+      "type": "",
+      "symbol": "0xBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.sequence.info/N5SgJ_3x/logos/10/0xe0bb0d3de8c10976511e5030ca403dbf4c25165b.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+      "name": "Aave Token",
+      "type": "",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/s2Df-cxo/logos/10/0x76fb31fb4af56892a25e32cfc43de717950c9278.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+      "name": "Aelin Protocol",
+      "type": "",
+      "symbol": "AELIN",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/yZdRrfh2/logos/10/0x61baadcf22d2565b0f471b291c475db5555e0b76.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+      "name": "Balancer",
+      "type": "",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/EHSVNEC-/logos/10/0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
+      "name": "BitANT",
+      "type": "",
+      "symbol": "BitANT",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/5T0oplc-/logos/10/0x5029c236320b8f15ef0a657054b84d90bfbeded3.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
+      "name": "BitBTC",
+      "type": "",
+      "symbol": "BitBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/qiCdHYDE/logos/10/0xc98b98d17435aa00830c87ea02474c5007e1f272.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+      "name": "BarnBridge Governance Token",
+      "type": "",
+      "symbol": "BOND",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/bjXpN9M3/logos/10/0x3e7ef8f50246f725885102e8238cbba33f276747.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+      "name": "Curve DAO Token",
+      "type": "",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/cc3bs7TH/logos/10/0x0994206dfe8de6ec6920ff4d779b0d950605fb53.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
+      "name": "Dentacoin",
+      "type": "",
+      "symbol": "DCN",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/B67p_k14/logos/10/0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+      "name": "dForce",
+      "type": "",
+      "symbol": "DF",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/G715o8kh/logos/10/0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+      "name": "dHEDGE DAO Token",
+      "type": "",
+      "symbol": "DHT",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/ZxteDpxu/logos/10/0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+      "name": "Dola USD Stablecoin",
+      "type": "",
+      "symbol": "DOLA",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/979aEAb7/logos/10/0x8ae125e8653821e851f12a49f7765db9a9ce7384.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x65559aA14915a70190438eF90104769e5E890A00",
+      "name": "Ethereum Name Service",
+      "type": "",
+      "symbol": "ENS",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/5xHt2K16/logos/10/0x65559aa14915a70190438ef90104769e5e890a00.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
+      "name": "Equalizer",
+      "type": "",
+      "symbol": "EQZ",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/sb0OcMfO/logos/10/0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
+      "name": "Erica Social Token",
+      "type": "",
+      "symbol": "EST",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/NdT01Kpr/logos/10/0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Ether",
+      "type": "",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/4SoWp8Ul/logos/10/0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x1eba7a6a72c894026cd654ac5cdcf83a46445b08",
+      "name": "Gitcoin",
+      "type": "",
+      "symbol": "GTC",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/XHIDobTe/logos/10/0x1eba7a6a72c894026cd654ac5cdcf83a46445b08.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
+      "name": "Geyser",
+      "type": "",
+      "symbol": "GYSR",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/D5-m0wK9/logos/10/0x117cfd9060525452db4a34d51c0b3b7599087f05.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+      "name": "Kyber Network Crystal v2",
+      "type": "",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/XIRGh_hG/logos/10/0xa00e3a3511aac35ca78530c85007afcd31753819.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
+      "name": "Kromatika",
+      "type": "",
+      "symbol": "KROM",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/9-RfuLIU/logos/10/0xf98dcd95217e15e05d8638da4c91125e59590b07.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+      "name": "Chainlink",
+      "type": "",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/ml76lITD/logos/10/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+      "name": "Theranos Coin",
+      "type": "",
+      "symbol": "LIZ",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/qqLLbSSc/logos/10/0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
+      "name": "LoopringCoin V2",
+      "type": "",
+      "symbol": "LRC",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/-_tIgmwn/logos/10/0xfeaa9194f9f8c1b65429e31341a103071464907e.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+      "name": "LUSD Stablecoin",
+      "type": "",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/zNxykfH9/logos/10/0xc40f949f8a4e094d1b49a23ea9241d289b7b2819.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "name": "Lyra",
+      "type": "",
+      "symbol": "LYRA",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/pvbjnCdq/logos/10/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+      "name": "Mask Network",
+      "type": "",
+      "symbol": "MASK",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/k7gmkMpX/logos/10/0x3390108e913824b8ead638444cc52b9abdf63798.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "name": "Maker",
+      "type": "",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/uyo8Yw8x/logos/1/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5",
+      "name": "Maker",
+      "type": "",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/uyo8Yw8x/logos/10/0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "type": "",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/3hSC9USo/logos/10/0x4200000000000000000000000000000000000042.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+      "name": "Paper",
+      "type": "",
+      "symbol": "PAPER",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/YHuD3R9c/logos/10/0x00f932f0fe257456b32deda4758922e56a4f4b42.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+      "name": "Perpetual",
+      "type": "",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/P0tcbW4l/logos/10/0x9e1028f5f1d5ede59748ffcee5532509976840e0.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+      "name": "PoolTogether",
+      "type": "",
+      "symbol": "POOL",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/5Z1APZ3n/logos/10/0x395ae52bb17aef68c2888d941736a71dc6d4e125.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A",
+      "name": "Premia",
+      "type": "",
+      "symbol": "PREMIA",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/uI3LWcsZ/logos/10/0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
+      "name": "Rai Reflex Index",
+      "type": "",
+      "symbol": "RAI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/UnwPWF9h/logos/10/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+      "name": "Rocket Pool ETH",
+      "type": "",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/9WttMknJ/logos/10/0x9bcef72be871e61ed4fbbc7630889bee758eb81d.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+      "name": "Rari Governance Token",
+      "type": "",
+      "symbol": "RGT",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/zIKBKIR5/logos/10/0xb548f63d4405466b36c0c0ac3318a22fdcec711a.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+      "name": "Sarcophagus",
+      "type": "",
+      "symbol": "SARCO",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/TCKPuKcN/logos/10/0x7c6b91d9be155a6db01f749217d76ff02a7227f2.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+      "name": "Synthetic Bitcoin",
+      "type": "",
+      "symbol": "sBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/4b0qAIph/logos/10/0x298b9b95708152ff6968aafd889c6586e9169f1d.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+      "name": "Synthetic Ether",
+      "type": "",
+      "symbol": "sETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/6-KhyxI3/logos/10/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+      "name": "Synthetic Chainlink",
+      "type": "",
+      "symbol": "sLINK",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/DchbqaTn/logos/10/0xc5db22719a06418028a40a9b5e9a7c02959d0d08.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+      "name": "Synthetix",
+      "type": "",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/iEic59BH/logos/10/0x8700daec35af8ff88c16bdf0418774cb3d7599b4.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
+      "name": "SPANK",
+      "type": "",
+      "symbol": "SPANK",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/ksfExszW/logos/10/0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4",
+      "name": "SUKU",
+      "type": "",
+      "symbol": "SUKU",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/AtOJg_mZ/logos/10/0xef6301da234fc7b0545c6e877d3359fe0b9e50a4.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+      "name": "Synthetix USD",
+      "type": "",
+      "symbol": "sUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/ypXm9NBE/logos/10/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+      "name": "Optimistic Thales Token",
+      "type": "",
+      "symbol": "THALES",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/A3tMr9c0/logos/10/0x217d47011b23bb961eb6d93ca9945b7501a5bb11.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd",
+      "name": "TheDAO",
+      "type": "",
+      "symbol": "TheDAO",
+      "decimals": 16,
+      "logoURI": "https://assets.sequence.info/TBjDAADP/logos/10/0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
+      "name": "TrueUSD",
+      "type": "",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/xNsWI721/logos/10/0xcb59a0a753fdb7491d5f3d794316f1ade197b21e.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+      "name": "UMA Voting Token v1",
+      "type": "",
+      "symbol": "UMA",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/MW8zzr_s/logos/10/0xe7798f023fc62146e8aa1b36da45fb70855a77ea.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
+      "name": "Uniswap",
+      "type": "",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/uNqMaOGE/logos/10/0x6fd9d7ad17242c41f7131d257212c54a0e816691.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+      "name": "Decentralized USD",
+      "type": "",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/lCFj_jno/logos/10/0x7113370218f31764c1b6353bdf6004d86ff6b9cc.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "name": "Tether USD",
+      "type": "",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.sequence.info/iNb-Lp8B/logos/10/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
+      "name": "UST (Wormhole)",
+      "type": "",
+      "symbol": "UST",
+      "decimals": 6,
+      "logoURI": "https://assets.sequence.info/t_-xUszR/logos/10/0xba28feb4b6a6b81e3f26f08b83a19e715c4294fd.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+      "name": "dForce USD",
+      "type": "",
+      "symbol": "USX",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/J9QtgsNG/logos/10/0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "name": "Wrapped Bitcoin",
+      "type": "",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.sequence.info/ozqwINoJ/logos/10/0x68f180fcce6836688e9084f035309e29bf0a2095.svg",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "type": "",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/kTY67_tf/logos/10/0x4200000000000000000000000000000000000006.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xE4F27b04cC7729901876B44f4EAA5102EC150265",
+      "name": "CryptoFranc",
+      "type": "",
+      "symbol": "XCHF",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/5_76_mBy/logos/10/0xe4f27b04cc7729901876b44f4eaa5102ec150265.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 10,
+      "address": "0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33",
+      "name": "0x Protocol Token",
+      "type": "",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/cIkUHoDy/logos/10/0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33.png",
+      "extensions": {}
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }

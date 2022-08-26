@@ -3,7 +3,12 @@
   "chainId": 1,
   "tokenStandard": "erc1155",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
-  "keywords": ["erc1155", "nft", "dune", "opensea"],
+  "keywords": [
+    "erc1155",
+    "nft",
+    "dune",
+    "opensea"
+  ],
   "timestamp": "2021-01-27T22:43:52.813Z",
   "tokens": [
     {
@@ -563,7 +568,9 @@
       "symbol": "RBNS",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/78czPBy1/logos/1/0xe529178bf1ad4f8e01f09037a3c6e96131cff5f3",
-      "extensions": { "description": "MINTED MULTI EDITION PRINTS BY ROBNESS." }
+      "extensions": {
+        "description": "MINTED MULTI EDITION PRINTS BY ROBNESS."
+      }
     },
     {
       "chainId": 1,
@@ -1463,7 +1470,9 @@
       "symbol": "VIZV",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/6IRcInEB/logos/1/0x9103650d8c0fe6600de16d9f17d9b84910d43df5",
-      "extensions": { "description": "Might not always be Bitcoin ...." }
+      "extensions": {
+        "description": "Might not always be Bitcoin ...."
+      }
     },
     {
       "chainId": 1,
@@ -1528,7 +1537,9 @@
       "symbol": "SOB",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/U6VQD0xt/logos/1/0xd2186d8c1ee0450eee790f96e355b1c497f11d03",
-      "extensions": { "description": "The SOB collection by iH0DL." }
+      "extensions": {
+        "description": "The SOB collection by iH0DL."
+      }
     },
     {
       "chainId": 1,
@@ -1807,7 +1818,9 @@
       "symbol": "EM2",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/l6v8Kb9N/logos/1/0x33b83b6d3179dcb4094c685c2418cab06372ed89",
-      "extensions": { "link": "https://eth-men.com/" }
+      "extensions": {
+        "link": "https://eth-men.com/"
+      }
     },
     {
       "chainId": 1,
@@ -1911,7 +1924,9 @@
       "symbol": "aDLN",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/1q0vHxap/logos/1/0x4a0e3d2879d8a0e8190c2c5bdb65ece9c02d7297",
-      "extensions": { "link": "https://dln.org" }
+      "extensions": {
+        "link": "https://dln.org"
+      }
     },
     {
       "chainId": 1,
@@ -1957,7 +1972,9 @@
       "symbol": "DONDI",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/jf21_EPD/logos/1/0x2ca30ed7652017fa906054fcd8b46e79b357f482",
-      "extensions": { "link": "https://node.dondi.io/" }
+      "extensions": {
+        "link": "https://node.dondi.io/"
+      }
     },
     {
       "chainId": 1,
@@ -5980,7 +5997,9 @@
       "symbol": "XCR",
       "decimals": 0,
       "logoURI": "https://assets.sequence.info/3_v9lubf/logos/1/0x73242c671cf402152e3880af208071dadab0bc27",
-      "extensions": { "link": "https://xenum.io" }
+      "extensions": {
+        "link": "https://xenum.io"
+      }
     },
     {
       "chainId": 1,
@@ -7456,5 +7475,10 @@
         "ogImage": "https://lh3.googleusercontent.com/JtV8EvfBzISJSUEo53uM7K1l1wT59X5SuGf8ZkX-_CqxAkOsvMy-5GdCUv_--fNUlCi9UqMRSE8KpqGekOFsUrIif3-YEcS6NlSv1E0=h400"
       }
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  }
 }

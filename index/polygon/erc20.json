@@ -3,7 +3,12 @@
   "chainId": 137,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
-  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
   "timestamp": "2021-01-25T15:36:16.623Z",
   "tokens": [
     {
@@ -5256,7 +5261,9 @@
       "name": "Old Test Dai (dev)",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -5264,7 +5271,9 @@
       "name": "Old Test Dai (stg)",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -5272,7 +5281,9 @@
       "name": "SC DxDex.io",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -5280,7 +5291,9 @@
       "name": "BuyItUp",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -5288,7 +5301,9 @@
       "name": "JustForFun",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -5296,7 +5311,9 @@
       "name": "StakeShare",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -5304,7 +5321,9 @@
       "name": "minereum",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -5312,7 +5331,9 @@
       "name": "Minereum Polygon",
       "type": "",
       "decimals": 0,
-      "extensions": { "blacklist": true }
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 137,
@@ -5353,5 +5374,10 @@
         "description": "We build games that reward you to play. Play, earn, and scale your own metaverse guild. ICE Poker beta is now live."
       }
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0
+  }
 }
