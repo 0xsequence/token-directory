@@ -2,7 +2,7 @@
   "name": "sequence-erc721-polygon",
   "chainId": 137,
   "tokenStandard": "erc721",
-  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
   "keywords": ["erc721", "nft", "dune", "opensea"],
   "timestamp": "2021-01-25T14:48:45.683Z",
   "tokens": [
@@ -10,58 +10,58 @@
       "chainId": 137,
       "address": "0xF57F3A0b3415cC2daE6b3A3c4Fd3FC58626bE16E",
       "name": "Dark Earth Genesis Collection",
-      "standard": "erc721",
+      "type": "",
       "symbol": "DEC",
-      "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-icon.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/qqDqB14A/logos/137/0xf57f3a0b3415cc2dae6b3a3c4fd3fc58626be16e.png",
       "extensions": {
         "link": "https://darkearth.gg/",
         "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
         "ogImage": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-banner.png",
-        "originChainId": 137,
-        "originAddress": null
+        "originChainId": 137
       }
     },
     {
       "chainId": 137,
       "address": "0xcF06A29C07a1CD8f232C9Ad3e3FFcF1feDA4cee5",
       "name": "Mystery Capsule by Dark Earth",
-      "standard": "erc721",
+      "type": "",
       "symbol": "MC",
-      "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-icon.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/qqDqB14A/logos/137/0xcf06a29c07a1cd8f232c9ad3e3ffcf1feda4cee5.png",
       "extensions": {
         "link": "https://darkearth.gg/",
         "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
         "ogImage": "https://raw.githubusercontent.com/0xsequence/token-directory/master/images/dark-earth-mystery-capsule-banner.png",
-        "originChainId": 137,
-        "originAddress": null
+        "originChainId": 137
       }
     },
     {
       "chainId": 137,
       "address": "0x7227e371540CF7b8e512544Ba6871472031F3335",
       "name": "Neon District",
-      "standard": "erc721",
+      "type": "",
       "symbol": "NDITEM1",
-      "logoURI": "https://lh3.googleusercontent.com/4NU_hkDs7GdAFJxCuc2385wbFWnPpoa2IDYTGWpPGP6anRPPGC0iILc0t4VEE5-H2w6LnGthod-RZvrNmpX02N4m=s130",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/RLknz1eb/logos/137/0x7227e371540cf7b8e512544ba6871472031f3335",
       "extensions": {
         "link": "https://neondistrict.io/",
         "description": "Neon District is a free-to-play cyberpunk role-playing game. Collect characters and gear, craft and level up teams, and battle against other players through competitive multiplayer and in turn-based combat.",
         "ogImage": "https://lh3.googleusercontent.com/_EmX1Ndvx24VZ8-pmDC7NjgICFnUC-YIuxDYKCO2-T4WYbMyPnnH0oAYKXcu03_vMHQNGX-S0jcte66UEnThkkGIo6EA3wwpiQox=h600",
-        "originChainId": 1,
-        "originAddress": null
+        "originChainId": 1
       }
     },
     {
       "chainId": 137,
       "address": "0x1ff58e665531953a3c667e2d831586777fe4be31",
       "name": "BLOCKLORDS",
-      "standard": "erc721",
+      "type": "",
       "symbol": "LORD",
-      "logoURI": "https://lh3.googleusercontent.com/MRMaF2uWhPfU0v7O-nsFSdN6o6o68S5IhDu9psWKmNQYLosfGwgFpCEK8D4BSe4F176-29SRgivCy8cAfTEweKAh=s60",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/EaNG6LUu/logos/137/0x1ff58e665531953a3c667e2d831586777fe4be31",
       "extensions": {
         "link": "https://blocklords.io",
         "description": "BLOCKLORDS is a smart-contract based grand strategy game where players are thrown into a medieval world and will have to fight their way to the top. HERO NFTs include a hero’s name, base stats, equipped item, traits, and title, making them valuable assets and necessary in order to play BLOCKLORDS ETH at launch.",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x2c04e6dd23c33a66f58dfb79dfb15285336c92d0"
       }
@@ -70,13 +70,13 @@
       "chainId": 137,
       "address": "0xbd0fbd0ec1a20b05ebe590340b9eb1c11fc312ce",
       "name": "InStarToken",
-      "standard": "erc721",
+      "type": "",
       "symbol": "IST",
-      "logoURI": "https://lh3.googleusercontent.com/YaBhKSGpVX049OjlbwnmVyugkq4r_5tRm7mpyJoBtNXsgwxx797Iy_t_5j6U9jzogcFHBvZikQjcmhy_eay-dywQ=s60",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/jOh6aD2F/logos/137/0xbd0fbd0ec1a20b05ebe590340b9eb1c11fc312ce",
       "extensions": {
         "link": "https://www.infinitystar.io",
         "description": "Infinity Star is an auto-battle RPG, set in a not-so distant dystopian future about characters who escaped an evil research lab\r\nto gain their freedom back. Grind your gears and gather companions to escape the lab for freedom! \r\n中国大陆的各位玩家，请访问 https://infinitystar.cc/ 谢谢大家！",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x543ecfb0d28fa40d639494957e7cba52460f490e"
       }
@@ -85,9 +85,10 @@
       "chainId": 137,
       "address": "0x439b161307afc4a4f1b5fa6a21ca689e081cd322",
       "name": "Gods Unchained Legacy",
-      "standard": "erc721",
+      "type": "",
       "symbol": "GODS",
-      "logoURI": "https://storage.opensea.io/0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab-featured-1556588688.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/1B2M2Y8A/logos/137/0x439b161307afc4a4f1b5fa6a21ca689e081cd322.png",
       "extensions": {
         "link": "https://godsunchained.com/?refcode=0x5b3256965e7C3cF26E11FCAf296DfC8807C01073",
         "description": "Alert: This is the legacy collection.  Gods Unchained is a free-to-play, turn-based competitive trading card game in which cards can be bought and sold on the OpenSea marketplace. Players use their collection to build decks of cards, and select a God to play with at the start of each match. The goal of the game is to reduce your opponent's life to zero. Each deck contains exactly 30 cards. On OpenSea, cards can be sold for a fixed price, auctioned, or sold in bundles.",
@@ -100,9 +101,10 @@
       "chainId": 137,
       "address": "0x9d170170fe5731bb70eeae41a353d3520087de74",
       "name": "Emblem Vault V2",
-      "standard": "erc721",
+      "type": "",
       "symbol": "Emblem.pro",
-      "logoURI": "https://lh3.googleusercontent.com/VkSY4QiLanH0h2oS37cjRAENLDLBqLKUX3YC4ZvdEW60zI9OXoRl4E9uR1x3d8hU8ekFai4Ruwq4FObZ0VH2NpU=s120",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/tQVQ0VTz/logos/137/0x9d170170fe5731bb70eeae41a353d3520087de74",
       "extensions": {
         "link": "https://emblem.pro",
         "description": "An entire wallet inside an NFT. Emblem Vaults are containers of assets. Transfer / Gift / Sell entire collections of tokens and assets by transferring the NFT.",
@@ -115,9 +117,10 @@
       "chainId": 137,
       "address": "0x7f43a00b12f00876cbeefaf7640ef5f0cdedf24e",
       "name": "Spells of Genesis Askian Card",
-      "standard": "erc721",
+      "type": "",
       "symbol": "SOG",
-      "logoURI": "https://lh3.googleusercontent.com/goVIYxudzy3_02oJzt4oOXbOVQj4HL3NSTZEa1Gol4HjZiMKBttKm9QCAkK5Q_pcLLzFrMBO37yoaoFEPT84rUL9aQ=s60",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/QCvny_s1/logos/137/0x7f43a00b12f00876cbeefaf7640ef5f0cdedf24e",
       "extensions": {
         "link": "http://www.spellsofgenesis.com",
         "description": "The 1st blockchain-based mobile game ever made, Spells of Genesis combines TCG functionalities with the point-and-shoot aspects of arcade games. Players have to collect and combine cards to create the strongest deck in order to fight their enemies.",
@@ -130,13 +133,13 @@
       "chainId": 137,
       "address": "0x449a061985915a333473a7ccf5114313c50bd04e",
       "name": "Drakons",
-      "standard": "erc721",
+      "type": "",
       "symbol": "DRKNS",
-      "logoURI": "https://lh3.googleusercontent.com/bHdj9EEm0_xQB9qFMqWrd0qpJoiQft70_wWpaJsQZFG4VkHGcAMLhYTZAOtUW0MK87MQikXJ7X7DWZ8TjtFGCyE=s60",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/oQFXDe5X/logos/137/0x449a061985915a333473a7ccf5114313c50bd04e",
       "extensions": {
         "link": "https://www.drakons.io/",
         "description": "Drakons are genetically unique and artistically designed digital dragons created as crypto collectibles. Collect according to their attributes in terms of Agility, Strength, Intelligence and Health Points. Collect now so you can breed, sire, sell, battle and be a Drakon Master!",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x989e1fb123b67afd66e10574c8b409bc6e812d9a"
       }
@@ -145,13 +148,13 @@
       "chainId": 137,
       "address": "0x85bc2e8aaad5dbc347db49ea45d95486279ed918",
       "name": "cometh spaceships",
-      "standard": "erc721",
+      "type": "",
       "symbol": "SPACESHIP",
-      "logoURI": "https://lh3.googleusercontent.com/J0Z4_cs_Ap2f8Q0USIQ40gnO1ovuhIIKa9qoNjX10_WK0d-w-25ykX9go0riOgF86XGvbcEVtjyCtyv0WDyrIn-cwoZip6vBEC7agBc=s120",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/lRazrYIp/logos/137/0x85bc2e8aaad5dbc347db49ea45d95486279ed918",
       "extensions": {
         "link": "https://www.cometh.io",
         "description": "Cometh is a DeFi powered game with yield generating NFT.\r\nGet spaceships, explore the galaxy and earn tokens.",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xbcd4f1ecff4318e7a0c791c7728f3830db506c71"
       }
@@ -160,9 +163,10 @@
       "chainId": 137,
       "address": "0x7183688c9d484ac0324bfa5f20a8408bd26011f5",
       "name": "CryptoKitties",
-      "standard": "erc721",
+      "type": "",
       "symbol": "CKITTY",
-      "logoURI": "https://lh3.googleusercontent.com/C272ZRW1RGGef9vKMePFSCeKc1Lw6U40wl9ofNVxzUxFdj84hH9xJRQNf-7wgs7W8qw8RWe-1ybKp-VKuU5D-tg=s60",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/uzwVnFak/logos/137/0x7183688c9d484ac0324bfa5f20a8408bd26011f5",
       "extensions": {
         "link": "https://www.cryptokitties.co/",
         "description": "CryptoKitties is a game centered around breedable, collectible, and oh-so-adorable creatures we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you; it cannot be replicated, taken away, or destroyed.",
@@ -175,13 +179,13 @@
       "chainId": 137,
       "address": "0x7b2a989c4d1ad1b79a84ce2eb79da5d8d9c2b7a7",
       "name": "DigitalaxNFT",
-      "standard": "erc721",
+      "type": "",
       "symbol": "DTX",
-      "logoURI": "https://lh3.googleusercontent.com/_zhfNuizp8GZsusOGbYLkV38vCsgeRIpb2cWf7YMoFlmMSSMmn3GRwJWZZ-xOqhl8lZCLf_ko4EcwWZ8GIYMoZMhvw=s120",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/J1q5Y8ly/logos/137/0x7b2a989c4d1ad1b79a84ce2eb79da5d8d9c2b7a7",
       "extensions": {
         "link": "https://marketplace.digitalax.xyz/",
         "description": "The DIGITALAX ERC-721 NFTs are the master garments and accessories on the DIGITALAX marketplace and are each designed exclusively by our 30+ Global Designer Network — a group of uber talented 3D digital fashion designers from Europe, US, Asia, Afria, Australia! \r\n\r\nDIGITALAX is the first dedicated Digital-Only Fashion Auction Exchange Platform and Open Source Digital Fashion Toolkit. We are bringing new industry standards around digital goods, Open Digital licenses, digital fashion pricing transparency, digital supply chain automation and addressing core problems around NFT liquidity and stability. We are positioning as THE first digital fashion NFT engine built on the Ethereum network for all gaming, VR and metaverses.\r\n\r\nCheck out more of our exclusive and amazing digital fashion designs at www.digitalax.xyz",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x0b509f4b044f713a91bb50535914f7ad160532fe"
       }
@@ -190,9 +194,10 @@
       "chainId": 137,
       "address": "0x10d10bd7fcf71efd8f9238a580292ac3f058ea95",
       "name": "Sandbox's LANDs",
-      "standard": "erc721",
+      "type": "",
       "symbol": "LAND",
-      "logoURI": "https://lh3.googleusercontent.com/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A=s60",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/A37P1brv/logos/137/0x10d10bd7fcf71efd8f9238a580292ac3f058ea95",
       "extensions": {
         "link": "https://www.sandbox.game/",
         "description": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS.  LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.",
@@ -205,13 +210,13 @@
       "chainId": 137,
       "address": "0xaf55d762ec89932362322dda4e744d9c4037d96c",
       "name": "Sorare New",
-      "standard": "erc721",
+      "type": "",
       "symbol": "SOR",
-      "logoURI": "https://lh3.googleusercontent.com/gj47nmAR3valkmpVbwamiuTJfWEWSCyVeORdjM6DRWrZ1o8WaqBxFXmpBrzZnGoWaPwq1Y0jiXRrBLbnLcawAp92=s120",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/C0Ne-DhK/logos/137/0xaf55d762ec89932362322dda4e744d9c4037d96c",
       "extensions": {
         "link": "https://sorare.com",
         "description": "Sorare is a fantasy football game where managers can trade official digital collectibles. The platform is growing fast, with a global audience collecting, buying, and selling their favorite players in the form of blockchain-backed NFTs. The Sorare team has secured the rights to European giants like Atletico Madrid, Juventus, and Bayern Munich, as well as the MLS, Korean League, and Japanese League.",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205"
       }
@@ -220,17 +225,16 @@
       "chainId": 137,
       "address": "0x7c0EBABFc394ec6D926E801fE0e69A1f15a7FE4D",
       "name": "DAZN Boxing Moments",
-      "standard": "erc721",
+      "type": "",
       "symbol": "DBM",
-      "logoURI": "https://quandefi-public-bucket.s3.us-east-1.amazonaws.com/DAZN/DAZN%20Boxing.io_stacked_black_v1.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/J2IVB0nD/logos/137/0x7c0ebabfc394ec6d926e801fe0e69a1f15a7fe4d.png",
       "extensions": {
         "link": "https://www.daznboxing.io/",
         "description": "Make Fight Night Last Forever. The DAZN Boxing Matchroom Collection 1 includes the release of 30,000 boxing moments. Build your own digital collection of the biggest moments in boxing either by purchasing a pack from DAZNBoxing.io or via the marketplace.",
         "ogImage": "https://quandefi-public-bucket.s3.us-east-1.amazonaws.com/DAZN/DAZN%20Banner.png",
-        "originChainId": 1,
-        "originAddress": null
+        "originChainId": 1
       }
     }
-  ],
-  "version": { "major": 1, "minor": 2, "patch": 1 }
+  ]
 }

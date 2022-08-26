@@ -2,7 +2,7 @@
   "name": "sequence-erc20-bnb",
   "chainId": 56,
   "tokenStandard": "erc20",
-  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
   "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
   "timestamp": "2022-03-02T05:44:10.382Z",
   "tokens": [
@@ -10,43 +10,41 @@
       "chainId": 56,
       "address": "0x24802247bd157d771b7effa205237d8e9269ba8a",
       "name": "Thetan Coin",
+      "type": "",
       "symbol": "THC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20959/large/coin_ui.png?1638142381",
+      "logoURI": "https://assets.sequence.info/ShQNR67g/logos/56/0x24802247bd157d771b7effa205237d8e9269ba8a.png",
       "extensions": {
         "link": "https://thetanarena.com/",
-        "description": "Thetan Arena is an e-sport game based on Blockchain technology. You can gather your friends, form a team, battle with others and earn token rewards with just your skills. Thetan Arena's gameplay is designed to revolve around the combination of your personal skills and teamwork. Challenge yourself with various game modes: MOBA & Battle Royale, coming with monthly updates and attractive rewards. You are guaranteed a gaming experience that’s never been known before and also guaranteed to lose to anyone the second you pause the fighting, too. Gear your heroes up with a large selection of hundreds of weapons. You'd better come up with a good tactic as well because the most fierce war awaiting you right from the moment that starship drops you off on the battlefield.",
-        "ogImage": null,
-        "originChainId": 56,
-        "originAddress": null
+        "description": "Thetan Arena is an e-sport game based on Blockchain technology. You can gather your friends, form a team, battle with others and earn token rewards with just your skills. Thetan Arena's gameplay is designed to revolve around the combination of your personal skills and teamwork. Challenge yourself with various game modes: MOBA \u0026 Battle Royale, coming with monthly updates and attractive rewards. You are guaranteed a gaming experience that’s never been known before and also guaranteed to lose to anyone the second you pause the fighting, too. Gear your heroes up with a large selection of hundreds of weapons. You'd better come up with a good tactic as well because the most fierce war awaiting you right from the moment that starship drops you off on the battlefield.",
+        "originChainId": 56
       }
     },
     {
       "chainId": 56,
       "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
       "name": "Thetan Arena",
+      "type": "",
       "symbol": "THG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18414/large/c4N4n8k-_400x400.png?1631831447",
+      "logoURI": "https://assets.sequence.info/9fFxvDIH/logos/56/0x9fd87aefe02441b123c3c32466cd9db4c578618f.png",
       "extensions": {
         "link": "https://thetanarena.com/",
-        "description": "Thetan Arena is an e-sport game based on Blockchain technology. You can gather your friends, form a team, battle with others and earn token rewards with just your skills. Thetan Arena's gameplay is designed to revolve around the combination of your personal skills and teamwork. Challenge yourself with various game modes: MOBA & Battle Royale, coming with monthly updates and attractive rewards. You are guaranteed a gaming experience that’s never been known before and also guaranteed to lose to anyone the second you pause the fighting, too. Gear your heroes up with a large selection of hundreds of weapons. You'd better come up with a good tactic as well because the most fierce war awaiting you right from the moment that starship drops you off on the battlefield.",
-        "ogImage": null,
-        "originChainId": 56,
-        "originAddress": null
+        "description": "Thetan Arena is an e-sport game based on Blockchain technology. You can gather your friends, form a team, battle with others and earn token rewards with just your skills. Thetan Arena's gameplay is designed to revolve around the combination of your personal skills and teamwork. Challenge yourself with various game modes: MOBA \u0026 Battle Royale, coming with monthly updates and attractive rewards. You are guaranteed a gaming experience that’s never been known before and also guaranteed to lose to anyone the second you pause the fighting, too. Gear your heroes up with a large selection of hundreds of weapons. You'd better come up with a good tactic as well because the most fierce war awaiting you right from the moment that starship drops you off on the battlefield.",
+        "originChainId": 56
       }
     },
     {
       "chainId": 56,
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "name": "Ether",
+      "type": "",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "logoURI": "https://assets.sequence.info/9bnPEhDa/logos/56/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
       "extensions": {
         "link": "https://ethereum.org/",
         "description": "Ethereum is a global, open-source platform for decentralized applications. In other words, the vision is to create a world computer that anyone can build applications in a decentralized manner; while all states and data are distributed and publicly accessible. Ethereum supports smart contracts in which developers can write code in order to program digital value. Examples of decentralized apps (dapps) that are built on Ethereum includes token, non-fungible tokens, decentralized finance apps, lending protocol, decentralized exchanges, and much more.",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
       }
@@ -55,9 +53,10 @@
       "chainId": 56,
       "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
       "name": "Polygon",
+      "type": "",
       "symbol": "MATIC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/Matic.png?1553498071",
+      "logoURI": "https://assets.sequence.info/AbuvadIM/logos/56/0xcc42724c6683b7e57334c4e856f4c9965ed682bd.png",
       "extensions": {
         "link": "https://polygon.technology/",
         "description": "Polygon Network provides scalable, secure and instant Ethereum transactions. It is built on an implementation of the PLASMA framework and functions as an off chain scaling solution. Polygon Network offers scalability solutions along with other tools to the developer ecosystem, which enable Polygon to seamlessly integrate with dApps while helping developers create an enhanced user experience.",
@@ -70,9 +69,10 @@
       "chainId": 56,
       "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
       "name": "Fantom",
+      "type": "",
       "symbol": "FTM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016",
+      "logoURI": "https://assets.sequence.info/XSSbvH0R/logos/56/0xad29abb318791d579433d831ed122afeaf29dcfe.png",
       "extensions": {
         "link": "http://fantom.foundation",
         "description": "FANTOM is a new DAG based Smart Contract platform that intends to solve the scalability issues of existing public distributed ledger technologies. \r\n\r\nThe platform intends to distinguish itself from the traditional block ledger-based storage infrastructure by attempting to employ an improved version of existing DAG-based pro-tocols. The FANTOM platform adopts a new protocol known as the “Lachesis Protocol” to maintain consensus. This protocol is intended to be integrated into the Fantom OPERA Chain. The aim is to allow applications built on top of the FANTOM OPERA Chain to enjoy instant transactions and near zero transaction costs for all users. \r\n\r\nThe mission of FANTOM is to provide compatibility between all transaction bodies around the world, and create an ecosystem which allows real-time transactions and data sharing with low cost.",
@@ -85,28 +85,27 @@
       "chainId": 56,
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "name": "BNB-USD",
+      "type": "",
       "symbol": "BNB-USD",
       "decimals": 18,
-      "logoURI": "https://www.bscscan.com/token/images/busdt_128.png",
+      "logoURI": "https://assets.sequence.info/pp9OcaAC/logos/56/0x55d398326f99059ff775485246999027b3197955.png",
       "extensions": {
         "link": "https://www.binance.com/en/trade/BNB_USDT",
         "description": "A pegged token by Binance which gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
-        "ogImage": null,
-        "originChainId": 1,
-        "originAddress": null
+        "originChainId": 1
       }
     },
     {
       "chainId": 56,
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "name": "Wrapped BNB",
+      "type": "",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1644979850",
+      "logoURI": "https://assets.sequence.info/0NBF7ScC/logos/56/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
       "extensions": {
         "link": "https://www.binance.com/",
         "description": "As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
       }
@@ -115,9 +114,10 @@
       "chainId": 56,
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
       "name": "USDC",
+      "type": "",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "logoURI": "https://assets.sequence.info/u0AKciMh/logos/56/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png",
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
@@ -130,58 +130,55 @@
       "chainId": 56,
       "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
       "name": "XRP",
+      "type": "",
       "symbol": "XRP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1605778731",
+      "logoURI": "https://assets.sequence.info/3qFVJh9u/logos/56/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png",
       "extensions": {
         "link": "https://ripple.com/xrp/",
         "description": "XRP is a digital asset built for payments. It is the native digital asset on the XRP Ledger—an open-source, permissionless and decentralized blockchain technology that can settle transactions in 3-5 seconds.",
-        "ogImage": null,
-        "originChainId": 1,
-        "originAddress": null
+        "originChainId": 1
       }
     },
     {
       "chainId": 56,
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
       "name": "Cardano",
+      "type": "",
       "symbol": "ADA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/975/large/cardano.png?1547034860",
+      "logoURI": "https://assets.sequence.info/00xRhAkz/logos/56/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png",
       "extensions": {
         "link": "https://cardano.org/",
         "description": "Cardano (ADA) is a decentralized platform that will allow complex programmable transfers of value in a secure and scalable fashion. Cardano is built in the secure Haskell programming language.",
-        "ogImage": null,
-        "originChainId": 1,
-        "originAddress": null
+        "originChainId": 1
       }
     },
     {
       "chainId": 56,
       "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
       "name": "Avalanche",
+      "type": "",
       "symbol": "AVAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png?1604021818",
+      "logoURI": "https://assets.sequence.info/c2dVl-Z0/logos/56/0x1ce0c2827e2ef14d5c4f29a091d735a204794041.png",
       "extensions": {
         "link": "https://www.avalabs.org/",
         "description": "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
-        "ogImage": null,
-        "originChainId": 1,
-        "originAddress": null
+        "originChainId": 1
       }
     },
     {
       "chainId": 56,
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "name": "BUSD",
+      "type": "",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766",
+      "logoURI": "https://assets.sequence.info/PVFYYY0j/logos/56/0xe9e7cea3dedca5984780bafc599bd69add087d56.png",
       "extensions": {
         "link": "https://www.paxos.com/busd/",
         "description": "BUSD is a 1:1 USD-backed stablecoin approved by the New York State Department of Financial Services (NYDFS), issued in partnership with Paxos.",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
       }
@@ -190,13 +187,13 @@
       "chainId": 56,
       "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
       "name": "Polkadot",
+      "type": "",
       "symbol": "DOT",
       "decimals": 18,
-      "logoURI": "https://www.bscscan.com/token/images/polkadot_128.png",
+      "logoURI": "https://assets.sequence.info/Nd8-yiPw/logos/56/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png",
       "extensions": {
         "link": "https://polkadot.network/",
         "description": "Polkadot is a blockchain project that aims to connect blockchains, to enable the transfer of value and logic across chains. DOT is the native coin of the network.",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x7884F51dC1410387371ce61747CB6264E1dAeE0B"
       }
@@ -205,17 +202,15 @@
       "chainId": 56,
       "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
       "name": "Dogecoin",
+      "type": "",
       "symbol": "DOGE",
       "decimals": 8,
-      "logoURI": "https://www.bscscan.com/token/images/dogecoin_128.png",
+      "logoURI": "https://assets.sequence.info/aJcRAbuB/logos/56/0xba2ae424d960c26247dd6c32edc70b295c744c43.png",
       "extensions": {
         "link": "https://dogecoin.com/",
         "description": "Dogecoin (DOGE) is based on the popular \"doge\" Internet meme and features a Shiba Inu on its logo. Dogecoin's creators envisaged it as a fun, light-hearted cryptocurrency. that would have greater appeal beyond the core Bitcoin audience, since it was based on a dog meme.",
-        "ogImage": null,
-        "originChainId": 1,
-        "originAddress": null
+        "originChainId": 1
       }
     }
-  ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  ]
 }

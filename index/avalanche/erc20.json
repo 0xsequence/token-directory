@@ -2,66 +2,79 @@
   "name": "sequence-erc20-avalanche",
   "chainId": 43114,
   "tokenStandard": "erc20",
-  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
   "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
   "timestamp": "2022-08-22T15:36:16.623Z",
   "tokens": [
     {
       "chainId": 43114,
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-      "decimals": 18,
       "name": "Wrapped AVAX",
+      "type": "",
       "symbol": "WAVAX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/4lzmbLeG/logos/43114/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
+      "extensions": {}
     },
     {
       "chainId": 43114,
       "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-      "decimals": 18,
       "name": "Dai Stablecoin",
+      "type": "",
       "symbol": "DAI.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/QtChuct4/logos/43114/0xd586e7f844cea2f87f50152665bcbc2c279d8d70.png",
+      "extensions": {}
     },
     {
       "chainId": 43114,
       "address": "0x5947BB275c521040051D82396192181b413227A3",
-      "decimals": 18,
       "name": "ChainLink Token",
+      "type": "",
       "symbol": "LINK.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png"
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/ml76lITD/logos/43114/0x5947bb275c521040051d82396192181b413227a3.png",
+      "extensions": {}
     },
     {
       "chainId": 43114,
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-      "decimals": 6,
       "name": "Tether Token - Bridged",
+      "type": "",
       "symbol": "USDT.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
+      "decimals": 6,
+      "logoURI": "https://assets.sequence.info/iNb-Lp8B/logos/43114/0xc7198437980c041c805a1edcba50c1ce5db95118.png",
+      "extensions": {}
     },
     {
       "chainId": 43114,
       "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
-      "decimals": 8,
       "name": "Wrapped BTC",
+      "type": "",
       "symbol": "WBTC.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
+      "decimals": 8,
+      "logoURI": "https://assets.sequence.info/I0SDkwTf/logos/43114/0x50b7545627a5162f82a992c33b87adc75187b218.png",
+      "extensions": {}
     },
     {
       "chainId": 43114,
       "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
-      "decimals": 18,
       "name": "Wrapped Ether",
+      "type": "",
       "symbol": "WETH.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/IhQ4aiBH/logos/43114/0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab.png",
+      "extensions": {}
     },
     {
       "chainId": 43114,
       "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-      "decimals": 6,
       "name": "USD Coin - Bridged",
+      "type": "",
       "symbol": "USDC.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+      "decimals": 6,
+      "logoURI": "https://assets.sequence.info/u0AKciMh/logos/43114/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664.png",
+      "extensions": {}
     }
   ]
 }
-

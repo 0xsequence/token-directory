@@ -2,7 +2,7 @@
   "name": "sequence-erc1155-polygon",
   "chainId": 137,
   "tokenStandard": "erc1155",
-  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
   "keywords": ["erc1155", "nft"],
   "timestamp": "2021-01-25T15:23:52.438Z",
   "tokens": [
@@ -10,9 +10,10 @@
       "chainId": 137,
       "address": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
       "name": "Skyweaver",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "SKYWVR",
-      "logoURI": "https://assets.skyweaver.net/_tX5dRVi/webapp/icons/skyweaver-token.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/_tX5dRVi/logos/137/0x631998e91476da5b870d741192fc5cbc55f5a52e.png",
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Polygon and Ethereum.",
@@ -25,9 +26,10 @@
       "chainId": 137,
       "address": "0x5151bFa48249C57695336C66d51054c9367f6D33",
       "name": "Skyweaver",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "SKYWVR",
-      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/wiu-vYUH/logos/137/0x5151bfa48249c57695336c66d51054c9367f6d33.png",
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
@@ -41,25 +43,26 @@
       "chainId": 137,
       "address": "0x27A11C1563a5dDa238379B95c91B3AbBaD9C0cf6",
       "name": "Skyweaver (stg)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "SKYWVR",
-      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/wiu-vYUH/logos/137/0x27a11c1563a5dda238379b95c91b3abbad9c0cf6.png",
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0xDFd64eE208629DCb1cEF4a148c50Bb3079D449e3"
-      },
-      "blacklist": true
+      }
     },
     {
       "chainId": 137,
       "address": "0x54b1a9A7a5577E5aD78b77FA2bA7A01d41f09fB4",
       "name": "Skyweaver (dev)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "SKYWVR",
-      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/wiu-vYUH/logos/137/0x54b1a9a7a5577e5ad78b77fa2ba7a01d41f09fb4.png",
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
@@ -73,9 +76,10 @@
       "chainId": 137,
       "address": "0xFe52b949359ad121072a0c3df3CB61a519fa6581",
       "name": "Skyweaver (local)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "SKYWVR",
-      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/wiu-vYUH/logos/137/0xfe52b949359ad121072a0c3df3cb61a519fa6581.png",
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
@@ -89,14 +93,12 @@
       "chainId": 137,
       "address": "0x0ce2ABE65F4F354321Fa9f000aC14b7A2B3F6f65",
       "name": "USDC (Wrapped)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "wUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "logoURI": "https://assets.sequence.info/eqduMleM/logos/137/0x0ce2abe65f4f354321fa9f000ac14b7a2b3f6f65.png",
       "extensions": {
-        "link": null,
         "description": "Wrapped USDC into ERC-1155 token contract.",
-        "ogImage": null,
         "originChainId": 137,
         "originAddress": "0x0ce2ABE65F4F354321Fa9f000aC14b7A2B3F6f65"
       }
@@ -105,14 +107,12 @@
       "chainId": 137,
       "address": "0xdde0A6b9617781b8984790F0d0a40232556869Dd",
       "name": "Test Dai (Wrapped)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "wDAI",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/YBzz5Q_O/images/tokens/dai-token.png",
+      "logoURI": "https://assets.sequence.info/YBzz5Q_O/logos/137/0xdde0a6b9617781b8984790f0d0a40232556869dd.png",
       "extensions": {
-        "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xdde0A6b9617781b8984790F0d0a40232556869Dd",
         "blacklist": true
@@ -122,14 +122,12 @@
       "chainId": 137,
       "address": "0xb634304708e3bf20B19472822DDDAd4CE59EE485",
       "name": "Test Dai (Wrapped) (stg)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "wDAI",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/YBzz5Q_O/images/tokens/dai-token.png",
+      "logoURI": "https://assets.sequence.info/YBzz5Q_O/logos/137/0xb634304708e3bf20b19472822dddad4ce59ee485.png",
       "extensions": {
-        "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xb634304708e3bf20B19472822DDDAd4CE59EE485"
       }
@@ -138,14 +136,12 @@
       "chainId": 137,
       "address": "0xDbC352232F6B6A5a2f18Ea58DC9E79df59e54575",
       "name": "Test Dai (Wrapped) (dev)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "wDAI",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/YBzz5Q_O/images/tokens/dai-token.png",
+      "logoURI": "https://assets.sequence.info/YBzz5Q_O/logos/137/0xdbc352232f6b6a5a2f18ea58dc9e79df59e54575.png",
       "extensions": {
-        "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xDbC352232F6B6A5a2f18Ea58DC9E79df59e54575"
       }
@@ -154,14 +150,12 @@
       "chainId": 137,
       "address": "0x972A6BA04AE120F9B51F0770FEb03c1785877e4E",
       "name": "Test Dai (Wrapped) (local)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "wDAI",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/YBzz5Q_O/images/tokens/dai-token.png",
+      "logoURI": "https://assets.sequence.info/YBzz5Q_O/logos/137/0x972a6ba04ae120f9b51f0770feb03c1785877e4e.png",
       "extensions": {
-        "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "ogImage": null,
         "originChainId": 137,
         "originAddress": "0x972A6BA04AE120F9B51F0770FEb03c1785877e4E"
       }
@@ -170,9 +164,10 @@
       "chainId": 137,
       "address": "0x2e56c100fae2e38c8447ac225d34a486700ea994",
       "name": "Skyweaver (Dev)",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "SW CARDS",
-      "logoURI": "https://assets.skyweaver.net/wiu-vYUH/webapp/icons/skyweaver-token.png",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/wiu-vYUH/logos/137/0x2e56c100fae2e38c8447ac225d34a486700ea994.png",
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
@@ -185,13 +180,13 @@
       "chainId": 137,
       "address": "0x396992c9294e3cf23e72b3f05815d7bcd250542b",
       "name": "PepemonFactory",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "PEPEMON",
-      "logoURI": "https://lh3.googleusercontent.com/uqxQbpi4bFe43rwk7dzB0EWdc846u8EhBe4EVcV89g1MfIvhD_H63b5N-ZXhUMXJ1vDSmihi_oGJ8L0HNVRQ24w=s120",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/8B_qlDGT/logos/137/0x396992c9294e3cf23e72b3f05815d7bcd250542b",
       "extensions": {
         "link": "https://pepemon.finance/",
         "description": "Pepemon's Storefront - Come get your unique Gen1 Starter NFT's now!",
-        "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xcb6768a968440187157cfe13b67cac82ef6cc5a4"
       }
@@ -200,13 +195,13 @@
       "chainId": 137,
       "address": "0x2d0d9b4075e231bff33141d69df49ffcf3be7642",
       "name": "dokidoki.momiji",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "MOMIJI",
-      "logoURI": "https://lh3.googleusercontent.com/4atnnFqMOyNdFlQwKuxD9ijUeIOzcJCwIrPCIsUnnzJFaOlEfkrQFHWIVDUS4L3GmLNyIbq3STFZOOVZ64kTpSy3iGM2PJAa3CZWu48=s120",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/KfpUMDUj/logos/137/0x2d0d9b4075e231bff33141d69df49ffcf3be7642",
       "extensions": {
         "link": "https://degacha.com/introduce/gacha",
-        "description": "### THE WORLD’s FIRST BLOCKCHAIN GACHAPON MACHINE & PLATFORM\r\nGachapon (ガチャポン) refers to the crazy popular Japanese vending-machine style game in which players deposit coins to receive a capsule-ball containing a randomized collectible. Now you can experience the thrill of Gachapon anywhere in the world, while acquiring provably scarce & authentic digital collectibles backed by blockchain NFT technology\r\n\r\nhttps://degacha.com/introduce/gacha",
-        "ogImage": null,
+        "description": "### THE WORLD’s FIRST BLOCKCHAIN GACHAPON MACHINE \u0026 PLATFORM\r\nGachapon (ガチャポン) refers to the crazy popular Japanese vending-machine style game in which players deposit coins to receive a capsule-ball containing a randomized collectible. Now you can experience the thrill of Gachapon anywhere in the world, while acquiring provably scarce \u0026 authentic digital collectibles backed by blockchain NFT technology\r\n\r\nhttps://degacha.com/introduce/gacha",
         "originChainId": 1,
         "originAddress": "0x7cdc0421469398e0f3aa8890693d86c840ac8931"
       }
@@ -215,9 +210,10 @@
       "chainId": 137,
       "address": "0x1d1fb628ee4a40d08f8c4b3696030e7aa56daddb",
       "name": "BCCG",
-      "standard": "erc1155",
+      "type": "",
       "symbol": "BCCG",
-      "logoURI": "https://lh3.googleusercontent.com/lcpoI_5KaLJO8LA6Y0dx42FyTOvZne-tW4EKtoD9UdL6Vdk2UANPwo531EWSslwySarGdu3C9shBAJQsyhoasCa1=s120",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/5xBYMnnP/logos/137/0x1d1fb628ee4a40d08f8c4b3696030e7aa56daddb",
       "extensions": {
         "link": "https://bondly.finance",
         "description": "The Official Bondly Collectible Card Game",
@@ -230,9 +226,9 @@
       "chainId": 137,
       "address": "0xa5511e9941e303101b50675926fd4d9c1a8a8805",
       "name": "Ember Sword Badge",
-      "standard": "erc1155",
-      "symbol": null,
-      "logoURI": "https://lh3.googleusercontent.com/WKoNbcQGx1OCdRCfU5hEkcI_TFHfO-VxMladWaNEQBB01YD-lVeHhg92_b19-nzgUJp7SlWZpMbiAQwfpWIUhzuwlYO0-r8ydRPsmg=s130",
+      "type": "",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iB8SKE90/logos/137/0xa5511e9941e303101b50675926fd4d9c1a8a8805",
       "extensions": {
         "link": "https://embersword.com/",
         "description": "Ember Sword is a Platform-Agnostic Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles and land. Ember Sword has the fast-paced combat of aRPGs, combined with the isometric view and skill-based abilities of MOBAs, set in a persistent MMORPG fantasy universe.",
@@ -243,9 +239,9 @@
       "chainId": 137,
       "address": "0x88883145049dec03c00cb7708cbc938058802520",
       "name": "Cooltopia ItemFactory",
-      "standard": "erc1155",
-      "symbol": null,
-      "logoURI": "https://lh3.googleusercontent.com/sZ6wFwRqbIocpaXqjkAZzWWNraJmj1H-GeYzV0cg63FU44BE31oIE6o5Dv1gfXRO3lDN1CtkNLLU6k8tV9iXWeYMjQsOOAjk_0MKaw=s168",
+      "type": "",
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/3jgWxQUp/logos/137/0x88883145049dec03c00cb7708cbc938058802520",
       "extensions": {
         "link": "https://www.coolcatsnft.com/",
         "description": "Cool Pets love these items, I'm sure if you use enough of them on an egg they'll grow into a glorious Cool Pet. Also, there may be more than meets the eye to these items in the future... but there also may not.",
@@ -254,35 +250,19 @@
     },
     {
       "chainId": 137,
-      "address": "0x22d5f9b75c524fec1d6619787e582644cd4d7422",
-      "name": "Sunflower Land Collectibles",
-      "standard": "erc1155",
-      "symbol": null,
-      "logoURI": "https://lh3.googleusercontent.com/rpnk-Yq7k8ueMvjkVAkHr5cRAhIuAoVzJ_C9wYFDvbwOMcQHM3EGSJU1Ex5M9wzO6tU_PIp_aki37tCfQgrOqS6MYkSibIpI7kRVIw=s128",
-      "extensions": {
-        "link": "https://sunflower-land.com/",
-        "description": "Sunflower Land is a NFT & Crypto-Farming Game on Polygon.Players must plant crops, chop wood, mine rocks and much more in their search for exotic and rare resources. Each item in this collection has a unique set of ingredients and total supply.",
-        "ogImage": "https://lh3.googleusercontent.com/nAa17XwBwDzX9fPFUtpTDFlzxlK_YCXSWhyzDioIzhhZ_NWGudNTacAcM79o3ss482y-KnatQWnF1ZIHjm8JEZXYsOfeRLXYUviqvA=h400"
-      }
-    },
-    {
-      "chainId": 137,
       "address": "0xc4c544d22bcc110652944bca5cf6330dd04d081a",
       "name": "Old SW (dev)",
-      "standard": "erc1155",
-      "extensions": {
-        "blacklist": true
-      }
+      "type": "",
+      "decimals": 0,
+      "extensions": { "blacklist": true }
     },
     {
       "chainId": 137,
       "address": "0xdfd64ee208629dcb1cef4a148c50bb3079d449e3",
       "name": "Old SW (stg)",
-      "standard": "erc1155",
-      "extensions": {
-        "blacklist": true
-      }
+      "type": "",
+      "decimals": 0,
+      "extensions": { "blacklist": true }
     }
-  ],
-  "version": { "major": 1, "minor": 2, "patch": 0 }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "name": "sequence-misc-polygon",
   "chainId": 137,
-  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "tokenStandard": "",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400\u0026u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7\u0026v=4",
   "keywords": [],
   "timestamp": "2021-10-13T15:23:52.438Z",
   "tokens": [
@@ -9,153 +10,183 @@
       "chainId": 137,
       "address": "0x9B609Bf3A3977Ee7254210E0A0D835251540c4D5",
       "name": "Skyweaver Niftyswap",
-      "standard": "niftyswap20",
+      "type": "",
       "symbol": "SWAP",
-      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/OkG3WEuT/logos/137/0x9b609bf3a3977ee7254210e0a0d835251540c4d5.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0xB5c3023dbEcE7a6Bb78014000CD1C8ce940B50a0",
-      "name": "Skyweaver Market Fee"
+      "name": "Skyweaver Market Fee",
+      "type": "",
+      "decimals": 0,
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x787efdB84E94AbC631E5A1983c937D220529B94c",
-      "name": "Skyweaver Treasury"
+      "name": "Skyweaver Treasury",
+      "type": "",
+      "decimals": 0,
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x059d3242dEd5bad6008Ed0899F5e0e22Cab0586A",
       "name": "Skyweaver Conquest Tickets Factory",
-      "standard": "skyweaver-conquest-factory",
+      "type": "",
       "symbol": "GET-CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0x059d3242ded5bad6008ed0899f5e0e22cab0586a.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x86815CD8a85414a032E631F375F966a6CC366f9F",
       "name": "Skyweaver Conquest",
-      "standard": "skyweaver-conquest",
+      "type": "",
       "symbol": "CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0x86815cd8a85414a032e631f375f966a6cc366f9f.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x2f88096676eA7491305C82752F87a4DF73E77a5c",
       "name": "Skyweaver Niftyswap",
-      "standard": "niftyswap20",
+      "type": "",
       "symbol": "SWAP",
-      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png",
-      "extensions": {
-        "blacklist": true
-      }
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/OkG3WEuT/logos/137/0x2f88096676ea7491305c82752f87a4df73e77a5c.png",
+      "extensions": { "blacklist": true }
     },
     {
       "chainId": 137,
       "address": "0x7F6B2BB2217F2CDCcD304CB04C4Bf98704d30D54",
       "name": "Skyweaver Niftyswap (dev)",
-      "standard": "niftyswap20",
+      "type": "",
       "symbol": "SWAP",
-      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/OkG3WEuT/logos/137/0x7f6b2bb2217f2cdccd304cb04c4bf98704d30d54.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x58D82D9fb669AEc50832F3703698479Ff7567559",
       "name": "Skyweaver Niftyswap (local)",
-      "standard": "niftyswap20",
+      "type": "",
       "symbol": "SWAP",
-      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/OkG3WEuT/logos/137/0x58d82d9fb669aec50832f3703698479ff7567559.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x95584e36255681f5335702057E150A02CC9A3032",
       "name": "Skyweaver Niftyswap (stg)",
-      "standard": "niftyswap20",
+      "type": "",
       "symbol": "SWAP",
-      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/OkG3WEuT/logos/137/0x95584e36255681f5335702057e150a02cc9a3032.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0xB5c3023dbEcE7a6Bb78014000CD1C8ce940B50a0",
-      "name": "Skyweaver Market Fee"
+      "name": "Skyweaver Market Fee",
+      "type": "",
+      "decimals": 0,
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0xA841aa6805957486cC2e30bb30b737e3F5b14E17",
       "name": "Skyweaver Conquest Tickets Factory",
-      "standard": "skyweaver-conquest-factory",
+      "type": "",
       "symbol": "GET-CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png",
-      "extensions": {
-        "blacklist": true
-      }
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0xa841aa6805957486cc2e30bb30b737e3f5b14e17.png",
+      "extensions": { "blacklist": true }
     },
     {
       "chainId": 137,
       "address": "0x241C42c409C4Ba4f449eC9cF3b5b853a4A5E8D4C",
       "name": "Skyweaver Conquest Tickets Factory (dev)",
-      "standard": "skyweaver-conquest-factory",
+      "type": "",
       "symbol": "GET-CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0x241c42c409c4ba4f449ec9cf3b5b853a4a5e8d4c.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x2e7dd4b107E7449700Df4eB74dF910443B0a8AcF",
       "name": "Skyweaver Conquest Tickets Factory (local)",
-      "standard": "skyweaver-conquest-factory",
+      "type": "",
       "symbol": "GET-CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0x2e7dd4b107e7449700df4eb74df910443b0a8acf.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x742ac8f575563F090ABC70e5cA19932472Ec76eF",
       "name": "Skyweaver Conquest Tickets Factory (stg)",
-      "standard": "skyweaver-conquest-factory",
+      "type": "",
       "symbol": "GET-CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0x742ac8f575563f090abc70e5ca19932472ec76ef.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x85117852a3dEA4fa50aFFF171b9B09A4D83C8E4F",
       "name": "Skyweaver Conquest",
-      "standard": "skyweaver-conquest",
+      "type": "",
       "symbol": "CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png",
-      "extensions": {
-        "blacklist": true
-      }
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0x85117852a3dea4fa50afff171b9b09a4d83c8e4f.png",
+      "extensions": { "blacklist": true }
     },
     {
       "chainId": 137,
       "address": "0xeDbDeB151e1cD111df8ec4A6d88719f415C5FdD7",
       "name": "Skyweaver Conquest (dev)",
-      "standard": "skyweaver-conquest",
+      "type": "",
       "symbol": "CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0xedbdeb151e1cd111df8ec4a6d88719f415c5fdd7.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0x9Bc4Bd99B0eAC905dCC7a9F52d0B1Fa1d72cd532",
       "name": "Skyweaver Conquest (local)",
-      "standard": "skyweaver-conquest",
+      "type": "",
       "symbol": "CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0x9bc4bd99b0eac905dcc7a9f52d0b1fa1d72cd532.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0xDC9DF33D9BAd1CA9a9220b5f3D65865a84A8d528",
       "name": "Skyweaver Conquest (stg)",
-      "standard": "skyweaver-conquest",
+      "type": "",
       "symbol": "CONQUEST",
-      "logoURI": "https://assets.skyweaver.net/iYyh8-Op/webapp/icons/conquest-ticket-splash.png"
+      "decimals": 0,
+      "logoURI": "https://assets.sequence.info/iYyh8-Op/logos/137/0xdc9df33d9bad1ca9a9220b5f3d65865a84a8d528.png",
+      "extensions": {}
     },
     {
       "chainId": 137,
       "address": "0xeD55b5b5837A1248034e9c1E5E7BD6fcb960dAeD",
       "name": "YouMeme (scam)",
-      "extensions": {
-        "blacklist": true
-      }
+      "type": "",
+      "decimals": 0,
+      "extensions": { "blacklist": true }
     }
   ]
 }
