@@ -5240,6 +5240,19 @@
         "description": "We build games that reward you to play. Play, earn, and scale your own metaverse guild. ICE Poker beta is now live.",
         "ogImage": null
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+      "name": "Sunflower Land",
+      "symbol": "SFL",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/sunflowerland_32.png",
+      "extensions": {
+        "link": "https://sunflower-land.com/ ",
+        "description": "Farm, Gather, Cook, Raise Animals, Fish, Craft & Trade your NFTs in this RPG based farming simulator",
+        "ogImage": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
