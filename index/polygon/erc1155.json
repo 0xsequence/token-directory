@@ -267,6 +267,19 @@
     },
     {
       "chainId": 137,
+      "address": "0xa035f4fdb4fef7752d7ba4ef5cdd7a7ffd9831ff",
+      "name": "GFC P2E Fragments",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gcs/files/b1e42e0695c4c5b52ce2f67708244343.png?auto=format&dpr=1.5625&w=70",
+      "extensions": {
+        "link": "https://galaxyfightclub.com/",
+        "description": "Key fragments or key shards are rewards won inside the Galaxy Fight Club game, they can be combined into key fragments which are used to open loot boxes on our website.",
+        "ogImage": "https://i.seadn.io/gcs/files/d4a8df7f170d2214ed4b14ee540b5663.png?auto=format&dpr=1.5625&w=500"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0xc4c544d22bcc110652944bca5cf6330dd04d081a",
       "name": "Old SW (dev)",
       "standard": "erc1155",
