@@ -6,6 +6,19 @@
   "keywords": ["erc1155", "arbitrum"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xEBba467eCB6b21239178033189CeAE27CA12EaDf",
+      "name": "Treasures",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://trove.treasure.lol/images/fetch/f_auto,c_limit,w_640,q_auto/https://djmahssgw62sw.cloudfront.net/0/Treasures.jpg",
+      "extensions": {
+        "link": "https://lore.bridgeworld.treasure.lol/",
+        "description": "Treasures are composable building blocks in Bridgeworld that will be used inter- and intra-metaverse.",
+        "ogImage": "https://djmahssgw62sw.cloudfront.net/0/Trove_Banner_XL_Other_1024x256px.jpg"
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
