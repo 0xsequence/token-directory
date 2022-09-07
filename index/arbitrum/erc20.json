@@ -35,6 +35,19 @@
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
       }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+      "name": "Magic",
+      "symbol": "MAGIC",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/magicv2_32.png",
+      "extensions": {
+        "link": "https://treasure.lol/",
+        "description": "MAGIC is the native token of Treasure. Treasure is the decentralized video game console connecting games and communities together through imagination, MAGIC, and NFTs.",
+        "ogImage": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
