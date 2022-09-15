@@ -230,6 +230,21 @@
         "originChainId": 1,
         "originAddress": null
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xcb1678a2b4e100376e59364548e6f1f7fecb2a58",
+      "name": "DAZN Canelo Alvarez Premier PFP",
+      "standard": "erc721",
+      "symbol": "DBMCP",
+      "logoURI": "https://assets.sequence.info/--8aW075/Canelo_on_shoulders.png",
+      "extensions": {
+        "link": "https://www.daznboxing.io/",
+        "description": "Make Fight Night Last Forever. The DAZN Boxing Matchroom Collection 1 includes the release of 30,000 boxing moments. Build your own digital collection of the biggest moments in boxing either by purchasing a pack from DAZNBoxing.io or via the marketplace.",
+        "ogImage": "https://assets.sequence.info/--8aW075/Canelo_on_shoulders.png",
+        "originChainId": 1,
+        "originAddress": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
