@@ -237,11 +237,11 @@
       "name": "DAZN Canelo Alvarez Premier PFP",
       "standard": "erc721",
       "symbol": "DBMCP",
-      "logoURI": "https://assets.sequence.info/--8aW075/Canelo_on_shoulders.png",
+      "logoURI": "https://assets.sequence.info/-0Zajvtt/IMG_8588.jpg",
       "extensions": {
         "link": "https://www.daznboxing.io/",
-        "description": "DAZN Canelo Alvarez Premier PFP",
-        "ogImage": "https://assets.sequence.info/--8aW075/Canelo_on_shoulders.png",
+        "description": "Become a part of Boxing history with the Canelo Alvarez Premier PFP (Profile Picture) Collection! Grab your PFP now from DAZNBoxing.io and experience fight night like you never have before! This premier PFP is your ticket to watch the full fight card in the DAZN DECENTRALAND METAVERSE STADIUM. Each PFP purchase also comes with 2 free months of a DAZN streaming subscription and holders will automatically be entered to win either a Mutant Ape NFT or a VIP Trip to Canelo's next fight. Winners will be announced in Decentraland at the end of fight night!",
+        "ogImage": "https://assets.sequence.info/-0Zajvtt/IMG_8588.jpg",
         "originChainId": 1,
         "originAddress": null
       }
