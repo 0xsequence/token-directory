@@ -6,6 +6,19 @@
   "keywords": ["erc1155", "avalanche"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 43114,
+      "address": "0xa695ea0c90d89a1463a53fa7a02168bc46fbbf7e",
+      "name": "Castle Crush",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://user-images.githubusercontent.com/1619025/192035874-651b88ca-4241-4fa4-8487-28e1f7626968.jpg",
+      "extensions": {
+        "link": "https://castlecrushgame.com/",
+        "description": "Castle Crush is a mobile, free-to-play, real-time strategy game developed by Wildlife Studios. Ascended and Founder Chests contain playable NFT cards which generate $ACS through gameplay.",
+        "ogImage": "https://user-images.githubusercontent.com/1619025/192035870-2d3c1a12-6228-4363-b474-625ed58a25e9.jpeg"
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
