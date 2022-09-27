@@ -52,6 +52,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x00A33f640F8B4EfD6A154270fcdBf288D17d4385",
+      "name": "Skyweaver Niftyswap (dev old)",
+      "standard": "niftyswap20",
+      "symbol": "SWAP",
+      "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+    },
+    {
+      "chainId": 137,
       "address": "0x7F6B2BB2217F2CDCcD304CB04C4Bf98704d30D54",
       "name": "Skyweaver Niftyswap (dev)",
       "standard": "niftyswap20",
