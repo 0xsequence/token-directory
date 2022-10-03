@@ -215,6 +215,36 @@
         "originChainId": 1,
         "originAddress": null
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0xc732B6586A93b6B7CF5FeD3470808Bc74998224D",
+      "name": "Kryptomon",
+      "symbol": "KMON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17886/large/kryptomon.png?1629713536",
+      "extensions": {
+        "link": "https://www.kryptomon.co/",
+        "description": "Kryptomons are digital collectible BEP721 NFT Token monsters built on the BSC blockchain. They can be bought and traded by using our dedicated BEP20 Token (KMON). Breed with other players to create new eggs with exciting traits and new levels of power.",
+        "ogImage": null,
+        "originChainId": 56,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 56,
+      "address": "0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409",
+      "name": "Revomon",
+      "symbol": "REVO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14759/large/revomon.jpeg?1618243538",
+      "extensions": {
+        "link": "https://revomon.io/",
+        "description": "Revomon is an online monster trainer RPG that fully integrates NFTs with cutting edge VR, allowing our players to create real value in a virtual world.",
+        "ogImage": null,
+        "originChainId": 1,
+        "originAddress": "0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409"
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
