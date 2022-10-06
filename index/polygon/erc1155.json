@@ -295,6 +295,19 @@
       "extensions": {
         "blacklist": true
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x322c709B892399e91e89660930Ec6b3bC41c434C",
+      "name": "SFF Voucher",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/07/Singapore_FinTech_Festival_Logo.png",
+      "extensions": {
+        "link": "https://www.fintechfestival.sg/",
+        "description": "Singapore Fintech Festival",
+        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
