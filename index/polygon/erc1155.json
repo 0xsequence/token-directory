@@ -308,6 +308,19 @@
         "description": "Singapore Fintech Festival",
         "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x54383BfcA79bF11F009949c23884dc94B08ce875",
+      "name": "SFF Dummy Voucher",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/07/Singapore_FinTech_Festival_Logo.png",
+      "extensions": {
+        "link": "https://www.fintechfestival.sg/",
+        "description": "Singapore Fintech Festival",
+        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
