@@ -321,6 +321,19 @@
         "description": "Singapore Fintech Festival",
         "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xA9ae86b25424d8b523A91975Da1336AC490Bc4C7",
+      "name": "Shrub Paper Gardens",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gae/wFPpiiVtioq_CvPDv-b2D_3v90Rsjt4B-s57hzUd_TkFHrRcgKkU-gxwCTQDR1pD0plX_aKzyhfaIbwdh1l2epeWuB2x0hd6HbkVqw?auto=format&w=256",
+      "extensions": {
+        "link": "https://gardens.shrub.finance/",
+        "description": "The first interactive on-chain growth NFT. Shrub.finance's genesis NFT project is the most technically advanced NFT series yet. In this series you plant a seed and grow it into a Shrub all on the Polygon blockchain. Dynamic metadata means you watch it grow on OpenSea. Join us in this groundbreaking series. Seeds available here https://opensea.io/collection/shrub-paper-gardens-seeds.",
+        "ogImage": "https://i.seadn.io/gcs/files/ecd69e04d3f2c24ae950f78f87f5914f.png?auto=format&w=3840"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
