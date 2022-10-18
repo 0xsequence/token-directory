@@ -271,11 +271,24 @@
       "name": "GFC P2E Fragments",
       "standard": "erc1155",
       "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/b1e42e0695c4c5b52ce2f67708244343.png?auto=format&dpr=1.5625&w=70",
+      "logoURI": "https://i.seadn.io/gcs/files/c2a8ef75fec898c11c54740bc578a211.png?auto=format&w=256",
       "extensions": {
         "link": "https://galaxyfightclub.com/",
         "description": "Key fragments or key shards are rewards won inside the Galaxy Fight Club game, they can be combined into key fragments which are used to open loot boxes on our website.",
-        "ogImage": "https://i.seadn.io/gcs/files/d4a8df7f170d2214ed4b14ee540b5663.png?auto=format&dpr=1.5625&w=500"
+        "ogImage": "https://i.seadn.io/gcs/files/b7bb2210dc0a798b8412d0a3d749e337.png?auto=format&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x67a7ae8e3b3e1e58e2a105b4c7413a5506169476",
+      "name": "GFC P2E Keys",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gcs/files/c2a8ef75fec898c11c54740bc578a211.png?auto=format&w=256",
+      "extensions": {
+        "link": "https://galaxyfightclub.com/",
+        "description": "Keys are crafted from corresponding key fragments on our website, keys can be used to open loot boxes on our website to access loot like weapons and others",
+        "ogImage": "https://i.seadn.io/gcs/files/b7bb2210dc0a798b8412d0a3d749e337.png?auto=format&w=3840"
       }
     },
     {
