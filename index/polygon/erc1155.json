@@ -306,7 +306,8 @@
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
-        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg"
+        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg",
+        "contractABIExtensions": ["PBM"]
       }
     },
     {
@@ -319,7 +320,8 @@
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
-        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg"
+        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg",
+        "contractABIExtensions": ["PBM"]
       }
     },
     {
