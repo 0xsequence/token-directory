@@ -312,7 +312,7 @@
     {
       "chainId": 137,
       "address": "0x54383BfcA79bF11F009949c23884dc94B08ce875",
-      "name": "SFF Dummy Voucher",
+      "name": "SFF Trial Voucher",
       "standard": "erc1155",
       "symbol": null,
       "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/07/Singapore_FinTech_Festival_Logo.png",
