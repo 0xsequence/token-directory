@@ -4000,15 +4000,15 @@
     },
     {
       "chainId": 137,
-      "address": "0x769434dca303597c8fc4997bf3dab233e961eda2",
+      "address": "0xdc3326e71d45186f113a2f448984ca0e8d201995",
       "name": "XSGD",
       "symbol": "XSGD",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/12832/large/opiTgkh.png?1602856852",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8489.png",
       "extensions": {
-        "link": "https://xfers.com/sg/stablecoin",
-        "description": "XSGD is the world's first Travel Rule compliant stablecoin - backed by the Singapore-Dollar. XSGD is part of the StraitsX stablecoin initiative for SEA by Xfers.",
-        "ogImage": "https://assets.website-files.com/5f5329d7a001ac6abfcdd7fa/5fe19dc8ee8e9b234fc447f5_logoforopengraph.png",
+        "link": "https://www.straitsx.com/xsgd",
+        "description": "XSGD is a stablecoin pegged to the Singapore Dollar.",
+        "ogImage": "https://s2.coinmarketcap.com/static/img/coins/64x64/8489.png",
         "originChainId": 1,
         "originAddress": "0x70e8de73ce538da2beed35d14187f6959a8eca96"
       }
