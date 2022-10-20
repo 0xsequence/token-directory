@@ -16355,11 +16355,11 @@
       "name": "XSGD",
       "symbol": "XSGD",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/12832/large/opiTgkh.png?1602856852",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8489.png",
       "extensions": {
-        "link": "https://xfers.com/sg/stablecoin",
-        "description": "XSGD is the world's first Travel Rule compliant stablecoin - backed by the Singapore-Dollar. XSGD is part of the StraitsX stablecoin initiative for SEA by Xfers.",
-        "ogImage": "https://assets.website-files.com/5f5329d7a001ac6abfcdd7fa/5fe19dc8ee8e9b234fc447f5_logoforopengraph.png"
+        "link": "https://www.straitsx.com/xsgd",
+        "description": "XSGD is a stablecoin pegged to the Singapore Dollar.",
+        "ogImage": "https://s2.coinmarketcap.com/static/img/coins/64x64/8489.png"
       }
     },
     {
