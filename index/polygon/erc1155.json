@@ -339,6 +339,34 @@
     },
     {
       "chainId": 137,
+      "address": "0xb7e77558136Ce0aD7210B3f27915524e1bE0e0D1",
+      "name": "SFF Temasek",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/07/Singapore_FinTech_Festival_Logo.png",
+      "extensions": {
+        "link": "https://www.fintechfestival.sg/",
+        "description": "Singapore Fintech Festival",
+        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg",
+        "contractABIExtensions": ["PBM"]
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x276f35ccf9f6f313c7b34df558c2ddc56045885c",
+      "name": "Temasek - TPCM",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/07/Singapore_FinTech_Festival_Logo.png",
+      "extensions": {
+        "link": "https://www.fintechfestival.sg/",
+        "description": "Singapore Fintech Festival",
+        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg",
+        "contractABIExtensions": ["PBM"]
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0xA9ae86b25424d8b523A91975Da1336AC490Bc4C7",
       "name": "Shrub Paper Gardens",
       "standard": "erc1155",
