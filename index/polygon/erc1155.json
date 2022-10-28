@@ -312,7 +312,7 @@
     {
       "chainId": 137,
       "address": "0x322c709B892399e91e89660930Ec6b3bC41c434C",
-      "name": "SFF Voucher",
+      "name": "SFF Trial Voucher",
       "standard": "erc1155",
       "symbol": null,
       "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/07/Singapore_FinTech_Festival_Logo.png",
@@ -339,15 +339,29 @@
     },
     {
       "chainId": 137,
-      "address": "0xb7e77558136Ce0aD7210B3f27915524e1bE0e0D1",
-      "name": "SFF Temasek",
+      "address": "0xC8A3c154bd78B5dB3f10690761Ac0ba7da2eaB75",
+      "name": "SFF Voucher",
       "standard": "erc1155",
       "symbol": null,
-      "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/07/Singapore_FinTech_Festival_Logo.png",
+      "logoURI": "https://assets.sequence.info/SFF/SFF_icon.png",
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
-        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg",
+        "ogImage": "https://assets.sequence.info/SFF/SFF_banner.png",
+        "contractABIExtensions": ["PBM"]
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xb7e77558136Ce0aD7210B3f27915524e1bE0e0D1",
+      "name": "TCPM Voucher",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://assets.sequence.info/SFF/TCPM_icon.png",
+      "extensions": {
+        "link": "https://www.temasek.com.sg/",
+        "description": "Temasek",
+        "ogImage": "https://assets.sequence.info/SFF/TCPM_banner.png",
         "contractABIExtensions": ["PBM"]
       }
     },
@@ -357,11 +371,11 @@
       "name": "Temasek - TPCM",
       "standard": "erc1155",
       "symbol": null,
-      "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/07/Singapore_FinTech_Festival_Logo.png",
+      "logoURI": "https://assets.sequence.info/SFF/TCPM_icon.png",
       "extensions": {
-        "link": "https://www.fintechfestival.sg/",
-        "description": "Singapore Fintech Festival",
-        "ogImage": "https://thefintechtimes.com/wp-content/uploads/2021/05/Singapore-Fintech-logo-1-e1620825621163.jpeg",
+        "link": "https://www.temasek.com.sg/",
+        "description": "Temasek",
+        "ogImage": "https://assets.sequence.info/SFF/TCPM_banner.png",
         "contractABIExtensions": ["PBM"]
       }
     },
