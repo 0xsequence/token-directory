@@ -319,7 +319,7 @@
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
-        "ogImage": "https://assets.sequence.info/SFF/SFF_banner.png",
+        "ogImage": "https://assets.sequence.info/SFF/SFF_banner_c.png",
         "contractABIExtensions": ["PBM"]
       }
     },
@@ -333,7 +333,7 @@
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
-        "ogImage": "https://assets.sequence.info/SFF/SFF_banner.png",
+        "ogImage": "https://assets.sequence.info/SFF/SFF_banner_c.png",
         "contractABIExtensions": ["PBM"]
       }
     },
@@ -347,7 +347,7 @@
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
-        "ogImage": "https://assets.sequence.info/SFF/SFF_banner.png",
+        "ogImage": "https://assets.sequence.info/SFF/SFF_banner_c.png",
         "contractABIExtensions": ["PBM"]
       }
     },
