@@ -22616,6 +22616,19 @@
     },
     {
       "chainId": 1,
+      "address": "0x6DC02164d75651758aC74435806093E421b64605",
+      "name": "XAYA",
+      "symbol": "WCHI",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/2091/large/xaya200x200.png?1656561479",
+      "extensions": {
+        "link": "https://xaya.io/",
+        "description": null,
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "name": "Ether (Wrapped)",
       "symbol": "WETH",
