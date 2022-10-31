@@ -5253,6 +5253,19 @@
         "description": "Farm, Gather, Cook, Raise Animals, Fish, Craft & Trade your NFTs in this RPG based farming simulator",
         "ogImage": null
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xE79feAAA457ad7899357E8E2065a3267aC9eE601",
+      "name": "XAYA",
+      "symbol": "WCHI",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/2091/large/xaya200x200.png?1656561479",
+      "extensions": {
+        "link": "https://xaya.io/",
+        "description": null,
+        "ogImage": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
