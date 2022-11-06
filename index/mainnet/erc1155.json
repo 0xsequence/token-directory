@@ -7224,6 +7224,19 @@
         "description": "Credits are ERC-1155 token with a total supply cap of 50,000. Only 25,000 Credits will be made available for initial public release, while the remaining 25,000 will be used as earn able rewards for A0K1VERSE citizens. Starting February 22nd, A0K1VERSE citizens will be able to redeem their credits for a personal passport. Additional details and rewards can be found on A0K1VERSE.xyz",
         "ogImage": "https://lh3.googleusercontent.com/JtV8EvfBzISJSUEo53uM7K1l1wT59X5SuGf8ZkX-_CqxAkOsvMy-5GdCUv_--fNUlCi9UqMRSE8KpqGekOFsUrIif3-YEcS6NlSv1E0=h400"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x97a20815a061eae224c4fdf3109731f73743db73",
+      "name": "LVCIDIA// RESOURCES",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gcs/files/2dbfd12d821f0a7f7ef46ce23284425a.png?auto=format&w=256",
+      "extensions": {
+        "link": "https://lvcidia.xyz/",
+        "description": "a collective dream_",
+        "ogImage": "https://i.seadn.io/gcs/files/1dcebf5aae50ae6c7325872957abd812.png?auto=format&w=2048"
+      }
     }
   ],
   "version": { "major": 1, "minor": 1, "patch": 1 }
