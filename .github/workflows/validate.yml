@@ -8,6 +8,6 @@ jobs:
    steps:
     - uses: actions/checkout@v1
     - name: Validate JSONs
-      run: bash /tools/scripts/jsonlint.sh
+      run: bash ./tools/scripts/jsonlint.sh
       # env:
         
