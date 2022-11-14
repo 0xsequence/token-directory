@@ -8,6 +8,6 @@ jobs:
    steps:
     - uses: actions/checkout@v1
     - name: Validate JSONs
-      run: bash <(curl -s https://raw.githubusercontent.com/Shubhaankar-Sharma/json-lint/master/pipeline.sh)
+      run: bash ./tools/scripts/jsonlint.sh
       # env:
         
