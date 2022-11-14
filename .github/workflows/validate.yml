@@ -1,0 +1,13 @@
+name: Validate JSONs
+
+on: [push, pull_request]
+
+jobs:
+  verify-json:
+   runs-on: ubuntu-latest
+   steps:
+    - uses: actions/checkout@v1
+    - name: Validate JSONs
+      run: bash <(curl -s https://raw.githubusercontent.com/Shubhaankar-Sharma/json-lint/master/pipeline.sh)
+      # env:
+        
