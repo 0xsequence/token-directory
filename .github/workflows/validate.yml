@@ -8,6 +8,6 @@ jobs:
    steps:
     - uses: actions/checkout@v1
     - name: Validate JSONs
-      uses: docker://orrosenblatt/validate-json-action:latest
-      env:
-        INPUT_JSONS: /index/*.json
+      run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)
+      # env:
+        
