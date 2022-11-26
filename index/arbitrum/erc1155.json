@@ -18,6 +18,19 @@
         "description": "Treasures are composable building blocks in Bridgeworld that will be used inter- and intra-metaverse.",
         "ogImage": "https://djmahssgw62sw.cloudfront.net/0/Trove_Banner_XL_Other_1024x256px.jpg"
       }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x381227255eF6c5d85966b78d13e4B4a4c8719b5E",
+      "name": "Tales of Elleria - Relics",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gcs/files/a8a9ce818bdb9d5d767261a4ec5cc8c8.png?auto=format&w=256",
+      "extensions": {
+        "link": "https://www.talesofelleria.com/",
+        "description": "Tales of Elleria is an immersive three-dimensional role-playing GameFi project built on Arbitrum One. Summon heroes, take on assignments, go on quests and epic adventures to battle dangerous monsters and earn tremendous rewards.",
+        "ogImage": "https://i.seadn.io/gcs/files/5cf33d22f7ee87e3bdc2fa5ec6e96fb7.png?auto=format&w=2048"
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
