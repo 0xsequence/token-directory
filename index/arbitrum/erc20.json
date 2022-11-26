@@ -51,6 +51,19 @@
     },
     {
       "chainId": 42161,
+      "address": "0x45D55EADf0ED5495B369E040aF0717eaFaE3b731",
+      "name": "Ellerium",
+      "symbol": "ELM",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/talesofelleria_32.png",
+      "extensions": {
+        "link": "https://www.talesofelleria.com/",
+        "description": "Ellerium ($ELM) is a rare natural resource found within the world of Elleria. It is said to be the crystallized blessing of the Goddess and functions as the main currency throughout the whole metaverse.",
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
       "name": "Ether (Wrapped)",
       "type": "ERC20",
