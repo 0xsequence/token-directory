@@ -6,6 +6,21 @@
   "keywords": ["erc1155", "nft"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 5,
+      "address": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
+      "name": "Skyweaver",
+      "standard": "erc1155",
+      "symbol": "SKYWVR",
+      "logoURI": "https://assets.skyweaver.net/_tX5dRVi/webapp/icons/skyweaver-token.png",
+      "extensions": {
+        "link": "https://www.skyweaver.net/",
+        "description": "Skyweaver is a Free-to-Play, trading card game powered by Polygon and Ethereum.",
+        "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
+        "originChainId": 5,
+        "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
