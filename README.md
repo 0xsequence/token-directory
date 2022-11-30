@@ -9,7 +9,7 @@ The ERC-20 token lists present in this repository follow the [Uniswap Token List
 
 The ERC-721 and ERC-1155 token lists present in this repository follow the [Sequence Collectible List Schema](https://github.com/0xsequence/collectible-lists). The original list was populated using [Dune Analytics](https://www.duneanalytics.com/) via the query [#16838](https://explore.duneanalytics.com/queries/16838). Token description and links were taken from [OpenSea](https://opensea.io/)'s API.
 
-## Add or Update Your Token
+## How to Add or Update Your Token
 
 If a token is missing entirely, or contains incorrect or missing information, please stick to the following procedure;
 
