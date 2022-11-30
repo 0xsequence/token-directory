@@ -245,6 +245,21 @@
         "originChainId": 1,
         "originAddress": "0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409"
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0x82030CDBD9e4B7c5bb0b811A61DA6360D69449cc",
+      "name": "FevrToken",
+      "symbol": "FEVR",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/realfevr_32.png",
+      "extensions": {
+        "link": "https://www.realfevr.com/fevr",
+        "description": "RealFevr is a company established in 2015 in the fantasy markets with a football fantasy leagues game that currently has over 2 Million downloads on iOS and Android. With the fantasy leagues concept proven, RealFevr is now working towards being one of the NFT industry leaders by having the first-ever fully licensed Football Video NFTs Marketplace. Its NFTs will also be integrated into the FEVR Battle Arena, a new trading moments game (Play and Earn) that’s currently in its alpha testing stage.",
+        "ogImage": null,
+        "originChainId": 56,
+        "originAddress": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
