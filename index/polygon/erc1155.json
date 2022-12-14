@@ -267,6 +267,19 @@
     },
     {
       "chainId": 137,
+      "address": "0x4bb5b2461e9ef782152c3a96698b2a4cf55b6162",
+      "name": "Bumpkin Wearables",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gcs/files/67c854746e74d4da4939e9c778c2b5f6.png?auto=format&w=256",
+      "extensions": {
+        "link": "https://sunflower-land.com/",
+        "description": "Make your Bumpkin Beautiful! Collect wearable items for your Bumpkin NFT. Each item in this collection is a SFT that can be attached to your Bumpkin.",
+        "ogImage": "https://i.seadn.io/gcs/files/76047949b2ec540d6ddf8545a01cbbf1.png?auto=format&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0xa035f4fdb4fef7752d7ba4ef5cdd7a7ffd9831ff",
       "name": "GFC P2E Fragments",
       "standard": "erc1155",
