@@ -22652,6 +22652,21 @@
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
         "ogImage": null
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
+      "name": "FevrToken",
+      "symbol": "FEVR",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/realfevr_32.png",
+      "extensions": {
+        "link": "https://www.realfevr.com/fevr",
+        "description": "RealFevr is a company established in 2015 in the fantasy markets with a football fantasy leagues game that currently has over 2 Million downloads on iOS and Android. With the fantasy leagues concept proven, RealFevr is now working towards being one of the NFT industry leaders by having the first-ever fully licensed Football Video NFTs Marketplace. Its NFTs will also be integrated into the FEVR Battle Arena, a new trading moments game (Play and Earn) that’s currently in its alpha testing stage.",
+        "ogImage": null,
+        "originChainId": 56,
+        "originAddress": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc"
+      }
     }
   ],
   "version": { "major": 1, "minor": 3, "patch": 1 }
