@@ -260,6 +260,21 @@
         "originChainId": 56,
         "originAddress": null
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0x47c454cA6be2f6DEf6f32b638C80F91c9c3c5949",
+      "name": "Games For A Living",
+      "symbol": "GFAL",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/gamesforaliving_32.png",
+      "extensions": {
+        "link": "https://gamesforaliving.com",
+        "description": "The Games for a living Token ($GFAL) is the utility token used in our Network and Games. This means that all the transactions in our Marketplace are executed using $GFAL. $GFAL is also the basis of the governance of the Games for a living Network & Games.",
+        "ogImage": null,
+        "originChainId": 56,
+        "originAddress": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
