@@ -404,6 +404,19 @@
         "description": "The first interactive on-chain growth NFT. Shrub.finance's genesis NFT project is the most technically advanced NFT series yet. In this series you plant a seed and grow it into a Shrub all on the Polygon blockchain. Dynamic metadata means you watch it grow on OpenSea. Join us in this groundbreaking series. Seeds available here https://opensea.io/collection/shrub-paper-gardens-seeds.",
         "ogImage": "https://i.seadn.io/gcs/files/ecd69e04d3f2c24ae950f78f87f5914f.png?auto=format&w=3840"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x37FC4b48CE93469dbEA9918468993C735049642a",
+      "name": "CropBytes",
+      "standard": "erc1155",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gcs/files/7fa8b882238d173749179d291d174fc9.png?auto=format&w=256",
+      "extensions": {
+        "link": "https://www.cropbytes.com/",
+        "description": "Welcome to CropBytes, where you can live the life of a virtual farmer and build your empire from the ground up! Own and run your business, engage in farming activities, and trade rare assets to grow your portfolio.",
+        "ogImage": "https://i.seadn.io/gcs/files/fdc98308534c3c09171ee83f1f05844b.png?auto=format&w=3840"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
