@@ -39,7 +39,7 @@
     {
       "chainId": 42170,
       "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
-      "name": "Ether (Wrapped)",
+      "name": "ETH (Wrapped)",
       "type": "ERC20",
       "symbol": "WETH",
       "decimals": 18,
