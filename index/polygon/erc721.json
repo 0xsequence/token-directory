@@ -245,6 +245,19 @@
         "originChainId": 1,
         "originAddress": null
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xC8099cD6f4e4D0049c4CD85834013D97D6F224d6",
+      "name": "The Moopians",
+      "standard": "erc721",
+      "symbol": "TM",
+      "logoURI": "https://i.postimg.cc/FH3VMj4z/logo.jpg",
+      "extensions": {
+        "link": "https://www.themoopians.io/",
+        "description": "Welcome to a place where colour and creativity reigns. The Moopians are customisable chibi characters on the blockchain that bring with them a plethora of IRL benefits. Find out what exciting journey your Moopian will bring you on today at: www.themoopians.io. A (super) fun initiative by Siam Square Mookata.",
+        "ogImage": "https://i.postimg.cc/FH3VMj4z/logo.jpg"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
