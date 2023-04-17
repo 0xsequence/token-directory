@@ -275,6 +275,19 @@
         "originChainId": 56,
         "originAddress": null
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0xF606bd19b1E61574ED625d9ea96C841D4E247A32",
+      "name": "Guardian GUARD",
+      "type": "ERC20",
+      "symbol": "GUARD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17995/small/LS_wolfDen_logo.0025_Light_200x200.png?1665110310",
+      "extensions": {
+        "link": "https://guardfdn.com/",
+        "description": "Guardian is for purpose driven companies and projects building and contributing to the web3 economy."
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
