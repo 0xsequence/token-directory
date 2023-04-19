@@ -6,6 +6,22 @@
   "keywords": ["erc1155", "arbitrum-nova"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 42170,
+      "address": "0x5876a1495ed68f9e932aa93e42ef2ca2a8c8a64c",
+      "name": "Sovereignty Resources",
+      "type": "ERC1155",
+      "symbol": "SOV",
+      "deployed": true,
+      "bytecodeHash": "0xcb6cb6dc4a3e7705e084f6d98d658dcdfce1ccc165b80a250635b21ce6a930ef",
+      "extensions": {
+        "link": "https://sovereignty.gg/",
+        "description": "Tokenized resources for Sovereignty, an interactive MMO strategy game. Build your empire, conquer the world, and become the ruler of all.",
+        "ogImage": "",
+        "originChainId": 42170,
+        "originAddress": ""
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
