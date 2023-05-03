@@ -269,7 +269,8 @@
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Bumpkins are beautiful, bold and ready for an adventure. Use your Bumpkin to explore the Sunflower MetaVerse and grow your farming empire.",
-        "ogImage": "https://i.seadn.io/gcs/files/e4994945529c28946af305dd983c8e65.png?auto=format&w=3840"
+        "ogImage": "https://i.seadn.io/gcs/files/e4994945529c28946af305dd983c8e65.png?auto=format&w=3840",
+        "featured": true
       }
     }
   ],
