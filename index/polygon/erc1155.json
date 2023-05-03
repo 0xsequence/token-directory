@@ -18,7 +18,8 @@
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Polygon and Ethereum.",
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
-        "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
+        "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
+        "featured": true
       }
     },
     {
@@ -148,7 +149,7 @@
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xDbC352232F6B6A5a2f18Ea58DC9E79df59e54575"
-      }
+      }           
     },
     {
       "chainId": 137,
@@ -262,7 +263,8 @@
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Sunflower Land is a NFT & Crypto-Farming Game on Polygon.Players must plant crops, chop wood, mine rocks and much more in their search for exotic and rare resources. Each item in this collection has a unique set of ingredients and total supply.",
-        "ogImage": "https://lh3.googleusercontent.com/nAa17XwBwDzX9fPFUtpTDFlzxlK_YCXSWhyzDioIzhhZ_NWGudNTacAcM79o3ss482y-KnatQWnF1ZIHjm8JEZXYsOfeRLXYUviqvA=h400"
+        "ogImage": "https://lh3.googleusercontent.com/nAa17XwBwDzX9fPFUtpTDFlzxlK_YCXSWhyzDioIzhhZ_NWGudNTacAcM79o3ss482y-KnatQWnF1ZIHjm8JEZXYsOfeRLXYUviqvA=h400",
+        "featured": true
       }
     },
     {
