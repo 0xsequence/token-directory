@@ -427,7 +427,26 @@
       "extensions": {
         "link": "https://www.cropbytes.com/",
         "description": "Welcome to CropBytes, where you can live the life of a virtual farmer and build your empire from the ground up! Own and run your business, engage in farming activities, and trade rare assets to grow your portfolio.",
-        "ogImage": "https://i.seadn.io/gcs/files/fdc98308534c3c09171ee83f1f05844b.png?auto=format&w=3840"
+        "ogImage": "https://i.seadn.io/gcs/files/fdc98308534c3c09171ee83f1f05844b.png?auto=format&w=3840",
+        "featured": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xba6666b118f8303f990f3519df07e160227cce87",
+      "name": "Planet IX - Assets",
+      "type": "ERC1155",
+      "symbol": "PIX-A",
+      "logoURI": "https://i.seadn.io/gcs/files/2f986a0fc7c0f30fbe04f85c6831d5df.png?w=500\u0026auto=format",
+      "deployed": true,
+      "bytecodeHash": "0xa6796e3f59c8bc070ff3410877825c7f1151115f82ad9f558140e8fbcd0d3829",
+      "extensions": {
+        "link": "http://www.planetix.com",
+        "description": "This is the collection for Planet IX Genesis Corporation NFTs. Players owning Genesis Corporation NFTs get exclusive access to airdrops and metashares in the respective in-game corporation. Owners will also enjoy exclusive benefits and utility to gain competitive advantage in the Planet IX ecosystem.\r\n\r\nPlanet IX Main Collection: https://opensea.io/collection/planet-ix",
+        "ogImage": "",
+        "originChainId": 0,
+        "originAddress": "",
+        "featured": true
       }
     }
   ],
