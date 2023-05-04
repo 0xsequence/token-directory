@@ -272,6 +272,22 @@
         "ogImage": "https://i.seadn.io/gcs/files/e4994945529c28946af305dd983c8e65.png?auto=format&w=3840",
         "featured": true
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x5d666f215a85b87cb042d59662a7ecd2c8cc44e6",
+      "name": "Galaxy OAT",
+      "type": "ERC721",
+      "symbol": "OAT",
+      "logoURI": "https://i.seadn.io/gcs/files/c083274101cf84f66c7490b14d7dc480.png?w=500\u0026auto=format",
+      "deployed": true,
+      "bytecodeHash": "0xcebd5c9c0626e270a4a23e57f8d16069e2ce18ad07042d87fe87812b641dca4b",
+      "extensions": {
+        "link": "https://galxe.com",
+        "description": "Galxe OAT (On-chain Achievement Token) is a digital badge standard on Polygon and BNB Chain to record your on-chain and off-chain life experiences. Co-launched by Galxe, Polygon Studios, and NFT Storage by Filecoin and IPFS.",
+        "ogImage": "",
+        "featured": true
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
