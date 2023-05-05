@@ -22667,6 +22667,19 @@
         "originChainId": 56,
         "originAddress": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x46ccA329970B33e1a007DD4ef0594A1cedb3E72a",
+      "name": "Yesports",
+      "symbol": "YESP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29767/large/YESP_TOKEN.png?1681194310",
+      "extensions": {
+        "link": "https://yesports.gg/",
+        "description": "YESP is a fully stacked utility token that powers engagement on the Yesports platform. The YESP token will offer access to vote in the Yesports governance and a range of stake-to-engage features to unlock deeper levels of engagement on the platform such as: exclusive access to drops and access to gamified digital experiences.",
+        "ogImage": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 3, "patch": 1 }
