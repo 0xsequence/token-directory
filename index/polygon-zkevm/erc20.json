@@ -20,6 +20,19 @@
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
       }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 16,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png?1624446912",
+      "extensions": {
+        "link": "https://polygon.technology/matic-token",
+        "description": "MATIC is the currency of Polygon that enables users to interact with tens of thousands of dApps involved in our ecosystem. It is also used to secure the network by staking.",
+        "originChainId": 137
+      }
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
