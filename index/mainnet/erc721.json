@@ -33307,8 +33307,23 @@
         "ogImage": "",
         "featured": true
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a92f7381b9f03921564a437210bb9396471050c",
+      "name": "Cool Cats NFT",
+      "type": "ERC721",
+      "symbol": "CC",
+      "logoURI": "https://i.seadn.io/gae/LIov33kogXOK4XZd2ESj29sqm_Hww5JSdO7AFn5wjt8xgnJJ0UpNV9yITqxra3s_LMEW1AnnrgOVB_hDpjJRA1uF4skI5Sdi_9rULi8?auto=format&dpr=1&w=256",
+      "deployed": true,
+      "bytecodeHash": "0x64ba3f1bf70cf05e42a616d37a21018df9681c795c5e7bcd8ca8bf2b1b9e058a",
+      "extensions": {
+        "link": "https://www.pudgypenguins.com/",
+        "description": "Cool Cats is a collection of 9,999 randomly generated and stylistically curated NFTs that exist on the Ethereum Blockchain. Cool Cat holders can participate in exclusive events such as NFT claims, raffles, community giveaways, and more. Remember, all cats are cool, but some are cooler than others.",
+        "ogImage": "https://coolcatsnft.com/images/og-image.png",
+        "featured": false
+      }
     }
-    
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
 }
