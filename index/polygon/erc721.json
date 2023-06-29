@@ -288,6 +288,58 @@
         "ogImage": "",
         "featured": true
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x43f2932341c1f619648c7a077b49393ca882b4d1",
+      "name": "Planet Mojo - Mojos",
+      "type": "ERC721",
+      "symbol": "MOJO",
+      "logoURI": "https://i.seadn.io/gcs/files/cff806224a2b7d3595bb3e4cbbfa82d4.gif?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "Mojos are devilishly powerful plant creatures in need of your help. There are 4444 uniquely generated 3D game-playable characters that will work across the expanding games and metaverse of Planet Mojo",
+        "ogImage": "https://i.seadn.io/gcs/files/3ecbf159294c9dfab77ed1990fbb11e1.png?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xbabf4b68abc18e703440e50e1ed19eee26353b5f",
+      "name": "Planet Mojo: Champion Chests",
+      "type": "ERC721",
+      "symbol": "MOJO",
+      "logoURI": "https://i.seadn.io/gcs/files/0ea2b881a5a3f55bc7c5d478ddaa8bf2.jpg?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "Planet Mojo is an ecosystem of interconnected games built by Mystic Moose and set inside a mysterious alien planet with an evolving narrative. Players compete with customized teams of fantastical creatures in a suite of eSports, PvP games.",
+        "ogImage": "https://i.seadn.io/gcs/files/1eda452d25e276592665fc10cfd3ae64.png?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xf619606c5f7862ec6dc0945b385a6d5766f0cf0b",
+      "name": "Planet Mojo - Golden Mojo",
+      "type": "ERC721",
+      "symbol": "MOJO",
+      "logoURI": "https://i.seadn.io/gcs/files/30cb283b9fe117564d0cf01275fbd216.gif?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "The limited edition Golden Mojo represents participation in the inaugural Mojo Melee 2023 Mojo Bowl Tournament.",
+        "ogImage": "https://i.seadn.io/gcs/files/81588ac1730daa03576a95bfc5e6ee4f.png?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x90c45bb702384812825da4971054fdb6836582a0",
+      "name": "Planet Mojo - Champions",
+      "type": "ERC721",
+      "symbol": "MOJO",
+      "logoURI": "https://i.seadn.io/gcs/files/32671abc40f4ce8590dcb5c5204cc2d7.gif?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "Champions are warriors from the Clans of Planet Mojo. They have been sent to discover the source of the Scourge and determine whether an age-old prophecy is unfolding. In Mojo Melee, most of a player’s team will consist of Champions that have banded together with their Mojo to battle together.",
+        "ogImage": "https://i.seadn.io/gcs/files/dc631d970269e13b6b61fd2a613c8a6d.png?auto=format&dpr=1&w=3840"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
