@@ -366,6 +366,58 @@
         "description": "Welcome to the home of MetaStar Strikers: Avatars on OpenSea. Discover the best items in this collection.",
         "ogImage": "https://i.seadn.io/gcs/files/506167396d6d2f96492606fc82c8f58a.png?auto=format&dpr=1&w=3840"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xe22575fad77781d730c6ed5d24dd1908d6d5b730",
+      "name": "Champions Ascension - Prime Eternal",
+      "type": "ERC721",
+      "symbol": "CHAMP",
+      "logoURI": "https://i.seadn.io/gcs/files/2ef3e366b335b566c04749975fecbac4.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://champions.io/",
+        "description": "Meet the glorious 7622 champions who have ascended to the status of Prime Eternal. These Divine few have no equal in the arena, and receive the highest level of in game benefits. Prime Eternals will never be minted again, and give you access to the growing fantasy world Massina. Claim your Prime Eternal Champion, to play in Champions: Ascension a AAA play-to-earn game by Jam City.",
+        "ogImage": "https://i.seadn.io/gcs/files/11328a4a49017436e596e52430b0cca8.png?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x58481864048671c833a0cee0d467d34534171713",
+      "name": "Champions Ascension - Pets of Massina",
+      "type": "ERC721",
+      "symbol": "CHAMP",
+      "logoURI": "https://i.seadn.io/gcs/files/4c7c67b9714044fdb03e1bed80dd75cb.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://champions.io/",
+        "description": "Pets of Massina is a collection of unique companions that inhabit the universe of Champions Ascension. These creatures love joining forces with Champions, aiding them in their adventures, boosting their combat prowess, unlocking secrets and breaking hearts.",
+        "ogImage": "https://i.seadn.io/gcs/files/58b3bff2d3c39693c6da4f4090070de3.png?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x13d15d8b7b2bf48cbaf144c5c50e67b6b635b5cd",
+      "name": "Champions Ascension - Imperial Gallery",
+      "type": "ERC721",
+      "symbol": "CHAMP",
+      "logoURI": "https://i.seadn.io/gcs/files/2203e103fad296773e1aa3a336a6779b.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://champions.io/",
+        "description": "The Imperial Gallery hosts the most prized works of art, items and artifacts that have been collected over centuries by the line of Massina Emperors. People travel from all corners of the world to witness the marvels contained in the gallery. Would-be thieves are executed on site. Children and Beadols pay half.",
+        "ogImage": "https://i.seadn.io/gcs/files/5daff7f018b32fd1f33c4274c3b262e0.png?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xc615bfb753fc2bab65065987391d046105673284",
+      "name": "Champions Ascension - Elemental Eternal",
+      "type": "ERC721",
+      "symbol": "CHAMP",
+      "logoURI": "https://i.seadn.io/gcs/files/06c3079b88c3b23cd605a9d30e0d9041.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://champions.io/",
+        "description": "As the House of the World was shattered, the Elemental Houses would rise from its remains. Mighty Champions willing to represent the four Elements: Air, Fire, Earth and Water, claimed their right to fight in the Colosseum Eternal, but the Emperor had other plans. Until now. The Elemental Champions are allowed in the arena once more and the stakes have never been higher.",
+        "ogImage": "https://i.seadn.io/gcs/files/8921c0a8c250d900b16ba870d9cb7dcd.png?auto=format&dpr=1&w=2048"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
