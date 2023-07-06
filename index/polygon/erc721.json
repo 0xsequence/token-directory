@@ -340,6 +340,32 @@
         "description": "Champions are warriors from the Clans of Planet Mojo. They have been sent to discover the source of the Scourge and determine whether an age-old prophecy is unfolding. In Mojo Melee, most of a player’s team will consist of Champions that have banded together with their Mojo to battle together.",
         "ogImage": "https://i.seadn.io/gcs/files/dc631d970269e13b6b61fd2a613c8a6d.png?auto=format&dpr=1&w=3840"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x26f75ed19458334a80d25c76174f441c50d14f3f",
+      "name": "MetaStar Strikers: Strikers",
+      "type": "ERC721",
+      "symbol": "STRIKERS",
+      "logoURI": "https://i.seadn.io/gcs/files/d89c7bf65b3cb00ae17c466306e1ffef.gif?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://metastar.gg/",
+        "description": "The playable characters in MetaStar Strikers! With unique visual looks and four in-game stats, you won’t want to miss these!",
+        "ogImage": "https://i.seadn.io/gcs/files/c01f03d12b96549667526df5ebb3903d.png?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x960ad35c7e637c2ee1c30f6e0676f9419af5d38c",
+      "name": "MetaStar Strikers: Avatars",
+      "type": "ERC721",
+      "symbol": "STRIKERS",
+      "logoURI": "https://i.seadn.io/gcs/files/727dbec029b4e994e89298c7c6ff8468.gif?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://metastar.gg/",
+        "description": "Welcome to the home of MetaStar Strikers: Avatars on OpenSea. Discover the best items in this collection.",
+        "ogImage": "https://i.seadn.io/gcs/files/506167396d6d2f96492606fc82c8f58a.png?auto=format&dpr=1&w=3840"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
