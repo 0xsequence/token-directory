@@ -460,7 +460,25 @@
         "link": "https://metastar.gg/",
         "description": "This badge symbolizes your status as one of our most exclusive members. The crème de la crème. Expect exclusive rewards and special services to the owners of this sought out item.",
         "ogImage": "https://i.seadn.io/gcs/files/5983dfdfa8b8d30d4464299c8eb64552.png?auto=format&dpr=1&w=3840"
-      }
+      }  
+    },
+    {
+      "chainId": 137,
+      "address": "0xd4D53d8D61adc3B8114C1cd17B89393640db9733",
+      "name": "BoomLand - Artifacts",
+      "standard": "erc1155"
+    },
+    {
+      "chainId": 137,
+      "address": "0x44b3f42e2BF34F62868Ff9e9dAb7C2F807ba97Cb",
+      "name": "BoomLand - Shards",
+      "standard": "erc1155"
+    },
+    {
+      "chainId": 137,
+      "address": "0x74d4567fd8B0b873B61FA180618a82183012F369",
+      "name": "BoomLand - Equipments",
+      "standard": "erc1155"
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
