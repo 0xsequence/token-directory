@@ -485,7 +485,9 @@
       "address": "0x7A4Dd3DbE7B175ff11817e8C36Cf82e685829A7f",
       "name": "$5000 BUSD Voucher",
       "standard": "erc1155",
-      "blacklist": true
+      "extensions": {
+        "blacklist": true
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
