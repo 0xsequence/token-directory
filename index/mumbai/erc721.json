@@ -1,1 +1,19 @@
-{}
+{
+  "tokens": [
+    {
+      "chainId": 8001,
+      "address": "0xf4746aDf7F08B9d85749fe77A5A7740aD4dFC91A",
+      "name": "Hunters",
+      "standard": "erc721",
+      "symbol": "HUNTER",
+      "logoURI": null,
+      "extensions": {
+        "link": null,
+        "description": "Hunters On Chain - Hunters contract (TESTNET)",
+        "ogImage": null,
+        "originChainId": null,
+        "originAddress": null
+      }
+    }
+  ]
+}
