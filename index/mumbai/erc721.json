@@ -1,7 +1,7 @@
 {
   "tokens": [
     {
-      "chainId": 8001,
+      "chainId": 80001,
       "address": "0xf4746aDf7F08B9d85749fe77A5A7740aD4dFC91A",
       "name": "Hunters",
       "standard": "erc721",
