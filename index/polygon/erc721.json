@@ -431,6 +431,19 @@
         "description": "As the House of the World was shattered, the Elemental Houses would rise from its remains. Mighty Champions willing to represent the four Elements: Air, Fire, Earth and Water, claimed their right to fight in the Colosseum Eternal, but the Emperor had other plans. Until now. The Elemental Champions are allowed in the arena once more and the stakes have never been higher.",
         "ogImage": "https://i.seadn.io/gcs/files/8921c0a8c250d900b16ba870d9cb7dcd.png?auto=format&dpr=1&w=2048"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x78a0cea8f323ff80985c5f9d1f9de18bb9e35996",
+      "name": "Sunflower Land Buds",
+      "type": "ERC721",
+      "symbol": "BUDS",
+      "logoURI": "https://i.seadn.io/s/raw/files/3cc31f6b34094e95a59f306856ac8fb1.gif?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://sunflower-land.com/",
+        "description": "Introducing Buds, the friendly farming pets that will turbo charge your Sunflower Land farm and gaming experience. These buds mark the start of a new era of collectibles and utility in Sunflower Land, providing exciting gameplay avenues. Players will now be able to collect a one of a kind Sunflower Land collectible and use it in their farming adventure.",
+        "ogImage": "https://i.seadn.io/gcs/files/6531ea1f4be7477f5bbf92ac2ebc51b4.gif?auto=format&dpr=1&w=3840"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
