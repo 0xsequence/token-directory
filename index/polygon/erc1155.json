@@ -464,6 +464,19 @@
     },
     {
       "chainId": 137,
+      "address": "0xfe6012470f3ab874403527177fd45d84c24a051b",
+      "name": "REVV Racing Collection",
+      "standard": "erc721",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gcs/files/9d3cc3cab0f6cb2e655c298dca8d54df.png?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.revvracing.com/",
+        "description": "REVV Racing is a competitive racing game, and part of the REVV Motorsport ecosystem.Designed from the ground-up to be interoperable, and utilising the REVV and SHRD tokens, REVV Racing provides both collectable and gameplay experiences for racing game players and driving enthusiast - whether competitive or casual, collectors, or fans of motorsports in general.Ready to race? We'll see you on the track!",
+        "ogImage": "https://i.seadn.io/gcs/files/6079f927aa6fb503bfada25572ede681.png?auto=format&dpr=1&w=3840"
+      }  
+    },
+    {
+      "chainId": 137,
       "address": "0xd4D53d8D61adc3B8114C1cd17B89393640db9733",
       "name": "BoomLand - Artifacts",
       "standard": "erc1155"
