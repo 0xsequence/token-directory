@@ -655,7 +655,22 @@
     },
     {
       "chainId": 137,
-      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "name": "USDC.e",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "link": "https://www.circle.com/en/usdc",
+        "description": "USDC bridged from Ethereum network.",
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
+        "originChainId": 1,
+        "originAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
@@ -663,9 +678,7 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
-        "originChainId": 1,
-        "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
       }
     },
     {
