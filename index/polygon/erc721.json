@@ -365,7 +365,7 @@
         "link": "https://www.planetmojo.io/",
         "description": "Mod-able Mojos are a new collection from Planet Mojo where users will be able to swap parts and customize the look of their Mojos both in-game, and on-chain. Mojos are powerful plant heroes brought forth by the planet to battle the deadly threat known as the Scourge. They are 3D playable game characters in Mojo Melee and future games and experiences set inside the Planet Mojo Universe.",
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
-      }  
+      }
     },
     {
       "chainId": 137,
@@ -456,6 +456,67 @@
         "link": "https://sunflower-land.com/",
         "description": "Introducing Buds, the friendly farming pets that will turbo charge your Sunflower Land farm and gaming experience. These buds mark the start of a new era of collectibles and utility in Sunflower Land, providing exciting gameplay avenues. Players will now be able to collect a one of a kind Sunflower Land collectible and use it in their farming adventure.",
         "ogImage": "https://i.seadn.io/gcs/files/6531ea1f4be7477f5bbf92ac2ebc51b4.gif?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xfe6012470f3ab874403527177fd45d84c24a051b",
+      "name": "REVV Racing Collection",
+      "standard": "erc721",
+      "symbol": null,
+      "logoURI": "https://i.seadn.io/gcs/files/9d3cc3cab0f6cb2e655c298dca8d54df.png?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.revvracing.com/",
+        "description": "REVV Racing is a competitive racing game, and part of the REVV Motorsport ecosystem.Designed from the ground-up to be interoperable, and utilising the REVV and SHRD tokens, REVV Racing provides both collectable and gameplay experiences for racing game players and driving enthusiast - whether competitive or casual, collectors, or fans of motorsports in general.Ready to race? We'll see you on the track!",
+        "ogImage": "https://i.seadn.io/gcs/files/6079f927aa6fb503bfada25572ede681.png?auto=format&dpr=1&w=3840"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xdc0479cc5bba033b3e7de9f178607150b3abce1f",
+      "name": "Crypto Unicorns Market",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.cryptounicorns.fun/",
+        "description": "Crypto Unicorns is a Digital Pet Collecting and Farming Game built on the blockchain.In Crypto Unicorns, gameplay centers around awesomely unique Unicorn NFTs which players combine with Land NFTs to utilize in a fun farming simulation, as well as other gameplay including Jousting, Racing, and Team RPG.",
+        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xa7D50EE3D7485288107664cf758E877a0D351725",
+      "name": "Crypto Unicorns: Shadowcorns Market",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.cryptounicorns.fun/",
+        "description": "Shadowcorns are the dark, brooding cousins of the frolicking, carefree heroes of the Crypto Unicorns universe! The 3,000 Shadowcorns hatched from Common, Rare, and Mythic Shadowcorn Eggs form the foundation of the long-term PvE gameplay in Crypto Unicorns, being the key to the domination and production of Shadowcorn Minions!",
+        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xF0648328101F0a18469401a1dbf52CDF82a7fE45",
+      "name": "Crypto Unicorns: Shadowcorn Rituals Marketplace",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.cryptounicorns.fun/",
+        "description": "Minions form the power base of Shadowcorns, the ill-tempered arch-enemies of Crypto Unicorns, the blockchain game where you can collect, hatch, and breed your own NFT Unicorns and Battle! Shadowcorns have each mastered their own dark arts and unique tricks to craft a vast array of different henchmen to send forth in their quest for total domination. In order to preserve this ancient knowledge, it is transcribed into the pages of Rituals, each one providing the details of what's required to summon a specific Minion type.",
+        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xA2a13cE1824F3916fC84C65e559391fc6674e6e8",
+      "name": "Crypto Unicorns Land Market",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.cryptounicorns.fun/",
+        "description": "Crypto Unicorns is a Digital Pet Collecting and Farming Game built on the blockchain.In Crypto Unicorns, gameplay centers around awesomely unique Unicorn NFTs which players combine with Land NFTs to utilize in a fun farming simulation, as well as other gameplay including Jousting, Racing, and Team RPG.",
+        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
       }
     }
   ],

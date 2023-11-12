@@ -156,7 +156,7 @@
         "originChainId": 137,
         "originAddress": "0xDbC352232F6B6A5a2f18Ea58DC9E79df59e54575",
         "mute": true
-      }           
+      }
     },
     {
       "chainId": 137,
@@ -453,27 +453,38 @@
       "chainId": 137,
       "address": "0x870c3f1d7efb074719e8db1b52cc98ae7e5cb892",
       "name": "MetaStar Strikers: Badges",
-      "standard": "erc1155",
+      "standard": "ERC1155",
       "symbol": null,
       "logoURI": "https://i.seadn.io/gcs/files/6fa615de540a53c6141ca94a7df4ac8c.png?auto=format&dpr=1&w=384",
       "extensions": {
         "link": "https://metastar.gg/",
         "description": "This badge symbolizes your status as one of our most exclusive members. The crème de la crème. Expect exclusive rewards and special services to the owners of this sought out item.",
         "ogImage": "https://i.seadn.io/gcs/files/5983dfdfa8b8d30d4464299c8eb64552.png?auto=format&dpr=1&w=3840"
-      }  
+      }
     },
     {
       "chainId": 137,
-      "address": "0xfe6012470f3ab874403527177fd45d84c24a051b",
-      "name": "REVV Racing Collection",
-      "standard": "erc721",
-      "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/9d3cc3cab0f6cb2e655c298dca8d54df.png?auto=format&dpr=1&w=256",
+      "address": "0xb27bbc8f0092284a880d1616f184d86c1a640fae",
+      "name": "Crypto Unicorns: Shadowcorn Items Marketplace",
+      "type": "ERC1155",
+      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
       "extensions": {
-        "link": "https://www.revvracing.com/",
-        "description": "REVV Racing is a competitive racing game, and part of the REVV Motorsport ecosystem.Designed from the ground-up to be interoperable, and utilising the REVV and SHRD tokens, REVV Racing provides both collectable and gameplay experiences for racing game players and driving enthusiast - whether competitive or casual, collectors, or fans of motorsports in general.Ready to race? We'll see you on the track!",
-        "ogImage": "https://i.seadn.io/gcs/files/6079f927aa6fb503bfada25572ede681.png?auto=format&dpr=1&w=3840"
-      }  
+        "link": "https://www.cryptounicorns.fun/",
+        "description": "Welcome to the Shadowcorns' spooky bazaar deep within the Dark Forest, which lies in the realms of Crypto Unicorns, a blockchain game where you can collect, hatch, and breed your own NFT Unicorns and Battle! The Shadowcorns, menacing cousins of Unicorns, use this market to purchase and sell their items, from Crafting Components to powerful Minions, ready to build their armies and launch an offensive against the unicorns!",
+        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x99A558BDBdE247C2B2716f0D4cFb0E246DFB697D",
+      "name": "Crypto Unicorns: Items Marketplace",
+      "type": "ERC1155",
+      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.cryptounicorns.fun/",
+        "description": "Crypto Unicorns is a blockchain game in which you can collect, hatch, breed, and evolve your very own Crypto Unicorns in order to participate in farming your Land NFTs, gathering resources, and joining in an ever-expanding list of activities like Jousting, Racing, and Team RPG Battle! So come on in and join the Unicorn Fam! Here you’ll be able to find a variety of items to help you in your journey... Lootboxes, Golden Tickets, the coveted Shadowcorn eggs, and more!",
+        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+      }
     },
     {
       "chainId": 137,
