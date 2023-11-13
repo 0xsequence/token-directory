@@ -7237,6 +7237,18 @@
         "description": "a collective dream_",
         "ogImage": "https://i.seadn.io/gcs/files/1dcebf5aae50ae6c7325872957abd812.png?auto=format&w=2048"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cd925f268678d03057d184ded76d98552d7d837",
+      "name": "BEANS HOLDERS LOOT - Dumb Ways to Die",
+      "type": "ERC1155",
+      "logoURI": "https://i.seadn.io/gae/YRgggPx2-4yB87YEwUbjYC1DQyu4h3EN-fOHJZ_-QGM3I2teSzV1uuiukiYHpOkl1sPdaIi_3g05Xa0JIDAxuRRh5aQflceK99b6TQ?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.beansnfts.io/",
+        "description": "HOLDERS LOOT is a collection of 12 digital collectibles on the Ethereum blockchain. HOLDERS LOOT was originally granted to eligible holders of the BEANS - Dumb Ways to Die collection and grants access to special 3D items in PlaySide's upcoming 3D Wallet viewer as well as Bean Land, an upcoming P&E top-down action game set in the Dumb Ways to Die universe. This collection along with BEANS and CLASSIC BEANS is created by PlaySide Studios, Australia's largest publicly listed video game company. Visit https://www.beansnfts.io/ for more details.",
+        "ogImage": "https://i.seadn.io/gae/JOlgcs-3GR3TccQ8n0J8Chbk_jsIDrE118UsZebzyYNBCaNRRR7QUrlmjOlGKZ6EFOsNy7QTzpNb8RinhYuo9FxuTNe3hXYoECKbUQ?w=500&auto=format"
+      }
     }
   ],
   "version": { "major": 1, "minor": 1, "patch": 1 }

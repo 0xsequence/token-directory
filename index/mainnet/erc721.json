@@ -33361,6 +33361,43 @@
         "ogImage": "https://coolcatsnft.com/images/og-image.png",
         "featured": false
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x767785a8f4f7583c3a79ae59183d605fdb8b3289",
+      "name": "BEANS PETS GEN 1 - Dumb Ways to Die",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gae/7slGK7rKSHWXCRdgo3c1breCsb4tEPNCpuZn3E8yCd1c9ZrwTz02za2k1j06FNqJsXIfTfPZQByxytFt-hJS7Fy-4u3OWrxsRk71v9M?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.beansnfts.io/",
+        "description": "BEANS PETS is a collection of 4,200 unique digital collectibles on the Ethereum blockchain. BEANS PET GEN 1 was originally granted to eligible holders of the BEANS - Dumb Ways to Die collection and grants access to a special 3D companion in PlaySide's Bean Land, an upcoming P&E top-down action game set in the Dumb Ways to Die universe. This collection along with BEANS, CLASSIC BEANS and HOLDERS LOOT is created by PlaySide Studios, Australia's largest publicly listed video game company. Visit https://www.beansnfts.io/ for more details."        ,
+        "ogImage": "https://i.seadn.io/gae/IdOw_9gz5xUevHdD3qKAWfUOAW03SqjD5aRb4dTAUD4DTYiKKt7n5POdzK80QCrIlItRXYy_JWVanISJgLCifWAkadeKZuIvZK8eCw?w=500&auto=format"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x48355ce6ba377d06335be9499feaf735948484bc",
+      "name": "BEANS - Dumb Ways to Die",
+      "type": "ERC721",
+      "logoURI": 
+      "https://i.seadn.io/gae/qXvhLctJ8ajL_68PNU10U_Gb8fjgk_1b7OgLGLEQiBqrS4lMeTvRUnz-YF_Z6l_WhgF_fsZPlBqdXui-LTnqu74WOgifLgSIF19N1g?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.beansnfts.io/",
+        "description": "BEANS are one of a kind digital collectibles that live on the Ethereum blockchain. Each BEAN comes with special accessories, giving you access to exclusive members-only benefits in Bean Land, a fun and silly top-down action Play & Earn game coming in 2023. head over to https://www.beansnfts.io/ to learn more and join our discord community.",
+        "ogImage": "https://i.seadn.io/gae/wWs6FP4q5kZShWrYsiFb2iWW5kM5oGfAj5tlBnxD3VyqZdACNab0-o5m-B1772omywMJLJw5BRqp2lH50SJsfRk6MCKo0v1dfHy49JM?w=500&auto=format"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x440d4955a914d5e29f861ac024a608ae41c56cb6",
+      "name": "Pooky Stickers",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gcs/files/44f4e3f859cb33bd9139f87b9aabbe4f.jpg?w=500&auto=format",
+      "extensions": {
+        "link": "https://pooky.gg",
+        "description": "Stickers are customisations for your Pookyballs (https://opensea.io/collection/pookyballs). They're used in Pooky to supercharge your predictions and build custom strategies!",
+        "ogImage": "https://i.seadn.io/gcs/files/a1b94edb173f4880773aa1282b4a06d4.png?w=500&auto=format"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
