@@ -518,6 +518,18 @@
         "description": "Crypto Unicorns is a Digital Pet Collecting and Farming Game built on the blockchain.In Crypto Unicorns, gameplay centers around awesomely unique Unicorn NFTs which players combine with Land NFTs to utilize in a fun farming simulation, as well as other gameplay including Jousting, Racing, and Team RPG.",
         "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x3f316061c3ded6afd876988e387de224d7dad648",
+      "name": "SYMBIOGENESIS - Member Card",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gcs/files/3cabddb5c8e34af1d9c4e69d162537b8.png?w=256&auto=format",
+      "extensions": {
+        "link": "https://symbiogenesis.app/",
+        "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 character (Ethereum) - collectible artworks meet real game utility.\r\n \r\nGame Utility\r\nThis game's genre is defined as \"Narrative-unlocked NFT entertainment\"\r\nAs you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.\r\n\r\nThe member cards are able to be used as utility within the game.",
+        "ogImage": "https://i.seadn.io/gcs/files/e43c4fc02b76343e64dd95d9737121bc.png?w=500&auto=format"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
