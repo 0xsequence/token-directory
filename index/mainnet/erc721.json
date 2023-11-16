@@ -33398,6 +33398,18 @@
         "description": "Stickers are customisations for your Pookyballs (https://opensea.io/collection/pookyballs). They're used in Pooky to supercharge your predictions and build custom strategies!",
         "ogImage": "https://i.seadn.io/gcs/files/a1b94edb173f4880773aa1282b4a06d4.png?w=500&auto=format"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xf32c1fb9b982D211B16c340E3bd0925FB1dc77cA",
+      "name": "CLASSIC BEANS - Dumb Ways to Die",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gae/vI8acnlmyF8Wudg6xriwaSOwnNFaVPJVTOb-Perv3a_Nh6JJLk-wU7Hw8N6Itk6laJQVYPoVEWwsQSUDbpd119h3grulOmHYDJZjfDY?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.beansnfts.io/",
+        "description": "CLASSIC BEANS NFTs are a collection of 20 unique digital collectibles on the Ethereum blockchain. CLASSIC BEANS are the featured BEANS from the original games and starred in the 2012 global safety campaign that went viral on YouTube. A CLASSIC BEAN comes with utility and grants access to members-only benefits in Bean Land, an upcoming P&E top-down action game. Visit https://www.beansnfts.io/ for more details.",
+        "ogImage": "https://i.seadn.io/gae/DfvEUYpczxOI3MA5-0ej1pQiXGJ8RBSlnm36YemOrzrGS0ZHx6ZCjtuG7shSynalEZVZ4zQI-xt5YDPm-QoRPnwS2uMGn8BD0VGcUg?w=500&auto=format"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
