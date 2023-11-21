@@ -530,6 +530,18 @@
         "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 character (Ethereum) - collectible artworks meet real game utility.\r\n \r\nGame Utility\r\nThis game's genre is defined as \"Narrative-unlocked NFT entertainment\"\r\nAs you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.\r\n\r\nThe member cards are able to be used as utility within the game.",
         "ogImage": "https://i.seadn.io/gcs/files/e43c4fc02b76343e64dd95d9737121bc.png?w=500&auto=format"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x0c15126d2086f6df5ede0da8b552e7b2d067d4d9",
+      "name": "Mod-able Mojos",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "Mod-able Mojos are a new collection from Planet Mojo where users will be able to swap parts and customize the look of their Mojos both in-game, and on-chain. Mojos are powerful plant heroes brought forth by the planet to battle the deadly threat known as the Scourge. They are 3D playable game characters in Mojo Melee and future games and experiences set inside the Planet Mojo Universe.",
+        "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
