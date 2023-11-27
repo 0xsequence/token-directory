@@ -542,6 +542,18 @@
         "description": "Mod-able Mojos are a new collection from Planet Mojo where users will be able to swap parts and customize the look of their Mojos both in-game, and on-chain. Mojos are powerful plant heroes brought forth by the planet to battle the deadly threat known as the Scourge. They are 3D playable game characters in Mojo Melee and future games and experiences set inside the Planet Mojo Universe.",
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x440d4955a914d5e29f861ac024a608ae41c56cb6",
+      "name": "Pooky Stickers",
+      "type": "ERC721",
+      "logoURI": "https://i.seadn.io/gcs/files/44f4e3f859cb33bd9139f87b9aabbe4f.jpg?w=500&auto=format",
+      "extensions": {
+        "link": "https://pooky.gg/",
+        "description": "Stickers are customisations for your Pookyballs (https://opensea.io/collection/pookyballs). They're used in Pooky to supercharge your predictions and build custom strategies!",
+        "ogImage": "https://i.seadn.io/gcs/files/a1b94edb173f4880773aa1282b4a06d4.png?w=500&auto=format"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
