@@ -521,6 +521,15 @@
       "extensions": {
         "blacklist": true
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xcc33AD129FA66c4688436b77e4a4eEd2c90D86ee",
+      "name": "Flore",
+      "type": "erc1155",
+      "extensions": {
+        "description": "Redeemable flower nfts, priced using dynamic off-chain weather data via ip lookup"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
