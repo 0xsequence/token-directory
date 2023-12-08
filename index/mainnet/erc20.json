@@ -22693,6 +22693,19 @@
         "description": "Glo Dollar is US regulated and 1:1 backed by a reserve of cash and US Treasuries. When the Glo Foundation receives revenue from the reserve, we donate it to GiveDirectly’s basic income programs that lift people out of extreme poverty.",
         "ogImage": null
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7183209867489E1047f3A7c23ea1Aed9c4E236E8",
+      "name": "OKPC",
+      "standard": "erc20",
+      "symbol": "OKPC",
+      "logoURI": "https://i.seadn.io/gae/s8XNoLgpMIdjmOuOYy4qNjLrg59WPd9HRUp31uG3FLlSDzE68_HQfFYeAotCHBLYwB8ugByqi8hTEiH-gRWhu2DcvkD6bVDGSY1RhQ",
+      "extensions": {
+        "link": "https://okpc.app/",
+        "description": "OKPC is a creative toy stored on and connected to the ethereum network. Collect and display artwork from the curated community gallery, or draw on your okpc with the paint app.",
+        "ogImage": "https://i.seadn.io/gae/s8XNoLgpMIdjmOuOYy4qNjLrg59WPd9HRUp31uG3FLlSDzE68_HQfFYeAotCHBLYwB8ugByqi8hTEiH-gRWhu2DcvkD6bVDGSY1RhQ"
+      }
     }
   ],
   "version": { "major": 1, "minor": 3, "patch": 1 }

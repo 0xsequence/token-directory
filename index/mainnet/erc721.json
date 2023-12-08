@@ -33410,6 +33410,44 @@
         "description": "CLASSIC BEANS NFTs are a collection of 20 unique digital collectibles on the Ethereum blockchain. CLASSIC BEANS are the featured BEANS from the original games and starred in the 2012 global safety campaign that went viral on YouTube. A CLASSIC BEAN comes with utility and grants access to members-only benefits in Bean Land, an upcoming P&E top-down action game. Visit https://www.beansnfts.io/ for more details.",
         "ogImage": "https://i.seadn.io/gae/DfvEUYpczxOI3MA5-0ej1pQiXGJ8RBSlnm36YemOrzrGS0ZHx6ZCjtuG7shSynalEZVZ4zQI-xt5YDPm-QoRPnwS2uMGn8BD0VGcUg?w=500&auto=format"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E7C8525f9da0eE635036B6693A45cf57c2fc730",
+      "name": "OKGO",
+      "standard": "erc721",
+      "symbol": "OKGO",
+      "logoURI": "https://i.seadn.io/s/raw/files/a35928ac8cf52099bd0f5b611684d543.png",
+      "extensions": {
+        "link": "https://opensea.io/collection/okgonft",
+        "description": "OKGO is a 100% generative on-chain CC0 card collection",
+        "ogImage": "https://i.seadn.io/s/raw/files/a35928ac8cf52099bd0f5b611684d543.png"
+      }
+    },{
+      "chainId": 1,
+      "address": "0xeF51dA1eA651b5CBa8a12D0F8Ea7bA48fFd126AC",
+      "name": "Better Buddies",
+      "standard": "erc721",
+      "symbol": "BBUDDIES",
+      "logoURI": "https://i.seadn.io/gcs/files/64f2106485b22e0e138fc97ed2460d75.jpg",
+      "extensions": {
+        "link": "https://opensea.io/collection/betterbuddies",
+        "description": "A collection of 2,050 planet-positive NFTs here to fight climate change. Because Earth is non-fungible. So let’s not burn it 🌎 ✌️50% of revenue from the BETTER BUDDIES mint and sales from the hodl_better account go toward the BETTER CLIMATE FUND.",
+        "ogImage": "https://i.seadn.io/gcs/files/64f2106485b22e0e138fc97ed2460d75.jpg"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x44A46FC706798e203c405667E70802E5b18A2867",
+      "name": "MetaZoo",
+      "standard": "erc721",
+      "symbol": "MZG",
+      "logoURI": "https://res.cloudinary.com/coin-nft/image/upload/c_limit%2Cq_auto%2Cw_329/f_auto/v1/cache/1/5d/5f/5d5fdcb6d16467249acb1763a1b93e57bb0a48712ce639e63b564f095bd0684d-MmQ2ZmNlZDAtMjdhYS00YzMxLTllZWYtNGVhMDA2NTc4NjAy",
+      "extensions": {
+        "link": "https://nft.coinbase.com/collection/ethereum/0x44a46fc706798e203c405667e70802e5b18a2867",
+        "description": "With the Veil between our world and all things magical mysteriously shattered, it is up to you to become a powerful enough Caster to fight the menacing Indrid Cold and his powerful Cryptids….or join their ranks! Will you form a Contract with the benevolent Bigfoot and Fearsome Critters to protect our forests, or embrace the flying catastrophe that is The Mothman? The choice is yours in MetaZoo: Cryptid Nation! This collection features 5,000 unique tokens which are the depictions of some of the key Beasties in the MetaZoo lore, each of which has special traits or characteristics unique to it.",
+        "ogImage": "https://res.cloudinary.com/coin-nft/image/upload/c_limit%2Cq_auto%2Cw_329/f_auto/v1/cache/1/5d/5f/5d5fdcb6d16467249acb1763a1b93e57bb0a48712ce639e63b564f095bd0684d-MmQ2ZmNlZDAtMjdhYS00YzMxLTllZWYtNGVhMDA2NTc4NjAy"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }

@@ -6,6 +6,21 @@
   "keywords": ["erc721", "base"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x2691805280d08d532e5F2c25dA94A73b19eBeE4b",
+      "name": "OKGO on Base",
+      "standard": "erc721",
+      "symbol": "OKGO",
+      "logoURI": "https://i.seadn.io/s/raw/files/a35928ac8cf52099bd0f5b611684d543.png",
+      "extensions": {
+        "link": "https://opensea.io/collection/okgo-on-base-1",
+        "description": "OKGO is a 100% generative on-chain CC0 card collection",
+        "ogImage": "https://i.seadn.io/s/raw/files/a35928ac8cf52099bd0f5b611684d543.png",
+        "originChainId": 8453,
+        "originAddress": null
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
