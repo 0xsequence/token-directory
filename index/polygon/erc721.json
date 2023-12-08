@@ -554,6 +554,16 @@
         "description": "Stickers are customisations for your Pookyballs (https://opensea.io/collection/pookyballs). They're used in Pooky to supercharge your predictions and build custom strategies!",
         "ogImage": "https://i.seadn.io/gcs/files/a1b94edb173f4880773aa1282b4a06d4.png?w=500&auto=format"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x647A263ecb8AaB53ee2A1fB4A96Af426c5E9D9ba",
+      "name": "Shatterpoint",
+      "symbol": "shatterpoint",
+      "type": "erc721",
+      "extensions": {
+        "description": "Shatterpoint is a play-to-earn free-to-play blockchain action role-playing game built on the Polygon network where players can own NFT heroes and earn QUA and SHA tokens. The game features a PvP arena where players can battle each other and a PvE campaign mode that players can progress through."
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
