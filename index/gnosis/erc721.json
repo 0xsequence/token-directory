@@ -6,6 +6,20 @@
   "keywords": ["erc20", "gnosis"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 100,
+      "address": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "name": "POAP",
+      "standard": "erc721",
+      "symbol": "POAP",
+      "logoURI": "https://poap.gallery/icons/poap_dark.png",
+      "extensions": {
+        "link": "https://poap.xyz/",
+        "description": "POAP, short for 'Proof of Attendance Protocol,' allows you to mint memories as digital mementos we call 'POAPs.' Give POAPs to people for sharing a memory with you.",
+        "ogImage": "https://poap.gallery/icons/poap_dark.png",
+        "originAddress": "0x22C1f6050E56d2876009903609a2cC3fEf83B415"
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
