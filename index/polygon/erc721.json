@@ -564,6 +564,125 @@
       "extensions": {
         "description": "Shatterpoint is a play-to-earn free-to-play blockchain action role-playing game built on the Polygon network where players can own NFT heroes and earn QUA and SHA tokens. The game features a PvP arena where players can battle each other and a PvE campaign mode that players can progress through."
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xc8099cd6f4e4d0049c4cd85834013d97d6f224d6",
+      "name": "The Moopians",
+      "symbol": "TM",
+      "type": "erc721",
+      "extensions": {
+        "link": "https://themoopians.io/",
+        "description": "The Moopians NFT is a (super) fun initiative by Siam Square Mookata."
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x356fb0fe98023239b240795003595dbcb63c57cd",
+      "name": "Pooky Energy",
+      "symbol": "PERG",
+      "type": "erc721",
+      "logoURI": "https://assets-global.website-files.com/6364e65656ab107e465325d2/65289a7cb687be2bc5173cd6_logo-sticker-blue-1.png",
+      "extensions": {
+        "link": "https://pooky.gg/",
+        "description": "The Ultimate Fantasy Football Prediction Platform. Predit The Score. Challenge fans worldwide in weekly competitions and win exciting rewards."
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x440d4955a914d5e29f861ac024a608ae41c56cb6",
+      "name": "Pooky Stickers",
+      "symbol": "STK",
+      "type": "erc721",
+      "logoURI": "https://assets-global.website-files.com/6364e65656ab107e465325d2/65289a7cb687be2bc5173cd6_logo-sticker-blue-1.png",
+      "extensions": {
+        "link": "https://pooky.gg/",
+        "description": "The Ultimate Fantasy Football Prediction Platform. Predit The Score. Challenge fans worldwide in weekly competitions and win exciting rewards."
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xb4859acd9b0a65ca4897c31e5cb5160d9ff32c0a",
+      "name": "Pookyball",
+      "symbol": "PKYB",
+      "type": "erc721",
+      "logoURI": "https://assets-global.website-files.com/6364e65656ab107e465325d2/65289a7cb687be2bc5173cd6_logo-sticker-blue-1.png",
+      "extensions": {
+        "link": "https://pooky.gg/",
+        "description": "The Ultimate Fantasy Football Prediction Platform. Predit The Score. Challenge fans worldwide in weekly competitions and win exciting rewards."
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x43f2932341c1f619648c7a077b49393ca882b4d1",
+      "name": "Mojo",
+      "type": "erc721",
+      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.planetmojo.io/"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x90c45bb702384812825da4971054fdb6836582a0",
+      "name": "Mojo-Champion",
+      "type": "erc721",
+      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.planetmojo.io/"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xf619606c5f7862ec6dc0945b385a6d5766f0cf0b",
+      "name": "Golden-Mojo",
+      "type": "erc721",
+      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.planetmojo.io/"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x690e0df3c6f1f6f317d273c4a1529761597776b1",
+      "name": "Moj-Seed",
+      "type": "erc721",
+      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
+      "extensions": {
+        "link": "https://www.planetmojo.io/"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x20b807b9af56977ef475c089a0e7977540743560",
+      "name": "Hunter",
+      "type": "erc721",
+      "logoURI": "https://icodrops.com/wp-content/uploads/2023/05/Sla2HPLX_400x400.jpg",
+      "extensions": {
+        "link": "https://www.boomland.io/",
+        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x5fdf45a0ff4883b9f681b1800d6670d1d155811d",
+      "name": "Hunters On-Chain",
+      "type": "erc721",
+      "logoURI": "https://icodrops.com/wp-content/uploads/2023/05/Sla2HPLX_400x400.jpg",
+      "extensions": {
+        "link": "https://www.boomland.io/",
+        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
+      }
+    },{
+      "chainId": 137,
+      "address": "0xe13cdbe1b619837773de29f316428d7f65e7df9a",
+      "name": "Boomland Genesis T2 Chests",
+      "type": "erc721",
+      "logoURI": "https://icodrops.com/wp-content/uploads/2023/05/Sla2HPLX_400x400.jpg",
+      "extensions": {
+        "link": "https://www.boomland.io/",
+        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
