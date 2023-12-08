@@ -9,9 +9,9 @@
       {
         "chainId": 80001,
         "address": "0xf86d9dE1eA0aF3b826586F450aA12C802FD49bd7",
-        "name": "POAP",
+        "name": "Mod-Able Mojo",
         "standard": "erc721",
-        "symbol": "POAP",
+        "symbol": "Mod-Able Mojo",
         "logoURI": "https://img.api.cryptorank.io/coins/planet_mojo1678714578583.png",
         "extensions": {
           "link": "https://www.planetmojo.io/",
