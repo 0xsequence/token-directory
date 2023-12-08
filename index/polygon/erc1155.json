@@ -540,6 +540,15 @@
       "extensions": {
         "description": "Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. This Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar."
       }
+    },{
+      "chainId": 137,
+      "address": "0x86935f11c86623dec8a25696e1c19a8659cbf95d",
+      "name": "Aavegotchi",
+      "type": "erc1155",
+      "logoURI": "https://chainplay.gg/_next/image/?url=https%3A%2F%2Ftk-storage.s3.ap-southeast-1.amazonaws.com%2Fhost%2Fgame%2FyjLb5bar_400x400_20221229105407.png&w=256&q=75",
+      "extensions": {
+        "description": "Henlo! I'm a digital ghost trapped forever on the blockchain. Gaming helps distract me from my existential dread."
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
