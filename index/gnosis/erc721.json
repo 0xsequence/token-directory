@@ -16,7 +16,6 @@
       "extensions": {
         "link": "https://poap.xyz/",
         "description": "POAP, short for 'Proof of Attendance Protocol,' allows you to mint memories as digital mementos we call 'POAPs.' Give POAPs to people for sharing a memory with you.",
-        "ogImage": "https://poap.gallery/icons/poap_dark.png",
         "originAddress": "0x22C1f6050E56d2876009903609a2cC3fEf83B415"
       }
     }
