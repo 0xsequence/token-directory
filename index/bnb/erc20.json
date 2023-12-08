@@ -288,6 +288,19 @@
         "link": "https://guardfdn.com/",
         "description": "Guardian is for purpose driven companies and projects building and contributing to the web3 economy."
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "name": "Binance-Peg Dai Token",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/YBzz5Q_O/images/tokens/dai-token.png",
+      "extensions": {
+        "link": "https://makerdao.com/",
+        "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
+        "ogImage": "https://makerdao.com/dai.png"
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }

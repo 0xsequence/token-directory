@@ -18,6 +18,19 @@
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
       }
+    },
+    {
+      "chainId": 100,
+      "address": "0x44fA8E6f47987339850636F88629646662444217",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/YBzz5Q_O/images/tokens/dai-token.png",
+      "extensions": {
+        "link": "https://makerdao.com/",
+        "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
+        "ogImage": "https://makerdao.com/dai.png"
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }

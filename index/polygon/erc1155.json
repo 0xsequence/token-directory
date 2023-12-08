@@ -524,11 +524,21 @@
     },
     {
       "chainId": 137,
-      "address": "0xcc33AD129FA66c4688436b77e4a4eEd2c90D86ee",
+      "address": "0x0b454f171E2572756f08537C7e65BfaFaD697F1c",
       "name": "Flore",
       "type": "erc1155",
       "extensions": {
         "description": "Redeemable flower nfts, priced using dynamic off-chain weather data via ip lookup"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xb9C042c3275BC49799688EEA1A29b1405D02946B",
+      "name": "Reddit CA: Meme Team",
+      "type": "erc1155",
+      "logoURI": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/220px-Reddit_Logo_Icon.svg.png",
+      "extensions": {
+        "description": "Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. This Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar."
       }
     }
   ],

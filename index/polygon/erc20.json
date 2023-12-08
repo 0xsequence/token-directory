@@ -5337,6 +5337,60 @@
         "description": "Glo Dollar is US regulated and 1:1 backed by a reserve of cash and US Treasuries. When the Glo Foundation receives revenue from the reserve, we donate it to GiveDirectly’s basic income programs that lift people out of extreme poverty.",
         "ogImage": null
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x51f005D61426e537e6afeE52F9b1aB0E63046d60",
+      "name": "Boomland",
+      "symbol": "BOOM",
+      "decimals": 18,
+      "extensions": {
+        "link": "https://www.boomland.io/",
+        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x1386617A1Bb2A6AA712AB3616bCAF1211152D1e8",
+      "name": "Boomland BGEM",
+      "symbol": "BGEM",
+      "decimals": 18,
+      "extensions": {
+        "link": "https://www.boomland.io/",
+        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x1599fe55cda767b1f631ee7d414b41f5d6de393d",
+      "name": "Cool Cats Milk",
+      "symbol": "MILK",
+      "decimals": 18,
+      "extensions": {
+        "link": "https://coolcats.com/",
+        "description": "Cool Cats is a global storytelling brand centered around our beloved character, Blue Cat, who was created in 2013 by our founding artist, Colin Egan. Today, Cool Cats is a rich ecosystem of captivating characters and comics, innovative games, unique merchandise, and fun animations."
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x64060ab139feaae7f06ca4e63189d86adeb51691",
+      "name": "Crypto Unicorns - Unicorn Milk",
+      "symbol": "UNIM",
+      "decimals": 18,
+      "extensions": {
+        "link": "https://www.cryptounicorns.fun/",
+        "description": "Harvest and craft magical items to level up your buildings and prepare for the impending darkness. Showcase the might of your Unicorns in thrilling PvP competitions and engaging mini-games. Unite with your tribe to conquer epic team quests and win lucrative rewards. Delight in captivating mini games, and forge powerful items to enrich your adventure. Dive into a multifaceted world of strategy, creativity, and community - embark on your unique adventure in Crypto Unicorns today!"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "name": "Avalanche Token",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "extensions": {
+        "link": "https://www.avax.network/"
+      }
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
