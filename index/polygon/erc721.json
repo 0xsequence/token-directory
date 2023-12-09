@@ -619,7 +619,18 @@
         "link": "https://www.boomland.io/",
         "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
       }
-    }
+    },
+    {
+      "chainId": 137,
+      "address": "0x88f84864fd0839a7753199b01acb89c4714319f2",
+      "name": "AMKT Disclosure",
+      "type": "ERC721",
+      "symbol": "AMKT Disclosure",
+      "logoURI": "https://openseauserdata.com/files/7af3dcf18ed7df35d77afc1a2da0ddcf.jpg",
+      "extensions": {
+        "description": "The AMKT disclosure is distributed to holders of the Alongside Crypto Market Index. \n\nAMKT is a [crypto index](https://alongside.xyz/) designed to track the crypto market through exposure to the top 25 assets by market cap. [Learn more about AMKT.](https://alongside.xyz/amkt)"
+      }
+    }    
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
 }
