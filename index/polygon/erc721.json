@@ -343,19 +343,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x90c45bb702384812825da4971054fdb6836582a0",
-      "name": "Champions",
-      "type": "ERC721",
-      "symbol": "MOJO",
-      "logoURI": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/be2639ad-251f-44d4-ff3f-c45143ab4300/public",
-      "extensions": {
-        "link": "https://www.planetmojo.io/",
-        "description": "Champions are warriors from the Clans of Planet Mojo. They have been sent to discover the source of the Scourge and determine whether an age-old prophecy is unfolding. In Mojo Melee, most of a player’s team will consist of Champions that have banded together with their Mojo to battle together.",
-        "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/db516228-8a81-4e58-9782-afb645e76300/public"
-      }
-    },
-    {
-      "chainId": 137,
       "address": "0x9b8e42cd5e5f21c6e0e893584a462045d8a3de81",
       "name": "Mod-able Mojos",
       "type": "ERC721",
@@ -567,32 +554,9 @@
     },
     {
       "chainId": 137,
-      "address": "0xc8099cd6f4e4d0049c4cd85834013d97d6f224d6",
-      "name": "The Moopians",
-      "symbol": "TM",
-      "type": "erc721",
-      "extensions": {
-        "link": "https://themoopians.io/",
-        "description": "The Moopians NFT is a (super) fun initiative by Siam Square Mookata."
-      }
-    },
-    {
-      "chainId": 137,
       "address": "0x356fb0fe98023239b240795003595dbcb63c57cd",
       "name": "Pooky Energy",
       "symbol": "PERG",
-      "type": "erc721",
-      "logoURI": "https://assets-global.website-files.com/6364e65656ab107e465325d2/65289a7cb687be2bc5173cd6_logo-sticker-blue-1.png",
-      "extensions": {
-        "link": "https://pooky.gg/",
-        "description": "The Ultimate Fantasy Football Prediction Platform. Predit The Score. Challenge fans worldwide in weekly competitions and win exciting rewards."
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0x440d4955a914d5e29f861ac024a608ae41c56cb6",
-      "name": "Pooky Stickers",
-      "symbol": "STK",
       "type": "erc721",
       "logoURI": "https://assets-global.website-files.com/6364e65656ab107e465325d2/65289a7cb687be2bc5173cd6_logo-sticker-blue-1.png",
       "extensions": {
@@ -614,42 +578,14 @@
     },
     {
       "chainId": 137,
-      "address": "0x43f2932341c1f619648c7a077b49393ca882b4d1",
-      "name": "Mojo",
-      "type": "erc721",
-      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
-      "extensions": {
-        "link": "https://www.planetmojo.io/"
-      }
-    },
-    {
-      "chainId": 137,
       "address": "0x90c45bb702384812825da4971054fdb6836582a0",
       "name": "Mojo-Champion",
       "type": "erc721",
       "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
       "extensions": {
-        "link": "https://www.planetmojo.io/"
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0xf619606c5f7862ec6dc0945b385a6d5766f0cf0b",
-      "name": "Golden-Mojo",
-      "type": "erc721",
-      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
-      "extensions": {
-        "link": "https://www.planetmojo.io/"
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0x690e0df3c6f1f6f317d273c4a1529761597776b1",
-      "name": "Moj-Seed",
-      "type": "erc721",
-      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
-      "extensions": {
-        "link": "https://www.planetmojo.io/"
+        "link": "https://www.planetmojo.io/",
+        "description": "Champions are warriors from the Clans of Planet Mojo. They have been sent to discover the source of the Scourge and determine whether an age-old prophecy is unfolding. In Mojo Melee, most of a player’s team will consist of Champions that have banded together with their Mojo to battle together.",
+        "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/db516228-8a81-4e58-9782-afb645e76300/public"
       }
     },
     {
