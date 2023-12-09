@@ -5343,7 +5343,7 @@
       "address": "0x51f005D61426e537e6afeE52F9b1aB0E63046d60",
       "name": "Boomland",
       "symbol": "BOOM",
-      "decimals": 18,
+      "decimals": 2,
       "extensions": {
         "link": "https://www.boomland.io/",
         "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
