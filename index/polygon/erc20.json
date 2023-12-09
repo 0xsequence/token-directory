@@ -5402,6 +5402,14 @@
       "extensions": {
         "link": "https://www.avax.network/"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xb87904db461005fc716a6bf9f2d451c33b10b80b",
+      "name": "Alongside Crypto Market Index (PoS)",
+      "type": "ERC20",
+      "symbol": "AMKT",
+      "decimals": 18
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
