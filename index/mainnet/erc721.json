@@ -33448,6 +33448,13 @@
         "description": "With the Veil between our world and all things magical mysteriously shattered, it is up to you to become a powerful enough Caster to fight the menacing Indrid Cold and his powerful Cryptids….or join their ranks! Will you form a Contract with the benevolent Bigfoot and Fearsome Critters to protect our forests, or embrace the flying catastrophe that is The Mothman? The choice is yours in MetaZoo: Cryptid Nation! This collection features 5,000 unique tokens which are the depictions of some of the key Beasties in the MetaZoo lore, each of which has special traits or characteristics unique to it.",
         "ogImage": "https://res.cloudinary.com/coin-nft/image/upload/c_limit%2Cq_auto%2Cw_329/f_auto/v1/cache/1/5d/5f/5d5fdcb6d16467249acb1763a1b93e57bb0a48712ce639e63b564f095bd0684d-MmQ2ZmNlZDAtMjdhYS00YzMxLTllZWYtNGVhMDA2NTc4NjAy"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6F64223c763010A856892ec35415e79411Dd9f8",
+      "name": "MightyNet Genesis Pass",
+      "standard": "erc721",
+      "symbol": "MGP"
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }

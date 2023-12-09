@@ -5384,6 +5384,17 @@
     },
     {
       "chainId": 137,
+      "address": "0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
+      "name": "Crypto Unicorns - Rainbow Token",
+      "symbol": "RBW",
+      "decimals": 18,
+      "extensions": {
+        "link": "https://www.cryptounicorns.fun/",
+        "description": "Harvest and craft magical items to level up your buildings and prepare for the impending darkness. Showcase the might of your Unicorns in thrilling PvP competitions and engaging mini-games. Unite with your tribe to conquer epic team quests and win lucrative rewards. Delight in captivating mini games, and forge powerful items to enrich your adventure. Dive into a multifaceted world of strategy, creativity, and community - embark on your unique adventure in Crypto Unicorns today!"
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
       "name": "Avalanche Token",
       "symbol": "AVAX",
