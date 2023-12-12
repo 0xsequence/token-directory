@@ -346,11 +346,36 @@
       "address": "0x9b8e42cd5e5f21c6e0e893584a462045d8a3de81",
       "name": "Mod-able Mojos",
       "type": "ERC721",
-      "symbol": null,
+      "symbol": "MOJO",
       "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?auto=format&dpr=1&w=256",
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Mod-able Mojos are a new collection from Planet Mojo where users will be able to swap parts and customize the look of their Mojos both in-game, and on-chain. Mojos are powerful plant heroes brought forth by the planet to battle the deadly threat known as the Scourge. They are 3D playable game characters in Mojo Melee and future games and experiences set inside the Planet Mojo Universe.",
+        "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
+      }
+    },{
+      "chainId": 137,
+      "address": "0x44d255166acc83c09a73d6f6f44cf534726c2947",
+      "name": "Cinematic Collectors Pass",
+      "type": "ERC721",
+      "symbol": "MOJO",
+      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "A limited edition Cinematic Collector's Pass \"movie poster\" NFT created for the community in celebration of the release of Planet Mojo's first cinematic trailer!",
+        "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xc6CF0c09467fef56B555bbc26aE6a7e5a53D6c0a",
+      "name": "VIP Playtest Pass",
+      "type": "ERC721",
+      "symbol": "MOJO",
+      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?auto=format&dpr=1&w=256",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "The Planet Mojo VIP Playtest Pass NFT is a ticket that provides access to Pre-Alpha testing of the auto battler game Mojo Melee. Pass holders will be eligible to earn in-game rewards, a special badge and invitations to special events.",
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
       }
     },
