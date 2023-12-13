@@ -33455,6 +33455,42 @@
       "name": "MightyNet Genesis Pass",
       "standard": "erc721",
       "symbol": "MGP"
+    },
+    {
+      "chainId": 1,
+      "address": "0x09233d553058c2f42ba751c87816a8e9fae7ef10",
+      "name": "My Pet Hooligan",
+      "standard": "erc721",
+      "symbol": "MPH",
+      "logoURI": "https://i.seadn.io/gae/aITOppXWvfLhdRq4gUL5kkQ2Li0ljfWOAveam2wQy_znEa7WWI7Ci1mbSE6-DIVQl1MNxuAaYWx2wsVAv_IU7PpL-DfWWrZ60Tv6fw?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://mypethooligan.com/",
+        "description": "A genesis collection of 8888 Pet Hooligans – unique 3D characters that are posed to defend Web3 from the corporate overlord, MetaZuckBot.Each Hooligan provides access to the AMGI Studio's suite of animation products, and are also your playable avatars in the social-action, multiplayer game My Pet Hooligan - free-to-play early access out now!Sequi Lepus."
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7564c24e3123d87134cdd4e16e8653d363a9255",
+      "name": "ZuckCorp Items",
+      "standard": "erc721",
+      "symbol": "MPH",
+      "logoURI": "https://i.seadn.io/gcs/files/1d139d08f4f0575803d71fd16533d524.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "description": "ZB-14 classified items. Probably nothing…",
+        "link": "https://mypethooligan.com/"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7448ccba6e1c01a5fbe4748e062c500fcfdf4f2",
+      "name": "ZuckBots",
+      "standard": "erc721",
+      "symbol": "MPH",
+      "logoURI": "https://i.seadn.io/gcs/files/30dbf8fa65488229a85595309635f8c9.png?auto=format&dpr=1&w=64",
+      "extensions": {
+        "description": "Once a robotic army that served the overlord Meta ZuckBot. The Hooligan’s worked out how to hack the ZuckBots and pulled off the greatest heist in Metaverse History, breaking into ZuckCorp and relieving Meta ZuckBot a number of OG Zuckbots.The ZuckBots are My Pet Hooligan’s first companion drop. In total there are 7 models of ZuckBots. These OG ZuckBots will serve as the key to unlocking further models through old school tests of skill, faith and critical thinking…Zuckbots will give you access to MPH’s Rabbit Hole game and social experience. A ZuckBot Battle Arena mobile game is also in the works for iOS and Android. Zuckbots will also have token gated access to AMGI Studios creator tools including Hooligram, immi, and more...The rebellion has grown stronger…",
+        "link": "https://mypethooligan.com/"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
