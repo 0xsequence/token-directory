@@ -655,6 +655,30 @@
       "extensions": {
         "description": "The AMKT disclosure is distributed to holders of the Alongside Crypto Market Index. \n\nAMKT is a [crypto index](https://alongside.xyz/) designed to track the crypto market through exposure to the top 25 assets by market cap. [Learn more about AMKT.](https://alongside.xyz/amkt)"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xaF2303eA870a8A5C222468fd8CD5b4e6780e89A7",
+      "name": "OG Heroes Challenger Collection",
+      "type": "ERC721",
+      "symbol": "OGHChallenger",
+      "extensions": {
+        "link": "https://esportsheroes.gg/#",
+        "description": "Be a legend in this first-ever idle RPG in the world of pro esports! Level up your esports athlete, scrim to improve, team up with four other players, and win tournaments on the pro circuit. Live your esports passion!",
+        "ogImage": "https://esportsheroes.gg/assets/hero-bg.jpg"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x1600Aabaca5864b775382E2F45de7Fe42400300d",
+      "name": "OG Heroes Champion Collection",
+      "type": "ERC721",
+      "symbol": "OGHChampion",
+      "extensions": {
+        "link": "https://esportsheroes.gg/#",
+        "description": "Be a legend in this first-ever idle RPG in the world of pro esports! Level up your esports athlete, scrim to improve, team up with four other players, and win tournaments on the pro circuit. Live your esports passion!",
+        "ogImage": "https://esportsheroes.gg/assets/esh_splash.png"
+      }
     }    
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
