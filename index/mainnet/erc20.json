@@ -22630,7 +22630,7 @@
     {
       "chainId": 1,
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "name": "Ether (Wrapped)",
+      "name": "ETH (Wrapped)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
@@ -22643,7 +22643,7 @@
     {
       "chainId": 1,
       "address": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
-      "name": "Ether (Wrapped)",
+      "name": "ETH (Wrapped)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
