@@ -549,7 +549,19 @@
       "extensions": {
         "description": "Henlo! I'm a digital ghost trapped forever on the blockchain. Gaming helps distract me from my existential dread."
       }
-    }
+    },
+    {
+      "chainId": 137,
+      "address": "0x78ec95a7b171460e3e6793bff2b9e11fce7c047e",
+      "name": "Synergy Land Items",
+      "type": "ERC1155",
+      "symbol": "SLI",
+      "extensions": {
+        "link": "https://www.synergyland.live/",
+        "description": "Discover a wide array of valuable assets and artifacts in the Synergy Land Items collection. From powerful weapons to rare artifacts, these NFTs offer unique advantages and enhancements to aid you in your exploration and conquests throughout Synergy Land.",
+        "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1975/landingBannerUrl/d38b292d0c2370567154c94fbbbe982042c0950f76f7ee6932eac12a2831b80c.png"
+      }
+    }  
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
 }

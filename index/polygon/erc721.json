@@ -718,7 +718,53 @@
         "description": "Be a legend in this first-ever idle RPG in the world of pro esports! Level up your esports athlete, scrim to improve, team up with four other players, and win tournaments on the pro circuit. Live your esports passion!",
         "ogImage": "https://esportsheroes.gg/assets/esh_splash.png"
       }
-    }    
+    },{
+      "chainId": 137,
+      "address": "0x61b9233548c428965e6db730508662AE81ce40be",
+      "name": "Synergians",
+      "type": "ERC721",
+      "symbol": "SNS",
+      "extensions": {
+        "link": "https://www.synergyland.live/",
+        "description": "Explore the captivating world of Synergians, our unique collection of PFP NFTs. Each Synergian character boasts distinct traits and personalities.",
+        "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1977/landingBannerUrl/2ecae86ff91114e20330401b0d5d1cecd7c94ead6629b1dcf0e364395ec1fb93.png"
+      }
+    } , {
+      "chainId": 137,
+      "address": "0x7e562729ca839acd6acd0d74554b238230c09c23",
+      "name": "Synergians Badges",
+      "type": "ERC721",
+      "symbol": "SNB",
+      "extensions": {
+        "link": "https://www.synergyland.live/",
+        "description": "Unlock exclusive benefits and privileges with Synergian Badges, a collection of NFTs designed to elevate your status within the Synergy Land community. Showcase your achievements, loyalty, and contributions with these prestigious badges.",
+        "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1973/landingBannerUrl/198b5fa3f184fd3a2f7defdd599ee1aa1b2e3272f80489964ead6add81053876.png"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x34664e3e1efd7bfed3f647deec40561253fa08c4",
+      "name": "Synergy Land Pets",
+      "type": "ERC721",
+      "symbol": "PSL",
+      "extensions": {
+        "link": "https://www.synergyland.live/",
+        "description": "Meet your loyal companions in Synergy Land, a collection of creatures ready to join you on your journey. From fierce warriors to adorable companions, these pets offer unique abilities and companionship as you navigate the vast landscapes of Synergy Land.",
+        "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1976/landingBannerUrl/597ed9bf0b670cd4dbc7fa654459b483cbe9333dd26e6449f6ff315e855e4d22.png"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xa2156cf76342627ec4109eafd51c8abf85ae4284",
+      "name": "Furya Starter Pack",
+      "type": "ERC721",
+      "symbol": "furya_starter_pack",
+      "extensions": {
+        "link": "https://www.synergyland.live/",
+        "description": "Get a head start on your adventures with the Furya Starter Pack. This curated collection of NFTs provides essential tools, resources, and boosts to kickstart your journey in Synergy Land.",
+        "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1974/landingBannerUrl/447402593e5aa8c859a0cd1767da37bf27401d1416385d8e25635b71cb2a6ba7.png"
+      }
+    }      
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
 }
