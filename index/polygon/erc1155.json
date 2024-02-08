@@ -556,6 +556,7 @@
       "name": "Synergy Land Items",
       "type": "ERC1155",
       "symbol": "SLI",
+      "logoURI": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/logoUrl/06c363255db2e6925ef03ea79bc309882d49eb813a0d912b3f017b7eab93060f.png",
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Discover a wide array of valuable assets and artifacts in the Synergy Land Items collection. From powerful weapons to rare artifacts, these NFTs offer unique advantages and enhancements to aid you in your exploration and conquests throughout Synergy Land.",
