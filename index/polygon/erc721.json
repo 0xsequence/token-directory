@@ -724,6 +724,7 @@
       "name": "Synergians",
       "type": "ERC721",
       "symbol": "SNS",
+      "logoURI": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/logoUrl/06c363255db2e6925ef03ea79bc309882d49eb813a0d912b3f017b7eab93060f.png",
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Explore the captivating world of Synergians, our unique collection of PFP NFTs. Each Synergian character boasts distinct traits and personalities.",
@@ -735,6 +736,7 @@
       "name": "Synergians Badges",
       "type": "ERC721",
       "symbol": "SNB",
+      "logoURI": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/logoUrl/06c363255db2e6925ef03ea79bc309882d49eb813a0d912b3f017b7eab93060f.png",
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Unlock exclusive benefits and privileges with Synergian Badges, a collection of NFTs designed to elevate your status within the Synergy Land community. Showcase your achievements, loyalty, and contributions with these prestigious badges.",
@@ -747,6 +749,7 @@
       "name": "Synergy Land Pets",
       "type": "ERC721",
       "symbol": "PSL",
+      "logoURI": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/logoUrl/06c363255db2e6925ef03ea79bc309882d49eb813a0d912b3f017b7eab93060f.png",
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Meet your loyal companions in Synergy Land, a collection of creatures ready to join you on your journey. From fierce warriors to adorable companions, these pets offer unique abilities and companionship as you navigate the vast landscapes of Synergy Land.",
@@ -759,6 +762,7 @@
       "name": "Furya Starter Pack",
       "type": "ERC721",
       "symbol": "furya_starter_pack",
+      "logoURI": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/logoUrl/06c363255db2e6925ef03ea79bc309882d49eb813a0d912b3f017b7eab93060f.png",
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Get a head start on your adventures with the Furya Starter Pack. This curated collection of NFTs provides essential tools, resources, and boosts to kickstart your journey in Synergy Land.",
