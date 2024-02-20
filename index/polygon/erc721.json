@@ -768,7 +768,20 @@
         "description": "Get a head start on your adventures with the Furya Starter Pack. This curated collection of NFTs provides essential tools, resources, and boosts to kickstart your journey in Synergy Land.",
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1974/landingBannerUrl/447402593e5aa8c859a0cd1767da37bf27401d1416385d8e25635b71cb2a6ba7.png"
       }
-    }      
+    },
+    {
+      "chainId": 137,
+      "address": "0xb633c42ec96858a637C58330eb2fE336dAbF87db",
+      "name": "SYMBIOGENESIS - AL",
+      "type": "ERC721",
+      "symbol": "SYMAL",
+      "logoURI": "https://i.seadn.io/gcs/files/6f2a6fad6c7a160de029413524f3a23c.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "link": "https://symbiogenesis.app/",
+        "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 collectible artworks meet real game utility.\n\nGame Utility\nThis game's genre is defined as 'Narrative-unlocked NFT entertainment' \n As you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.\n\nThe chip-like relics contain Allowlist points for chapter 1 but do not contain any in-game utility",
+        "ogImage": "https://i.seadn.io/gcs/files/6f2a6fad6c7a160de029413524f3a23c.png?auto=format&dpr=1&w=384"
+      }
+    }       
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
 }

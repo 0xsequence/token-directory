@@ -33491,6 +33491,84 @@
         "description": "Once a robotic army that served the overlord Meta ZuckBot. The Hooligan’s worked out how to hack the ZuckBots and pulled off the greatest heist in Metaverse History, breaking into ZuckCorp and relieving Meta ZuckBot a number of OG Zuckbots.The ZuckBots are My Pet Hooligan’s first companion drop. In total there are 7 models of ZuckBots. These OG ZuckBots will serve as the key to unlocking further models through old school tests of skill, faith and critical thinking…Zuckbots will give you access to MPH’s Rabbit Hole game and social experience. A ZuckBot Battle Arena mobile game is also in the works for iOS and Android. Zuckbots will also have token gated access to AMGI Studios creator tools including Hooligram, immi, and more...The rebellion has grown stronger…",
         "link": "https://mypethooligan.com/"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4908cb4a922166e55df7da2e6566bf82f19acfe4",
+      "name": "SYMBIOGENESIS",
+      "standard": "erc721",
+      "symbol": "SYMBIO",
+      "logoURI": "https://i.seadn.io/s/raw/files/c7e3ae0072dc5a57b64dde46b6d73745.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 character (Ethereum) - collectible artworks meet real game utility.\n\n Game Utility\nThis game's genre is defined as 'Narrative-unlocked NFT entertainment' \n\nAs you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.",
+        "link": "https://symbiogenesis.app/",
+        "ogImage": "https://i.seadn.io/s/primary-drops/0x4908cb4a922166e55df7da2e6566bf82f19acfe4/31144329:about:media:c1b2eb14-246c-47d7-9eb9-a9ad22ff3630.png?auto=format&dpr=1&w=2048"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x127e479ac59a1ea76afdedf830fecc2909aa4cae",
+      "name": "Avarik Saga Universe",
+      "standard": "erc721",
+      "symbol": "AVARIK",
+      "logoURI": "https://i.seadn.io/s/raw/files/e0eba7e43f619c417c3453e3a3d2a1db.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "description": "Avarik Saga is the journey of the 8,888 generative NFT personas of Knights, Archers, and Wizards originated from over 300+ uniquely hand drawn traits in 4 clashing factions.\n\nThere is a legend whispered through these medieval lands, that a hero will guide their faction to triumph and cease the endless wars between the feisty Ignis, the benevolent Terra, the fluid Glacia, and the mystical Tenebris.",
+        "link": "https://avariksaga.com/",
+        "ogImage": "https://i.seadn.io/s/primary-drops/0x127e479ac59a1ea76afdedf830fecc2909aa4cae/1801007:about:media:88f4fdf9-afd1-48b6-b0b4-ac4f89ace945.jpeg?auto=format&dpr=1&w=2048"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6a37b5d14D502c3Ab0Ae6f3a0E058BC9517786e",
+      "name": "Azuki Elementals",
+      "standard": "erc721",
+      "symbol": "ELEM",
+      "logoURI": "https://i.seadn.io/gcs/files/bbaf43ee4a02d5affb7e8fc186d0bdb5.png?auto=format&dpr=1&w=384",
+      "extensions": {
+        "description": "Azuki Elementals are a collection of 20,000 characters within the four domains of the Garden.\n\nTake the red bean.",
+        "link": "https://www.azuki.com/elementals/reveal",
+        "ogImage": "https://i.seadn.io/gcs/files/79bc14c2aae31bcbfd428662e27541ad.jpg?auto=format&dpr=1&w=2048"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+      "name": "CryptoPunks",
+      "standard": "erc721",
+      "symbol": "C",
+      "logoURI": "https://i.seadn.io/gae/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE?auto=format&dpr=1&w=384",
+      "extensions": {
+        "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.",
+        "link": "https://opensea.io/collection/cryptopunks",
+        "ogImage": "https://i.seadn.io/gae/48oVuDyfe_xhs24BC2TTVcaYCX7rrU5mpuQLyTgRDbKHj2PtzKZsQ5qC3xTH4ar34wwAXxEKH8uUDPAGffbg7boeGYqX6op5vBDcbA?auto=format&dpr=1&w=2048"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+      "name": "CLONE X - X TAKASHI MURAKAMI",
+      "standard": "erc721",
+      "symbol": "CloneX",
+      "logoURI": "https://i.seadn.io/gae/XN0XuD8Uh3jyRWNtPTFeXJg_ht8m5ofDx6aHklOiy4amhFuWUa0JaR6It49AH8tlnYS386Q0TW_-Lmedn0UET_ko1a3CbJGeu5iHMg?auto=format&dpr=1&w=384",
+      "extensions": {
+        "description": "20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸",
+        "link": "https://clonex.rtfkt.com/",
+        "ogImage": "https://i.seadn.io/s/primary-drops/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/3569322:about:media:f6f63025-4215-453e-803f-2b34090dfa29.jpeg?auto=format&dpr=1&w=2048"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x59325733eb952a92e069c87f0a6168b29e80627f",
+      "name": "Mocaverse",
+      "standard": "erc721",
+      "symbol": "MOCA",
+      "logoURI": "https://i.seadn.io/gcs/files/6a0b776c9bb3973d1dd8d399353da9f5.gif?auto=format&dpr=1&w=128",
+      "extensions": {
+        "description": "Mocaverse is the Animoca Brands membership NFT collection of 8,888 unique beings that thrive in unity: The Mocas. There are 5 incredible Moca tribes of the Angels, Builders, Dreamers, Connectors, and Neo-Capitalists. Join the Mocas in the realms to Learn, Play, Do Good, and Build together as we champion our Web3 values! Learn more about the Mocas on our website.",
+        "link": "https://www.mocaverse.xyz/",
+        "ogImage": "https://i.seadn.io/gcs/files/20e81e38bb831b47e23b7ea0e13c6891.png?auto=format&dpr=1&w=2048"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
