@@ -33569,6 +33569,19 @@
         "link": "https://www.mocaverse.xyz/",
         "ogImage": "https://i.seadn.io/gcs/files/20e81e38bb831b47e23b7ea0e13c6891.png?auto=format&dpr=1&w=2048"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D",
+      "name": "0N1 Force",
+      "standard": "erc721",
+      "symbol": "0N1",
+      "logoURI": "https://i.seadn.io/gae/7gOej3SUvqALR-qkqL_ApAt97SpUKQOZQe88p8jPjeiDDcqITesbAdsLcWlsIg8oh7SRrTpUPfPlm12lb4xDahgP2h32pQQYCsuOM_s?auto=format&dpr=1&w=256",
+      "extensions": {
+        "description": "The 0N1 Force are 7,777 generative side-profile characters with over 100 hand-drawn features fighting for their existence. Strength, spirit, and style are what you’ll need to survive in The Ethereal Enclave.\n\nIn addition to the high-resolution artwork, each 0N1 NFT grants access to benefits found on the 0N1force website and Discord--the first of which is participation in a collaborative RPG that takes players into the 0N1verse.",
+        "link": "https://www.0n1force.com/home",
+        "ogImage": "https://i.seadn.io/gcs/files/7c09241857d176d479e2fdab337d4304.png?auto=format&dpr=1&w=1920"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
