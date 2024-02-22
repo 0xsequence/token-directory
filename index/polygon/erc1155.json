@@ -562,6 +562,19 @@
         "description": "Discover a wide array of valuable assets and artifacts in the Synergy Land Items collection. From powerful weapons to rare artifacts, these NFTs offer unique advantages and enhancements to aid you in your exploration and conquests throughout Synergy Land.",
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1975/landingBannerUrl/d38b292d0c2370567154c94fbbbe982042c0950f76f7ee6932eac12a2831b80c.png"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0x4a7e6da21c160e27bf093f4551384f713cb516af",
+      "name": "Synergian Islands",
+      "type": "ERC1155",
+      "symbol": "SI",
+      "logoURI": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/logoUrl/06c363255db2e6925ef03ea79bc309882d49eb813a0d912b3f017b7eab93060f.png",
+      "extensions": {
+        "link": "https://www.synergyland.live/",
+        "description": "These Islands form the backbone of Synergy Land's world, featuring three tiers, each with unique characteristics and rarities. They serve as the foundation for our Play, Rent & Earn model, which incorporates the renting feature. We merged these three elements to grant players access to the in-game economy.",
+        "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/9ce5ab1ffd6bcc43056d9052a9aa95690bccffe237dab855ce8f977df2f78c80.png"
+      }
     }  
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
