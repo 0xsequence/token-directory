@@ -6,6 +6,19 @@
   "keywords": ["erc721", "avalanche-testnet"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 43113,
+      "address": "0x730ebfd053b26be9b1eb3e481a90d3a82a5e53d4",
+      "name": "Raremind",
+      "type": "ERC721",
+      "symbol": "RARE",
+      "logoURI": "https://pbs.twimg.com/profile_images/1609872981550833665/_oMcigsw_400x400.jpg",
+      "extensions": {
+        "link": "https://app.raremind.com/",
+        "description": "Play chess on any platform and earn rewards",
+        "ogImage": "https://pbs.twimg.com/profile_banners/1571737206196244481/1672640150/1080x360"
+      }
+    }   
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
