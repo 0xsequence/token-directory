@@ -33594,6 +33594,18 @@
         "link": "https://opensea.io/collection/mojo-war-banners",
         "ogImage": "https://i.seadn.io/s/raw/files/b05371e10c5ad8efdeab1a9e00b942bf.png?auto=format&dpr=1&w=2048"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xde76ad8998310dd4c6ca9fdb03a5f20bbf01ce96",
+      "name": "GAM3RS",
+      "standard": "erc721",
+      "symbol": "GAM3RS",
+      "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmainnet%2FiP3aWzfOlBvWQx7ZVDDwFZajkAUc5SWvTVabagJ1zmuZevzL2eHp5i4nFBe%252B7E%252BatuaQziyzbXkPhqriDhG4jhYrhpnNsD7wWWjQNZ4r6Hx5HANHpiPydDWZqzoXin8y4NZqjj4CyPk2NaSOEoHjKA%253D%253D%3Fwidth%3D250",
+      "extensions": {
+        "description":"Prove your worth and become one of 333 GAM3RS to join the future of gaming. Get exclusive rewards, early access to the top web3 games, [REDACTED], and much more. GAM3RS is an NFT collection on Ethereum, granting its holders access to the upcoming $G3 presale and ecosystem rewards.",
+        "link": "https://gam3s.gg/"
+      }
     }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
