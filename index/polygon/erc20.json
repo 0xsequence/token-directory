@@ -5423,6 +5423,19 @@
         "description": "Synergy Land is an Action RPG game that integrates MOBA mechanics into a player-driven world that allows players real ownership of digital game assets, set in a fantasy world divided into four ecosystems: earth, water, fire and ice.",
         "ogImage": "https://static.wixstatic.com/media/0d5f0c_78495f1eb1dc4cda951e360be810acc7~mv2.jpg/v1/fill/w_2049,h_1736,al_c,q_90,enc_auto/0d5f0c_78495f1eb1dc4cda951e360be810acc7~mv2.jpg"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
+      "name": "Planet Mojo",
+      "symbol": "MOJO",
+      "decimals": 18,
+      "logoURI": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/934bd004-2f82-43f1-0893-22197923cb00/public",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "Embrace your inner Mojo and prove your strength on the battlefield!",
+        "ogImage": "https://images.squarespace-cdn.com/content/v1/62bb628d44219244e9079a5a/43731023-15df-4737-a74a-209692abdd7b/planet-mojo-logo-home-splash-trimmed.png?format=1500w"
+      }
     }
   ],
   "version": { "major": 1, "minor": 5, "patch": 0 }
