@@ -5426,19 +5426,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xad9f61563b104281b14322fec8b42eb67711bf68",
-      "name": "Synergy Land Token",
-      "symbol": "SNG",
-      "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/synergylandsng_32.png",
-      "extensions": {
-        "link": "https://www.synergyland.live/",
-        "description": "Synergy Land is an Action RPG game that integrates MOBA mechanics into a player-driven world that allows players real ownership of digital game assets, set in a fantasy world divided into four ecosystems: earth, water, fire and ice.",
-        "ogImage": "https://static.wixstatic.com/media/0d5f0c_78495f1eb1dc4cda951e360be810acc7~mv2.jpg/v1/fill/w_2049,h_1736,al_c,q_90,enc_auto/0d5f0c_78495f1eb1dc4cda951e360be810acc7~mv2.jpg"
-      }
-    },
-    {
-      "chainId": 137,
       "address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
       "name": "Planet Mojo",
       "symbol": "MOJO",
