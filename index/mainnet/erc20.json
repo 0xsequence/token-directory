@@ -22706,6 +22706,18 @@
         "description": "OKPC is a creative toy stored on and connected to the ethereum network. Collect and display artwork from the curated community gallery, or draw on your okpc with the paint app.",
         "ogImage": "https://i.seadn.io/gae/s8XNoLgpMIdjmOuOYy4qNjLrg59WPd9HRUp31uG3FLlSDzE68_HQfFYeAotCHBLYwB8ugByqi8hTEiH-gRWhu2DcvkD6bVDGSY1RhQ"
       }
+    },{
+      "chainId": 1,
+      "address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
+      "name": "Planet Mojo",
+      "symbol": "MOJO",
+      "decimals": 18,
+      "logoURI": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/934bd004-2f82-43f1-0893-22197923cb00/public",
+      "extensions": {
+        "link": "https://www.planetmojo.io/",
+        "description": "Embrace your inner Mojo and prove your strength on the battlefield!",
+        "ogImage": "https://images.squarespace-cdn.com/content/v1/62bb628d44219244e9079a5a/43731023-15df-4737-a74a-209692abdd7b/planet-mojo-logo-home-splash-trimmed.png?format=1500w"
+      }
     }
   ],
   "version": { "major": 1, "minor": 3, "patch": 1 }
