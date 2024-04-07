@@ -8,12 +8,14 @@
   "tokens": [
     {
       "chainId": 43114,
-      "address": "0x6580d4429fa3a5759977139f6895de56e63330bb",
-      "name": "Mountains",
+      "address": "0x3e54480f9d62bbb88e76902051aecbbeae324061",
+      "name": "Long Castle Raremind",
       "standard": "erc721",
-      "symbol": "TEST",
+      "symbol": "LONGCASTLE",
       "extensions": {
-        "description": "A test project"
+        "link": "https://raremind.com/",
+        "description": "Play chess on any platform and earn rewards",
+        "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1660/landingBannerUrl/dad070c7bc8d10a798149f1e7106b25e84c68f881f17193a8753b717ade5ba7f.png"
       }
     }
   ],
