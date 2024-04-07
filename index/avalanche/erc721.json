@@ -6,6 +6,16 @@
   "keywords": ["erc721", "avalanche"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 43114,
+      "address": "0x6580d4429fa3a5759977139f6895de56e63330bb",
+      "name": "Mountains",
+      "standard": "erc721",
+      "symbol": "TEST",
+      "extensions": {
+        "description": "A test project"
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
