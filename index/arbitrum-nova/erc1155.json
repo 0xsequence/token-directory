@@ -21,6 +21,22 @@
         "originChainId": 42170,
         "originAddress": ""
       }
+    },
+    {
+      "chainId": 42170,
+      "address": "0xaf8a08bf8b2945c2779ae507dade15985ea11fbc",
+      "name": "Dungeon Crawler Lootbox Demo",
+      "type": "ERC1155",
+      "symbol": "DCLD",
+      "deployed": true,
+      "logoURI": "https://0xsequence-demos.github.io/demo-lootbox/favicon.ico",
+      "extensions": {
+        "link": "https://0xsequence-demos.github.io/demo-lootbox/",
+        "description": "A free lootbox mini-game available for use. Browse a maze and open AI generated diablo loot via http://Scenario.gg",
+        "ogImage": "https://0xsequence-demos.github.io/demo-lootbox/assets/maze-95401e2d.png",
+        "originChainId": 42170,
+        "originAddress": "0xaf8a08bf8b2945c2779ae507dade15985ea11fbc"
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
