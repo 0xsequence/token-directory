@@ -6,6 +6,19 @@
   "keywords": ["erc721", "arbitrum"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xb22a0e57e1b8d573a53973b06d5aadf07def631e",
+      "name": "Spectral Signal",
+      "type": "ERC721",
+      "symbol": "SIGNAL",
+      "logoURI": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/23536/landingBannerUrl/22bb578c39773f1467453a081972ad7a536b266dda4e065b1f5fff7456197720.jpeg",
+      "extensions": {
+        "link": "https://spectralsignal.io",
+        "description": "Begin your journey at the Starport Marketplace, your go-to hub for acquiring pre-owned and specialized spacecraft in the Spectral Signal universe. We're summoning intrepid travellers to probe the enigmatic signals and secrets lurking beyond. Select your ships, tailor your combat tactics with unique ship features, and seek out hidden riches—if only you can overcome the risks and return intact. Trade, engage, and navigate your journey in a realm that rewards the courageous.",
+        "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/23530/landingBannerUrl/a5e3f7818e23daf64a822c4bf510af703430a00d45cff488ac42cf34b9b7276d.jpeg"
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
