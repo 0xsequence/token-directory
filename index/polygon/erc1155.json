@@ -575,6 +575,19 @@
         "description": "These Islands form the backbone of Synergy Land's world, featuring three tiers, each with unique characteristics and rarities. They serve as the foundation for our Play, Rent & Earn model, which incorporates the renting feature. We merged these three elements to grant players access to the in-game economy.",
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/9ce5ab1ffd6bcc43056d9052a9aa95690bccffe237dab855ce8f977df2f78c80.png"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xfe0C2CA38fc9A6F9fEB70bCF34eb5091e489659d",
+      "name": "Boomland - Tickets",
+      "type": "ERC1155",
+      "symbol": "TICKETS",
+      "logoURI": "https://polygonscan.com/token/images/boomlandshards_32.png",
+      "extensions": {
+        "link": "https://boomland.io",
+        "description": "BoomLand, the creator of Hunters On-Chain, is a leading game developer & publisher, providing Mass Adoption of high-quality Web3 games on Polygon to a broader audience of traditional gamers. This is the Ticket's NFT, which allows players to enter specific game modes",
+        "ogImage": "https://www.boomland.io/static/media/homeThumbnail.37e22084c408bc384b17.jpg"
+      }
     }  
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
