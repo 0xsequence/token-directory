@@ -1,0 +1,27 @@
+{
+  "name": "sequence-erc1155-astar-zkevm",
+  "chainId": 3776,
+  "tokenStandard": "erc1155",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc1155", "astar-zkevm"],
+  "timestamp": "2024-05-10T12:35:45+0000",
+  "tokens": [
+    {
+      "chainId": 3776,
+      "address": "0x2e6ff2a374844ed25e4523da53292a89b93e8905",
+      "name": "Yoki Origins",
+      "type": "ERC1155",
+      "symbol": "YOKI",
+      "deployed": true,
+      "logoURI": "https://assets.raribleuserdata.com/prod/v1/image/t_avatar_big/aHR0cHM6Ly9pcGZzLnJhcmlibGV1c2VyZGF0YS5jb20vaXBmcy9iYWZ5YmVpZXdpZG1jNzM0ZTZ4Ymd2Z3o0ZGhoM3UzbHF5cjY2c3Vrc2xsZnZ6Y3Fqa2htd3Rua2JucQ==",
+      "extensions": {
+        "link": "https://yoki.astar.network/en",
+        "description": "Join the on-going Astar zkEVM launch campaign at Yoki.Astar.Network and begin collecting, fusing and discovering all the Yoki!",
+        "ogImage": "https://assets.raribleuserdata.com/prod/v1/image/t_cover_big/aHR0cHM6Ly9pcGZzLnJhcmlibGV1c2VyZGF0YS5jb20vaXBmcy9iYWZ5YmVpZGp0a29iYTY2cng1cXRpZmFnM3htZmJneTV2bXJpYXJvdmVqNHFmN3lyZjYza2JndWp3cQ==",
+        "originChainId": 3776,
+        "originAddress": "0x2e6ff2a374844ed25e4523da53292a89b93e8905"
+      }
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
