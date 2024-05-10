@@ -1,0 +1,103 @@
+{
+  "name": "sequence-erc721-astar-zkevm",
+  "chainId": 3776,
+  "tokenStandard": "erc721",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc721", "astar-zkevm"],
+  "timestamp": "2024-05-10T12:35:45+0000",
+  "tokens": [
+    {
+      "chainId": 3776,
+      "address": "0x35edffb12f93253f1c567a7e207f06e1b0de9d8e",
+      "name": "CASIO WATCHES NFT",
+      "type": "ERC721",
+      "symbol": "CASIO WATCHES NFT",
+      "deployed": true,
+      "logoURI": "https://assets.raribleuserdata.com/prod/v1/image/t_avatar_big/aHR0cHM6Ly9yaWYzaWI2cjN3Zm1xZGdrc3Fxc2J4bHplMzJ2dTJkb296a2Y2a25wcmxsaWRjZ2tpbG5xLmFyd2VhdmUubmV0L2lndTBCOUhkaXNnTXlwUWhJTjE1SnZWYWFHNTJWRjhwcjRyV2dZaktRdHMvMC5wbmc=",
+      "extensions": {
+        "link": "https://rarible.com/collection/astarzkevm/0x35edffb12f93253f1c567a7e207f06e1b0de9d8e/items",
+        "description": "",
+        "originChainId": 3776,
+        "originAddress": "0x35edffb12f93253f1c567a7e207f06e1b0de9d8e"
+      }
+    },
+    {
+      "chainId": 3776,
+      "address": "0x6d0fe26797e077b444fb8e8ff9a38a688beb317d",
+      "name": "JAL × Hakuhodo 'KOKYO NFT'",
+      "type": "ERC721",
+      "symbol": "JAL_×_HAKUHODO_&quot;KOKYO_NFT&quot;",
+      "deployed": true,
+      "logoURI": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/29099/landingBannerUrl/243b7ef6ed2f64297ac91127ac5bb42d981380721dcf4fcd884265175e6cb881.png",
+      "extensions": {
+        "link": "https://rarible.com/collection/astarzkevm/0x6d0fe26797e077b444fb8e8ff9a38a688beb317d/items",
+        "description": "",
+        "originChainId": 3776,
+        "originAddress": "0x6d0fe26797e077b444fb8e8ff9a38a688beb317d"
+      }
+    },
+    {
+      "chainId": 3776,
+      "address": "0x8ade4c707630d2f3ab0e36cde5c81da8f56fe0b6",
+      "name": "Meta-Mazda",
+      "type": "ERC721",
+      "symbol": "METAMAZDA",
+      "deployed": true,
+      "logoURI": "https://assets.raribleuserdata.com/prod/v1/image/t_avatar_big/aHR0cHM6Ly9hcndlYXZlLm5ldC9ZNW5uZHM5OVluVVVjUjMzNzcwVEtabXhkdUdXX3JtSTBqVldqWWJPdUV3Lw==",
+      "extensions": {
+        "link": "https://rarible.com/meta-mazda/items",
+        "description": "Japanese automotive company, Mazda’s iconic first NFT art design. <br/> These collection expressing possibility of Mazda’s new communication and new story creation in digital world. <br/>Items are very symbolic since these collection were released as a first challenge and has a potential to be continued into a series in future.<br/>We expressed Japanese touch through Mazda’s iconic MX-5 MIATA with subculture essence.",
+        "originChainId": 3776,
+        "originAddress": "0x8ade4c707630d2f3ab0e36cde5c81da8f56fe0b6"
+      }
+    },
+    {
+      "chainId": 3776,
+      "address": "0xde782cc4bf15df5791261c126da1942ba8d805c4",
+      "name": "JR九州NFT",
+      "type": "ERC721",
+      "symbol": "JRKYUSHUNFT",
+      "deployed": true,
+      "logoURI": "https://assets.raribleuserdata.com/prod/v1/image/t_avatar_big/aHR0cHM6Ly9pcGZzLnJhcmlibGV1c2VyZGF0YS5jb20vaXBmcy9iYWZ5YmVpZHk3end6Y3hncTRmeWRrcXV2aHV4eGZ1a2lub2x2cmlhcGt5Zm81azRoYmxreGZiaG5saQ==",
+      "extensions": {
+        "link": "https://rarible.com/collection/astarzkevm/0xde782cc4bf15df5791261c126da1942ba8d805c4/items",
+        "description": "",
+        "ogImage": "https://assets.raribleuserdata.com/prod/v1/image/t_cover_big/aHR0cHM6Ly9pcGZzLnJhcmlibGV1c2VyZGF0YS5jb20vaXBmcy9iYWZ5YmVpZGp0a29iYTY2cng1cXRpZmFnM3htZmJneTV2bXJpYXJvdmVqNHFmN3lyZjYza2JndWp3cQ==",
+        "originChainId": 3776,
+        "originAddress": "0xde782cc4bf15df5791261c126da1942ba8d805c4"
+      }
+    },
+    {
+      "chainId": 3776,
+      "address": "0x6d99156004e7ddd41b3cbf7e60a8af2438609542",
+      "name": "DenDekaDen Garden YoPort",
+      "type": "ERC721",
+      "symbol": "DGY",
+      "deployed": true,
+      "logoURI": "https://assets.raribleuserdata.com/prod/v1/image/t_avatar_big/aHR0cHM6Ly9pcGZzLnJhcmlibGV1c2VyZGF0YS5jb20vaXBmcy9RbVh2QzdwWGNEZmVYQU1FdDlpRndHeXNTNDJUZWFvVWlkUDNZQ2lUYkN3ZEc2L2RlbmRla2FkZW5fZ2FyZGVuX2dhY2hhXzA1X2dhc2hhLnBuZw==",
+      "extensions": {
+        "link": "https://rarible.com/collection/astarzkevm/0x6d99156004e7ddd41b3cbf7e60a8af2438609542/items",
+        "description": "",
+        "originChainId": 3776,
+        "originAddress": "0x6d99156004e7ddd41b3cbf7e60a8af2438609542"
+      }
+    },
+    {
+      "chainId": 3776,
+      "address": "0xaa7fbb96a1397898495e07afc022c341510fa24f",
+      "name": "Hikikomoriz",
+      "type": "ERC721",
+      "symbol": "YHK",
+      "deployed": true,
+      "logoURI": "https://assets.raribleuserdata.com/prod/v1/image/t_avatar_big/aHR0cHM6Ly9pcGZzLnJhcmlibGV1c2VyZGF0YS5jb20vaXBmcy9iYWZrcmVpYmR0N3d3ZHk3Yjc2d3FxN2VybWNkaTVkdHB6Y3NtbXhzN3J5YjZpY2E1ajM3YjJ5NmlwbQ==",
+      "extensions": {
+        "link": "https://rarible.com/collection/astarzkevm/0x6d99156004e7ddd41b3cbf7e60a8af2438609542/items",
+        "description": "A collection of 8,888 intelligent yet reserved Hikikomoris, based in Astar zkEVM, have gathered to conquer all Layer 2s on the Ethereum blockchain. ",
+        "ogImage": "https://ipfs.raribleuserdata.com/ipfs/bafkreiaf6wufj37zlfajhmcjsiuhg6rducl27imurjci4y6du5wnj42hta",
+        "originChainId": 3776,
+        "originAddress": "0xaa7fbb96a1397898495e07afc022c341510fa24f"
+      }
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
