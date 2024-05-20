@@ -18,7 +18,8 @@
         "link": "https://rarible.com/collection/astarzkevm/0x35edffb12f93253f1c567a7e207f06e1b0de9d8e/items",
         "description": "",
         "originChainId": 3776,
-        "originAddress": "0x35edffb12f93253f1c567a7e207f06e1b0de9d8e"
+        "originAddress": "0x35edffb12f93253f1c567a7e207f06e1b0de9d8e",
+        "featured": true
       }
     },
     {
@@ -33,7 +34,8 @@
         "link": "https://rarible.com/collection/astarzkevm/0x6d0fe26797e077b444fb8e8ff9a38a688beb317d/items",
         "description": "",
         "originChainId": 3776,
-        "originAddress": "0x6d0fe26797e077b444fb8e8ff9a38a688beb317d"
+        "originAddress": "0x6d0fe26797e077b444fb8e8ff9a38a688beb317d",
+        "featured": true
       }
     },
     {
@@ -48,7 +50,8 @@
         "link": "https://rarible.com/meta-mazda/items",
         "description": "Japanese automotive company, Mazda’s iconic first NFT art design. <br/> These collection expressing possibility of Mazda’s new communication and new story creation in digital world. <br/>Items are very symbolic since these collection were released as a first challenge and has a potential to be continued into a series in future.<br/>We expressed Japanese touch through Mazda’s iconic MX-5 MIATA with subculture essence.",
         "originChainId": 3776,
-        "originAddress": "0x8ade4c707630d2f3ab0e36cde5c81da8f56fe0b6"
+        "originAddress": "0x8ade4c707630d2f3ab0e36cde5c81da8f56fe0b6",
+        "featured": true
       }
     },
     {
@@ -64,7 +67,8 @@
         "description": "",
         "ogImage": "https://assets.raribleuserdata.com/prod/v1/image/t_cover_big/aHR0cHM6Ly9pcGZzLnJhcmlibGV1c2VyZGF0YS5jb20vaXBmcy9iYWZ5YmVpZGp0a29iYTY2cng1cXRpZmFnM3htZmJneTV2bXJpYXJvdmVqNHFmN3lyZjYza2JndWp3cQ==",
         "originChainId": 3776,
-        "originAddress": "0xde782cc4bf15df5791261c126da1942ba8d805c4"
+        "originAddress": "0xde782cc4bf15df5791261c126da1942ba8d805c4",
+        "featured": true
       }
     },
     {
@@ -79,7 +83,8 @@
         "link": "https://rarible.com/collection/astarzkevm/0x6d99156004e7ddd41b3cbf7e60a8af2438609542/items",
         "description": "",
         "originChainId": 3776,
-        "originAddress": "0x6d99156004e7ddd41b3cbf7e60a8af2438609542"
+        "originAddress": "0x6d99156004e7ddd41b3cbf7e60a8af2438609542",
+        "featured": true
       }
     },
     {
@@ -95,9 +100,10 @@
         "description": "A collection of 8,888 intelligent yet reserved Hikikomoris, based in Astar zkEVM, have gathered to conquer all Layer 2s on the Ethereum blockchain. ",
         "ogImage": "https://ipfs.raribleuserdata.com/ipfs/bafkreiaf6wufj37zlfajhmcjsiuhg6rducl27imurjci4y6du5wnj42hta",
         "originChainId": 3776,
-        "originAddress": "0xaa7fbb96a1397898495e07afc022c341510fa24f"
+        "originAddress": "0xaa7fbb96a1397898495e07afc022c341510fa24f",
+        "featured": true
       }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": {"major": 1, "minor": 0, "patch": 0}
 }
