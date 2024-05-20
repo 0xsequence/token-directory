@@ -19,9 +19,10 @@
         "description": "Join the on-going Astar zkEVM launch campaign at Yoki.Astar.Network and begin collecting, fusing and discovering all the Yoki!",
         "ogImage": "https://assets.raribleuserdata.com/prod/v1/image/t_cover_big/aHR0cHM6Ly9pcGZzLnJhcmlibGV1c2VyZGF0YS5jb20vaXBmcy9iYWZ5YmVpZGp0a29iYTY2cng1cXRpZmFnM3htZmJneTV2bXJpYXJvdmVqNHFmN3lyZjYza2JndWp3cQ==",
         "originChainId": 3776,
-        "originAddress": "0x2e6ff2a374844ed25e4523da53292a89b93e8905"
+        "originAddress": "0x2e6ff2a374844ed25e4523da53292a89b93e8905",
+        "featured": true
       }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": {"major": 1, "minor": 0, "patch": 0}
 }
