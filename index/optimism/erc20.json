@@ -206,7 +206,7 @@
     {
       "chainId": 10,
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "name": "Ether",
+      "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
