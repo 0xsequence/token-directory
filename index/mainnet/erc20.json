@@ -4274,6 +4274,18 @@
     },
     {
       "chainId": 1,
+      "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
+      "name": "POL",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+      "extensions": {
+        "link": "https://polygon.technology/pol-token",
+        "description": "POL is the currency of Polygon that enables users to interact with tens of thousands of dApps involved in our ecosystem. It is also used to secure the network by staking."
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0x885e127aba09bf8fae058a2895c221b37697c9be",
       "name": "Aced",
       "symbol": "ACED",
