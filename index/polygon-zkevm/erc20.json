@@ -36,6 +36,19 @@
     },
     {
       "chainId": 1101,
+      "address": "0x22B21BedDef74FE62F031D2c5c8F7a9F8a4b304D",
+      "name": "POL",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+      "extensions": {
+        "link": "https://polygon.technology/matic-token",
+        "description": "POL is the currency of Polygon that enables users to interact with tens of thousands of dApps involved in our ecosystem. It is also used to secure the network by staking.",
+        "originChainId": 137
+      }
+    },
+    {
+      "chainId": 1101,
       "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
       "name": "Tether",
       "symbol": "USDT",
