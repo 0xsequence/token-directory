@@ -18,6 +18,16 @@
         "description": "Begin your journey at the Starport Marketplace, your go-to hub for acquiring pre-owned and specialized spacecraft in the Spectral Signal universe. We're summoning intrepid travellers to probe the enigmatic signals and secrets lurking beyond. Select your ships, tailor your combat tactics with unique ship features, and seek out hidden riches—if only you can overcome the risks and return intact. Trade, engage, and navigate your journey in a realm that rewards the courageous.",
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/23530/landingBannerUrl/a5e3f7818e23daf64a822c4bf510af703430a00d45cff488ac42cf34b9b7276d.jpeg"
       }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xD7039DeFc54eF629e2C5Aae48C517F663840d62C",
+      "name": "Golden Tides Gen1 Shark Puppy Pets",
+      "type": "ERC721",
+      "symbol": "GTPet2",
+      "extensions": {
+        "description": "The Golden Tides Gen-1 Pirate Puppy Pets Collection is the first pet collection by Psychedelic Games Studio. There are 10 variations of puppies with a total of 8000 editions. These puppies offer an in game companion in your hunt for treasure in Golden Tides."
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
