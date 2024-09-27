@@ -27,6 +27,24 @@
       "symbol": "GTPet2",
       "extensions": {
       }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xd0A8BA528dfE402D34d34F171e5FF3e65bd4c9D4",
+      "name": "Footium Club",
+      "type": "ERC721",
+      "symbol": "FFC",
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x1C7b75FFEF2fFAB57D4a9727003bcD602f978bCe",
+      "name": "Footium Player",
+      "type": "ERC721",
+      "symbol": "FFP",
+      "extensions": {
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
