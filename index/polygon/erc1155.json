@@ -19,7 +19,8 @@
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
-        "featured": true
+        "featured": true,
+        "supportsDecimals": true
       }
     },
     {
