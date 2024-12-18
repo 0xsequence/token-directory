@@ -34,7 +34,7 @@
       "extensions": {
         "link": "https://0xsequence-demos.github.io/demo-lootbox/",
         "description": "A free lootbox mini-game available for use. Browse a maze and open AI generated diablo loot via http://Scenario.gg",
-        "categories": ["gaming", "ai", "rpg"],
+        "categories": ["gaming", "ai", "rpg", "fantasy"],
         "ogImage": "https://0xsequence-demos.github.io/demo-lootbox/assets/maze-95401e2d.png",
         "originChainId": 42170,
         "originAddress": "0xaf8a08bf8b2945c2779ae507dade15985ea11fbc"
