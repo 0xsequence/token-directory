@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://spectralsignal.io",
         "description": "Begin your journey at the Starport Marketplace, your go-to hub for acquiring pre-owned and specialized spacecraft in the Spectral Signal universe. We're summoning intrepid travellers to probe the enigmatic signals and secrets lurking beyond. Select your ships, tailor your combat tactics with unique ship features, and seek out hidden riches—if only you can overcome the risks and return intact. Trade, engage, and navigate your journey in a realm that rewards the courageous.",
+        "categories": ["gaming", "rpg", "strategy", "mmo", "puzzle", "sci-fi"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/23530/landingBannerUrl/a5e3f7818e23daf64a822c4bf510af703430a00d45cff488ac42cf34b9b7276d.jpeg"
       }
     },
@@ -26,6 +27,7 @@
       "type": "ERC721",
       "symbol": "GTPet2",
       "extensions": {
+        "categories": ["gaming", "rpg", "action", "fantasy"]
       }
     },
     {
@@ -35,6 +37,7 @@
       "type": "ERC721",
       "symbol": "FFC",
       "extensions": {
+        "categories": ["gaming", "simulation", "sports", "tcg"]
       }
     },
     {
@@ -44,6 +47,7 @@
       "type": "ERC721",
       "symbol": "FFP",
       "extensions": {
+        "categories": ["gaming", "simulation", "sports", "tcg"]
       }
     }
   ],
