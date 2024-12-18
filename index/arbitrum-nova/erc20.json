@@ -32,7 +32,7 @@
       "extensions": {
         "link": "https://makerdao.com/",
         "description": "Dai is the native stablecoin for the Maker protocol. It is the world’s first crypto-collateralized and decentralized stablecoin, whose value is soft pegged to the US Dollar. The collateralized assets backing Dai are other cryptocurrencies instead of fiat and are held within smart contracts rather than in institutions.",
-        "categories": ["usd-stablecoin", "transactional", "defi", "protocol", "maker"],
+        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker"],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
         "originAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
