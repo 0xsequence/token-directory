@@ -16,6 +16,7 @@
         "extensions": {
           "link": "https://www.planetmojo.io/",
           "description": "Planet Mojo is a magical and imaginative Web3 gaming metaverse platform being built by an accomplished team of industry veterans. Players compete with customized teams of mythical creatures in a suite of eSports, PvP games, set on a mysterious alien planet with a deep narrative that’s revealed by discovery and time. The long-term goal is to create a sustainable and expansive suite of games for the next generation of gamers, where they own their in-game assets and have a say in the project’s future direction.",
+          "categories": ["gaming", "art", "ai", "access", "fantasy"],
           "ogImage": "https://img.api.cryptorank.io/coins/planet_mojo1678714578583.png"
         }
       }
