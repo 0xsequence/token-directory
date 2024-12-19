@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "TEST CURRENCY, NOT THE REAL USDC. USDC is a token tracking the price of 1 USD.",
+        "categories": ["usd-stablecoin", "transactional", "usdc"],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 80001,
         "originAddress": ""
