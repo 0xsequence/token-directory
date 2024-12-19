@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+        "categories": ["usd-stablecoin", "transactional", "usdc"],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
@@ -31,7 +32,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "extensions": {
         "link": "https://weth.io/",
-        "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network."
+        "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
+        "categories": ["defi", "protocol", "chain", "wrapped"]
       }
     },
     {
@@ -44,7 +46,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "extensions": {
         "link": "https://weth.io/",
-        "description": "Coinbase Wrapped Staked ETH (cbETH) represents your staked Ethereum (ETH) in a tradable form. You can unwrap cbETH at any time. cbETH provides flexibility to sell, transfer, or use it. You can move cbETH to a personal wallet and trade it outside the Coinbase platform."
+        "description": "Coinbase Wrapped Staked ETH (cbETH) represents your staked Ethereum (ETH) in a tradable form. You can unwrap cbETH at any time. cbETH provides flexibility to sell, transfer, or use it. You can move cbETH to a personal wallet and trade it outside the Coinbase platform.",
+        "categories": ["defi", "protocol", "chain", "exchange", "smart-contract", "wrapped"]
       }
     },
     {
@@ -57,6 +60,7 @@
       "extensions": {
         "link": "https://makerdao.com/",
         "description": "Dai is the native stablecoin for the Maker protocol. It is the world’s first crypto-collateralized and decentralized stablecoin, whose value is soft pegged to the US Dollar. The collateralized assets backing Dai are other cryptocurrencies instead of fiat and are held within smart contracts rather than in institutions.",
+        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker"],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
