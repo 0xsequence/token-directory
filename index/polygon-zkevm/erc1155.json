@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://sequence.xyz/",
         "description": "From Sequence's vault of mystery, We bring to you a puzzle, a work of artistry. Piece by piece, each fragment holds a clue, To a masterpiece hidden, for the lucky few.",
+        "categories": ["art", "gaming", "puzzle"],
         "ogImage": "https://sequence.xyz/social-share.jpg"
       }
     }
