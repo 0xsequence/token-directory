@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Polygon and Ethereum.",
+        "categories": ["gaming", "tcg", "skyweaver"],
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
@@ -33,6 +34,7 @@
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "categories": ["gaming", "tcg", "skyweaver"],
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0x5151bFa48249C57695336C66d51054c9367f6D33",
@@ -50,6 +52,7 @@
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "categories": ["gaming", "tcg", "skyweaver"],
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0xDFd64eE208629DCb1cEF4a148c50Bb3079D449e3",
@@ -67,6 +70,7 @@
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "categories": ["gaming", "tcg", "skyweaver"],
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0xC4c544D22BCc110652944BcA5Cf6330dd04D081a",
@@ -84,6 +88,7 @@
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "categories": ["gaming", "tcg", "skyweaver"],
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 137,
         "originAddress": "0x87C8d4d17Dff2CD604c399a7d243eE0311581ec3",
@@ -102,6 +107,7 @@
       "extensions": {
         "link": null,
         "description": "Wrapped USDC into ERC-1155 token contract.",
+        "categories": ["usd-stablecoin", "transactional", "usdc", "wrapped"],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0x0ce2ABE65F4F354321Fa9f000aC14b7A2B3F6f65"
@@ -118,6 +124,7 @@
       "extensions": {
         "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
+        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker", "wrapped"],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xdde0A6b9617781b8984790F0d0a40232556869Dd",
@@ -136,6 +143,7 @@
       "extensions": {
         "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
+        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker", "wrapped"],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xb634304708e3bf20B19472822DDDAd4CE59EE485",
@@ -153,6 +161,7 @@
       "extensions": {
         "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
+        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker", "wrapped"],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xDbC352232F6B6A5a2f18Ea58DC9E79df59e54575",
@@ -170,6 +179,7 @@
       "extensions": {
         "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
+        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker", "wrapped"],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0x972A6BA04AE120F9B51F0770FEb03c1785877e4E",
@@ -186,6 +196,7 @@
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Ethereum.",
+        "categories": ["gaming", "tcg", "skyweaver"],
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 1,
         "originAddress": "0x2e56c100fae2e38c8447ac225d34a486700ea994",
@@ -203,6 +214,7 @@
       "extensions": {
         "link": "https://pepemon.finance/",
         "description": "Pepemon's Storefront - Come get your unique Gen1 Starter NFT's now!",
+        "categories": ["gaming", "reward", "tcg", "adventure"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xcb6768a968440187157cfe13b67cac82ef6cc5a4"
@@ -218,6 +230,7 @@
       "extensions": {
         "link": "https://degacha.com/introduce/gacha",
         "description": "### THE WORLD’s FIRST BLOCKCHAIN GACHAPON MACHINE & PLATFORM\r\nGachapon (ガチャポン) refers to the crazy popular Japanese vending-machine style game in which players deposit coins to receive a capsule-ball containing a randomized collectible. Now you can experience the thrill of Gachapon anywhere in the world, while acquiring provably scarce & authentic digital collectibles backed by blockchain NFT technology\r\n\r\nhttps://degacha.com/introduce/gacha",
+        "categories": ["art", "gaming", "access", "tcg"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x7cdc0421469398e0f3aa8890693d86c840ac8931"
@@ -233,6 +246,7 @@
       "extensions": {
         "link": "https://bondly.finance",
         "description": "The Official Bondly Collectible Card Game",
+        "categories": ["art", "gaming", "reward", "access", "music", "sports"],
         "ogImage": "/assets/images/metaimg.png",
         "originChainId": 1,
         "originAddress": "0x8280d56ac92b5bff058d60c99932fdecdcc9441a"
@@ -248,6 +262,7 @@
       "extensions": {
         "link": "https://embersword.com/",
         "description": "Ember Sword is a Platform-Agnostic Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles and land. Ember Sword has the fast-paced combat of aRPGs, combined with the isometric view and skill-based abilities of MOBAs, set in a persistent MMORPG fantasy universe.",
+        "categories": ["gaming", "reward", "action", "rpg", "mmo"],
         "ogImage": "https://embersword.com/thumbnail.png"
       }
     },
@@ -261,6 +276,7 @@
       "extensions": {
         "link": "https://www.coolcatsnft.com/",
         "description": "Cool Pets love these items, I'm sure if you use enough of them on an egg they'll grow into a glorious Cool Pet. Also, there may be more than meets the eye to these items in the future... but there also may not.",
+        "categories": ["art", "access"],
         "ogImage": "https://lh3.googleusercontent.com/Vurdrs-QMNIHO6QXfEWlzXjfEnFaGfj8vNq34RErkLqqA7wDnuHNJfs4WWyb9NjFT7XQBcKCzyCTWCl6SMmFzNrHEPoI9kPd5F0p-g=h400"
       }
     },
@@ -274,6 +290,7 @@
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Sunflower Land is a NFT & Crypto-Farming Game on Polygon.Players must plant crops, chop wood, mine rocks and much more in their search for exotic and rare resources. Each item in this collection has a unique set of ingredients and total supply.",
+        "categories": ["art", "gaming", "access", "simulation"],
         "ogImage": "https://lh3.googleusercontent.com/nAa17XwBwDzX9fPFUtpTDFlzxlK_YCXSWhyzDioIzhhZ_NWGudNTacAcM79o3ss482y-KnatQWnF1ZIHjm8JEZXYsOfeRLXYUviqvA=h400",
         "featured": true
       }
@@ -288,6 +305,7 @@
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Make your Bumpkin Beautiful! Collect wearable items for your Bumpkin NFT. Each item in this collection is a SFT that can be attached to your Bumpkin.",
+        "categories": ["art", "gaming", "access", "simulation"],
         "ogImage": "https://i.seadn.io/gcs/files/76047949b2ec540d6ddf8545a01cbbf1.png?auto=format&w=3840"
       }
     },
@@ -301,6 +319,7 @@
       "extensions": {
         "link": "https://galaxyfightclub.com/",
         "description": "Key fragments or key shards are rewards won inside the Galaxy Fight Club game, they can be combined into key fragments which are used to open loot boxes on our website.",
+        "categories": ["gaming", "action", "pvp", "reward"],
         "ogImage": "https://i.seadn.io/gcs/files/b7bb2210dc0a798b8412d0a3d749e337.png?auto=format&w=3840"
       }
     },
@@ -314,6 +333,7 @@
       "extensions": {
         "link": "https://galaxyfightclub.com/",
         "description": "Keys are crafted from corresponding key fragments on our website, keys can be used to open loot boxes on our website to access loot like weapons and others",
+        "categories": ["gaming", "action", "pvp"],
         "ogImage": "https://i.seadn.io/gcs/files/b7bb2210dc0a798b8412d0a3d749e337.png?auto=format&w=3840"
       }
     },
@@ -323,7 +343,8 @@
       "name": "Old SW (dev)",
       "standard": "erc1155",
       "extensions": {
-        "blacklist": true
+        "blacklist": true,
+        "categories": ["gaming", "tcg", "skyweaver"]
       }
     },
     {
@@ -332,7 +353,8 @@
       "name": "Old SW (stg)",
       "standard": "erc1155",
       "extensions": {
-        "blacklist": true
+        "blacklist": true,
+        "categories": ["gaming", "tcg", "skyweaver"]
       }
     },
     {
@@ -345,6 +367,7 @@
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
+        "categories": ["access", "rwa"],
         "ogImage": "https://assets.sequence.info/SFF/SFF_banner_d.png",
         "contractABIExtensions": ["PBM"]
       }
@@ -359,6 +382,7 @@
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
+        "categories": ["access", "rwa"],
         "ogImage": "https://assets.sequence.info/SFF/SFF_banner_d.png",
         "contractABIExtensions": ["PBM"]
       }
@@ -373,6 +397,7 @@
       "extensions": {
         "link": "https://www.fintechfestival.sg/",
         "description": "Singapore Fintech Festival",
+        "categories": ["access", "rwa"],
         "ogImage": "https://assets.sequence.info/SFF/SFF_banner_d.png",
         "contractABIExtensions": ["PBM"]
       }
@@ -387,6 +412,7 @@
       "extensions": {
         "link": "https://www.temasek.com.sg/",
         "description": "Temasek",
+        "categories": ["access", "value", "rwa"],
         "ogImage": "https://assets.sequence.info/SFF/TCPM_banner.png",
         "contractABIExtensions": ["PBM"]
       }
@@ -401,6 +427,7 @@
       "extensions": {
         "link": "https://www.temasek.com.sg/",
         "description": "Temasek",
+        "categories": ["access", "value", "rwa"],
         "ogImage": "https://assets.sequence.info/SFF/TCPM_banner.png",
         "contractABIExtensions": ["PBM"]
       }
@@ -415,6 +442,7 @@
       "extensions": {
         "link": "https://gardens.shrub.finance/",
         "description": "The first interactive on-chain growth NFT. Shrub.finance's genesis NFT project is the most technically advanced NFT series yet. In this series you plant a seed and grow it into a Shrub all on the Polygon blockchain. Dynamic metadata means you watch it grow on OpenSea. Join us in this groundbreaking series. Seeds available here https://opensea.io/collection/shrub-paper-gardens-seeds.",
+        "categories": ["art", "simulation"],
         "ogImage": "https://i.seadn.io/gcs/files/ecd69e04d3f2c24ae950f78f87f5914f.png?auto=format&w=3840"
       }
     },
@@ -428,6 +456,7 @@
       "extensions": {
         "link": "https://www.cropbytes.com/",
         "description": "Welcome to CropBytes, where you can live the life of a virtual farmer and build your empire from the ground up! Own and run your business, engage in farming activities, and trade rare assets to grow your portfolio.",
+        "categories": ["gaming", "simulation", "strategy"],
         "ogImage": "https://i.seadn.io/gcs/files/fdc98308534c3c09171ee83f1f05844b.png?auto=format&w=3840",
         "featured": true
       }
@@ -444,6 +473,7 @@
       "extensions": {
         "link": "http://www.planetix.com",
         "description": "This is the collection for Planet IX Genesis Corporation NFTs. Players owning Genesis Corporation NFTs get exclusive access to airdrops and metashares in the respective in-game corporation. Owners will also enjoy exclusive benefits and utility to gain competitive advantage in the Planet IX ecosystem.\r\n\r\nPlanet IX Main Collection: https://opensea.io/collection/planet-ix",
+        "categories": ["gaming", "staking", "reward", "simulation", "strategy"],
         "ogImage": "",
         "originChainId": 0,
         "originAddress": "",
@@ -460,6 +490,7 @@
       "extensions": {
         "link": "https://metastar.gg/",
         "description": "This badge symbolizes your status as one of our most exclusive members. The crème de la crème. Expect exclusive rewards and special services to the owners of this sought out item.",
+        "categories": ["gaming", "sports", "action", "pvp"],
         "ogImage": "https://i.seadn.io/gcs/files/5983dfdfa8b8d30d4464299c8eb64552.png?auto=format&dpr=1&w=3840"
       }
     },
@@ -472,6 +503,7 @@
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Welcome to the Shadowcorns' spooky bazaar deep within the Dark Forest, which lies in the realms of Crypto Unicorns, a blockchain game where you can collect, hatch, and breed your own NFT Unicorns and Battle! The Shadowcorns, menacing cousins of Unicorns, use this market to purchase and sell their items, from Crafting Components to powerful Minions, ready to build their armies and launch an offensive against the unicorns!",
+        "categories": ["gaming", "access", "reward", "pvp"],
         "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
       }
     },
@@ -484,6 +516,7 @@
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Crypto Unicorns is a blockchain game in which you can collect, hatch, breed, and evolve your very own Crypto Unicorns in order to participate in farming your Land NFTs, gathering resources, and joining in an ever-expanding list of activities like Jousting, Racing, and Team RPG Battle! So come on in and join the Unicorn Fam! Here you’ll be able to find a variety of items to help you in your journey... Lootboxes, Golden Tickets, the coveted Shadowcorn eggs, and more!",
+        "categories": ["gaming", "access", "reward", "pvp"],
         "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
       }
     },
@@ -491,19 +524,37 @@
       "chainId": 137,
       "address": "0xd4D53d8D61adc3B8114C1cd17B89393640db9733",
       "name": "BoomLand - Artifacts",
-      "standard": "erc1155"
+      "standard": "erc1155",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["gaming", "access"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 137,
       "address": "0x44b3f42e2BF34F62868Ff9e9dAb7C2F807ba97Cb",
       "name": "BoomLand - Shards",
-      "standard": "erc1155"
+      "standard": "erc1155",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["gaming", "access"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 137,
       "address": "0x74d4567fd8B0b873B61FA180618a82183012F369",
       "name": "BoomLand - Equipments",
-      "standard": "erc1155"
+      "standard": "erc1155",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["gaming", "access"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 137,
@@ -511,7 +562,8 @@
       "name": "$5000 BUSD Voucher",
       "standard": "erc1155",
       "extensions": {
-        "blacklist": true
+        "blacklist": true,
+        "categories": ["access", "value", "rwa"]
       }
     },
     {
@@ -520,7 +572,8 @@
       "name": "$5000 BUSD Voucher",
       "standard": "erc1155",
       "extensions": {
-        "blacklist": true
+        "blacklist": true,
+        "categories": ["access", "value", "rwa"]
       }
     },
     {
@@ -529,7 +582,8 @@
       "name": "Flore",
       "type": "erc1155",
       "extensions": {
-        "description": "Redeemable flower nfts, priced using dynamic off-chain weather data via ip lookup"
+        "description": "Redeemable flower nfts, priced using dynamic off-chain weather data via ip lookup",
+        "categories": ["art", "infrastructure"]
       }
     },
     {
@@ -539,7 +593,8 @@
       "type": "erc1155",
       "logoURI": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/220px-Reddit_Logo_Icon.svg.png",
       "extensions": {
-        "description": "Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. This Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar."
+        "description": "Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. This Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar.",
+        "categories": ["art", "meme"]
       }
     },{
       "chainId": 137,
@@ -548,7 +603,8 @@
       "type": "erc1155",
       "logoURI": "https://chainplay.gg/_next/image/?url=https%3A%2F%2Ftk-storage.s3.ap-southeast-1.amazonaws.com%2Fhost%2Fgame%2FyjLb5bar_400x400_20221229105407.png&w=256&q=75",
       "extensions": {
-        "description": "Henlo! I'm a digital ghost trapped forever on the blockchain. Gaming helps distract me from my existential dread."
+        "description": "Henlo! I'm a digital ghost trapped forever on the blockchain. Gaming helps distract me from my existential dread.",
+        "categories": ["gaming", "mmo", "action", "simulation"]
       }
     },
     {
@@ -561,6 +617,7 @@
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Discover a wide array of valuable assets and artifacts in the Synergy Land Items collection. From powerful weapons to rare artifacts, these NFTs offer unique advantages and enhancements to aid you in your exploration and conquests throughout Synergy Land.",
+        "categories": ["gaming", "p2e", "action", "rpg"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1975/landingBannerUrl/d38b292d0c2370567154c94fbbbe982042c0950f76f7ee6932eac12a2831b80c.png"
       }
     },
@@ -574,6 +631,7 @@
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "These Islands form the backbone of Synergy Land's world, featuring three tiers, each with unique characteristics and rarities. They serve as the foundation for our Play, Rent & Earn model, which incorporates the renting feature. We merged these three elements to grant players access to the in-game economy.",
+        "categories": ["gaming", "p2e", "action", "rpg"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1958/9ce5ab1ffd6bcc43056d9052a9aa95690bccffe237dab855ce8f977df2f78c80.png"
       }
     },
@@ -587,6 +645,7 @@
       "extensions": {
         "link": "https://boomland.io",
         "description": "BoomLand, the creator of Hunters On-Chain, is a leading game developer & publisher, providing Mass Adoption of high-quality Web3 games on Polygon to a broader audience of traditional gamers. This is the Ticket's NFT, which allows players to enter specific game modes",
+        "categories": ["gaming", "access"],
         "ogImage": "https://www.boomland.io/static/media/homeThumbnail.37e22084c408bc384b17.jpg"
       }
     }  
