@@ -530,6 +530,7 @@
       "extensions": {
         "link": "https://sushiswap.org/",
         "description": null,
+        "categories": ["exchange", "protocol", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
@@ -545,6 +546,7 @@
       "extensions": {
         "link": "https://www.etherlegends.io/",
         "description": "Ether Legends is focused on the seamless connection of physical and digital assets, secured by the Blockchain. The token, Elementeum is the currency that drives the game platform ecosystem (ELET).",
+        "categories": ["gaming", "access", "tcg"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43"
@@ -560,6 +562,7 @@
       "extensions": {
         "link": "https://axioms.app/",
         "description": "Axioms. Kickstart your crypto.\r\n\r\nCommunity as a Service\r\nAxioms doesn’t just create your token: it promotes it to a readymade community that’s willing to support your project.\r\n\r\n\r\n1. Take a great idea\r\nCreate your own token and build a supportive community with the whole process, from coding to deployment, fully automated.\r\n\r\n\r\n2. Tokenize it\r\nFarm it. Stake it. Tip it. Earn it. You choose the utility. We’ll program it.\r\n\r\n\r\n3. Add Axioms\r\nThe AXIOMS token powers the Axioms network, providing utility for an incentivized community.\r\n",
+        "categories": ["access", "staking"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x73ee6d7e6b203125add89320e9f343d65ec7c39a"
@@ -575,6 +578,7 @@
       "extensions": {
         "link": "https://cord.finance/",
         "description": "CORD.Finance is a project that uses a unique combination of smart contract technology plus real world networking to provide varied income streams and capital appreciation for its holders.\r\n\r\nThe worldwide team of six project leaders has a variety of expertise that collectively supports this goal. The team includes a PhD\r\nstatistician and developer with 25 years experience, tokenomics experts who understand the economics of digital assets, networking experts with international connections in such diverse areas as finance, farming, and charity, as well as both ERC20 and NFT developers. \r\n\r\nCORD.Finance runs staking pools/vaults on an ongoing basis for CORD holders (and its deflationary pairing token VACC). The CORD.Finance team actively seeks out staking partnerships with other projects, as this can provide a synergistic benefit to both projects by increasing exposure and economies of scale. \r\n\r\nOther real-world partnerships being cultivated\r\nby the CORD.Finance team include those in ...",
+        "categories": ["defi", "staking", "reward"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x74fb9da15d4f9a34d8c825798da0fa5c400dade1"
@@ -590,6 +594,7 @@
       "extensions": {
         "link": "https://aave.com/",
         "description": "Aave is a decentralized lending platform that runs on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> Network which offers secure, peer-to-peer lending Smart Contracts. Aave strives to break through the traditional bank loans system with a more efficient solution. Aave also uniquely allows a borrower and a lender to decide on important loan details that can eliminate the need of a middle man. Due to the elimination of middlemen, process fee for a loan does not exist on this platform. This provide convenience to any lender and borrower to create loans on their agreed terms. Decentralized lending has fixed many issues and one of the reasons why is the transparency of loan.\r\n\r\nThe Ethereum network provides a transparent ledger where all transactions are available to be inspected. Secondly, it isn’t necessary to find a trusted loan provider because all collateral which is the digital asset for loans are stored and locked in a smart contract and broadcasted on the publ...",
+        "categories": ["defi", "lending", "reward", "aave"],
         "ogImage": "https://aave.com/favicon64.png",
         "originChainId": 1,
         "originAddress": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
@@ -605,6 +610,7 @@
       "extensions": {
         "link": "https://www.iggalaxy.com/",
         "description": "IGG is the native token within the IGGalaxy which will power the IG esports ecosystem. The TRC20 token will fundamentally disrupt the way stakeholders within the esports landscape interact and exchange value. Coupled with smart contracts, IGG will have real world utility for gamers, teams, brands and the wider public.",
+        "categories": ["gaming", "access", "casual"],
         "ogImage": "https://www.iggalaxy.com/android-chrome-512x512.png",
         "originChainId": 1,
         "originAddress": "0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea"
@@ -620,6 +626,7 @@
       "extensions": {
         "link": "https://easyfi.network/",
         "description": "Layer 2 Defi Lending Protocol for Digital Assets",
+        "categories": ["defi", "lending", "reward", "layer2"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x913d8adf7ce6986a8cbfee5a54725d9eea4f0729"
@@ -635,6 +642,7 @@
       "extensions": {
         "link": "https://swirgepay.com/",
         "description": "Swirge is an ecosystem that embodies a decentralized social media, a decentralized financial system, and a marketplace built on the blockchain technology. Swirge ecosystem is a user-centric platform that is built with users in mind. First, to protect the user's data and information and give them total control over their data. secondly, to give users the power to create wealth by socializing and the opportunity to take charge of their finances. Our solutions offer a user-friendly social platform, and we are so proud to share it with the entire world.",
+        "categories": ["defi", "access", "transactional"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x92ef4ffbfe0df030837b65d7fccfe1abd6549579"
@@ -650,6 +658,7 @@
       "extensions": {
         "link": "https://oceanprotocol.com/",
         "description": "Ocean Protocol is an ecosystem for sharing data and associated services. It provides a tokenized service layer that exposes data, storage, compute and algorithms for consumption with a set of deterministic proofs on availability and integrity that serve as verifiable service agreements. There is staking on services to signal quality, reputation and ward against Sybil Attacks.\r\n\r\nOcean helps to unlock data, particularly for AI. It is designed for scale and uses blockchain technology that allows data to be shared and sold in a safe, secure and transparent manner.\r\n\r\nThe Ocean Protocol is an ecosystem composed of data assets and services, where assets are represented by data and algorithms, and services are represented by integration, processing and persistence mechanisms. Ocean Protocol facilitates discovery by storing and promoting metadata, linking assets and services, and provides a licensing framework that has toolsets for pricing.\r\n\r\nA multitude of data marketplaces can hook into...",
+        "categories": ["infrastructure", "staking", "ai", "reward"],
         "ogImage": "https://oceanprotocol.com/static/share-5558ae2d9f99864a95f6f99172be9768.png",
         "originChainId": 1,
         "originAddress": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
@@ -665,6 +674,7 @@
       "extensions": {
         "link": "https://sportx.bet/",
         "description": "SportX is a community-owned sports betting exchange and political prediction market built on the Ethereum and Matic blockchains.",
+        "categories": ["sports", "access", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x99fe3b1391503a1bc1788051347a1324bff41452"
@@ -680,6 +690,7 @@
       "extensions": {
         "link": "https://www.cometh.io/",
         "description": "A DeFi powered Blockchain game with yield generating NFT.",
+        "categories": ["gaming", "access", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f"
@@ -695,6 +706,7 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC bridged from Ethereum network.",
+        "categories": ["usd-stablecoin", "transactional", "usdc", "bridged"],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -710,6 +722,7 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+        "categories": ["usd-stablecoin", "transactional", "usdc"],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
       }
     },
@@ -723,6 +736,7 @@
       "extensions": {
         "link": "https://celsius.network/",
         "description": "For crypto to continue to spread and gain traction we’ve got to bring the next 100m people into the crypto community. In order to do that, real products built by real teams have to provide real utility to the public. We’re building Celsius to bring a new wave of financial products to the market designed, for the first time, to always do what’s in the best interest of its members instead of trying to make as much profit as possible. Members will be able to borrow USD against their crypto holdings in their wallet which will be used as collateral. Our goal is to allow anyone who’s in need of cash to easily borrow from the Celsius platform without having to sell their crypto holdings. In the future, through the Celsius Network, cryptocurrencies deposited by members into their Celsius Wallet will be available on the network for immediate borrowing and shorting.\r\n\r\n",
+        "categories": ["defi", "lending", "access", "transactional"],
         "ogImage": "https://celsius.network/wp-content/uploads/2021/01/open-graph.png",
         "originChainId": 1,
         "originAddress": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
@@ -738,6 +752,7 @@
       "extensions": {
         "link": "https://0xbitcoin.org/",
         "description": "The first pure mined ERC20 Token for Ethereum, using the soliditySHA3 hashing algorithm. This is a smart contract which follows the original Satoshi Nakamoto whitepaper to form a fundamentally sound trustless currency. This combines the scarcity and fair distribution model of Bitcoin with the speed and extensibility of the Ethereum network. Thus, it is named 0xBitcoin or 0xBTC where 0x represents the Ethereum Network and ecosystem.",
+        "categories": ["infrastructure", "access", "value"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31"
@@ -753,6 +768,7 @@
       "extensions": {
         "link": "https://dust-token.com/",
         "description": "DUST is the official currency of the Mutant Universe. It can be earned by contributions to the Mutant cause and used for mining new mutants, as a payment method in NFT marketplaces or games.",
+        "categories": ["governance", "access"],
         "ogImage": "https://img1.wsimg.com/isteam/stock/12404",
         "originChainId": 1,
         "originAddress": "0xbca3c97837a39099ec3082df97e28ce91be14472"
@@ -768,6 +784,7 @@
       "extensions": {
         "link": "https://compound.finance/governance/comp",
         "description": "The Compound Governance Token is a governance token on the Compound Finance lending protocol, COMP allows the owner to delegate voting rights to the address of their choice; the owner’s wallet, another user, an application, or a DeFi expert. Anybody can participate in Compound governance by receiving delegation, without needing to own COMP.\r\n\r\nAnybody with 1% of COMP delegated to their address can propose a governance action; these are simple or complex sets of actions, such as adding support for a new asset, changing an asset’s collateral factor, changing a market’s interest rate model, or changing any other parameter or variable of the protocol that the current administrator can modify.",
+        "categories": ["governance", "defi", "lending", "access"],
         "ogImage": "https://compound.finance/images/meta-tag.png",
         "originChainId": 1,
         "originAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888"
@@ -783,6 +800,7 @@
       "extensions": {
         "link": "https://www.reddit.com/r/ethtrader",
         "description": "Donuts are a form of community points that are (currently) exclusive to the r/ethtrader subreddit. You can think of them as similar to Reddit karma, except exclusively representing contributions on r/ethtrader, rather than all of Reddit.\r\n\r\nYou can also directly give Donuts to other users as a reward for good comments. Once you have Donuts, give it a try! While using the new Reddit redesign, click on the Donut symbol next to any username to give that user some of your Donuts.\r\n\r\nDonuts use cases currently include tipping other users' posts and comments, adding weight to your votes in governance polls, buying limited-edition subreddit badges, and buying the banner to probably update it with whatever weird t-shirt Vitalik wore to the last development conference.\r\n\r\nYou can also turn any amount of your Reddit Donuts into an ERC-20 cryptocurrency token at a 1:1 rate, and vice versa.\r\n\r\nConverting EthTrader Donuts To ERC-20 Donuts\r\nStep 1: Deposit donuts into your donut.dance account.\r\n\r...",
+        "categories": ["meme", "access"],
         "ogImage": "https://styles.redditmedia.com/t5_37jgj/styles/communityIcon_6fu1hyaavac61.png?width=256&s=febf72b6edbe2971e3c7eaad1cb76aa86c3075fa",
         "originChainId": 1,
         "originAddress": "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9"
@@ -798,6 +816,7 @@
       "extensions": {
         "link": "https://chaingames.io/",
         "description": "The CHAIN token is the primary medium of exchange used for all entry fees and contest payouts on the Chain Games network.",
+        "categories": ["gaming", "access", "reward", "transactional"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4"
@@ -813,6 +832,7 @@
       "extensions": {
         "link": "https://etherisc.com/",
         "description": "Etherisc is building a platform for decentralized insurance applications. We aim to use blockchain technologyto help make the purchase and sale of insurance more efficient, enable lower operational costs, provide greater transparency into the industry and democratize access to reinsurance investments.\r\n\r\n",
+        "categories": ["staking", "access", "governance", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83"
@@ -828,6 +848,7 @@
       "extensions": {
         "link": "https://autonio.foundation/",
         "description": "Autonio Foundation is a decentralized autonomous organization built around developing accessible, easy to use and affordable trading tools. These tools make it easier for crypto traders to conduct trading analysis, deploy trading algorithms, exchange crypto currencies, sell their strategies and pool funds for trading purposes, all with profitability, security and ease.",
+        "categories": ["transactional", "access", "governance", "defi"],
         "ogImage": "https://uploads-ssl.webflow.com/5f7b07d2864ecd2ebd67992f/5fe5e1480db7fa58fee81b9c_opengraph-autonio.png",
         "originChainId": 1,
         "originAddress": "0xc813ea5e3b48bebeedb796ab42a30c5599b01740"
@@ -843,6 +864,7 @@
       "extensions": {
         "link": "https://trustswap.org/",
         "description": "An Evolution in Defi Transactions\r\nEscrow | Time-Release | Smart Swaps | Tokens & Tokenized Assets\r\n\r\nTrustswap is an easy way for you and anyone in the world to make safe cryptocurrency transactions together.\r\n\r\nEvery transaction paid in SWAP rewards stakers and liquidity providers with 80% of the transaction fee. 10% is burned, and 10% goes to the foundation\r\n",
+        "categories": ["staking", "reward", "access", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe"
@@ -858,6 +880,7 @@
       "extensions": {
         "link": "https://dontbuymeme.com",
         "description": null,
+        "categories": ["meme"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xd5525d397898e5502075ea5e830d8914f6f0affe"
@@ -873,6 +896,7 @@
       "extensions": {
         "link": "https://tether.to/",
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en...",
+        "categories": ["usd-stablecoin", "transactional", "usdt"],
         "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png",
         "originChainId": 1,
         "originAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
@@ -888,6 +912,7 @@
       "extensions": {
         "link": "https://www.atarichain.com/",
         "description": "The Atari Token’s mission is to bring decentralization and universality to the video game and interactive entertainment industry. The goal of the Atari Token is to be the utility token of reference within the video game and interactive entertainment world, either as an in-game token or as a means of exchange for services or products between individuals and/or companies. Atari aims to provide participants with the tools necessary to effectively use smart contracts and smart platforms and reach mass adoption as quickly as possible. The Atari Group has recently entered into many partnership agreements to progressively develop the adoption and the use cases of the Atari Token. The Atari Token is issued by Atari Chain, Ltd (Gibraltar). For more information about the Atri Token, please visit the official Atari website.\r\n\r\nATARI Chain, Ltd, incorporated in Gibraltar, is responsible for the governance and ecosystem development of the ATARI Network of smart platforms using the ATARI Token. T...",
+        "categories": ["gaming", "transactional", "rwa", "casino"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xdacd69347de42babfaecd09dc88958378780fb62"
@@ -903,6 +928,7 @@
       "extensions": {
         "link": "https://decentral.games",
         "description": "decentral.games is a community-owned metaverse casino ecosystem powered by $DG. Players earn $DG for playing games, LPs earn $DG for providing liquidity, and active $DG holders earn $DG by governing the allocation of house profits. ",
+        "categories": ["gaming", "staking", "reward", "governance", "casino"],
         "ogImage": "https://res.cloudinary.com/dnzambf4m/image/upload/v1607984535/feat_u522ov.png",
         "originChainId": 1,
         "originAddress": "0xee06a81a695750e71a662b51066f2c74cf4478a0"
@@ -918,6 +944,7 @@
       "extensions": {
         "link": "https://pepemon.world/",
         "description": "PPDEX is the center of Pepemon Economy, being the token PPBLZ holders can farm to mint NFTs",
+        "categories": ["meme", "exchange", "staking", "reward", "governance", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7"
@@ -933,6 +960,7 @@
       "extensions": {
         "link": "https://apy.vision",
         "description": "APY.vision is a tool to help liquidity providers with analytics. The VISION tokens unlocks pro access to the Vision suite of tools.",
+        "categories": ["access", "staking", "governance", "defi"],
         "ogImage": "https://s3-us-west-2.amazonaws.com/acf-uploads/apyvisionlogo512.png",
         "originChainId": 1,
         "originAddress": "0xf406f7a9046793267bc276908778b29563323996"
@@ -948,6 +976,7 @@
       "extensions": {
         "link": "https://amptoken.org",
         "description": "What is Amp?\r\n\r\nAmp is described as the new digital collateral token offering instant, verifiable assurances for any kind of value transfer. Using Amp, networks like Flexa can quickly and irreversibly secure transactions for a wide variety of asset-related use cases.\r\n\r\nHow does Amp work?\r\n\r\nAmp claims to offer a straightforward but versatile interface for verifiable collateralization through a system of collateral partitions and collateral managers. Where collateral partitions can be designated to collateralize any account, application, or even transaction, and carry balances which are directly verifiable on the Ethereum blockchain, collateral managers are smart contracts that can lock, release, and redirect collateral in these partitions as needed in order to support value transfer activities. Amp supports a wide variety of use cases for collateralization, and also introduces the concept of predefined partition strategies, which can enable special capabilities such as collateral m...",
+        "categories": ["transactional", "staking", "governance", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
@@ -963,6 +992,7 @@
       "extensions": {
         "link": "https://frax.finance",
         "description": "The first fractional-algorithmic stablecoin",
+        "categories": ["usd-stablecoin", "stablecoin", "lending", "protocol", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x853d955acef822db058eb8505911ed77f175b99e"
@@ -978,6 +1008,7 @@
       "extensions": {
         "link": "https://rottenswap.org/#/",
         "description": "RottenSwap, a deflationary SushiSwap fork.",
+        "categories": ["meme", "governance", "staking", "reward", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xd04785c4d8195e4a54d9dec3a9043872875ae9e2"
@@ -993,6 +1024,7 @@
       "extensions": {
         "link": "https://weth.io/",
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
+        "categories": ["defi", "protocol", "chain", "wrapped"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8"
@@ -1008,6 +1040,7 @@
       "extensions": {
         "link": "https://weth.io/",
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
+        "categories": ["defi", "protocol", "chain", "wrapped"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
@@ -1023,6 +1056,7 @@
       "extensions": {
         "link": "https://www.trusttoken.com/",
         "description": "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD. The team believes that TrueUSD will be able to come up with the stable trading instrument for the traders of cryptocurrency that has been long-awaited. This will allow the businesses and consumers to use the digital currency as a medium of an exchange. The goal of the TrueUSD team was to build a coin that is stable and which can be used and trusted by them too. TrustToken is a platform that creates the tokens backed by assets that can easily be purchased and sold all around the world. The first asset token of TrustToken is TrueUSD, which is a stable coin and can be redeemed 1-for-1 for US dollars. TrustToken have partnered with registered fiduciaries and banks for holding the funds securely backed by TrueUSD tokens. To increase the amount of security, fiduciaries, and banks directly handle all the funds. Escrowed funds ...",
+        "categories": ["usd-stablecoin", "transactional"],
         "ogImage": "https://www.trusttoken.com/static/tt-social-card-8bccc7e39896ee3893eac90950f6a39b.png",
         "originChainId": 1,
         "originAddress": "0x0000000000085d4780b73119b644ae5ecd22b376"
