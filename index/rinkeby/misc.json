@@ -12,6 +12,9 @@
       "standard": "niftyswap20",
       "symbol": "SWAP",
       "logoURI": "https://assets.skyweaver.net/latest/sw-swap.png"
+      "extensions": {
+        "categories": ["exchange", "transactional", "art", "skyweaver"]
+      }
     }
   ]
 }
