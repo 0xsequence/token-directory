@@ -1073,6 +1073,7 @@
         "link": "https://allianceblock.io/",
         "description": null,
         "ogImage": "https://allianceblock.io/wp-content/uploads/2020/10/hero-image.png",
+        "categories": ["defi", "infrastructure", "governance"],
         "originChainId": 1,
         "originAddress": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0"
       }
@@ -1087,6 +1088,7 @@
       "extensions": {
         "link": "https://www.taconomics.io",
         "description": null,
+        "categories": ["meme"],
         "ogImage": "https://uploads-ssl.webflow.com/5f25b95c4e0af7c62817409b/5f2af9523b851f2b4abb3adf_Gender_Fluid_Taco.png",
         "originChainId": 1,
         "originAddress": "0x00d1793d7c3aae506257ba985b34c76aaf642557"
@@ -1102,6 +1104,7 @@
       "extensions": {
         "link": "https://unilend.finance/",
         "description": "UniLend is a permission-less DeFi protocol that combines spot trading services and lending/borrowing functionality within the same platform. Whereas current DeFi protocols support only ~30 assets, anyone can list any ERC20 asset on UniLend for decentralized trading and lending/borrowing. UFT token is UniLend's native governance token; holders of UFT can create proposals for, and vote on, a number of factors relating to the functioning of the protocol.",
+        "categories": ["defi", "lending", "exchange", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1"
@@ -1117,6 +1120,7 @@
       "extensions": {
         "link": "https://www.orionprotocol.io/",
         "description": "Orion is a DeFi platform providing B2B + B2C solutions for liquidity. It aims to solve the the largest problems in DeFi by aggregating the liquidity of the entire crypto market into one decentralized platform – pulling from every major centralized exchange, decentralized exchange, and swapping pool. ",
+        "categories": ["exchange", "defi", "protocol", "access", "infrastructure"],
         "ogImage": "https://www.orionprotocol.io/hubfs/Screen%20Shot%202020-05-27%20at%209.49.21%20AM.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a"
@@ -1132,6 +1136,7 @@
       "extensions": {
         "link": "https://pteria.org/",
         "description": null,
+        "categories": ["governance", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b"
@@ -1147,6 +1152,7 @@
       "extensions": {
         "link": "https://cntr.finance/",
         "description": null,
+        "categories": ["defi"],
         "ogImage": "https://cntr.finance/img/favicon.png",
         "originChainId": 1,
         "originAddress": "0x03042482d64577a7bdb282260e2ea4c8a89c064b"
@@ -1162,6 +1168,7 @@
       "extensions": {
         "link": "http://btc.piedao.org",
         "description": "BTC++ it’s a weighed allocation between the different representations of Bitcoin on the Ethereum",
+        "categories": ["defi", "value", "protocol"],
         "ogImage": "./assets/preview.png",
         "originChainId": 1,
         "originAddress": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd"
@@ -1177,6 +1184,7 @@
       "extensions": {
         "link": "https://0xmonero.com/",
         "description": "0xMR is a mineable privacy token on the Ethereum blockchain",
+        "categories": ["privacy", "value", "infrastructure"],
         "ogImage": "https://img1.wsimg.com/isteam/ip/f1512585-2929-446d-973e-2c29ee3cfd4f/2_5366053052094613395.png",
         "originChainId": 1,
         "originAddress": "0x035df12e0f3ac6671126525f1015e47d79dfeddf"
@@ -1192,6 +1200,7 @@
       "extensions": {
         "link": "https://www.LCX.com",
         "description": "LCX, the Liechtenstein Cryptoassets Exchange, aims to become one of the world’s first licensed and supervised security token exchanges.\r\n\r\nThe initial product is LCX Terminal, a crypto trading desk to trade on major crypto exchanges within a single interface. In November 2018, LCX claims to have been granted a Business License of the Liechtenstein Ministry of Economic Affairs.\r\n\r\nLCX AG was found in April 2018 and is headquartered at the Principality of Liechtenstein.",
+        "categories": ["exchange", "infrastructure", "protocol"],
         "ogImage": "https://www.lcx.com/wp-content/uploads/LCX-Home-Index-Image.png",
         "originChainId": 1,
         "originAddress": "0x037a54aab062628c9bbae1fdb1583c195585fe41"
@@ -1207,6 +1216,7 @@
       "extensions": {
         "link": "https://glitch.finance/",
         "description": "Glitch is a blockchain agnostic super protocol, purpose-built to facilitate trust-less money markets.",
+        "categories": ["defi", "protocol", "infrastructure"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x038a68ff68c393373ec894015816e33ad41bd564"
@@ -1223,6 +1233,7 @@
         "link": "https://barnbridge.com/",
         "description": "A Cross Platform Protocol for Tokenizing Risk.",
         "ogImage": "https://barnbridge.com/wp-content/uploads/2020/11/bb.png",
+        "categories": ["governance", "defi", "protocol", "staking", "reward"],
         "originChainId": 1,
         "originAddress": "0x0391d2021f89dc339f60fff84546ea23e337750f"
       }
@@ -1237,6 +1248,7 @@
       "extensions": {
         "link": "https://www.lid.sh",
         "description": "Licensed Proof of Locked Liquidity solutions for pre-sales and DEX launches.",
+        "categories": ["defi", "protocol", "liquidity"],
         "ogImage": "/static/opengraph.png",
         "originChainId": 1,
         "originAddress": "0x0417912b3a7af768051765040a55bb0925d4ddcf"
@@ -1252,6 +1264,7 @@
       "extensions": {
         "link": "https://unilock.network",
         "description": "Unilock is introduced to the universe of cryptocurrencies to help legitimate projects evolve and grow. We are one of a kind.",
+        "categories": ["protocol", "defi", "smart-contract"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x04ab43d32d0172c76f5287b6619f0aa50af89303"
@@ -1267,6 +1280,7 @@
       "extensions": {
         "link": "https://unifund.global/",
         "description": "Unifund is a layer 2 system on Uniswap enabling the creation of trustless managed trading groups wish customizable risk profiles",
+        "categories": ["defi", "protocol", "exchange"]
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0"
@@ -1282,6 +1296,7 @@
       "extensions": {
         "link": "https://umaproject.org",
         "description": "UMA is a decentralized financial contracts platform built to enable Universal Market Access.\r\n\r\nUMA builds infrastructure for “priceless” financial contracts: DeFi contracts that minimize oracle usage, avoiding many of the security and scalability issues that have plagued decentralized finance. The first contracts built with UMA are priceless synthetic tokens: ERC20 tokens that can track anything while minimizing the need for on-chain price data.\r\n\r\nThe UMA project token powers the system in two ways:\r\n\r\nGovernance: UMA token holders govern what types of contracts can access the system, which asset types are supported, and key system parameters and upgrades.\r\n\r\nPrice requests: the priceless methodology minimizes on-chain price requests but doesn’t eliminate them — when contract interactions are disputed, UMA token holders fulfill price requests via the Data Verification Mechanism, or DVM.\r\n\r\nUMA tokens enable the holder to participate in community governance and resolve contract dis...",
+        "categories": ["defi", "protocol", "governance", "smart-contract", "infrastructure"],
         "ogImage": "https://umaproject.org/assets/images/UMA_square_red_logo.png",
         "originChainId": 1,
         "originAddress": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828"
@@ -1297,6 +1312,7 @@
       "extensions": {
         "link": "https://bitsong.io/en",
         "description": "BitSong is a distributed (open source) blockchain music ecosystem born in December 2017, to create a decentralized and trustless hub that interconnects the various market players.\r\n\r\nOur mission is to decentralize the music sector by simplifying the bureaucracy as much as possible in order to offer artists a meritocratic, transparent, fast and intermediary-free earning model and users a new way to listen to music and earn money.\r\n\r\nBitSong is not a streaming platform but a real decentralized ecosystem of services and an active community of artists, music providers and fans (listeners) that aims to become the only point of reference within the digital music market.\r\n\r\n\r\n",
+        "categories": ["music", "access", "reward"],
         "ogImage": "/social-share.png",
         "originChainId": 1,
         "originAddress": "0x05079687d35b93538cbd59fe5596380cae9054a9"
@@ -1312,6 +1328,7 @@
       "extensions": {
         "link": "https://plasma.finance",
         "description": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+        "categories": ["defi", "protocol", "infrastructure"],
         "ogImage": "https://uploads-ssl.webflow.com/5fb23ed0d183e443d48de300/5fd13f4854277e2261f2820c_meta-pfi-site.png",
         "originChainId": 1,
         "originAddress": "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2"
@@ -1327,6 +1344,7 @@
       "extensions": {
         "link": "https://gemini.com/dollar/",
         "description": "The Gemini dollar — the world’s first regulated stablecoin — combines the creditworthiness and price stability of the U.S. dollar with blockchain technology and the oversight of U.S. regulators.\r\n\r\nGet Gemini dollars 1-to-1 for U.S. dollars on Gemini.\r\nGemini dollars can be used on the Ethereum network.\r\n\r\nISSUER\r\nThe Gemini dollar is issued by Gemini Trust Company, LLC, a New York trust company.\r\n\r\nBANK\r\nU.S. dollars that correspond to the Gemini dollars issued and in circulation are held at a U.S. bank and eligible for FDIC “pass-through” deposit insurance, subject to applicable limitations.\r\n\r\nEXAMINATION\r\nThe U.S. dollar deposit balance is examined monthly by an independent registered public accounting firm to verify the 1:1 peg. All Independent Accountants’ Reports are published and available <a href=\"https://gemini.com/dollar/#reports\">here</a>.\r\n\r\nSECURITY AUDIT\r\nThe Gemini dollar is a cryptographic token built on the Ethereum Network according to the ERC20 standard for token...",
+        "categories": ["usd-stablecoin", "transactional"],
         "ogImage": "https://www.gemini.com/static/images/og.png",
         "originChainId": 1,
         "originAddress": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd"
@@ -1342,6 +1360,7 @@
       "extensions": {
         "link": "https://sakeswap.finance/",
         "description": "SakeSwap, a profitable DEX, captures slippage and increases~50% of transaction fee income.",
+        "categories": ["defi", "exchange", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x066798d9ef0833ccc719076dab77199ecbd178b0"
@@ -1357,6 +1376,7 @@
       "extensions": {
         "link": "https://smartkeyplatform.io/",
         "description": null,
+        "categories": ["infrastructure", "smart-contract", "protocol"],
         "ogImage": "https://smartkeyplatform.io/og-logo.png",
         "originChainId": 1,
         "originAddress": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442"
@@ -1372,6 +1392,7 @@
       "extensions": {
         "link": "https://chai.money/",
         "description": "Accrue interest on your Dai by turning it into Chai.",
+        "categories": ["defi", "reward"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x06af07097c9eeb7fd685c692751d5c66db49c215"
@@ -1387,6 +1408,7 @@
       "extensions": {
         "link": "https://masq.ai",
         "description": "MASQ Network is a decentralized mesh networking software that is censorship-resistant, without the need for using a VPN or Tor. It incentivizes all users to utilize their spare bandwidth and allows trustless connections across the globe to share internet freedom on the clear web",
+        "categories": ["infrastructure", "protocol", "privacy"],
         "ogImage": "http://static1.squarespace.com/static/5ddadf8b61672b4797e56d44/t/5f529d15c4b3656b36737217/1599249688244/MASQ_Logo_Gold.png?format=1500w",
         "originChainId": 1,
         "originAddress": "0x06f3c323f0238c72bf35011071f2b5b7f43a054c"
@@ -1402,6 +1424,7 @@
       "extensions": {
         "link": "https://www.baseprotocol.org/",
         "description": "Base Protocol (BASE) is a token whose price is pegged to the total market cap of all cryptocurrencies at a ratio of 1 : 1 trillion. BASE allows traders to speculate on the entire crypto industry with one token. If crypto market cap is $450B, BASE is $0.45. If crypto market cap is $800B, BASE is $0.80.",
+        "categories": ["protocol", "value", "layer2", "chain", "smart-contract"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x07150e919b4de5fd6a63de1f9384828396f25fdc"
@@ -1417,6 +1440,7 @@
       "extensions": {
         "link": "https://www.uptrennd.com/",
         "description": "Uptrennd stands on four foundational pillars: Freedom of Speech, Data Security, Equality of Opportunity and Distribution of Wealth.\r\n\r\nOn Uptrennd, your private information will never permisionlessly be sold, and you will earn ~80% of all profits generated on the platform.\r\nUptrennd is a movement to shift the wealth and power from the corporations, back to the people.\r\n\r\nBloggers, photographers, videographers, musicians, podcasters, selfie-aficionados, and all other content creators are now able\r\nto monetize and thrive through their posts and passions like never before.\r\n\r\nEvery time a member’s post or comment is upvoted, they receive rewards. The higher a members level, the more rewards they can earn.\r\nAt level one, members earn one token per upvote. Each token on the platform is sold at a base rate of $0.05.\r\nUpvoting is free.\r\n\r\nDuring the initial growth phase of Uptrennd, the conversation will be focused on the niche of cryptocurrency.\r\nAs the community grows, (6months-1yr) topi...",
+        "categories": ["social", "reward", "governance", "privacy"],
         "ogImage": "https://www.uptrennd.com/images/sharings.jpg",
         "originChainId": 1,
         "originAddress": "0x07597255910a51509ca469568b048f2597e72504"
@@ -1432,6 +1456,7 @@
       "extensions": {
         "link": "https://social-rocket.co/",
         "description": "Social Rocket empowers Twitter & Telegram communities with taylor-made crypto features & blockchain technologies.\r\n",
+        "categories": ["access", "infrastructure"],
         "ogImage": "https://social-rocket.co/wp-content/uploads/2020/11/homepage-preview.png",
         "originChainId": 1,
         "originAddress": "0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2"
@@ -1447,6 +1472,7 @@
       "extensions": {
         "link": "https://www.dentacoin.com/",
         "description": "Dentacoin is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-based blockchain platform regulated by smart contracts. The platform supports the dental community by building and creating solutions devoted to improving the quality of dental care worldwide. The blockchain gives Dentacoin the power to change the world for the better. Dentacoin develops the dental industry as well as creates market intelligence through a cryptocurrency reward system that inspires participation throughout the community.\r\n\r\nDentacoin is the first cryptocurrency that uses a decentralized review platform and transparently rewards patients and dentists who make contributions that benefit the community. The Dentacoin Foundation team strongly believes in building a future healthcare industry that will fall into the hands of the people, resulting in the disruption of the existing industries and the creation of new industries in the short and long term.\r\n\r\nDentacoin strives to create a dental...",
+        "categories": ["transactional", "infrastructure", "rwa"],
         "ogImage": "https://dentacoin.com/assets/uploads/dcn-fb-thumb.png",
         "originChainId": 1,
         "originAddress": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6"
@@ -1462,6 +1488,7 @@
       "extensions": {
         "link": "https://mathwallet.org/",
         "description": "MATH is a one stop crypto solution platform which contains MathWallet, MATH VPOS Pool, MathDEX, MATH dApp Store, MATH Staking, MATH Pay, MATH Chain, etc.",
+        "categories": ["defi", "infrastructure", "protocol", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30"
@@ -1477,6 +1504,7 @@
       "extensions": {
         "link": "https://www.indexcoop.com/",
         "description": null,
+        "categories": ["defi", "protocol", "governance"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x0954906da0bf32d5479e25f46056d22f08464cab"
@@ -1492,6 +1520,7 @@
       "extensions": {
         "link": "https://shardus.com/",
         "description": "Shardus is building distributed ledger software to remedy the problems of traditional blockchains -- scalability, decentralization and efficiency. The technology being developed will use compute and state sharding to accommodate billions of daily active users, allowing for global-scale decentralized networks.",
+        "categories": ["infrastructure", "protocol", "smart-contract"],
         "ogImage": "https://shardus.com/assets/img/shardus-thumb-04-2019-1-91.png",
         "originChainId": 1,
         "originAddress": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
@@ -1507,6 +1536,7 @@
       "extensions": {
         "link": "https://mirror.finance",
         "description": "What are Mirrored Assets?\r\nMIR is the governance token of Mirror Protocol, a synthetic assets protocol built by Terraform Labs (TFL) on the Terra blockchain.\r\n\r\nMirror Protocol is decentralized from day 1, with the on-chain treasury and code changes governed by holders of the MIR token. TFL has no intention of keeping or selling MIR tokens, and there are no admin keys or special access privileges granted. The intent for this is to be a completely decentralized, community-driven project.\r\n\r\nMirrored assets are blockchain tokens that behave like \"\"mirror\"\" versions of real-world assets by reflecting the exchange prices on-chain. They give traders the price exposure to real assets while enabling fractional ownership, open access and censorship resistance as any other cryptocurrency. Unlike traditional tokens which serve to represent a real, underlying asset, mAssets are purely synthetic and only capture the price movement of the corresponding asset.",
+        "categories": ["defi", "protocol", "governance"],
         "ogImage": "https://mirror.finance/assets/img/meta_image.png",
         "originChainId": 1,
         "originAddress": "0x09a3ecafa817268f77be1283176b946c4ff2e608"
@@ -1522,6 +1552,7 @@
       "extensions": {
         "link": "https://dos.network/",
         "description": "DOS Network - A Decentralized Oracle Service supporting multiple heterogeneous blockchains. DOS Network brings real word data, event and computation power to smart contract in a secure, reliable, efficient and scalable way.",
+        "categories": ["infrastructure", "protocol", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x0a913bead80f321e7ac35285ee10d9d922659cb7"
@@ -1537,6 +1568,7 @@
       "extensions": {
         "link": "https://yam.finance/",
         "description": null,
+        "categories": ["defi", "governance", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x0aacfbec6a24756c20d41914f2caba817c0d8521"
@@ -1552,6 +1584,7 @@
       "extensions": {
         "link": "https://www.xdaichain.com",
         "description": "STAKE is a new ERC20-type (implemented as an ERC677) token designed to secure the on-chain payment layer and provide a mechanism for validators to receive multiple POS incentives. It is an ERC20-based staking token with a market driven value. ",
+        "categories": ["protocol", "staking", "reward", "governance"],
         "ogImage": "https://app.gitbook.com/share/space/thumbnail/-Lpi9AHj62wscNlQjI-l.png",
         "originChainId": 1,
         "originAddress": "0x0ae055097c6d159879521c384f1d2123d1f195e6"
@@ -1567,6 +1600,7 @@
       "extensions": {
         "link": "https://polybius.io/",
         "description": "Polybius Bank project will operate on the principles of an Open API, employing reputable innovations and services within the framework of payment and data processing industry. The activities of the Polybius will be developed on an incremental basis investing the capital according to the development of the customer base and with the objective of maximizing the capital versus revenues ratio. By providing the infrastructure for system-to-system communications, Polybius Foundation will act as a Trustee service and will be responsible for the control and execution of compliance-related directives.",
+        "categories": ["infrastructure", "transactional", "protocol"],
         "ogImage": "https://polybius.io/app/uploads/2019/02/sharing.jpg",
         "originChainId": 1,
         "originAddress": "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02"
@@ -1582,6 +1616,7 @@
       "extensions": {
         "link": "https://api3.org/",
         "description": "API3 builds blockchain-native, decentralized APIs with DAO-governance and quantifiable security.",
+        "categories": ["infrastructure", "protocol", "access", "governance"],
         "ogImage": "https://api3.org/img/favicons/API3.png",
         "originChainId": 1,
         "originAddress": "0x0b38210ea11411557c13457d4da7dc6ea731b88a"
@@ -1597,6 +1632,7 @@
       "extensions": {
         "link": "https://streamr.network/",
         "description": "Streamr tokenizes streaming data to enable a new way for machines & people to trade it on a decentralised P2P network.",
+        "categories": ["infrastructure", "protocol", "access"],
         "ogImage": "https://streamr.network/resources/social/public-site.png",
         "originChainId": 1,
         "originAddress": "0x0cf0ee63788a0849fe5297f3407f701e122cc023"
@@ -1612,6 +1648,7 @@
       "extensions": {
         "link": "https://nexusmutual.io/",
         "description": "NXM token itself is created solely for internal use within the Nexus Mutual protocol and all of its holders must go through KYC. As such, a wrapped version is created to allow more users to own the token without having to do KYC. In the meantime it also improves its liquidity outside the protocol’s bonding curve by being listed on exchanges such as Uniswap and Binance. \r\n\r\nTo make use of the wNXM token, it first needs to be unwrapped into NXM by a registered member of Nexus Mutual. After it is unwrapped, wNXM becomes NXM and can be used as a normal token on the Nexus Mutual platform. ",
+        "categories": ["wrapped", "defi", "access"],
         "ogImage": "https://www.nexusmutual.io/assets/img/nxm-favicon-152x152.png",
         "originChainId": 1,
         "originAddress": "0x0d438f3b5175bebc262bf23753c1e53d03432bde"
@@ -1627,6 +1664,7 @@
       "extensions": {
         "link": "https://basicattentiontoken.org/",
         "description": "Basic Attention Token (BAT) is an open-source, decentralized ad exchange platform built on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> platform. Basic Attention Token held an initial coin offering on May 31, 2017 for its eponymous ERC-20 utility token, raising approximately $35M USD at the time in less than 30 seconds. The Basic Attention Token aims to fix digital advertising, which is broken, fraudulent and opaque. \r\n\r\nBasic Attention Token work by having advertisers pay BAT to website publishers for the attention of users. The BAT token is designed to correctly value and price user attention within the platform. The Basic Attention Token comprises various components, including attention measurement systems, analytics dashboards and machine learning algorithms. Integration of BAT into a given host application involves implementing BAT Ads, a system that matches and displays ads to users based on locally stored data. Ad targeting is performed wholly on-device,...",
+        "categories": ["infrastructure", "reward", "transactional", "access"],
         "ogImage": "https://basicattentiontoken.org/static-assets/images/bat-og.png",
         "originChainId": 1,
         "originAddress": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
@@ -1642,6 +1680,7 @@
       "extensions": {
         "link": "https://hakka.finance/",
         "description": null,
+        "categories": ["defi", "protocol", "governance"],
         "ogImage": "/img/og-image.png",
         "originChainId": 1,
         "originAddress": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd"
@@ -1657,6 +1696,7 @@
       "extensions": {
         "link": "https://blockzerolabs.io",
         "description": "We are Blockzero Labs, a blockchain startup network focused on launching innovative, original, and experimental ideas into the decentralized world.",
+        "categories": ["defi", "protocol", "infrastructure"],
         "ogImage": "https://blockzerolabs.io/wp-content/uploads/2020/12/Untitled-design8.png",
         "originChainId": 1,
         "originAddress": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704"
@@ -1672,6 +1712,7 @@
       "extensions": {
         "link": "https://unilayer.app/",
         "description": "UniLayer is a new generation decentralised trading platform built on top of Uniswap that enables key features for professional-level trading with its LAYER utility token, focusing on automated swaps and liquidity management, flash staking, charts and analytics, live order books, and a lot more.",
+        "categories": ["defi", "exchange", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x0ff6ffcfda92c53f615a4a75d982f399c989366b"
@@ -1687,6 +1728,7 @@
       "extensions": {
         "link": "https://unimex.network/",
         "description": "UniMex is an innovative onchain margin-trading platform entirely contained within Uniswap. Which means that shorts/longs are directly executed on Uniswap, rather than through an offchain approach e.g. through a 0x relayer. Margin traders are charged fees which are disbursed to lenders as a reward for supplying liquidity to lending pools.",
+        "categories": ["defi", "exchange", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x10be9a8dae441d276a5027936c3aaded2d82bc15"
@@ -1702,6 +1744,7 @@
       "extensions": {
         "link": "https://1inch.exchange/",
         "description": null,
+        "categories": ["defi", "exchange", "protocol", "governance"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x111111111117dc0aa78b770fa6a738034120c302"
@@ -1717,6 +1760,7 @@
       "extensions": {
         "link": "https://ygy.finance/",
         "description": "Main Governance and Access Token to Generation of Yield",
+        "categories": ["defi", "protocol", "reward"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x11b0a8c0fa626627601ed518c3538a39d92d609e"
@@ -1732,6 +1776,7 @@
       "extensions": {
         "link": "https://www.layer1crypto.com/",
         "description": "Layer1 is the first tokenized content network, powered by the social utility token $LADZ.",
+        "categories": ["access", "infrastructure"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x1287c0509df9a475ef178471ab2132b9dfd312b3"
@@ -1747,6 +1792,7 @@
       "extensions": {
         "link": "https://vox.finance",
         "description": "Vox.Finance is an innovative DeFi project created by independent developers that seeks to revolutionize the market by providing a community-led approach.",
+        "categories": ["defi", "protocol", "governance"],
         "ogImage": "/images/logoIcon.png",
         "originChainId": 1,
         "originAddress": "0x12d102f06da35cc0111eb58017fd2cd28537d0e1"
@@ -1762,6 +1808,7 @@
       "extensions": {
         "link": "http://www.hyprr.com/",
         "description": "Howdoo is a revolutionary new messaging and social media platform that offers greater choice and control to users. Designed to encourage a more open and decentralized approach to mass social networking, it’s a platform that gives people full command over their personal data. It’s about incentivizing participation and contribution; allowing this value to flow freely across the network; enabling users to select for themselves the content they want to engage with; and inspiring a fairer, more community-driven form of moderation.",
+        "categories": ["access", "privacy", "infrastructure"],
         "ogImage": "https://hyprr.com/static/assets/images/LogoMeta.png",
         "originChainId": 1,
         "originAddress": "0x12f649a9e821f90bb143089a6e56846945892ffb"
@@ -1777,6 +1824,7 @@
       "extensions": {
         "link": "https://armor.fi",
         "description": null,
+        "categories": ["defi", "access", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x1337def16f9b486faed0293eb623dc8395dfe46a"
@@ -1793,6 +1841,7 @@
         "link": "https://unit.xyz/",
         "description": null,
         "ogImage": "https://d3n32ilufxuvd1.cloudfront.net/5ef3621e65b4b6006f2b9e0b/2022978/screenshot-a1ba8b3d-d386-4ed8-8d0f-e00cd44e578e_readyscr_1024.jpg",
+        "categories": ["usd-stablecoin", "stablecoin", "transactional"],
         "originChainId": 1,
         "originAddress": "0x1456688345527be1f37e9e627da0837d6f08c925"
       }
@@ -1807,6 +1856,7 @@
       "extensions": {
         "link": "https://geodb.com/",
         "description": "GeoDB is a decentralized peer-to-peer big data sharing ecosystem, which returns value to its creators, the users. GeoDB’s mission is to democratize the 260bn Big Data industry, building an open ecosystem in which to establish better and trusted relationships between market participants while giving back control and value to data generators, the users. GeoDB is using blockchain technology to eliminate intermediation in a huge industry and allow a faster growth an adoption.\r\n\r\n",
+        "categories": ["infrastructure", "protocol", "reward"],
         "ogImage": "https://geodb.com/images/geodb_og.png",
         "originChainId": 1,
         "originAddress": "0x147faf8de9d8d8daae129b187f0d02d819126750"
@@ -1822,6 +1872,7 @@
       "extensions": {
         "link": "https://www.tokensets.com/portfolio/dpi",
         "description": "A basket created by DeFiPulse of the top DeFi tokens by market cap. The DPI Set is rebalanced monthly to realign to its market cap weighted index. Buy into the top DeFi tokens by buying the DeFiPulse Index Set.",
+        "categories": ["defi", "protocol", "value"],
         "ogImage": "https://s3.amazonaws.com/set-core/img/assets/opengraph.png",
         "originChainId": 1,
         "originAddress": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
@@ -1837,6 +1888,7 @@
       "extensions": {
         "link": "https://gala.games/",
         "description": "GALA is designed to power the Gala Games ecosystem to support gaming re-imagined to benefit creators and players, alike.",
+        "categories": ["gaming", "infrastructure", "reward"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da"
@@ -1852,6 +1904,7 @@
       "extensions": {
         "link": "https://300.army/",
         "description": "Spartan token [300] is an experimental token, it aims to be a store of value, that is why the total supply its only 300. You will be able to buy our NFTs with 300 in the future. With NFT's you will get upgraded on discord and gain access to a curtain chats and gain a salary paid in Iron Bars, the currency used on Discord, we will have a city, a play role on discord.",
+        "categories": ["value", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x167e2a574669b0eeb552aaf3da47c728cb348a41"
@@ -1867,6 +1920,7 @@
       "extensions": {
         "link": "https://erasure.world/",
         "description": "A new kind of hedge fund built by a network of data scientists.",
+        "categories": ["infrastructure", "protocol", "defi"],
         "ogImage": "https://erasure.world/static/media/crowdsourcing.3d3bcd63.jpg",
         "originChainId": 1,
         "originAddress": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
@@ -1882,6 +1936,7 @@
       "extensions": {
         "link": "https://www.kitten.finance/",
         "description": null,
+        "categories": ["defi", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa"
@@ -1897,6 +1952,7 @@
       "extensions": {
         "link": "https://indexed.finance",
         "description": "CC10 is a passively managed, capitalization-weighted index that tracks the top 10 tokens by market cap from the Cryptocurrency market sector defined by NDX governance. It uses a high-fee AMM to rebalance gradually toward portfolio targets, which are set by a smart contract using price data from Uniswap.",
+        "categories": ["defi", "protocol", "value"],
         "ogImage": "https://i.imgur.com/TfkmJWJ.png",
         "originChainId": 1,
         "originAddress": "0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3"
@@ -1912,6 +1968,7 @@
       "extensions": {
         "link": "https://audius.co/",
         "description": "AUDIO is the native platform token of the Audius streaming protocol. AUDIO is staked for security, feature access and governance and earned by artists, fans and node operators who drive Audius.",
+        "categories": ["access", "governance", "infrastructure", "staking", "reward", "music"],
         "ogImage": "/ogImage.jpg",
         "originChainId": 1,
         "originAddress": "0x18aaa7115705e8be94bffebde57af9bfc265b998"
@@ -1927,6 +1984,7 @@
       "extensions": {
         "link": "https://reserve.org/",
         "description": "Reserve aims to build a stable, decentralized, asset-backed cryptocurrency and a digital payment system that scales supply with demand and maintains 100% or more collateral backing. Ultimately, Reserve’s goal is to create a universal store of value – particularly in regions with unreliable banking infrastructure and regions where hyperinflation is an issue. The Reserve system will interact with three kinds of tokens: \r\n\r\n(1) The Reserve token (RSV), which is a stable cryptocurrency that can be held and spent the way we use normal fiat money; \r\n\r\n(2) The Reserve Rights token (RSR), a protocol token used to facilitate the stability of RSV.\r\n\r\n(3) A growing variety of tokenized real-world assets (such as other stablecoins) that are held by the Reserve smart contract to back RSV. ",
+        "categories": ["stablecoin", "value", "protocol"],
         "ogImage": "https://assets.website-files.com/5c0651c367dd7b1992d59e02/5c0f6da6300e0bb450771327_reserve-thumbnail.png",
         "originChainId": 1,
         "originAddress": "0x196f4727526ea7fb1e17b2071b3d8eaa38486988"
@@ -1941,6 +1999,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/8824/large/usdk.png?1563418517",
       "extensions": {
         "link": "https://www.oklink.com/",
+        "categories": ["usd-stablecoin", "stablecoin", "transactional"],
         "description": null,
         "ogImage": null,
         "originChainId": 1,
@@ -1957,6 +2016,7 @@
       "extensions": {
         "link": "https://renproject.io/",
         "description": "REN Tokenized ZEC\r\n\r\nOnce an asset is in the custody of RenVM, an ERC20 token at a 1:1 value is minted on Ethereum - this can then be used as any ERC20 can within the Ethereum ecosystem (for example, swaps, collateralization, trades etc.)",
+        "categories": ["wrapped", "value", "rwa"],
         "ogImage": "/share.jpg",
         "originChainId": 1,
         "originAddress": "0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2"
@@ -1972,6 +2032,7 @@
       "extensions": {
         "link": "https://nfy.finance/",
         "description": "Non-Fungible Yearn is a DeFi platform whose goal is to utilize the full potential of Non-Fungible Tokens (NFTs) in the DeFi sector.",
+        "categories": ["defi", "art", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc"
@@ -1987,6 +2048,7 @@
       "extensions": {
         "link": "https://chartex.pro/",
         "description": "ChartEx is a leading provider of full Candlestick charting for markets on Uniswap, the largest Decentralized Exchange running on the Ethereum Network.",
+        "categories": ["infrastructure", "access", "defi"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x1d37986f252d0e349522ea6c3b98cb935495e63e"
@@ -2001,6 +2063,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12302/large/VBa2Z60o_400x400.png?1598982471",
       "extensions": {
         "link": "https://kimchi.finance/",
+        "categories": ["defi", "protocol"],
         "description": null,
         "ogImage": null,
         "originChainId": 1,
@@ -2017,6 +2080,7 @@
       "extensions": {
         "link": "https://vndc.io/",
         "description": "\"VNDC is a stablecoin of Vietnam Dong on the blockchain smart contract system, pegged to VND by the rate of 1:1, so that the price of digital currency assets could be stabilised. It is supported by sufficient cash and equivalent assets. VNDC is a stable digital currency system that is based on the ERC20 standard of Ethereum platform and BEP2 standard of Binance platform.\r\nOur vision is becoming a stable coin for Vietnamese community, backed by sufficient assets, and always on par with Vietnam Dong on 1:1 exchange rate. VNDC is not only a stable coin but as well as gateway supporting users to convert their fiat money to stable coin (and vise versa), in line with the global blockchain movements.\r\nVNDC is the first stable coin of Vietnam, and the first Stablecoin that offer staking at 12% annual rate. This system then can be utilised as a mechanism for trading and hedging in global crypto capital markets, as well as, preparation for the upcoming global stablecoin movements.\r\nVNDC consi...",
+        "categories": ["stablecoin", "transactional"],
         "ogImage": "https://vndc.io/wp-content/uploads/2020/05/feature-image.png",
         "originChainId": 1,
         "originAddress": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de"
@@ -2032,6 +2096,7 @@
       "extensions": {
         "link": "https://archerdao.io/",
         "description": null,
+        "categories": ["defi", "protocol", "governance"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af"
@@ -2047,6 +2112,7 @@
       "extensions": {
         "link": "https://www.bancor.network/",
         "description": "Bancor is a blockchain protocol that allows users to convert between different tokens directly as opposed to exchanging them on cryptocurrency markets. The project offers a network, which we’ll discuss soon, that works to bring liquidity to the majority of tokens that lack a consistent supply/demand in exchanges. That network is built on smart contracts and a new class of cryptocurrencies that the team calls “Smart Tokens.” Bancor is looking to provide support to the illiquidity that currently exists within the cryptocurrency market. Illiquidity isn’t so much an issue for top coins like <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> because there are always buyers and sellers looking to exchange those coins. It is definitely an issue, however, for the thousands of other tokens that may serve legitimate decentralized purposes but haven’t attracted enough attention in the market to be liquid.\r\n\r\nBa...",
+        "categories": ["defi", "exchange", "protocol", "exchange"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
@@ -2062,6 +2128,7 @@
       "extensions": {
         "link": "https://ruletka.fun",
         "description": "Ruletka (RTK) is an incentive-based deflationary game currency. its 1 in 6 chance burn mechanism simulates the Russian Roulette and is used in games by reward-seeking players. Buying and selling on Uniswap is risk-free of getting shot!",
+        "categories": ["gaming", "casino"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x1f6deadcb526c4710cf941872b86dcdfbbbd9211"
@@ -2077,6 +2144,7 @@
       "extensions": {
         "link": "https://for.tube/home",
         "description": "ForTube is the leading global DeFi lending platform launched by The Force Protocol. It is committed to providing decentralized lending services for cryptoasset enthusiasts around the world, supporting most of the world's popular assets. ForTube is based on smart contracts and automated algorithm technology. Users can deposit tokens to earn interest, pledge to borrow tokens and pay interests.  ForTube's interest rate is determined by market supply and demand. Assets are controlled by users. ForTube allows users to deposit and withdraw anytime, borrow and repay anytime globally.",
+        "categories": ["defi", "lending", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f"
@@ -2092,6 +2160,7 @@
       "extensions": {
         "link": "https://nsure.network/",
         "description": "NSURE is the governance token for the Nsure Network. Nsure Network is a decentralised insurance project that borrows the idea of Lloyd’s of London, a market place to trade insurance risks, where premiums are determined by a Dynamic Pricing Model. In this model, capital supply and demand from the entire platform determines the price jointly, similar to the pricing mechanism in the free market, by having Nsure tokens backing the policies bought. The price is self-adjustable to the movement of supply and demand, subject to the model moderately stabilizing the price change.",
+        "categories": ["defi", "access", "protocol", "governance"],
         "ogImage": "https://nsure.network/nsure-network.png",
         "originChainId": 1,
         "originAddress": "0x20945ca1df56d237fd40036d47e866c7dccd2114"
@@ -2107,6 +2176,7 @@
       "extensions": {
         "link": "https://sale.conceal.cloud/home",
         "description": "Wrapped Conceal ($wCCX) Provides an untraceable gateway to and from the Ethereum ecosystem from the Conceal Network ecosystem. Wrapped Conceal ($wCCX) is simply an ERC20 token that represents the real Conceal coin $CCX on the Ethereum ecosystem. Having an ERC20 token representation allows Conceal Network to integrate into the Ethereum ecosystem, which includes wallets, dapps, and smart contracts.",
+        "categories": ["wrapped", "privacy"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x21686f8ce003a95c99acd297e302faacf742f7d4"
@@ -2122,6 +2192,7 @@
       "extensions": {
         "link": "https://www.ovr.ai/",
         "description": "OVR is the decentralized infrastructure for the spatial web, merging physical and virtual world through Augmented Reality, creating a new dimension where everything is possible.",
+        "categories": ["infrastructure", "gaming"],
         "ogImage": "https://www.ovr.ai/wp-content/uploads/static/social_img.jpg",
         "originChainId": 1,
         "originAddress": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697"
@@ -2137,6 +2208,7 @@
       "extensions": {
         "link": "http://www.augur.net/",
         "description": "Augur is a trustless, decentralized platform for prediction markets. Augur is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event.\r\n\r\nPrediction markets are markets created to trade the probability of an event happening. The market prices indicate what the crowd thinks the probability of an event happening. Predictive markets have shown to have been effective in accurately forecasting many results however it is still not widely used due to the many regulatory hurdles involved in setting up such a market. Augur aims to set up such a market in a decentralized manner.\r\n\r\nAugur is an Ethereum-based decentralized...",
+        "categories": ["protocol", "governance", "defi", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x221657776846890989a759ba2973e427dff5c9bb"
@@ -2152,6 +2224,7 @@
       "extensions": {
         "link": "http://cloverprotocol.biz/",
         "description": "A completely /biz/-run DeFi project. The network is governed by token owners, with a distribution as widely within the /biz/ community as possible via the fair launch. As chainlinkers understand that the financial system is slowly but surely becoming like LEGO bricks, there is opportunity at the edges to innovate as the bull run for Bitcoin, DeFi and daily /biz/ volume itself draw near.",
+        "categories": ["defi", "protocol", "infrastructure", "governance"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x22222c03318440305ac3e8a7820563d6a9fd777f"
@@ -2167,6 +2240,7 @@
       "extensions": {
         "link": "https://unn.finance",
         "description": "UNION is a technology platform that combines bundled protection and a liquid secondary market with a multi-token model. DeFi participants manage their multi-layer risks across smart contracts and protocols in one scalable system. UNION decreases the barriers to entry for retail users and lays the foundation for institutional investors.",
+        "categories": ["defi", "protocol", "governance"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d"
@@ -2182,6 +2256,7 @@
       "extensions": {
         "link": "https://cocktail.money/",
         "description": null,
+        "categories": ["defi", "protocol"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf"
@@ -2197,6 +2272,7 @@
       "extensions": {
         "link": "https://nuggets.life/",
         "description": "Nuggets is a consumer blockchain platform giving users a single biometric tool for login, payment and identity verification, without sharing or storing private data.\r\n\r\n",
+        "categories": ["infrastructure", "access", "transactional", "privacy"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1"
