@@ -1280,7 +1280,7 @@
       "extensions": {
         "link": "https://unifund.global/",
         "description": "Unifund is a layer 2 system on Uniswap enabling the creation of trustless managed trading groups wish customizable risk profiles",
-        "categories": ["defi", "protocol", "exchange"]
+        "categories": ["defi", "protocol", "exchange"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0"
