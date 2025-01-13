@@ -5500,7 +5500,7 @@
       "name": "Old Test Dai (dev)",
       "extensions": {
         "blacklist": true
-        "categories": ["usd-stablecoin", "transactional", "defi", "maker"],
+        "categories": ["usd-stablecoin", "transactional", "defi", "maker"]
       }
     },
     {
