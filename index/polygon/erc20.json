@@ -5499,7 +5499,7 @@
       "address": "0xa804304f8e7c9ab5932ac3a4cc1468e40183d199",
       "name": "Old Test Dai (dev)",
       "extensions": {
-        "blacklist": true
+        "blacklist": true,
         "categories": ["usd-stablecoin", "transactional", "defi", "maker"]
       }
     },
