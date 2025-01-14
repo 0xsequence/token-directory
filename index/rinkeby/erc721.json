@@ -12,7 +12,8 @@
       "name": "Coworker Cats",
       "standard": "erc721",
       "extensions": {
-        "blacklist": true
+        "blacklist": true,
+        "categories": ["art", "meme"]
       }
     }
   ],

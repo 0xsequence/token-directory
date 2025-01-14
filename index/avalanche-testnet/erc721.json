@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://app.raremind.com/",
         "description": "Play chess on any platform and earn rewards",
+        "categories": ["gaming", "art", "reward", "access"],
         "ogImage": "https://pbs.twimg.com/profile_banners/1571737206196244481/1672640150/1080x360"
       }
     }   
