@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://castlecrushgame.com/",
         "description": "Castle Crush is a mobile, free-to-play, real-time strategy game developed by Wildlife Studios. Ascended and Founder Chests contain playable NFT cards which generate $ACS through gameplay.",
+        "categories": ["gaming", "reward", "mmo", "strategy", "tcg", "fantasy"],
         "ogImage": "https://user-images.githubusercontent.com/1619025/192035870-2d3c1a12-6228-4363-b474-625ed58a25e9.jpeg"
       }
     }

@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Polygon and Ethereum.",
+        "categories": ["gaming", "tcg", "skyweaver"],
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 4,
         "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
@@ -32,6 +33,7 @@
       "extensions": {
         "link": "https://dev.fractional.art/",
         "description": "Fractional ownership of the world’s most sought after NFTs. Fractional reduces entry costs, increases access, and enables new communities.",
+        "categories": ["art", "rwa", "transactional"],
         "ogImage": "https://assets.fractional.art/media/placeholder.png",
         "originChainId": 4,
         "originAddress": "0xc2e78eff7b3862356968bf24b9e89b265552a62f"
@@ -47,6 +49,7 @@
       "extensions": {
         "link": "https://testnets.opensea.io/collection/exquisite-art",
         "description": "Exquisite Art is a collection of pixel artwork inspired by projects on Ethereum, created by @scotato.",
+        "categories": ["art"],
         "ogImage": "https://lh3.googleusercontent.com/IErZEkAbINAsjep9RmAkAzHfLI6U1YpOtX_EH6K8Q4dAX1BgA9p_vtgw3CDASrICxDve5E_R0GV9VX8tN_-Et49Jeb3WcCm2Ys0BtcA=s0",
         "originChainId": 4,
         "originAddress": "0x6cf6afcaad7a5af1e0c46da135c49b0721e39c42"
@@ -58,7 +61,8 @@
       "name": "Donut Official",
       "standard": "erc1155",
       "extensions": {
-        "blacklist": true
+        "blacklist": true,
+        "categories": ["art", "meme"]
       }
     }
   ],

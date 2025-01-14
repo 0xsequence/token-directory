@@ -15,6 +15,7 @@
       "extensions": {
         "link": "https://raremind.com/",
         "description": "Buy the 0-0-0 digital card and get extra rewards",
+        "categories": ["gaming", "art", "reward"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1660/landingBannerUrl/dad070c7bc8d10a798149f1e7106b25e84c68f881f17193a8753b717ade5ba7f.png"
       }
     }

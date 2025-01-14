@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://darkearth.gg/",
         "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
+        "categories": ["gaming", "art", "defi", "reward", "fantasy", "strategy", "p2e"],
         "ogImage": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-banner.png",
         "originChainId": 137,
         "originAddress": null
@@ -31,6 +32,7 @@
       "extensions": {
         "link": "https://darkearth.gg/",
         "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
+        "categories": ["gaming", "art", "reward", "fantasy", "strategy"],
         "ogImage": "https://raw.githubusercontent.com/0xsequence/token-directory/master/images/dark-earth-mystery-capsule-banner.png",
         "originChainId": 137,
         "originAddress": null
@@ -46,6 +48,7 @@
       "extensions": {
         "link": "https://neondistrict.io/",
         "description": "Neon District is a free-to-play cyberpunk role-playing game. Collect characters and gear, craft and level up teams, and battle against other players through competitive multiplayer and in turn-based combat.",
+        "categories": ["gaming", "defi", "reward", "cyberpunk", "strategy", "p2e"],
         "ogImage": "https://lh3.googleusercontent.com/_EmX1Ndvx24VZ8-pmDC7NjgICFnUC-YIuxDYKCO2-T4WYbMyPnnH0oAYKXcu03_vMHQNGX-S0jcte66UEnThkkGIo6EA3wwpiQox=h600",
         "originChainId": 1,
         "originAddress": null
@@ -61,6 +64,7 @@
       "extensions": {
         "link": "https://blocklords.io",
         "description": "BLOCKLORDS is a smart-contract based grand strategy game where players are thrown into a medieval world and will have to fight their way to the top. HERO NFTs include a hero’s name, base stats, equipped item, traits, and title, making them valuable assets and necessary in order to play BLOCKLORDS ETH at launch.",
+        "categories": ["gaming", "defi", "reward", "strategy", "pvp", "simulation", "p2e"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x2c04e6dd23c33a66f58dfb79dfb15285336c92d0"
@@ -76,6 +80,7 @@
       "extensions": {
         "link": "https://www.infinitystar.io",
         "description": "Infinity Star is an auto-battle RPG, set in a not-so distant dystopian future about characters who escaped an evil research lab\r\nto gain their freedom back. Grind your gears and gather companions to escape the lab for freedom! \r\n中国大陆的各位玩家，请访问 https://infinitystar.cc/ 谢谢大家！",
+        "categories": ["art", "reward", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x543ecfb0d28fa40d639494957e7cba52460f490e"
@@ -91,6 +96,7 @@
       "extensions": {
         "link": "https://godsunchained.com/?refcode=0x5b3256965e7C3cF26E11FCAf296DfC8807C01073",
         "description": "Alert: This is the legacy collection.  Gods Unchained is a free-to-play, turn-based competitive trading card game in which cards can be bought and sold on the OpenSea marketplace. Players use their collection to build decks of cards, and select a God to play with at the start of each match. The goal of the game is to reduce your opponent's life to zero. Each deck contains exactly 30 cards. On OpenSea, cards can be sold for a fixed price, auctioned, or sold in bundles.",
+        "categories": ["gaming", "tcg", "reward", "fantasy", "pvp", "strategy", "p2e"],
         "ogImage": "https://godsunchained.com/assets/images/backgrounds/wide-hi-res-god.jpg",
         "originChainId": 1,
         "originAddress": "0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab"
@@ -106,6 +112,7 @@
       "extensions": {
         "link": "https://emblem.pro",
         "description": "An entire wallet inside an NFT. Emblem Vaults are containers of assets. Transfer / Gift / Sell entire collections of tokens and assets by transferring the NFT.",
+        "categories": ["art", "access", "reward"],
         "ogImage": "https://uploads-ssl.webflow.com/5eb3d91888ad6f4b2ba7e995/5eb41b530505e2d9f0282474_img%203-min.jpg",
         "originChainId": 1,
         "originAddress": "0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab"
@@ -121,6 +128,7 @@
       "extensions": {
         "link": "http://www.spellsofgenesis.com",
         "description": "The 1st blockchain-based mobile game ever made, Spells of Genesis combines TCG functionalities with the point-and-shoot aspects of arcade games. Players have to collect and combine cards to create the strongest deck in order to fight their enemies.",
+        "categories": ["gaming", "reward", "tcg", "fantasy", "strategy", "pvp"],
         "ogImage": "https://spellsofgenesis.com/wp-content/uploads/2020/04/soglogo.jpg",
         "originChainId": 1,
         "originAddress": "0x9227a3d959654c8004fa77dffc380ec40880fff6"
@@ -136,6 +144,7 @@
       "extensions": {
         "link": "https://www.drakons.io/",
         "description": "Drakons are genetically unique and artistically designed digital dragons created as crypto collectibles. Collect according to their attributes in terms of Agility, Strength, Intelligence and Health Points. Collect now so you can breed, sire, sell, battle and be a Drakon Master!",
+        "categories": ["gaming", "art", "defi", "reward", "fantasy", "pvp", "p2e"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x989e1fb123b67afd66e10574c8b409bc6e812d9a"
@@ -151,6 +160,7 @@
       "extensions": {
         "link": "https://www.cometh.io",
         "description": "Cometh is a DeFi powered game with yield generating NFT.\r\nGet spaceships, explore the galaxy and earn tokens.",
+        "categories": ["gaming", "defi", "reward", "sci-fi", "strategy", "pvp", "p2e"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xbcd4f1ecff4318e7a0c791c7728f3830db506c71"
@@ -166,6 +176,7 @@
       "extensions": {
         "link": "https://www.cryptokitties.co/",
         "description": "CryptoKitties is a game centered around breedable, collectible, and oh-so-adorable creatures we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you; it cannot be replicated, taken away, or destroyed.",
+        "categories": ["gaming", "art", "reward", "access"],
         "ogImage": "https://www.cryptokitties.co/images/share.png",
         "originChainId": 1,
         "originAddress": "0x06012c8cf97bead5deae237070f9587f8e7a266d"
@@ -181,6 +192,7 @@
       "extensions": {
         "link": "https://marketplace.digitalax.xyz/",
         "description": "The DIGITALAX ERC-721 NFTs are the master garments and accessories on the DIGITALAX marketplace and are each designed exclusively by our 30+ Global Designer Network — a group of uber talented 3D digital fashion designers from Europe, US, Asia, Afria, Australia! \r\n\r\nDIGITALAX is the first dedicated Digital-Only Fashion Auction Exchange Platform and Open Source Digital Fashion Toolkit. We are bringing new industry standards around digital goods, Open Digital licenses, digital fashion pricing transparency, digital supply chain automation and addressing core problems around NFT liquidity and stability. We are positioning as THE first digital fashion NFT engine built on the Ethereum network for all gaming, VR and metaverses.\r\n\r\nCheck out more of our exclusive and amazing digital fashion designs at www.digitalax.xyz",
+        "categories": ["art", "gaming", "defi", "reward", "access"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x0b509f4b044f713a91bb50535914f7ad160532fe"
@@ -196,6 +208,7 @@
       "extensions": {
         "link": "https://www.sandbox.game/",
         "description": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS.  LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.",
+        "categories": ["gaming", "defi", "reward", "open-world", "p2e"],
         "ogImage": "/The-Sandbox.png",
         "originChainId": 1,
         "originAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a"
@@ -211,6 +224,7 @@
       "extensions": {
         "link": "https://sorare.com",
         "description": "Sorare is a fantasy football game where managers can trade official digital collectibles. The platform is growing fast, with a global audience collecting, buying, and selling their favorite players in the form of blockchain-backed NFTs. The Sorare team has secured the rights to European giants like Atletico Madrid, Juventus, and Bayern Munich, as well as the MLS, Korean League, and Japanese League.",
+        "categories": ["gaming", "sports", "defi", "reward", "pvp"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205"
@@ -226,6 +240,7 @@
       "extensions": {
         "link": "https://www.daznboxing.io/",
         "description": "Make Fight Night Last Forever. The DAZN Boxing Matchroom Collection 1 includes the release of 30,000 boxing moments. Build your own digital collection of the biggest moments in boxing either by purchasing a pack from DAZNBoxing.io or via the marketplace.",
+        "categories": ["sports", "art", "reward", "access"],
         "ogImage": "https://quandefi-public-bucket.s3.us-east-1.amazonaws.com/DAZN/DAZN%20Banner.png",
         "originChainId": 1,
         "originAddress": null
@@ -241,6 +256,7 @@
       "extensions": {
         "link": "https://www.daznboxing.io/",
         "description": "Become a part of Boxing history with the Canelo Alvarez Premier PFP (Profile Picture) Collection! Grab your PFP now from DAZNBoxing.io and experience fight night like you never have before! This premier PFP is your ticket to watch the full fight card in the DAZN DECENTRALAND METAVERSE STADIUM. Each PFP purchase also comes with 2 free months of a DAZN streaming subscription and holders will automatically be entered to win either a Mutant Ape NFT or a VIP Trip to Canelo's next fight. Winners will be announced in Decentraland at the end of fight night!",
+        "categories": ["sports", "art", "reward", "access"],
         "ogImage": "https://assets.sequence.info/-0Zajvtt/IMG_8588.jpg",
         "originChainId": 1,
         "originAddress": null
@@ -256,6 +272,7 @@
       "extensions": {
         "link": "https://www.themoopians.io/",
         "description": "Welcome to a place where colour and creativity reigns. The Moopians are customisable chibi characters on the blockchain that bring with them a plethora of IRL benefits. Find out what exciting journey your Moopian will bring you on today at: www.themoopians.io. A (super) fun initiative by Siam Square Mookata.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.postimg.cc/XqBtn8JZ/Moopians.png"
       }
     },
@@ -269,6 +286,7 @@
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Bumpkins are beautiful, bold and ready for an adventure. Use your Bumpkin to explore the Sunflower MetaVerse and grow your farming empire.",
+        "categories": ["gaming", "reward", "access", "fantasy", "strategy", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/e4994945529c28946af305dd983c8e65.png?auto=format&w=3840",
         "featured": true
       }
@@ -285,6 +303,7 @@
       "extensions": {
         "link": "https://galxe.com",
         "description": "Galxe OAT (On-chain Achievement Token) is a digital badge standard on Polygon and BNB Chain to record your on-chain and off-chain life experiences. Co-launched by Galxe, Polygon Studios, and NFT Storage by Filecoin and IPFS.",
+        "categories": ["art", "reward", "access"],
         "ogImage": "",
         "featured": true
       }
@@ -299,6 +318,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Mojos are devilishly powerful plant creatures in need of your help. There are 4444 uniquely generated 3D game-playable characters that will work across the expanding games and metaverse of Planet Mojo",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/8d72828f-39dd-4d0d-780e-cbf7ec70e700/public"
       }
     },
@@ -312,6 +332,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Planet Mojo is an ecosystem of interconnected games built by Mystic Moose and set inside a mysterious alien planet with an evolving narrative. Players compete with customized teams of fantastical creatures in a suite of eSports, PvP games.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/1eda452d25e276592665fc10cfd3ae64.png?auto=format&dpr=1&w=3840"
       }
     },
@@ -325,6 +346,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Planet Mojo is an ecosystem of interconnected games built by Mystic Moose and set inside a mysterious alien planet with an evolving narrative. Players compete with customized teams of fantastical creatures in a suite of eSports, PvP games.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/8bf9f48f-5da8-4c92-bb30-ca3db9a5ee00/public"
       }
     },
@@ -338,6 +360,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "The limited edition Golden Mojo represents participation in the inaugural Mojo Melee 2023 Mojo Bowl Tournament.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/9deefcba-6c4e-4c45-d926-ee25f9117700/public"
       }
     },
@@ -351,6 +374,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Mod-able Mojos are a new collection from Planet Mojo where users will be able to swap parts and customize the look of their Mojos both in-game, and on-chain. Mojos are powerful plant heroes brought forth by the planet to battle the deadly threat known as the Scourge. They are 3D playable game characters in Mojo Melee and future games and experiences set inside the Planet Mojo Universe.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
       }
     },{
@@ -363,6 +387,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "A limited edition Cinematic Collector's Pass \"movie poster\" NFT created for the community in celebration of the release of Planet Mojo's first cinematic trailer!",
+        "categories": ["art", "reward", "access"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
       }
     },
@@ -376,6 +401,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "The Planet Mojo VIP Playtest Pass NFT is a ticket that provides access to Pre-Alpha testing of the auto battler game Mojo Melee. Pass holders will be eligible to earn in-game rewards, a special badge and invitations to special events.",
+        "categories": ["gaming", "access", "reward"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
       }
     },
@@ -389,6 +415,7 @@
       "extensions": {
         "link": "https://metastar.gg/",
         "description": "The playable characters in MetaStar Strikers! With unique visual looks and four in-game stats, you won’t want to miss these!",
+        "categories": ["gaming", "sports", "defi", "reward", "pvp", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/c01f03d12b96549667526df5ebb3903d.png?auto=format&dpr=1&w=3840"
       }
     },
@@ -402,6 +429,7 @@
       "extensions": {
         "link": "https://metastar.gg/",
         "description": "Welcome to the home of MetaStar Strikers: Avatars on OpenSea. Discover the best items in this collection.",
+        "categories": ["gaming", "sports", "defi", "reward", "pvp", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/506167396d6d2f96492606fc82c8f58a.png?auto=format&dpr=1&w=3840"
       }
     },
@@ -415,6 +443,7 @@
       "extensions": {
         "link": "https://champions.io/",
         "description": "Primes sit at the highest tier of ascension. They are the strongest in 1v1 & receive daily gold claims. \n\nMeet the glorious 7622 champions who have ascended to the status of Prime Eternal. These Divine few have no equal in the arena, and receive the highest level of in game benefits. Prime Eternals will never be minted again, and give you access to the growing fantasy world Massina. Claim your Prime Eternal Champion, to play in Champions: Ascension a AAA play-to-earn game by Rough House Games.",
+        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e"],
         "ogImage": "https://i.seadn.io/s/primary-drops/0xe22575fad77781d730c6ed5d24dd1908d6d5b730/27298272:about:media:9c7c15d2-b0d6-4383-8b82-ad798b2161d0.png?auto=format&dpr=1&w=2048"
       }
     },
@@ -428,6 +457,7 @@
       "extensions": {
         "link": "https://champions.io/",
         "description": "Pets are a collection of unique companions who inhabit the universe of Champions Ascension. \n\nPets of Massina is a collection of unique companions that inhabit the universe of Champions Ascension. These creatures love joining forces with Champions, aiding them in their adventures, boosting their combat prowess, unlocking secrets and breaking hearts.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/s/primary-drops/0x58481864048671c833a0cee0d467d34534171713/27298275:about:media:616a3939-2303-4ca6-8a22-fbd687a7cf72.png?auto=format&dpr=1&w=2048"
       }
     },
@@ -441,6 +471,7 @@
       "extensions": {
         "link": "https://champions.io/",
         "description": "The Imperial Gallery are items that will be used to enhance all player-generated content in Massina. \n\nThe Imperial Gallery hosts the most prized works of art, items and artifacts that have been collected over centuries by the line of Massina Emperors. People travel from all corners of the world to witness the marvels contained in the gallery. Would-be thieves are executed on site. Children and Beadols pay half.",
+        "categories": ["art", "reward", "access"],
         "ogImage": "https://i.seadn.io/s/primary-drops/0x13d15d8b7b2bf48cbaf144c5c50e67b6b635b5cd/27298278:about:media:90f2f170-5792-47ce-ae57-d77e049677d8.png?auto=format&dpr=1&w=2048"
       }
     },
@@ -454,6 +485,7 @@
       "extensions": {
         "link": "https://champions.io/",
         "description": "Elementals were forged for AOE & Group combat. They represent the houses of Air, Fire, Earth & Water. \n\nAs the House of the World was shattered, the Elemental Houses would rise from its remains. Mighty Champions willing to represent the four Elements: Air, Fire, Earth and Water, claimed their right to fight in the Colosseum Eternal, but the Emperor had other plans. Until now. The Elemental Champions are allowed in the arena once more and the stakes have never been higher.",
+        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e"],
         "ogImage": "https://i.seadn.io/s/primary-drops/0xc615bfb753fc2bab65065987391d046105673284/27298225:about:media:01dc39bc-a9cf-4ec9-b802-9e1f6a7784e1.png?auto=format&dpr=1&w=2048"
       }
     },
@@ -467,6 +499,7 @@
       "extensions": {
         "link": "https://champions.io/",
         "description": "Crystals, created from Raw Essence, play a major role in the progression & imbuement of Champions. \n\nThe Crystal creation process had been a well kept secret of Massina's Alchemists for ages. The power contained within the Essence Crystals has many uses, and they are highly sought after by aspiring Maestros that wish to imbue their Grunts with the power of the Seven Houses. Under the watch of Head Alchemist Prometheus, Crystal forging has become a profitable business for everyone with enough coin to pay for their services.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/s/primary-drops/0x80e919391b82815327842ae55f57430571fc8b2c/31436194:about:media:e33bb8b6-eaf9-4e2f-8d85-ae724e796eb9.png?auto=format&dpr=1&w=2048"
       }
     },
@@ -480,6 +513,7 @@
       "extensions": {
         "link": "https://champions.io/",
         "description": "Scrolls are a rare progression component required to achieve all levels of ascension. \n\nThe path of Ascension is at the core of the games in Massina. Maestros can only dream of one day leading an Eternal into battle, but very few accomplish such a feat. The priests of the Tower of Ascension have very strict requirements in order to deem a Champion worthy of their rituals, and the proper Scrolls of Ascension are proof that both Maestro and Champion understand the great power that will be bestowed upon them.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/s/primary-drops/0xc7dc85e36d067bb5c8e9f3a1a1086c99a1a3cdb2/31436204:about:media:469f6da7-ec39-4074-9a85-9fc514b2e9b7.png?auto=format&dpr=1&w=2048"
       }
     },
@@ -493,6 +527,7 @@
       "extensions": {
         "link": "https://champions.io/",
         "description": "Gruesome parts, combined to create a powerful monster, set to defend all user generated content. \n\nMassina has no shortage of terrifying and fantastical creatures. At the crossroads of many worlds, there is a new abomination entering the Arena every day. Some Maestros have taken to collecting these monsters in grotesque menageries in hopes of using them to train their Champions, or perhaps eliminate a powerful rival.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/s/primary-drops/0x3be1e1eb87d50064507c453e1e266d2b07ccc3b2/31436336:about:media:59ce19e1-304d-4884-9979-8797d4751aaa.png?auto=format&dpr=1&w=2048"
       }
     },
@@ -506,6 +541,7 @@
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Introducing Buds, the friendly farming pets that will turbo charge your Sunflower Land farm and gaming experience. These buds mark the start of a new era of collectibles and utility in Sunflower Land, providing exciting gameplay avenues. Players will now be able to collect a one of a kind Sunflower Land collectible and use it in their farming adventure.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/6531ea1f4be7477f5bbf92ac2ebc51b4.gif?auto=format&dpr=1&w=3840"
       }
     },
@@ -519,6 +555,7 @@
       "extensions": {
         "link": "https://www.revvracing.com/",
         "description": "REVV Racing is a competitive racing game, and part of the REVV Motorsport ecosystem.Designed from the ground-up to be interoperable, and utilising the REVV and SHRD tokens, REVV Racing provides both collectable and gameplay experiences for racing game players and driving enthusiast - whether competitive or casual, collectors, or fans of motorsports in general.Ready to race? We'll see you on the track!",
+        "categories": ["gaming", "sports", "driving", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/6079f927aa6fb503bfada25572ede681.png?auto=format&dpr=1&w=3840"
       }
     },
@@ -531,6 +568,7 @@
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Crypto Unicorns is a Digital Pet Collecting and Farming Game built on the blockchain.In Crypto Unicorns, gameplay centers around awesomely unique Unicorn NFTs which players combine with Land NFTs to utilize in a fun farming simulation, as well as other gameplay including Jousting, Racing, and Team RPG.",
+        "categories": ["gaming", "reward", "access", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
       }
     },
@@ -543,6 +581,7 @@
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Shadowcorns are the dark, brooding cousins of the frolicking, carefree heroes of the Crypto Unicorns universe! The 3,000 Shadowcorns hatched from Common, Rare, and Mythic Shadowcorn Eggs form the foundation of the long-term PvE gameplay in Crypto Unicorns, being the key to the domination and production of Shadowcorn Minions!",
+        "categories": ["gaming", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
       }
     },
@@ -555,6 +594,7 @@
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Minions form the power base of Shadowcorns, the ill-tempered arch-enemies of Crypto Unicorns, the blockchain game where you can collect, hatch, and breed your own NFT Unicorns and Battle! Shadowcorns have each mastered their own dark arts and unique tricks to craft a vast array of different henchmen to send forth in their quest for total domination. In order to preserve this ancient knowledge, it is transcribed into the pages of Rituals, each one providing the details of what's required to summon a specific Minion type.",
+        "categories": ["gaming", "reward", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
       }
     },
@@ -567,6 +607,7 @@
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Crypto Unicorns is a Digital Pet Collecting and Farming Game built on the blockchain.In Crypto Unicorns, gameplay centers around awesomely unique Unicorn NFTs which players combine with Land NFTs to utilize in a fun farming simulation, as well as other gameplay including Jousting, Racing, and Team RPG.",
+        "categories": ["gaming", "reward", "access", "fantasy", "p2e"],
         "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
       }
     },
@@ -579,6 +620,7 @@
       "extensions": {
         "link": "https://symbiogenesis.app/",
         "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 character (Ethereum) - collectible artworks meet real game utility.\r\n \r\nGame Utility\r\nThis game's genre is defined as \"Narrative-unlocked NFT entertainment\"\r\nAs you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.\r\n\r\nThe member cards are able to be used as utility within the game.",
+        "categories": ["gaming", "art", "reward", "access"],
         "ogImage": "https://i.seadn.io/gcs/files/e43c4fc02b76343e64dd95d9737121bc.png?w=500&auto=format"
       }
     },
@@ -591,6 +633,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Mod-able Mojos are a new collection from Planet Mojo where users will be able to swap parts and customize the look of their Mojos both in-game, and on-chain. Mojos are powerful plant heroes brought forth by the planet to battle the deadly threat known as the Scourge. They are 3D playable game characters in Mojo Melee and future games and experiences set inside the Planet Mojo Universe.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
       }
     },
@@ -603,6 +646,7 @@
       "extensions": {
         "link": "https://pooky.gg/",
         "description": "Stickers are customisations for your Pookyballs (https://opensea.io/collection/pookyballs). They're used in Pooky to supercharge your predictions and build custom strategies!",
+        "categories": ["art", "reward", "access"],
         "ogImage": "https://i.seadn.io/gcs/files/a1b94edb173f4880773aa1282b4a06d4.png?w=500&auto=format"
       }
     },
@@ -613,7 +657,8 @@
       "symbol": "shatterpoint",
       "type": "erc721",
       "extensions": {
-        "description": "Shatterpoint is a play-to-earn free-to-play blockchain action role-playing game built on the Polygon network where players can own NFT heroes and earn QUA and SHA tokens. The game features a PvP arena where players can battle each other and a PvE campaign mode that players can progress through."
+        "description": "Shatterpoint is a play-to-earn free-to-play blockchain action role-playing game built on the Polygon network where players can own NFT heroes and earn QUA and SHA tokens. The game features a PvP arena where players can battle each other and a PvE campaign mode that players can progress through.",
+        "categories": ["gaming", "rpg", "reward", "fantasy", "pvp", "p2e"]
       }
     },
     {
@@ -625,7 +670,8 @@
       "logoURI": "https://assets-global.website-files.com/6364e65656ab107e465325d2/65289a7cb687be2bc5173cd6_logo-sticker-blue-1.png",
       "extensions": {
         "link": "https://pooky.gg/",
-        "description": "The Ultimate Fantasy Football Prediction Platform. Predit The Score. Challenge fans worldwide in weekly competitions and win exciting rewards."
+        "description": "The Ultimate Fantasy Football Prediction Platform. Predit The Score. Challenge fans worldwide in weekly competitions and win exciting rewards.",
+        "categories": ["gaming", "reward", "access", "sports"]
       }
     },
     {
@@ -637,7 +683,8 @@
       "logoURI": "https://assets-global.website-files.com/6364e65656ab107e465325d2/65289a7cb687be2bc5173cd6_logo-sticker-blue-1.png",
       "extensions": {
         "link": "https://pooky.gg/",
-        "description": "The Ultimate Fantasy Football Prediction Platform. Predit The Score. Challenge fans worldwide in weekly competitions and win exciting rewards."
+        "description": "The Ultimate Fantasy Football Prediction Platform. Predit The Score. Challenge fans worldwide in weekly competitions and win exciting rewards.",
+        "categories": ["gaming", "sports", "reward", "pvp", "p2e"]
       }
     },
     {
@@ -649,6 +696,7 @@
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Champions are warriors from the Clans of Planet Mojo. They have been sent to discover the source of the Scourge and determine whether an age-old prophecy is unfolding. In Mojo Melee, most of a player’s team will consist of Champions that have banded together with their Mojo to battle together.",
+        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/db516228-8a81-4e58-9782-afb645e76300/public"
       }
     },
@@ -660,7 +708,8 @@
       "logoURI": "https://icodrops.com/wp-content/uploads/2023/05/Sla2HPLX_400x400.jpg",
       "extensions": {
         "link": "https://www.boomland.io/",
-        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
+        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG.",
+        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e", "rpg"]
       }
     },
     {
@@ -671,7 +720,8 @@
       "logoURI": "https://icodrops.com/wp-content/uploads/2023/05/Sla2HPLX_400x400.jpg",
       "extensions": {
         "link": "https://www.boomland.io/",
-        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
+        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG.",
+        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e", "rpg"]
       }
     },{
       "chainId": 137,
@@ -681,7 +731,8 @@
       "logoURI": "https://icodrops.com/wp-content/uploads/2023/05/Sla2HPLX_400x400.jpg",
       "extensions": {
         "link": "https://www.boomland.io/",
-        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG."
+        "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG.",
+        "categories": ["gaming", "rpg", "reward", "fantasy", "p2e"]
       }
     },
     {
@@ -692,7 +743,8 @@
       "symbol": "AMKT Disclosure",
       "logoURI": "https://openseauserdata.com/files/7af3dcf18ed7df35d77afc1a2da0ddcf.jpg",
       "extensions": {
-        "description": "The AMKT disclosure is distributed to holders of the Alongside Crypto Market Index. \n\nAMKT is a [crypto index](https://alongside.xyz/) designed to track the crypto market through exposure to the top 25 assets by market cap. [Learn more about AMKT.](https://alongside.xyz/amkt)"
+        "description": "The AMKT disclosure is distributed to holders of the Alongside Crypto Market Index. \n\nAMKT is a [crypto index](https://alongside.xyz/) designed to track the crypto market through exposure to the top 25 assets by market cap. [Learn more about AMKT.](https://alongside.xyz/amkt)",
+        "categories": ["art", "access", "reward"]
       }
     },
     {
@@ -704,6 +756,7 @@
       "extensions": {
         "link": "https://esportsheroes.gg/#",
         "description": "Be a legend in this first-ever idle RPG in the world of pro esports! Level up your esports athlete, scrim to improve, team up with four other players, and win tournaments on the pro circuit. Live your esports passion!",
+        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e"],
         "ogImage": "https://esportsheroes.gg/assets/hero-bg.jpg"
       }
     },
@@ -716,6 +769,7 @@
       "extensions": {
         "link": "https://esportsheroes.gg/#",
         "description": "Be a legend in this first-ever idle RPG in the world of pro esports! Level up your esports athlete, scrim to improve, team up with four other players, and win tournaments on the pro circuit. Live your esports passion!",
+        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e"],
         "ogImage": "https://esportsheroes.gg/assets/esh_splash.png"
       }
     },{
@@ -728,6 +782,7 @@
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Explore the captivating world of Synergians, our unique collection of PFP NFTs. Each Synergian character boasts distinct traits and personalities.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1977/landingBannerUrl/2ecae86ff91114e20330401b0d5d1cecd7c94ead6629b1dcf0e364395ec1fb93.png"
       }
     } , {
@@ -740,6 +795,7 @@
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Unlock exclusive benefits and privileges with Synergian Badges, a collection of NFTs designed to elevate your status within the Synergy Land community. Showcase your achievements, loyalty, and contributions with these prestigious badges.",
+        "categories": ["gaming", "reward", "access", "fantasy"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1973/landingBannerUrl/198b5fa3f184fd3a2f7defdd599ee1aa1b2e3272f80489964ead6add81053876.png"
       }
     },
@@ -753,6 +809,7 @@
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Meet your loyal companions in Synergy Land, a collection of creatures ready to join you on your journey. From fierce warriors to adorable companions, these pets offer unique abilities and companionship as you navigate the vast landscapes of Synergy Land.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1976/landingBannerUrl/597ed9bf0b670cd4dbc7fa654459b483cbe9333dd26e6449f6ff315e855e4d22.png"
       }
     },
@@ -766,6 +823,7 @@
       "extensions": {
         "link": "https://www.synergyland.live/",
         "description": "Get a head start on your adventures with the Furya Starter Pack. This curated collection of NFTs provides essential tools, resources, and boosts to kickstart your journey in Synergy Land.",
+        "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1974/landingBannerUrl/447402593e5aa8c859a0cd1767da37bf27401d1416385d8e25635b71cb2a6ba7.png"
       }
     },
@@ -779,6 +837,7 @@
       "extensions": {
         "link": "https://symbiogenesis.app/",
         "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 collectible artworks meet real game utility.\n\nGame Utility\nThis game's genre is defined as 'Narrative-unlocked NFT entertainment' \n As you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.\n\nThe chip-like relics contain Allowlist points for chapter 1 but do not contain any in-game utility",
+        "categories": ["gaming", "art", "reward", "access"],
         "ogImage": "https://i.seadn.io/gcs/files/6f2a6fad6c7a160de029413524f3a23c.png?auto=format&dpr=1&w=384"
       }
     }       

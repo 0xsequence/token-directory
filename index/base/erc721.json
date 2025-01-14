@@ -16,6 +16,7 @@
       "extensions": {
         "link": "https://opensea.io/collection/okgo-on-base-1",
         "description": "OKGO is a 100% generative on-chain CC0 card collection",
+        "categories": ["gaming", "art", "tcg"],
         "ogImage": "https://i.seadn.io/s/raw/files/a35928ac8cf52099bd0f5b611684d543.png",
         "originChainId": 8453,
         "originAddress": null

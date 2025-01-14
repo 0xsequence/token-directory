@@ -12,7 +12,13 @@
       "decimals": 18,
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["governance", "chain", "gas", "infrastructure", "staking", "wrapped"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 43114,
@@ -20,7 +26,13 @@
       "decimals": 18,
       "name": "Dai Stablecoin",
       "symbol": "DAI.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
+      "extensions": {
+        "link": null,
+        "description": "Dai is the native stablecoin for the Maker protocol. It is the world’s first crypto-collateralized and decentralized stablecoin, whose value is soft pegged to the US Dollar. The collateralized assets backing Dai are other cryptocurrencies instead of fiat and are held within smart contracts rather than in institutions.",
+        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 43114,
@@ -28,7 +40,13 @@
       "decimals": 18,
       "name": "ChainLink Token",
       "symbol": "LINK.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["governance", "transactional", "value", "infrastructure", "staking", "wrapped", "bridged"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 43114,
@@ -36,7 +54,13 @@
       "decimals": 6,
       "name": "Tether Token - Bridged",
       "symbol": "USDT.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["usd-stablecoin", "transactional", "wrapped", "bridged"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 43114,
@@ -44,7 +68,13 @@
       "decimals": 8,
       "name": "Wrapped BTC",
       "symbol": "WBTC.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["value", "reward", "infrastructure", "wrapped", "bridged"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 43114,
@@ -52,7 +82,13 @@
       "decimals": 18,
       "name": "Wrapped Ether",
       "symbol": "WETH.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["defi", "protocol", "chain", "wrapped", "bridged"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 43114,
@@ -60,7 +96,13 @@
       "decimals": 6,
       "name": "USD Coin - Bridged",
       "symbol": "USDC.e",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
+      "extensions": {
+        "link": null,
+        "description": null,
+        "categories": ["usd-stablecoin", "transactional", "usdc", "wrapped", "bridged"],
+        "ogImage": null
+      }
     },
     {
       "chainId": 43114,
@@ -72,6 +114,7 @@
       "extensions": {
         "link": "https://www.realfevr.com/fevr",
         "description": "RealFevr is a company established in 2015 in the fantasy markets with a football fantasy leagues game that currently has over 2 Million downloads on iOS and Android. With the fantasy leagues concept proven, RealFevr is now working towards being one of the NFT industry leaders by having the first-ever fully licensed Football Video NFTs Marketplace. Its NFTs will also be integrated into the FEVR Battle Arena, a new trading moments game (Play and Earn) that’s currently in its alpha testing stage.",
+        "categories": ["gaming", "reward", "access", "simulation", "sports"],
         "ogImage": null,
         "originChainId": 56,
         "originAddress": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc"
@@ -87,6 +130,7 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+        "categories": ["usd-stablecoin", "transactional", "usdc"],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
       }
     }
