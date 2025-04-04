@@ -6,6 +6,22 @@
   "keywords": ["erc20", "base-sepolia"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 84532,
+      "address": "0x036cbd53842c5426634e7929541ec2318f3dcf7e",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "link": "https://www.circle.com/en/usdc",
+        "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+        "categories": ["usd-stablecoin", "transactional", "usdc"],
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
+        "originChainId": 1,
+        "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      }
+    }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
