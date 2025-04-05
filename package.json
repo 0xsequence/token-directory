@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "reindex": "tsx tools/reindex.ts",
-    "external-check": "tsx tools/external-check.ts",
+    "sync-external": "tsx tools/sync-external.ts",
     "prepare": "husky"
   },
   "files": [

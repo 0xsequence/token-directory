@@ -30,12 +30,40 @@ async function checkExternalTokenLists() {
       externalData = JSON.parse(externalJsonContent);
     } catch (error) {
       console.error('Error: external.json is not valid JSON');
-      throw new Error('Invalid JSON in external.json');
+      process.exit(1);
     }
     
     if (!externalData.externalTokenLists || !Array.isArray(externalData.externalTokenLists)) {
       console.error('Error: external.json does not contain an externalTokenLists array');
-      throw new Error('Invalid structure in external.json');
+      process.exit(1);
+    }
+    
+    // Check for duplicate names
+    const names = externalData.externalTokenLists.map(list => list.name);
+    const duplicateNames = names.filter((name, index) => names.indexOf(name) !== index);
+    if (duplicateNames.length > 0) {
+      console.error(`Error: Duplicate token list names found: ${duplicateNames.join(', ')}`);
+      process.exit(1);
+    }
+    
+    // Validate chainIds are all numbers
+    for (const tokenList of externalData.externalTokenLists) {
+      if (!Array.isArray(tokenList.chainIds)) {
+        console.error(`Error: chainIds for ${tokenList.name} is not an array`);
+        process.exit(1);
+      }
+      
+      const nonNumberChainIds = tokenList.chainIds.filter(id => typeof id !== 'number');
+      if (nonNumberChainIds.length > 0) {
+        console.error(`Error: Non-number chainIds found for ${tokenList.name}: ${nonNumberChainIds.join(', ')}`);
+        process.exit(1);
+      }
+    }
+    
+    // Create the _external directory if it doesn't exist
+    const externalDir = path.join(process.cwd(), 'index', '_external');
+    if (!fs.existsSync(externalDir)) {
+      fs.mkdirSync(externalDir, { recursive: true });
     }
     
     // Check each URL
@@ -61,13 +89,21 @@ async function checkExternalTokenLists() {
             const sizeInMB = (text.length / (1024 * 1024)).toFixed(2);
             const hash = calculateSha256(text);
             
-            JSON.parse(text);
+            // Validate JSON
+            const jsonData = JSON.parse(text);
+            
+            // Write the file to disk
+            const fileName = `${tokenList.name}.json`;
+            const filePath = path.join(externalDir, fileName);
+            fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2));
+            
             return { 
               name: tokenList.name, 
               url: tokenList.url, 
               status: response.status,
               sizeInMB,
               hash,
+              filePath,
               success: true 
             };
           } catch (error) {
@@ -99,8 +135,9 @@ async function checkExternalTokenLists() {
         if ('error' in result.value) {
           console.error(`❌ ${result.value.name}: ${result.value.error}`);
         } else {
-          console.log(`✅ ${result.value.name}: Successfully fetched and validated JSON (${result.value.sizeInMB} MB)`);
+          console.log(`✅ ${result.value.name}: Successfully fetched, validated and saved JSON (${result.value.sizeInMB} MB)`);
           console.log(`   Hash: ${result.value.hash}`);
+          console.log(`   Saved to: ${result.value.filePath}`);
         }
       } else {
         console.error(`❌ Failed to check: ${result.reason}`);
@@ -118,7 +155,7 @@ async function checkExternalTokenLists() {
     if (failures.length > 0) {
       console.error(`\nFound ${failures.length} failing external token lists out of ${results.length} total.`);
       console.log(`Total size of successful downloads: ${totalSizeMB.toFixed(2)} MB`);
-      throw new Error('External token list check failed');
+      process.exit(1);
     } else {
       console.log(`\nAll ${results.length} external token lists are valid and return valid JSON.`);
       console.log(`Total size of all downloads: ${totalSizeMB.toFixed(2)} MB`);

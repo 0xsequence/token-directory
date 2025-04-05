@@ -11,6 +11,21 @@
       "name": "sushiswap",
       "chainIds": [],
       "url": "https://unpkg.com/@sushiswap/default-token-list"
+    },
+    {
+      "name": "coingecko",
+      "chainIds": [],
+      "url": "https://tokens.coingecko.com/uniswap/all.json"
+    },
+    {
+      "name": "pancakeswap-default",
+      "chainIds": [],
+      "url": "https://tokens.pancakeswap.finance/pancakeswap-default.json"
+    },
+    {
+      "name": "pancakeswap-extended",
+      "chainIds": [],
+      "url": "https://tokens.pancakeswap.finance/pancakeswap-extended.json"
     }
   ]
 }

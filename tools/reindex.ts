@@ -37,6 +37,12 @@ function validateJsonFile(filePath: string): { chainId: number, hash: string, co
     const content = fs.readFileSync(filePath, 'utf8');
     const jsonData = JSON.parse(content) as TokenListFile;
     
+    // Skip chainId validation for files in _external directory
+    if (filePath.includes('/_external/')) {
+      // For external files, use 0 as a placeholder chainId
+      return { chainId: 0, hash: calculateSha256(content), content };
+    }
+    
     // Validate chainId
     if (jsonData.chainId === undefined) {
       throw new Error(`Missing chainId field in ${filePath}`);
@@ -151,27 +157,6 @@ function getDeprecatedPaths(indexDir: string): string[] {
 }
 
 /**
- * Reads the external.json file and returns the external token lists
- */
-function getExternalTokenLists(indexDir: string): any[] {
-  const externalPath = path.join(indexDir, 'external.json');
-  
-  if (!fs.existsSync(externalPath)) {
-    console.log('No external.json file found, continuing without external token lists');
-    return [];
-  }
-  
-  try {
-    const externalContent = fs.readFileSync(externalPath, 'utf8');
-    const externalJson = JSON.parse(externalContent);
-    return externalJson.externalTokenLists || [];
-  } catch (error) {
-    console.error('Error reading external.json:', error);
-    return [];
-  }
-}
-
-/**
  * Main function to generate the index
  */
 function generateIndex() {
@@ -192,15 +177,10 @@ function generateIndex() {
   // Generate the index structure
   const indexStructure = processDirectory(indexDir, deprecatedPaths);
   
-  // Get external token lists
-  const externalTokenLists = getExternalTokenLists(indexDir);
-  console.log(`Found ${externalTokenLists.length} external token lists`);
-  
   // Add metadata
   const indexJson = {
     "!!NOTE!!": note,
-    index: indexStructure,
-    external: externalTokenLists
+    index: indexStructure
   };
   
   // Write the index file
