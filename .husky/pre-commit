@@ -1,0 +1,11 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# 1. Run your pnpm script
+pnpm run reindex
+
+# 2. If that script caused changes, fail the commit
+if ! git diff --quiet; then
+  echo "ERROR: Regenerated file changed. Please re-add and commit."
+  exit 1
+fi

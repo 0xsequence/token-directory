@@ -1,0 +1,11 @@
+{
+  "!!NOTE!!": "This file is manually maintained, and represents the external token lists that are not part of the token directory.",
+  "!!NOTE2!!": "The token list url sources below will be indexed by external indexers, in order.",
+  "externalTokenLists": [
+    {
+      "name": "uniswap",
+      "chainIds": [1],
+      "url": "https://unpkg.com/@uniswap/default-token-list@4.1.0/build/uniswap-default.tokenlist.json"
+    }
+  ]
+}
