@@ -6,6 +6,11 @@
       "name": "uniswap",
       "chainIds": [],
       "url": "https://unpkg.com/@uniswap/default-token-list"
+    },
+    {
+      "name": "sushiswap",
+      "chainIds": [],
+      "url": "https://unpkg.com/@sushiswap/default-token-list"
     }
   ]
 }
