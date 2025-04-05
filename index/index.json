@@ -34,6 +34,26 @@
         "misc.json"
       ]
     },
+    "astar-zkevm": {
+      "deprecated": true,
+      "chainId": 3776,
+      "tokenLists": [
+        "erc1155.json",
+        "erc20.json",
+        "erc721.json",
+        "misc.json"
+      ]
+    },
+    "astar-zkyoto": {
+      "deprecated": true,
+      "chainId": 6038361,
+      "tokenLists": [
+        "erc1155.json",
+        "erc20.json",
+        "erc721.json",
+        "misc.json"
+      ]
+    },
     "avalanche": {
       "chainId": 43114,
       "tokenLists": [
@@ -133,6 +153,16 @@
         "misc.json"
       ]
     },
+    "mumbai": {
+      "deprecated": true,
+      "chainId": 80001,
+      "tokenLists": [
+        "erc1155.json",
+        "erc20.json",
+        "erc721.json",
+        "misc.json"
+      ]
+    },
     "optimism": {
       "chainId": 10,
       "tokenLists": [
@@ -162,6 +192,16 @@
     },
     "polygon-zkevm": {
       "chainId": 1101,
+      "tokenLists": [
+        "erc1155.json",
+        "erc20.json",
+        "erc721.json",
+        "misc.json"
+      ]
+    },
+    "rinkeby": {
+      "deprecated": true,
+      "chainId": 4,
       "tokenLists": [
         "erc1155.json",
         "erc20.json",

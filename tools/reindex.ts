@@ -12,6 +12,7 @@ interface TokenListFile {
 interface ChainFolder {
   chainId: number;
   tokenLists: string[];
+  deprecated?: boolean;
 }
 
 interface IndexStructure {
@@ -60,12 +61,6 @@ function processDirectory(indexDir: string, deprecatedPaths: string[] = []): Ind
   for (const item of items) {
     const itemPath = path.join(indexDir, item);
     
-    // Skip if it's in deprecated paths
-    if (deprecatedPaths.includes(item)) {
-      // console.log(`Skipping deprecated path: ${item}`);
-      continue;
-    }
-    
     // Skip if it's not a directory or is a special file
     if (!fs.statSync(itemPath).isDirectory() || 
         item === 'index.json' || 
@@ -103,10 +98,19 @@ function processDirectory(indexDir: string, deprecatedPaths: string[] = []): Ind
     }
     
     if (tokenLists.length > 0 && chainId !== null) {
-      indexStructure[item] = {
-        chainId,
-        tokenLists
-      };
+      // Check if this path is deprecated and add the flag if it is
+      if (deprecatedPaths.includes(item)) {
+        indexStructure[item] = {
+          deprecated: true,
+          chainId,
+          tokenLists
+        };
+      } else {
+        indexStructure[item] = {
+          chainId,
+          tokenLists
+        };
+      }
     }
   }
   
@@ -120,7 +124,7 @@ function getDeprecatedPaths(indexDir: string): string[] {
   const deprecatedPath = path.join(indexDir, 'deprecated.json');
   
   if (!fs.existsSync(deprecatedPath)) {
-    console.log('No deprecated.json file found, continuing without exclusions');
+    console.log('No deprecated.json file found, continuing without marking any paths as deprecated');
     return [];
   }
   
@@ -171,7 +175,7 @@ function generateIndex() {
   
   // Get the list of deprecated paths
   const deprecatedPaths = getDeprecatedPaths(indexDir);
-  console.log(`Found ${deprecatedPaths.length} deprecated paths to exclude`);
+  console.log(`Found ${deprecatedPaths.length} deprecated paths to mark as deprecated`);
   
   // Generate the index structure
   const indexStructure = processDirectory(indexDir, deprecatedPaths);
