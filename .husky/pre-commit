@@ -1,0 +1,8 @@
+# 1. Run your pnpm script
+pnpm run reindex
+
+# 2. If that script caused changes, fail the commit
+if ! git diff --quiet; then
+  echo "ERROR: Regenerated file changed. Please run 'pnpm reindex', add 'index/index.json' and commit again."
+  exit 1
+fi
