@@ -1,18 +1,22 @@
 {
   "name": "@0xsequence/token-directory",
-  "version": "1.1.18",
+  "version": "1.2.0",
   "description": "Public dataset of ERC20, ERC721, ERC1155 token lists across network deployments",
   "repository": "https://github.com/0xsequence/token-directory",
-  "main": "dist/index.js",
+  "main": "dist/index.json",
   "author": "github.com/0xsequence",
   "license": "MIT",
   "scripts": {
+    "reindex": "tsx tools/reindex.ts",
+    "sync-external": "tsx tools/sync-external.ts",
+    "prepare": "husky"
   },
   "files": [
     "index"
   ],
-  "dependencies": {
-  },
   "devDependencies": {
+    "@types/node": "^22.14.0",
+    "husky": "^9.1.7",
+    "tsx": "^4.19.3"
   }
 }
