@@ -107,66 +107,6 @@
         ]
       },
       {
-        "path": "astar-zkevm",
-        "type": "directory",
-        "children": [
-          {
-            "path": "astar-zkevm/erc1155.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 1433
-          },
-          {
-            "path": "astar-zkevm/erc20.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 360
-          },
-          {
-            "path": "astar-zkevm/erc721.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 5871
-          },
-          {
-            "path": "astar-zkevm/misc.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 328
-          }
-        ]
-      },
-      {
-        "path": "astar-zkyoto",
-        "type": "directory",
-        "children": [
-          {
-            "path": "astar-zkyoto/erc1155.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 371
-          },
-          {
-            "path": "astar-zkyoto/erc20.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 365
-          },
-          {
-            "path": "astar-zkyoto/erc721.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 371
-          },
-          {
-            "path": "astar-zkyoto/misc.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 338
-          }
-        ]
-      },
-      {
         "path": "avalanche",
         "type": "directory",
         "children": [
@@ -377,12 +317,6 @@
         ]
       },
       {
-        "path": "deprecated.json",
-        "type": "file",
-        "isEmpty": false,
-        "size": 305
-      },
-      {
         "path": "external.json",
         "type": "file",
         "isEmpty": false,
@@ -509,36 +443,6 @@
         ]
       },
       {
-        "path": "mumbai",
-        "type": "directory",
-        "children": [
-          {
-            "path": "mumbai/erc1155.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 1093
-          },
-          {
-            "path": "mumbai/erc20.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 1042
-          },
-          {
-            "path": "mumbai/erc721.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 1458
-          },
-          {
-            "path": "mumbai/misc.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 324
-          }
-        ]
-      },
-      {
         "path": "optimism",
         "type": "directory",
         "children": [
@@ -655,36 +559,6 @@
             "type": "file",
             "isEmpty": false,
             "size": 261
-          }
-        ]
-      },
-      {
-        "path": "rinkeby",
-        "type": "directory",
-        "children": [
-          {
-            "path": "rinkeby/erc1155.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 2908
-          },
-          {
-            "path": "rinkeby/erc20.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 2131
-          },
-          {
-            "path": "rinkeby/erc721.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 600
-          },
-          {
-            "path": "rinkeby/misc.json",
-            "type": "file",
-            "isEmpty": false,
-            "size": 611
           }
         ]
       },

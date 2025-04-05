@@ -15,11 +15,17 @@ interface IndexEntry {
 /**
  * Recursively scans a directory and builds an index structure
  */
-function scanDirectory(dirPath: string, relativePath: string = ''): IndexEntry | null {
+function scanDirectory(dirPath: string, relativePath: string = '', deprecatedPaths: string[] = []): IndexEntry | null {
   const fullPath = path.join(dirPath, relativePath);
   
   // Skip the index.json file
-  if (relativePath === 'index.json') {
+  if (relativePath === 'index.json' || relativePath === 'deprecated.json') {
+    return null;
+  }
+  
+  // Skip deprecated paths
+  if (deprecatedPaths.some(depPath => relativePath === depPath || relativePath.startsWith(`${depPath}/`))) {
+    console.log(`Skipping deprecated path: ${relativePath}`);
     return null;
   }
   
@@ -38,7 +44,7 @@ function scanDirectory(dirPath: string, relativePath: string = ''): IndexEntry |
     // For directories, scan all children
     const items = fs.readdirSync(fullPath);
     const children = items.map(item => 
-      scanDirectory(dirPath, path.join(relativePath, item))
+      scanDirectory(dirPath, path.join(relativePath, item), deprecatedPaths)
     ).filter(entry => entry !== null); // Filter out null entries (skipped files)
     
     return {
@@ -49,6 +55,27 @@ function scanDirectory(dirPath: string, relativePath: string = ''): IndexEntry |
   }
   
   throw new Error(`Unknown file type: ${fullPath}`);
+}
+
+/**
+ * Reads the deprecated.json file and returns the list of deprecated paths
+ */
+function getDeprecatedPaths(indexDir: string): string[] {
+  const deprecatedPath = path.join(indexDir, 'deprecated.json');
+  
+  if (!fs.existsSync(deprecatedPath)) {
+    console.log('No deprecated.json file found, continuing without exclusions');
+    return [];
+  }
+  
+  try {
+    const deprecatedContent = fs.readFileSync(deprecatedPath, 'utf8');
+    const deprecatedJson = JSON.parse(deprecatedContent);
+    return deprecatedJson.deprecated || [];
+  } catch (error) {
+    console.error('Error reading deprecated.json:', error);
+    return [];
+  }
 }
 
 /**
@@ -65,8 +92,12 @@ function generateIndex() {
     process.exit(1);
   }
   
+  // Get the list of deprecated paths
+  const deprecatedPaths = getDeprecatedPaths(indexDir);
+  console.log(`Found ${deprecatedPaths.length} deprecated paths to exclude`);
+  
   // Generate the index structure
-  const indexStructure = scanDirectory(indexDir);
+  const indexStructure = scanDirectory(indexDir, '', deprecatedPaths);
   
   // Add metadata
   const indexJson = {
