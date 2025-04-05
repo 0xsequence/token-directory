@@ -4,7 +4,6 @@ import crypto from 'crypto';
 
 interface ExternalTokenList {
   name: string;
-  chainIds: number[];
   url: string;
 }
 
@@ -46,29 +45,22 @@ async function checkExternalTokenLists() {
       process.exit(1);
     }
     
-    // Validate chainIds are all numbers
-    for (const tokenList of externalData.externalTokenLists) {
-      if (!Array.isArray(tokenList.chainIds)) {
-        console.error(`Error: chainIds for ${tokenList.name} is not an array`);
-        process.exit(1);
-      }
-      
-      const nonNumberChainIds = tokenList.chainIds.filter(id => typeof id !== 'number');
-      if (nonNumberChainIds.length > 0) {
-        console.error(`Error: Non-number chainIds found for ${tokenList.name}: ${nonNumberChainIds.join(', ')}`);
-        process.exit(1);
-      }
-    }
-    
     // Create the _external directory if it doesn't exist
     const externalDir = path.join(process.cwd(), 'index', '_external');
     if (!fs.existsSync(externalDir)) {
       fs.mkdirSync(externalDir, { recursive: true });
+    } else {
+      // Empty the directory first
+      const existingFiles = fs.readdirSync(externalDir);
+      for (const file of existingFiles) {
+        fs.unlinkSync(path.join(externalDir, file));
+      }
+      console.log(`Cleared ${existingFiles.length} files from _external directory`);
     }
     
     // Check each URL
     const results = await Promise.allSettled(
-      externalData.externalTokenLists.map(async (tokenList) => {
+      externalData.externalTokenLists.map(async (tokenList, index) => {
         try {
           console.log(`Fetching ${tokenList.name} from ${tokenList.url}...`);
           const response = await fetch(tokenList.url, { redirect: 'follow' });
@@ -92,8 +84,8 @@ async function checkExternalTokenLists() {
             // Validate JSON
             const jsonData = JSON.parse(text);
             
-            // Write the file to disk
-            const fileName = `${tokenList.name}.json`;
+            // Write the file to disk with numbered prefix to maintain order
+            const fileName = `${index + 1}-${tokenList.name}.json`;
             const filePath = path.join(externalDir, fileName);
             fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2));
             

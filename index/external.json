@@ -1,30 +1,25 @@
 {
   "!!NOTE!!": "This file is manually maintained, and represents the external token lists that are not part of the token directory.",
-  "!!NOTE2!!": "The token list url sources below will be indexed by external indexers, in order.",
+  "!!NOTE2!!": "The token-list url sources below will be indexed by external indexers, in order of priority.",
   "externalTokenLists": [
     {
       "name": "uniswap",
-      "chainIds": [],
       "url": "https://unpkg.com/@uniswap/default-token-list"
     },
     {
       "name": "sushiswap",
-      "chainIds": [],
       "url": "https://unpkg.com/@sushiswap/default-token-list"
     },
     {
       "name": "coingecko",
-      "chainIds": [],
       "url": "https://tokens.coingecko.com/uniswap/all.json"
     },
     {
       "name": "pancakeswap-default",
-      "chainIds": [],
       "url": "https://tokens.pancakeswap.finance/pancakeswap-default.json"
     },
     {
       "name": "pancakeswap-extended",
-      "chainIds": [],
       "url": "https://tokens.pancakeswap.finance/pancakeswap-extended.json"
     }
   ]
