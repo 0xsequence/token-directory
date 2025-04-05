@@ -1,5 +1,3 @@
-#!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
 
 # 1. Run your pnpm script
 pnpm run reindex
