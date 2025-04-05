@@ -178,5 +178,14 @@
         "misc.json"
       ]
     }
-  }
+  },
+  "external": [
+    {
+      "name": "uniswap",
+      "chainIds": [
+        1
+      ],
+      "url": "https://unpkg.com/@uniswap/default-token-list@4.1.0/build/uniswap-default.tokenlist.json"
+    }
+  ]
 }
