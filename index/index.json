@@ -17,6 +17,12 @@
         "erc20.json": "00cb932821e58384b7065fd9b75890e4a9f341d8fc399b6744ad4bbd16e11b36"
       }
     },
+    "apechain": {
+      "chainId": 33139,
+      "tokenLists": {
+        "erc20.json": "d801660af86d875971e537570b07cbd66bae62f147013f4f81e44cf1a8f031ad"
+      }
+    },
     "arbitrum": {
       "chainId": 42161,
       "tokenLists": {
