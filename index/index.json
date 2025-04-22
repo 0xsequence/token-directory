@@ -192,7 +192,7 @@
       "chainId": 11155420,
       "tokenLists": {
         "erc1155.json": "840eb4ef881d50baed0ba90e2f356cb659223949bf1e5f51ad8583dd45b4f0b6",
-        "erc20.json": "6a953704ac4066fde81667993a2939fa60910113137d13b810ed6e2d18c92265",
+        "erc20.json": "9307fcc51c4f8166714cb6730b9c12a28cf7959c6f3d7bd0fe8c5da9360a159c",
         "erc721.json": "45e323fe7ec90ee1a9eeaa2f52ed151be83af010d194f44a969e03c515c173ab",
         "misc.json": "ca0d895b40082dc2ed1b6d35a077d0de7a05a748107a66ec8653a1562ea4bd63"
       }
