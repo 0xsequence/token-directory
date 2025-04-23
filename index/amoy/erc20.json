@@ -21,6 +21,16 @@
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
       }
+    },
+    {
+      "chainId": 80002,
+      "address": "0x1234567819c0762f9bfcf9fb1e58725bfb0e0000",
+      "name": "Test Coin",
+      "symbol": "TEST",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }

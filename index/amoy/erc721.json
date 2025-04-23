@@ -1,0 +1,25 @@
+{
+  "name": "sequence-erc721-amoy",
+  "chainId": 80002,
+  "tokenStandard": "erc721",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc721"],
+  "timestamp": "2025-04-23T15:36:16.623Z",
+  "tokens": [
+    {
+      "chainId": 80002,
+      "address": "0xABCDEF0b3415cC2daE6b3A3c4Fd3FC58626bE16E",
+      "name": "Test",
+      "standard": "erc721",
+      "symbol": "TEST",
+      "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-icon.png",
+      "extensions": {
+        "link": "https://darkearth.gg/",
+        "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
+        "categories": ["gaming", "art", "defi", "reward", "fantasy", "strategy", "p2e"],
+        "ogImage": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-banner.png"
+      }
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}

@@ -14,7 +14,8 @@
     "amoy": {
       "chainId": 80002,
       "tokenLists": {
-        "erc20.json": "00cb932821e58384b7065fd9b75890e4a9f341d8fc399b6744ad4bbd16e11b36"
+        "erc20.json": "030fa623997044599ec4e539a76693eab245f16212724ac8957aa53c7e6839a9",
+        "erc721.json": "6a0c3872100ba8de21e4f5a819b1c1fc0bcfbe52ee1b2c40daffd1c9e70b0672"
       }
     },
     "apechain": {
