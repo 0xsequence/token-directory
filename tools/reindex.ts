@@ -172,7 +172,7 @@ function generateIndex() {
   
   // Get the list of deprecated paths
   const deprecatedPaths = getDeprecatedPaths(indexDir);
-  console.log(`Found ${deprecatedPaths.length} deprecated paths to mark as deprecated`);
+  // console.log(`Found ${deprecatedPaths.length} deprecated paths to mark as deprecated`);
   
   // Generate the index structure
   const indexStructure = processDirectory(indexDir, deprecatedPaths);
