@@ -49,6 +49,22 @@
       "extensions": {
         "categories": ["gaming", "simulation", "sports", "tcg"]
       }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x66efaf92df6456c3cb810012b2de3fb223c25d0d",
+      "name": "Ubisoft - Niji Warrior",
+      "standard": "erc721",
+      "symbol": "",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x66efaf92df6456c3cb810012b2de3fb223c25d0d.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "Buy, sell, and trade minted in-game items and NFT collections. Exclusive. Ruthless. Yours - If You've Earned It.",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x66efaf92df6456c3cb810012b2de3fb223c25d0d.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }

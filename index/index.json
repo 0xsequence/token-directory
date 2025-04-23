@@ -28,7 +28,7 @@
       "tokenLists": {
         "erc1155.json": "303b613d3d66e725cc2d7a9daec17b28ca5b50cdbfed56ce88aba9fe851a91aa",
         "erc20.json": "734b9da61c499f0e4602eba906bda522b583abac8d1f558afb081f0cab3ff9fa",
-        "erc721.json": "5338881691a70993118418cf276a3ef08b0b8977bffae1129083f9eb6d2d9e07",
+        "erc721.json": "c46e6bcbcb651376c06a8eb1c077f162bbf64e1b50bc9beda099f757c79baa41",
         "misc.json": "c422af49e57ae6275fd2fb13e0185b9f973eb266f90625f09ebe7b4f1058a8ec"
       }
     },
