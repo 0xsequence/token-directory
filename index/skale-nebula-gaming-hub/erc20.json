@@ -1,0 +1,53 @@
+{
+  "name": "sequence-erc20-skale-nebula-gaming-hub",
+  "chainId": 1482601649,
+  "tokenStandard": "erc20",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "timestamp": "2021-12-08T19:03:47.288Z",
+  "tokens": [
+    {
+      "chainId": 1482601649,
+      "address": "0xcc205196288b7a26f6d43bbd68aaa98dde97276d",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+    },
+    {
+      "chainId": 1482601649,
+      "address": "0xab01bad2c86e24d371a13ed6367bdca819589c5d",
+      "name": "Ethereum",
+      "type": "erc20",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 1482601649,
+      "address": "0x7f73b66d4e6e67bcdeaf277b9962addcdabbfc4d",
+      "name": "SKALE",
+      "type": "erc20",
+      "symbol": "SKL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13245/standard/SKALE_token_300x300.png?1696513021"
+    },
+    {
+      "chainId": 1482601649,
+      "address": "0x932427e1f1ea096e2bb05c7de937d083ddb8ff83",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+    },
+    {
+      "chainId": 1482601649,
+      "address": "0x64d2eeba8b02f2ab19e2238f1655a8409db64817",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
