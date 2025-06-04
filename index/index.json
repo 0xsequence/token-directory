@@ -4,11 +4,11 @@
     "_external": {
       "chainId": 0,
       "tokenLists": {
-        "1-uniswap.json": "322028085aea76523700e23016113da6b80da8915dbf90f48144351e6d62fea1",
+        "1-uniswap.json": "a548932ed41638614a7f4ecb99ad07ebaeedb755f672ef08caaf5a61ae632bfc",
         "2-sushiswap.json": "b871b728c4c7b8c2cc987c41238d43188c6936da3cd69615eb9a013f820a99d3",
-        "3-coingecko.json": "b9bc9410adba20611a32a5b53faf313747a00a5245aecd3ca9f6dc8b94a1a1e3",
+        "3-coingecko.json": "694318a2986afd152bf0562473c1a13a69dd9e4364bba3676411533bb4e00a86",
         "4-pancakeswap-default.json": "d35bdd7bbc4db9baa4ff25c2a018aef99e67a40592aee94a3f5992cd92a7ced2",
-        "5-pancakeswap-extended.json": "4585fb956fcd46b87814c5ad174146c24afc90dff12800f1bb9acd09514f5c26"
+        "5-pancakeswap-extended.json": "dae0393f0850c741dfa76b2692825fa32a228dce0042f48b080d280cded7fca7"
       }
     },
     "amoy": {
@@ -233,6 +233,24 @@
         "erc20.json": "9a2f44550068890450dfc875d62035bca90db359d891feae4c8926e52decfc1f",
         "erc721.json": "d202da2ff8d75608b76c94670cb86b6f724439267dca075494e69e781d08fa2c",
         "misc.json": "8e943cb229329f1d47860e17f550eb645ed34392fda0e5edd5e659c4fd2c6d8c"
+      }
+    },
+    "skale-nebula-gaming-hub": {
+      "chainId": 1482601649,
+      "tokenLists": {
+        "erc1155.json": "b8fab64c8f77a94e648aba4915528fffc5309cbbec77a080f5dbc76dcdb0b629",
+        "erc20.json": "e7653079073e1ee7d286260af20a5d836b14746e17f9d2e9680b2260502dcc1f",
+        "erc721.json": "a2e6e73d5940749265aa3f3ca1aeefa784020192916f56bb175fb1e91e30951c",
+        "misc.json": "743c3762d3f9c41287aad12baed71061f0f88de10b42a040f658c5051110c6c8"
+      }
+    },
+    "skale-nebula-gaming-hub-testnet": {
+      "chainId": 37084624,
+      "tokenLists": {
+        "erc1155.json": "3c3c68cd385bf2215dea31737aca315aa662ea1966d2f823ad1ec2d68b0a312d",
+        "erc20.json": "87862a4f20286d2ae86ba13fa7bc95d3d6cd9f40b00045ad988dc7bef2da0530",
+        "erc721.json": "2724dff3a2a5b8e6fcdb3afea08610edcef82e3843a07b79cef872c8a17cfc2b",
+        "misc.json": "111900f96b82306e3fbdfb868829557caec98caf0ad2713c72496a7f9b03ba8e"
       }
     }
   }
