@@ -65,6 +65,166 @@
         "originChainId": 42161,
         "originAddress": null
       }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x68451b293201003dc337dd94da70f0d68e8ffd8c",
+      "name": "sNOOOO!",
+      "standard": "erc721",
+      "symbol": "B1R9",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x68451b293201003dc337dd94da70f0d68e8ffd8c.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x68451b293201003dc337dd94da70f0d68e8ffd8c.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x06c74826119f7556d1d8ce1e8b46ac8f3c269b2c",
+      "name": "2025!",
+      "standard": "erc721",
+      "symbol": "B1R1",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x06c74826119f7556d1d8ce1e8b46ac8f3c269b2c.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x06c74826119f7556d1d8ce1e8b46ac8f3c269b2c.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe114c443dd93199e2423d85497fed58b54f86966",
+      "name": "Elf Laserhawk",
+      "standard": "erc721",
+      "symbol": "B1R15",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0xe114c443dd93199e2423d85497fed58b54f86966.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0xe114c443dd93199e2423d85497fed58b54f86966.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x1642cbb1e44bd44c1a8606730a9a8b71b7e7b7cf",
+      "name": "Bullfrog Claus",
+      "standard": "erc721",
+      "symbol": "B1R8",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x1642cbb1e44bd44c1a8606730a9a8b71b7e7b7cf.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x1642cbb1e44bd44c1a8606730a9a8b71b7e7b7cf.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x527ead3f677f9c0de947eea3f1bd980f50035d08",
+      "name": "Green",
+      "standard": "erc721",
+      "symbol": "B1R8",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x527ead3f677f9c0de947eea3f1bd980f50035d08.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x527ead3f677f9c0de947eea3f1bd980f50035d08.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x995d4cb4d889aa41ea7967b109c9f129694d5b96",
+      "name": "Eden's Greetings",
+      "standard": "erc721",
+      "symbol": "B1R6",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x995d4cb4d889aa41ea7967b109c9f129694d5b96.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x995d4cb4d889aa41ea7967b109c9f129694d5b96.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xd28e158bf40db51b03666d1f8eb9dd36c227f870",
+      "name": "Alpha",
+      "standard": "erc721",
+      "symbol": "B1R4",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0xd28e158bf40db51b03666d1f8eb9dd36c227f870.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0xd28e158bf40db51b03666d1f8eb9dd36c227f870.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x839274b557d54bfe448469064e830f3e6a311176",
+      "name": "Green Blood",
+      "standard": "erc721",
+      "symbol": "B1R2",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x839274b557d54bfe448469064e830f3e6a311176.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x839274b557d54bfe448469064e830f3e6a311176.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x78c6462fa04203b7b20fdfcbb3d09fa2a871fa18",
+      "name": "Red Laser Gun",
+      "standard": "erc721",
+      "symbol": "B1R5",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x78c6462fa04203b7b20fdfcbb3d09fa2a871fa18.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x78c6462fa04203b7b20fdfcbb3d09fa2a871fa18.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4bfa0cd16118825c54d61cd2ee978a7a1074933e",
+      "name": "Santa Alex",
+      "standard": "erc721",
+      "symbol": "B1R16",
+      "logoURI": "https://assets.sequence.info/images/collections/42161/0x4bfa0cd16118825c54d61cd2ee978a7a1074933e.webp",
+      "extensions": {
+        "link": "https://edenonline.ubisoft.com",
+        "description": "The Battle Pass Rewards from the Eden Online's Captain Laserhawk: The Game.\\n\\nLearn more at: [https://edenonline.ubisoft.com/](https://edenonline.ubisoft.com/)",
+        "categories": ["gaming"],
+        "ogImage": "https://assets.sequence.info/images/collections/42161/0x4bfa0cd16118825c54d61cd2ee978a7a1074933e.webp",
+        "originChainId": 42161,
+        "originAddress": null
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
