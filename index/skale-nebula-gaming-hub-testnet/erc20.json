@@ -1,0 +1,37 @@
+{
+  "name": "sequence-erc20-skale-nebula-gaming-hub-testnet",
+  "chainId": 37084624,
+  "tokenStandard": "erc20",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "timestamp": "2021-12-08T19:03:47.288Z",
+  "tokens": [
+    {
+      "chainId": 37084624,
+      "address": "0x5eaf4e5a908ba87abf3de768cb0da517db45db48",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+    },
+    {
+      "chainId": 37084624,
+      "address": "0x319f0eeb1a1e59943ebe44f766dbb592db664cf0",
+      "name": "Ethereum",
+      "type": "erc20",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 37084624,
+      "address": "0x2bc6d8180337477892a07a2c001a2cab4f5db5c9",
+      "name": "Metaverser",
+      "type": "erc20",
+      "symbol": "MTVT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27472/standard/s4Ce6y1r_400x400.jpeg?1696526511"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}

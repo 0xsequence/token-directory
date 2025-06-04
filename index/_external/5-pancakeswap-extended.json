@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-04T16:31:02.188Z",
+  "timestamp": "2025-06-03T09:55:36.966Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 340
+    "patch": 392
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -2653,8 +2653,8 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x4aae823a6a0b376De6A78e74eCC5b079d38cBCf7.png"
     },
     {
-      "name": "SolvBTC Babylon",
-      "symbol": "SolvBTC.BBN",
+      "name": "xSolvBTC",
+      "symbol": "xSolvBTC",
       "address": "0x1346b618dC92810EC74163e4c27004c921D446a5",
       "chainId": 56,
       "decimals": 18,
@@ -4027,6 +4027,446 @@
       "decimals": 18,
       "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "FHE",
+      "name": "MindNetwork FHE Token",
+      "decimals": 18,
+      "address": "0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "USD1",
+      "name": "World Liberty Financial USD",
+      "decimals": 18,
+      "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "decimals": 9,
+      "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xfb5B838b6cfEEdC2873aB27866079AC55363D37E.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BUBB",
+      "name": "Bubb",
+      "decimals": 18,
+      "address": "0xd5369a3CaC0f4448A9A96bb98AF9c887c92fC37B",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xd5369a3CaC0f4448A9A96bb98AF9c887c92fC37B.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "FAIR3",
+      "name": "Fair and Free",
+      "decimals": 18,
+      "address": "0x6952c5408b9822295ba4a7e694d0C5FfDB8fE320",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6952c5408b9822295ba4a7e694d0C5FfDB8fE320.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BANK",
+      "name": "Lorenzo Governance Token",
+      "decimals": 18,
+      "address": "0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "USR",
+      "name": "Resolv USD",
+      "decimals": 18,
+      "address": "0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "HYPER",
+      "name": "Hyperlane",
+      "decimals": 18,
+      "address": "0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SKYAI",
+      "name": "SKYAI",
+      "decimals": 18,
+      "address": "0x92aa03137385F18539301349dcfC9EbC923fFb10",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x92aa03137385F18539301349dcfC9EbC923fFb10.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "EPT",
+      "name": "Balance",
+      "decimals": 18,
+      "address": "0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "AIOT",
+      "name": "OKZOO",
+      "decimals": 18,
+      "address": "0x55ad16Bd573B3365f43A9dAeB0Cc66A73821b4a5",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x55ad16Bd573B3365f43A9dAeB0Cc66A73821b4a5.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SIGN",
+      "name": "Sign",
+      "decimals": 18,
+      "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x868FCEd65edBF0056c4163515dD840e9f287A4c3.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "MILK",
+      "name": "MilkyWay",
+      "decimals": 6,
+      "address": "0x7b4Bf9fEcCfF207eF2CB7101Ceb15b8516021AcD",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x7b4Bf9fEcCfF207eF2CB7101Ceb15b8516021AcD.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "HAEDAL",
+      "name": "Haedal",
+      "decimals": 9,
+      "address": "0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "B2",
+      "name": "BSquared Token",
+      "decimals": 18,
+      "address": "0x783c3f003f172c6Ac5AC700218a357d2D66Ee2a2",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x783c3f003f172c6Ac5AC700218a357d2D66Ee2a2.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "CAMILLE",
+      "name": "Camille",
+      "decimals": 18,
+      "address": "0x1a5f096d6D4F0Da25f2df00279cFf615c7F856fc",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x1a5f096d6D4F0Da25f2df00279cFf615c7F856fc.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "MYX",
+      "name": "MYX",
+      "decimals": 18,
+      "address": "0xD82544bf0dfe8385eF8FA34D67e6e4940CC63e16",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xD82544bf0dfe8385eF8FA34D67e6e4940CC63e16.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "FORM",
+      "name": "FORM Token",
+      "decimals": 18,
+      "address": "0x5b73A93b4E5e4f1FD27D8b3F8C97D69908b5E284",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5b73A93b4E5e4f1FD27D8b3F8C97D69908b5E284.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "DONKEY",
+      "name": "donkey",
+      "decimals": 18,
+      "address": "0xA49fA5E8106E2d6d6a69E78df9B6A20AaB9c4444",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xA49fA5E8106E2d6d6a69E78df9B6A20AaB9c4444.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "PUFFER",
+      "name": "PUFFER",
+      "decimals": 18,
+      "address": "0x87d00066cf131ff54B72B134a217D5401E5392b6",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x87d00066cf131ff54B72B134a217D5401E5392b6.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "PRAI",
+      "name": "Privasea AI",
+      "decimals": 18,
+      "address": "0x899357E54C2c4b014ea50A9A7Bf140bA6Df2eC73",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x899357E54C2c4b014ea50A9A7Bf140bA6Df2eC73.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "NXPC",
+      "name": "NXPC",
+      "decimals": 18,
+      "address": "0xf2b51CC1850fEd939658317a22d73d3482767591",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xf2b51CC1850fEd939658317a22d73d3482767591.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "AGT",
+      "name": "Alaya Governance Token",
+      "decimals": 18,
+      "address": "0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "REX",
+      "name": "REX",
+      "decimals": 18,
+      "address": "0x90869b3a42E399951bd5F5fF278B8CC5ee1Dc0fE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x90869b3a42E399951bd5F5fF278B8CC5ee1Dc0fE.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "B",
+      "name": "B",
+      "decimals": 18,
+      "address": "0x6bdcCe4A559076e37755a78Ce0c06214E59e4444",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6bdcCe4A559076e37755a78Ce0c06214E59e4444.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ZK",
+      "name": "Polyhedra Network",
+      "decimals": 18,
+      "address": "0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "DUSD",
+      "name": "StandX DUSD",
+      "decimals": 6,
+      "address": "0xaf44A1E76F56eE12ADBB7ba8acD3CbD474888122",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xaf44A1E76F56eE12ADBB7ba8acD3CbD474888122.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "RWA",
+      "name": "Allo",
+      "decimals": 18,
+      "address": "0x9C8B5CA345247396bDfAc0395638ca9045C6586E",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9C8B5CA345247396bDfAc0395638ca9045C6586E.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "CA",
+      "name": "Caila",
+      "decimals": 18,
+      "address": "0x74da4c5F8C254dd4Fb39F9804C0924F52a808318",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x74da4c5F8C254dd4Fb39F9804C0924F52a808318.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SOON",
+      "name": "SOON Token",
+      "decimals": 18,
+      "address": "0xb9E1Fd5A02D3A33b25a14d661414E6ED6954a721",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb9E1Fd5A02D3A33b25a14d661414E6ED6954a721.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "HODL",
+      "name": "HODL",
+      "decimals": 18,
+      "address": "0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "PUNDIAI",
+      "name": "Pundi AI",
+      "decimals": 18,
+      "address": "0x67AA700Ab0110Cc52bf7F308fe25068E87a0f581",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x67AA700Ab0110Cc52bf7F308fe25068E87a0f581.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ELDE",
+      "name": "Elderglade",
+      "decimals": 18,
+      "address": "0x799a290F9CC4085a0ce5b42b5F2C30193A7a872B",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x799a290F9CC4085a0ce5b42b5F2C30193A7a872B.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "PERRY",
+      "name": "Perry",
+      "decimals": 18,
+      "address": "0x5043F271095350c5ac7db2384A0d9337E27c1055",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5043F271095350c5ac7db2384A0d9337E27c1055.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "TAIKO",
+      "name": "Taiko Token",
+      "decimals": 18,
+      "address": "0x30C60b20C25b2810cA524810467A0c342294FC61",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x30C60b20C25b2810cA524810467A0c342294FC61.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "PORT3",
+      "name": "Port3 Network",
+      "decimals": 18,
+      "address": "0xb4357054c3dA8D46eD642383F03139aC7f090343",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb4357054c3dA8D46eD642383F03139aC7f090343.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "KOGE",
+      "name": "BNB48 Club Token",
+      "decimals": 18,
+      "address": "0xe6DF05CE8C8301223373CF5B969AFCb1498c5528",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xe6DF05CE8C8301223373CF5B969AFCb1498c5528.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ZRC",
+      "name": "Zircuit",
+      "decimals": 18,
+      "address": "0xDaC991621fd8048D9f235324780ABD6c3aD26421",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xDaC991621fd8048D9f235324780ABD6c3aD26421.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SOPH",
+      "name": "Sophon",
+      "decimals": 18,
+      "address": "0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "RDO",
+      "name": "RDO Token",
+      "decimals": 18,
+      "address": "0xd86E6ef14b96D942eF0AbF0720C549197EA8c528",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xd86E6ef14b96D942eF0AbF0720C549197EA8c528.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ASRR",
+      "name": "Assisterr AI",
+      "decimals": 9,
+      "address": "0xf7626c7FF7B778AAF187d508d056a9398d9545D1",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xf7626c7FF7B778AAF187d508d056a9398d9545D1.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "FUEL",
+      "name": "FUEL",
+      "decimals": 9,
+      "address": "0x5c8daEabc57E9249606D3bD6d1E097eF492eA3C5",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5c8daEabc57E9249606D3bD6d1E097eF492eA3C5.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SQD",
+      "name": "Subsquid",
+      "decimals": 18,
+      "address": "0xe50E3d1A46070444F44df911359033F2937fcC13",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xe50E3d1A46070444F44df911359033F2937fcC13.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "EDGEN",
+      "name": "LayerEdge",
+      "decimals": 18,
+      "address": "0x0C808F0464C423d5Ea4F4454fcc23B6E2Ae75562",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0C808F0464C423d5Ea4F4454fcc23B6E2Ae75562.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "F",
+      "name": "SynFutures",
+      "decimals": 18,
+      "address": "0xc9cCbd76c2353e593Cc975F13295e8289d04D3Bb",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xc9cCbd76c2353e593Cc975F13295e8289d04D3Bb.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "C",
+      "name": "CROAK",
+      "decimals": 18,
+      "address": "0xEEf8E84e72fa65F4dd101231DAcB322De8064444",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xEEf8E84e72fa65F4dd101231DAcB322De8064444.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "OBT",
+      "name": "Orbiter Token",
+      "decimals": 18,
+      "address": "0xCeF5B397051Fc92026249670e918C0aD7B8585E4",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xCeF5B397051Fc92026249670e918C0aD7B8585E4.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "TGT",
+      "name": "TGT",
+      "decimals": 18,
+      "address": "0x6c58E4a513D3A8062E57f41a1442e003aF14eBb5",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6c58E4a513D3A8062E57f41a1442e003aF14eBb5.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "DOOD",
+      "name": "Doodles",
+      "decimals": 18,
+      "address": "0x722294F6c97102fB0DDb5b907c8d16BDEAB3f6D9",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x722294F6c97102fB0DDb5b907c8d16BDEAB3f6D9.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "gorilla",
+      "name": "gorilla",
+      "decimals": 18,
+      "address": "0xcF640FDF9b3d9E45cbd69fDA91D7e22579c14444",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xcF640FDF9b3d9E45cbd69fDA91D7e22579c14444.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "Jager",
+      "name": "Jager Hunter",
+      "decimals": 18,
+      "address": "0x74836cC0E821A6bE18e407E6388E430B689C66e9",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x74836cC0E821A6bE18e407E6388E430B689C66e9.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BOOP",
+      "name": "BOOP",
+      "decimals": 18,
+      "address": "0x9A70815DFB644a24B57358E1041F8d0324c8f6e1",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9A70815DFB644a24B57358E1041F8d0324c8f6e1.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "GM",
+      "name": "GOMBLE",
+      "decimals": 18,
+      "address": "0xd8002d4bd1d50136A731c141e3206D516E6D3b3d",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xd8002d4bd1d50136A731c141e3206D516E6D3b3d.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "quq",
+      "name": "quq",
+      "decimals": 18,
+      "address": "0x4fa7C69a7B69f8Bc48233024D546bc299d6B03bf",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x4fa7C69a7B69f8Bc48233024D546bc299d6B03bf.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "AAVE",
+      "name": "Aave Token",
+      "decimals": 18,
+      "address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xfb6115445Bff7b52FeB98650C87f44907E58f802.png"
     }
   ]
 }
