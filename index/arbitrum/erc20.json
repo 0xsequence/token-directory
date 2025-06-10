@@ -109,6 +109,18 @@
         "description": "Guardian is for purpose driven companies and projects building and contributing to the web3 economy.",
         "categories": ["governance", "protocol", "defi", "access"]
       }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16547/standard/arb.jpg",
+      "extensions": {
+        "link": "https://docs.arbitrum.foundation/deployment-addresses",
+        "description": "$ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to shape Arbitrum's future together."
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }

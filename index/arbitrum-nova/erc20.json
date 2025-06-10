@@ -54,6 +54,18 @@
         "originChainId": 1,
         "originAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
       }
+    },
+    {
+      "chainId": 42170,
+      "address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16547/standard/arb.jpg",
+      "extensions": {
+        "link": "https://docs.arbitrum.foundation/deployment-addresses",
+        "description": "$ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to shape Arbitrum's future together."
+      }
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
