@@ -42,6 +42,14 @@
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.webp"
+        },
+        {
+            "chainId": 747474,
+            "address": "0x80c34BD3A3569E126e7055831036aa7b212cB159",
+            "name": "vbUSDC yVault",
+            "symbol": "yvvbUSDC",
+            "decimals": 6,
+            "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp"
         }
     ],
     "version": {
