@@ -1,0 +1,60 @@
+{
+    "name": "sequence-erc20-katana",
+    "chainId": 747474,
+    "tokenStandard": "erc20",
+    "logoURI": "",
+    "keywords": [
+        "erc20",
+        "fungible",
+        "stablecoin",
+        "coingecko"
+    ],
+    "timestamp": "2025-09-01T00:00:00.000Z",
+    "tokens": [
+        {
+            "chainId": 747474,
+            "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+            "name": "Vault Bridge ETH",
+            "symbol": "wETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/39723/large/WETH.PNG?1723733967"
+        },
+        {
+            "chainId": 747474,
+            "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+            "name": "Vault Bridge USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp"
+        },
+        {
+            "chainId": 747474,
+            "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+            "name": "Vault Bridge USDT",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xdac17f958d2ee523a2206206994597c13d831ec7.webp"
+        },
+        {
+            "chainId": 747474,
+            "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+            "name": "Vault Bridge WBTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.webp"
+        },
+        {
+            "chainId": 747474,
+            "address": "0x80c34BD3A3569E126e7055831036aa7b212cB159",
+            "name": "vbUSDC yVault",
+            "symbol": "yvvbUSDC",
+            "decimals": 6,
+            "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
