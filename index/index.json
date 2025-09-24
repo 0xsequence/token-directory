@@ -161,11 +161,17 @@
         "misc.json": "0b25dc3ea49c8f217a83e381a2c38a9875cb3fda6f49621f10cdb1abbff5bcff"
       }
     },
+    "katana": {
+      "chainId": 747474,
+      "tokenLists": {
+        "erc20.json": "a9392c532680828b34852f8604938cf442b8ff5af12b456e941d70039eca07f3"
+      }
+    },
     "mainnet": {
       "chainId": 1,
       "tokenLists": {
         "erc1155.json": "fcf9839d83d05187f03cfc6ef1278c02828e5f415d65c57725954b61685a8e18",
-        "erc20.json": "23511cbc9c2ef9e96a756eb56e55d8f61c915514f1f59c53ed6ea70d4192f3bd",
+        "erc20.json": "d7a3f9dbaadf211d7e411d327a28565f97181e1dfecc6dd864e78f0b4f142f30",
         "erc721.json": "e14bd87d3814aaa9928352298dfc4efe90cc12111c14ac2ce47ecf9b27f361ab",
         "misc.json": "f98a5ccf5fa208e0861c020ad16b44adfafff42d8f359fa94e6701a7397b1e92"
       }
@@ -224,6 +230,12 @@
         "erc20.json": "709593d5b9ce49bd67d2aafce89218b08be78ff221a4f8d86d0a594a025f1a7f",
         "erc721.json": "a358c70f620e4fac608da34aaa0d59bff326b5df7d407e7faf538f6a5058f7cf",
         "misc.json": "b8853f0471b8aba265f1353a26480efc315a55931c09c4e60d19cb71fe75f9d0"
+      }
+    },
+    "sandbox-testnet": {
+      "chainId": 6252,
+      "tokenLists": {
+        "erc20.json": "9fee98b571dc131d010f8f9e3300c5b595737c9fd8907e79e5607531edf9ff26"
       }
     },
     "sepolia": {
