@@ -6,6 +6,15 @@
   "keywords": ["erc721", "arbitrum-nova"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 42170,
+      "address": "0x0d402c63cae0200f0723b3e6fa0914627a48462e",
+      "name": "WaaSDemoItem",
+      "type": "ERC721",
+      "symbol": "WDI",
+      "logoURI": "https://dev-metadata.sequence.app/projects/277/collections/62/tokens/0/image.jpeg",
+      "extensions": { "link": null, "description": null, "ogImage": null }
+    }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": { "major": 1, "minor": 1, "patch": 0 }
 }
