@@ -38,7 +38,7 @@
       "tokenLists": {
         "erc1155.json": "9b7efd7f894a8a4f468074173d016ae9c2f77fdc9f2d0d9fbe181822e705a11f",
         "erc20.json": "f718ae470f1fb411601cdbf771c9f47f59bcc59538700e72035069411d8e60f9",
-        "erc721.json": "22c828c6e20b504c5ecf498990db06989591228c214c4a6078d3838cf6cc0346",
+        "erc721.json": "6250a319c3096f558abb263db6e3ca83a761b9918abdc6e23e0c13bc8c588c74",
         "misc.json": "2980480d7aef74ca236e92c44389a94ee1455072dd51a7eeb775df02b9cbe50b"
       }
     },
@@ -47,7 +47,7 @@
       "tokenLists": {
         "erc1155.json": "c15eab761a858a7fb8e287a3e4f266278e2bedc03a4dae395d3efafd97f1da06",
         "erc20.json": "167831ac15186eeb452fef60bc3d52341d6530c37f1030a2ad643747c0da4f2d",
-        "erc721.json": "1e30cf389cf7500b0ea15e528a1f53a61d2ce7a62e9f08cda52e77bd6c02a69f",
+        "erc721.json": "f2ce5370cbefc09995e58e8ac42b58c61ec1e89f7b5306c4b3e882a3820c88da",
         "misc.json": "6358c1951097cb9698ea216b781e03a9ea06aecef4afa76ea0ac4984ababa4b7"
       }
     },
@@ -132,6 +132,12 @@
         "erc20.json": "040db6baa798c7fc7e939a4a8eaff793e14c36de9ea491e733d4006abdbe6fa0",
         "erc721.json": "3771aedbe59f6b42d5adf09a4ed6839978b5498717ee5028c0b0828e81deecb1",
         "misc.json": "98730eedffc5471b79a038915a7834f3d78c26d4b43ed97d000e92a8fea0fb16"
+      }
+    },
+    "etherlink": {
+      "chainId": 42793,
+      "tokenLists": {
+        "erc20.json": "36ef80ab50948bef5388ff9f86ed518b418969f26d4d0cadd0ed95ef343d8292"
       }
     },
     "gnosis": {

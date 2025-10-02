@@ -1,0 +1,27 @@
+{
+  "name": "sequence-erc20-etherlink",
+  "chainId": 42793,
+  "tokenStandard": "erc20",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "timestamp": "2025-04-07T15:36:16.623Z",
+  "tokens": [
+    {
+      "chainId": 42793,
+      "address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/standard/WXTZ_Logo_Black.png"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
