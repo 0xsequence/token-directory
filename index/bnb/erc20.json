@@ -89,7 +89,7 @@
     {
       "chainId": 56,
       "address": "0x55d398326f99059fF775485246999027B3197955",
-      "name": "BNB-USD",
+      "name": "Binance-Peg BSC-USD",
       "symbol": "BNB-USD",
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/busdt_32.png",
@@ -185,7 +185,7 @@
     {
       "chainId": 56,
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      "name": "BUSD",
+      "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/busd_32_2.png",
