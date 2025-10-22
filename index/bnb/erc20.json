@@ -89,10 +89,10 @@
     {
       "chainId": 56,
       "address": "0x55d398326f99059fF775485246999027B3197955",
-      "name": "Binance-Peg BSC-USD",
-      "symbol": "BNB-USD",
+      "name": "USDT",
+      "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/busdt_32.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/35021/standard/USDT.png?1707233575",
       "extensions": {
         "link": "https://www.binance.com/en/trade/BNB_USDT",
         "description": "A pegged token by Binance which gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
@@ -185,10 +185,10 @@
     {
       "chainId": 56,
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      "name": "Binance-Peg BUSD Token",
+      "name": "BUSD",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/busd_32_2.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/31273/standard/new_binance-peg-busd.png?1696530096",
       "extensions": {
         "link": "https://www.paxos.com/busd/",
         "description": "BUSD is a 1:1 USD-backed stablecoin approved by the New York State Department of Financial Services (NYDFS), issued in partnership with Paxos.",
