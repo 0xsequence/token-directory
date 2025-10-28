@@ -1,0 +1,27 @@
+{
+  "name": "sequence-erc20-arc-testnet",
+  "chainId": 5042002,
+  "tokenStandard": "erc20",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "timestamp": "2025-10-28T15:36:16.623Z",
+  "tokens": [
+    {
+      "chainId": 5042002,
+      "address": "0x3600000000000000000000000000000000000000",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 5042002,
+      "address": "0x89B50855Aa3bE2F677cD6303Cec089B5F319D72a",
+      "name": "EURC",
+      "symbol": "EURC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}

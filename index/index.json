@@ -51,6 +51,12 @@
         "misc.json": "6358c1951097cb9698ea216b781e03a9ea06aecef4afa76ea0ac4984ababa4b7"
       }
     },
+    "arc-testnet": {
+      "chainId": 5042002,
+      "tokenLists": {
+        "erc20.json": "556b70c7e2b902da1fa6cf14acfef0ae7be84844f104b3747c9b5bcdaaebc541"
+      }
+    },
     "astar-zkevm": {
       "deprecated": true,
       "chainId": 3776,
@@ -120,7 +126,7 @@
       "chainId": 56,
       "tokenLists": {
         "erc1155.json": "28043748f0e1390007a2aaedcc90b0080ed20868c0ace50dec43ffe3428cd10c",
-        "erc20.json": "9d6276f53187502afc8d971afdcc6557cf080bb4a88db5426453b9861389ca05",
+        "erc20.json": "dcb409fb6c8d65b8fb7638ae2a8d7edde2199525608dd888fb15df791b2eaa64",
         "erc721.json": "5c718e78766bf16d0219e5544e0430e1f9b5347a8771384c7d4f7edc27fd37e3",
         "misc.json": "a20390d029418b4ff5ec02ed493ed5b1ccdff41e89b7c7aec9d79bf789ec9075"
       }
