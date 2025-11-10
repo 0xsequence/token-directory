@@ -4,11 +4,11 @@
     "_external": {
       "chainId": 0,
       "tokenLists": {
-        "1-uniswap.json": "a548932ed41638614a7f4ecb99ad07ebaeedb755f672ef08caaf5a61ae632bfc",
+        "1-uniswap.json": "a96d8e098034afc56d87ea410955a77bd37e6e8cfcdadfaa3dfb60e17898f542",
         "2-sushiswap.json": "b871b728c4c7b8c2cc987c41238d43188c6936da3cd69615eb9a013f820a99d3",
-        "3-coingecko.json": "694318a2986afd152bf0562473c1a13a69dd9e4364bba3676411533bb4e00a86",
+        "3-coingecko.json": "c24d392d463a0d931bc891d0b1d6bda8b283c46272e8d673fe1d85c6664a4d64",
         "4-pancakeswap-default.json": "d35bdd7bbc4db9baa4ff25c2a018aef99e67a40592aee94a3f5992cd92a7ced2",
-        "5-pancakeswap-extended.json": "dae0393f0850c741dfa76b2692825fa32a228dce0042f48b080d280cded7fca7"
+        "5-pancakeswap-extended.json": "4b98cea67175461944c38c12de15afcfa2d1b92442dd6a31c2d5802ca04bc326"
       }
     },
     "amoy": {
