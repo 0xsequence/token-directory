@@ -50,8 +50,152 @@
             "symbol": "yvvbUSDC",
             "decimals": 6,
             "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp"
-        }
-    ],
+        },
+        {
+          "chainId": 747474,
+          "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+          "name": "Katana Network Token",
+          "symbol": "KAT",
+          "decimals": 18,
+          "logoURI": "https://assets.katana.network/icons/kat.svg"
+        },
+        {
+          "chainId": 747474,
+          "address": "0x62D6A123E8D19d06d68cf0d2294F9A3A0362c6b3",
+          "name": "Vault Bridge USDS",
+          "symbol": "USDS",
+          "decimals": 18,
+          "logoURI": "https://assets.katana.network/icons/usds.svg"
+     },
+     {
+          "chainId": 747474,
+          "address": "0x62D6A123E8D19d06d68cf0d2294F9A3A0362c6b3",
+          "name": "Vault Bridge USDS",
+          "symbol": "USDS",
+          "decimals": 18,
+          "logoURI": "https://assets.katana.network/icons/usds.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "name": "Agora Dollar",
+      "symbol": "AUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.katana.network/icons/ausd.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.katana.network/icons/lbtc.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+      "name": "Bitcoin on Katana",
+      "symbol": "BTCK",
+      "decimals": 8,
+      "logoURI": "https://assets.katana.network/icons/btck.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x6C16E26013f2431e8B2e1Ba7067ECCcad0Db6C52",
+      "name": "Jito Staked SOL",
+      "symbol": "JitoSOL",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/jitosol.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
+      "name": "Solana (Universal)",
+      "symbol": "uSOL",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/usol.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4",
+      "name": "SUI (Universal)",
+      "symbol": "uSUI",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/usui.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+      "name": "XRP (Universal)",
+      "symbol": "uXRP",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/uxrp.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x1e5eFCA3D0dB2c6d5C67a4491845c43253eB9e4e",
+      "name": "Bridge-wrapped MORPHO",
+      "symbol": "MORPHO",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/morpho.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xb24e3035d1FCBC0E43CF3143C3Fd92E53df2009b",
+      "name": "Bridge-wrapped POL",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/pol.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x17BFF452dae47e07CeA877Ff0E1aba17eB62b0aB",
+      "name": "Bridge-wrapped SUSHI",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/sushi.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x476eaCd417cD65421bD34fca054377658BB5E02b",
+      "name": "Bridge-wrapped Yearn Finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/yearn.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x9893989433e7a383Cb313953e4c2365107dc19a7",
+      "name": "Bridge-wrapped weETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/weeth.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x7Fb4D0f51544F24F385a421Db6e7D4fC71Ad8e5C",
+      "name": "Bridge-wrapped wstETH",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/wsteth.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x876aac7648d79f87245e73316eb2d100e75f3df1",
+      "name": "BitVault USD",
+      "symbol": "bvUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/bvusd.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xb244Add9FE6cB17558221e4Dfea960e680CCD29b",
+      "name": "Bridge-wrapped Succinct",
+      "symbol": "PROVE",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/prove.svg"
+    }
+],
     "version": {
         "major": 1,
         "minor": 0,
