@@ -21,6 +21,10 @@
     {
       "name": "pancakeswap-extended",
       "url": "https://tokens.pancakeswap.finance/pancakeswap-extended.json"
+    },
+    {
+      "name": "katana",
+      "url": "https://raw.githubusercontent.com/katana-network/tokenlist/refs/heads/main/tokenlist.json"
     }
   ]
 }

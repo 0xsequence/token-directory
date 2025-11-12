@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-10T09:27:31.876Z",
+  "timestamp": "2025-11-12T17:24:04.180Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 644
+    "patch": 647
   },
   "tokens": [
     {
@@ -6638,6 +6638,30 @@
       "address": "0xea17Df5Cf6D172224892B5477A16ACb111182478",
       "decimals": 9,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xea17Df5Cf6D172224892B5477A16ACb111182478.png"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "chainId": 56,
+      "symbol": "PENGU",
+      "address": "0x6418c0dd099a9FDA397C766304CDd918233E8847",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6418c0dd099a9FDA397C766304CDd918233E8847.png"
+    },
+    {
+      "name": "Showdown",
+      "chainId": 56,
+      "symbol": "SHOW",
+      "address": "0xe07aF2A3bC75d888EAD2E67176fFe54DC9b1C7b5",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xe07aF2A3bC75d888EAD2E67176fFe54DC9b1C7b5.png"
+    },
+    {
+      "name": "Midas XRP",
+      "chainId": 56,
+      "symbol": "mXRP",
+      "address": "0xc8739fbBd54C587a2ad43b50CbcC30ae34FE9e34",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xc8739fbBd54C587a2ad43b50CbcC30ae34FE9e34.png"
     }
   ],
   "keywords": [
