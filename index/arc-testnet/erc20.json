@@ -14,18 +14,18 @@
     {
       "chainId": 5042002,
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "name": "ETH",
-      "symbol": "ETH",
+      "name": "USDC",
+      "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/5042002/0x0000000000000000000000000000000000000000.webp"
     },
     {
       "chainId": 5042002,
       "address": "0x0000000000000000000000000000000000000000",
-      "name": "ETH",
-      "symbol": "ETH",
+      "name": "USDC",
+      "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/5042002/0x0000000000000000000000000000000000000000.webp"
     },
     {
       "chainId": 5042002,

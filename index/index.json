@@ -55,7 +55,7 @@
     "arc-testnet": {
       "chainId": 5042002,
       "tokenLists": {
-        "erc20.json": "90ec163bb2caa9de982e0a8050f534a11f453a15d5b85575766e406dacdb88b4"
+        "erc20.json": "a11a1693c64116a601a539b6a3c62f79795d184c1bfcf0d823e99d05205458c1"
       }
     },
     "astar-zkevm": {
