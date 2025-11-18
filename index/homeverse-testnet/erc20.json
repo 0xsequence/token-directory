@@ -15,7 +15,7 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/40875/0x0000000000000000000000000000000000000000.webp"
     },
     {
       "chainId": 40875,
@@ -23,7 +23,7 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/40875/0x0000000000000000000000000000000000000000.webp"
     }
   ],
   "version": {

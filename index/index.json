@@ -29,7 +29,7 @@
       "chainId": 42161,
       "tokenLists": {
         "erc1155.json": "303b613d3d66e725cc2d7a9daec17b28ca5b50cdbfed56ce88aba9fe851a91aa",
-        "erc20.json": "9c417d6635d4a2a0f49278fefbf5b13831c9abe6facea3b812d38e06e662b8d0",
+        "erc20.json": "66dea0219b0964ecc234b8d61e45a7de9f4854d3928b1966a86063790ad24af1",
         "erc721.json": "e8a31ae32437b84c1bfdc91d51a14c0d401ddd703ebe233aa4cc30ed2c236dc7",
         "misc.json": "c422af49e57ae6275fd2fb13e0185b9f973eb266f90625f09ebe7b4f1058a8ec"
       }
@@ -38,7 +38,7 @@
       "chainId": 42170,
       "tokenLists": {
         "erc1155.json": "9b7efd7f894a8a4f468074173d016ae9c2f77fdc9f2d0d9fbe181822e705a11f",
-        "erc20.json": "572df279f534e5d6acecc579f62fd1d0213b5b663516babd198af7df3fc13f32",
+        "erc20.json": "500cefc13b23472e64a95abef942d1334f58c9a73e3c06070765537d9321177a",
         "erc721.json": "6250a319c3096f558abb263db6e3ca83a761b9918abdc6e23e0c13bc8c588c74",
         "misc.json": "2980480d7aef74ca236e92c44389a94ee1455072dd51a7eeb775df02b9cbe50b"
       }
@@ -47,7 +47,7 @@
       "chainId": 421614,
       "tokenLists": {
         "erc1155.json": "c15eab761a858a7fb8e287a3e4f266278e2bedc03a4dae395d3efafd97f1da06",
-        "erc20.json": "7f20b9b45df83f4f5da4574cf14fc16d3b272d359cd3af8d47625bcbfc12cdd6",
+        "erc20.json": "07b30f5e17faf4125390426d7fcb38889df4c7e6e57103273c5aeea938ac6482",
         "erc721.json": "f2ce5370cbefc09995e58e8ac42b58c61ec1e89f7b5306c4b3e882a3820c88da",
         "misc.json": "6358c1951097cb9698ea216b781e03a9ea06aecef4afa76ea0ac4984ababa4b7"
       }
@@ -63,7 +63,7 @@
       "chainId": 3776,
       "tokenLists": {
         "erc1155.json": "a07549e0ad0422d4f4ef32937b068db75369d724a160fe42901e89a40e97a052",
-        "erc20.json": "f00ae156962700de2e8d710d5f59498b2b136f3922bc5a245e230df63cbf2eed",
+        "erc20.json": "42184946f839c22693385ee06453806ec89e401ab11af1fbb671efef17810263",
         "erc721.json": "1590cae4d36e938b67831bf1321827c38cc7c8e7dcb46eea15720eb9c0d3e01f",
         "misc.json": "175bda5d2e16180beb9e48ab7f31a8f8bd17bb4a25e7846838e67c2a51b45b53"
       }
@@ -73,7 +73,7 @@
       "chainId": 6038361,
       "tokenLists": {
         "erc1155.json": "902ab879f4d9be202291577c8264f750e727712b6e887e4a1e91daf37127c009",
-        "erc20.json": "8f1e69b50a3f8070317a9d446250564046f25aeb7f3137bd6eeca6221c9b808b",
+        "erc20.json": "abb16060c1231e937b87d41d81fa3958b5b4f178c48e860a4985d2f8607ae1d9",
         "erc721.json": "96d88e9d320162f665eac90852c28573a8fba9c867dd0a97f7d27443ea8191b3",
         "misc.json": "35b3b1ec28f6c1899fcbd053cb940271e9683d3397604a69c4e190e95a63c878"
       }
@@ -82,7 +82,7 @@
       "chainId": 43114,
       "tokenLists": {
         "erc1155.json": "87e84f05ad461615cca7a29b579fc5b20694a12b7b4a729088dc23eb01c6b41c",
-        "erc20.json": "ec13fd7c97b6563afa552c1989d87b728cc900ab89db87d5c94371eb7ce009e1",
+        "erc20.json": "6326adac6d1bd2e1a4bbb4c62fe42bdc16967a07c621250b08f2cd757093995d",
         "erc721.json": "0649e6b67af5860e10c6211d3e097bfce25b9cf25eaee216e29a68304f4f3a74",
         "misc.json": "d04b73b989afdcc3b4f8c9646a85d008b00e640fd7978de2cb2c470cd11a86a8"
       }
@@ -91,7 +91,7 @@
       "chainId": 43113,
       "tokenLists": {
         "erc1155.json": "b444b165ed0b83403e66c2289cb3ab2b4b1a8fcb4d57da01dc2d39d692828d5b",
-        "erc20.json": "6e2c4364dd30a5f64668c39da33c070126fc5c99bc695f32dc70c94e94af2850",
+        "erc20.json": "130b99aecf5d830eb17814a7261e88839b3aa543c90003f3be988ce7a3ae2805",
         "erc721.json": "bda662343d37ac17b6e5dd50a1471163a9f5b728d4d3a1fc2ef85ade8442ffda",
         "misc.json": "e4188ea6e5579cfde3d9ea6f87a3dc5b76c84a44a25cbf0dc2083a70488c959b"
       }
@@ -100,7 +100,7 @@
       "chainId": 8453,
       "tokenLists": {
         "erc1155.json": "63604208c3af3daf25e9958f54e898c628bb549432cd08b0437c62c70f74884a",
-        "erc20.json": "6046832c3caea52482da2b99afedd9ceccf8e288fe8430bc1a456cb26bfcbe95",
+        "erc20.json": "1106bdea3b9fc1e900e42874e7c72cd2d6f63cf6d7686732812f73ffe975d85d",
         "erc721.json": "5059136bcf2470bc6842e9e2e7b65b767156fdee6a3fb48d33a28b6fb3c60ad0",
         "misc.json": "19b338e7444c7dcc88aaf62910252ef0997cc93d5ac4404a68905d3f00ef9e5b"
       }
@@ -109,7 +109,7 @@
       "chainId": 84531,
       "tokenLists": {
         "erc1155.json": "bcd49556e2cbb8716fcd1eb411ea81c91bf1118806c30b7661074e2657b1ad55",
-        "erc20.json": "8e6141eca894d721fc492c673a56582f6e42aa18167fbd35fafa485efd6a9e65",
+        "erc20.json": "ba604b8506b50cc7e9f8028ea95429e23b167fd4888a9072b6387a94386d9440",
         "erc721.json": "42e4b7fd11b8ae74dc7413af598d3ad83b3f1f30ab40d1c4d8fbd81e38c0e139",
         "misc.json": "a8659f9482a389c5e3abab377195ffa4b84f9a4859b85a95716da2939143cabb"
       }
@@ -118,7 +118,7 @@
       "chainId": 84532,
       "tokenLists": {
         "erc1155.json": "75e8223a9458522bfbe173b301452e5d3ae76fdc48d456bb10092af99978e765",
-        "erc20.json": "e8c7fcce9629ba473607b3eeccbf824f157da51ea004af02c027c47e133a51df",
+        "erc20.json": "7e3d320e884a0e57cd253f0f3a2eff87efae078e69eadbd34d3f766f610a179a",
         "erc721.json": "3a6289841b511f342bc5349417987165debb8d6f86b5ae073aa22ba5b98352a0",
         "misc.json": "0ada9e133265184c0a6a704cb7e337c0bcf6df588e8dec6a3ae32667baf1f7cc"
       }
@@ -127,7 +127,7 @@
       "chainId": 56,
       "tokenLists": {
         "erc1155.json": "28043748f0e1390007a2aaedcc90b0080ed20868c0ace50dec43ffe3428cd10c",
-        "erc20.json": "0f320a9049e307ff09afbbab16c0e2da295703a3d6af7b55e2ff56b37bd31444",
+        "erc20.json": "fb50b0077535a7b03e10eb5acf2703c1d350f4c1f9702d0f11a7c724c97ed772",
         "erc721.json": "5c718e78766bf16d0219e5544e0430e1f9b5347a8771384c7d4f7edc27fd37e3",
         "misc.json": "a20390d029418b4ff5ec02ed493ed5b1ccdff41e89b7c7aec9d79bf789ec9075"
       }
@@ -136,7 +136,7 @@
       "chainId": 97,
       "tokenLists": {
         "erc1155.json": "82eab6a1217333c0d4b944734ed7abe0c61e924730aa5899ec34ba1230d5367f",
-        "erc20.json": "4a7e3cc7c1f365f1ca77df8c56c9ec51cefd8ddc2c1319b157a043b9896c7cdd",
+        "erc20.json": "53396b0df4ee542605eacca3a00a2c135bd950299e70fd344807175a28978766",
         "erc721.json": "3771aedbe59f6b42d5adf09a4ed6839978b5498717ee5028c0b0828e81deecb1",
         "misc.json": "98730eedffc5471b79a038915a7834f3d78c26d4b43ed97d000e92a8fea0fb16"
       }
@@ -144,14 +144,14 @@
     "etherlink": {
       "chainId": 42793,
       "tokenLists": {
-        "erc20.json": "4f94973e662472a187b75cf9b0313e49886b739948bfc44aa53ce7a18a885335"
+        "erc20.json": "86ee44c41b08d1125c14f08d65314746ca3cf7189c8725ed5e567bb5a076621c"
       }
     },
     "gnosis": {
       "chainId": 100,
       "tokenLists": {
         "erc1155.json": "809e63742bc001b84a6b0ad6c3b92fe44d53a4e07f62bccf8441e2e156b5102c",
-        "erc20.json": "c28e5afdcf4bbe62b9ced404f5bb547166438870f829175d92e54646b646352c",
+        "erc20.json": "abc5bc5ee460d26c327c7f09ecf2f06b5157202caaaae9a3434f7086b6eef598",
         "erc721.json": "ce8e5cd39632d71337faa7e4678fad3d0f215a648bea78bed3fbba3c9a032a0f",
         "misc.json": "e2a2b91457a5585bf5a1c688c45e4c5e966037dc62e0e9fbe431a2d2d8350d13"
       }
@@ -160,7 +160,7 @@
       "chainId": 19011,
       "tokenLists": {
         "erc1155.json": "77172de2a7fc8f6d9d98be528e7c98761570490cba2c3a828230f7ec448fca3f",
-        "erc20.json": "88ef73d26a22c5749d29bf4658d90ec2f67cb5b6c24d211efb30a6cf04e52649",
+        "erc20.json": "cbe02756c8409fe1448feb7ab56827e96e1009a3b7b0943e9c1f409eead242c5",
         "erc721.json": "bd03c49dbce0b042ba48ba1623986845c99f2ac6003bedef2484cd6da38a4ecc",
         "misc.json": "fda4979646fa958c51676da937fcd90c3c5351cde07b90c2725807df105fdb36"
       }
@@ -169,7 +169,7 @@
       "chainId": 40875,
       "tokenLists": {
         "erc1155.json": "faa7da608317b2bf8faef93ba2e1d0aafe87156975ca8821acacb3ff092fffa8",
-        "erc20.json": "033ac824d1efb2eb1755b990a998e5e34905e16a3ec1c5dd5194e5983a94edec",
+        "erc20.json": "fcdf364e4cc3d309dcc06412ab5eb0f417c55cb2b79593b3f2814db1c4194956",
         "erc721.json": "c3dd752ac8d0c5e2cd81f1ded13a8056bcae854b864ae7b57f86898d2b596af7",
         "misc.json": "0b25dc3ea49c8f217a83e381a2c38a9875cb3fda6f49621f10cdb1abbff5bcff"
       }
@@ -177,7 +177,7 @@
     "katana": {
       "chainId": 747474,
       "tokenLists": {
-        "erc20.json": "210ea252513a8e7cbc968b70bdbd2b5ea0978bb40682e7a6f44fbc8a09338fa4"
+        "erc20.json": "28bdccc8ad9afe020919e528071a5b530bbddd58f206b69e76aff17939472004"
       }
     },
     "mainnet": {
@@ -203,7 +203,7 @@
       "chainId": 10,
       "tokenLists": {
         "erc1155.json": "3363104494f667dbb49bb5207a008b595ec6b1f320a35eab08efe48bc9e22608",
-        "erc20.json": "afb604c38766b033b212638e04f8b15b46646c9bfee9195f70a3fc2c265ec0bc",
+        "erc20.json": "f54e8cceeb0faaa603103beba999359e67c483659e9e8066bf5f4862e7486b61",
         "erc721.json": "a5c809ddfa9cff90d9a2b520f62bad806a0aca6fda5bd470a05ed76f5e5e649f",
         "misc.json": "d7f6bdb150473774d2ece93941da25309196b6c1c24d005c19c60bc5d173f8a8"
       }
@@ -212,7 +212,7 @@
       "chainId": 11155420,
       "tokenLists": {
         "erc1155.json": "840eb4ef881d50baed0ba90e2f356cb659223949bf1e5f51ad8583dd45b4f0b6",
-        "erc20.json": "dd63dea83487b9a3cd2d9826f3a84fdee5a1bb0cb5c2e5e3dcd8cec961af04dd",
+        "erc20.json": "3ef8f767f9561a5ef4c794fa8fb0a18417fb595d245d0654c1fefecce97a8d49",
         "erc721.json": "45e323fe7ec90ee1a9eeaa2f52ed151be83af010d194f44a969e03c515c173ab",
         "misc.json": "ca0d895b40082dc2ed1b6d35a077d0de7a05a748107a66ec8653a1562ea4bd63"
       }
@@ -230,7 +230,7 @@
       "chainId": 1101,
       "tokenLists": {
         "erc1155.json": "d9910af19bec3d401db8f1bdc0c4fe5a8361d234cc5934a5c7298793fdbcf245",
-        "erc20.json": "7f4f4b983984f597e73b2b28524a2c24e2e178ca58eb7b0afc66c36f328ce35a",
+        "erc20.json": "a98a0bf97a479bdbe27728cbf58fe57466d5d99ed4d4120929650667820bbea0",
         "erc721.json": "01572b97b0c136b51ec0cc1b26c6f6f7443b29679df5d16f956d9fdc75bd5818",
         "misc.json": "9cf6c2d5b48e3be3afe439db561fefd07dbc6d464aba978c30d009ef02207f44"
       }
@@ -240,7 +240,7 @@
       "chainId": 4,
       "tokenLists": {
         "erc1155.json": "e3175c6c63c9bb0d352f6ae5f84cfcf2622370fec2870bd4878b3a282fae63f5",
-        "erc20.json": "dadeb549226e2aa5d126d57277ee1b643909846132d5206860e538fd3c2b4c16",
+        "erc20.json": "7c42a1e837d394812e94aaff76efe3ed863a1ef82316a142d326c9226048a1a0",
         "erc721.json": "a358c70f620e4fac608da34aaa0d59bff326b5df7d407e7faf538f6a5058f7cf",
         "misc.json": "b8853f0471b8aba265f1353a26480efc315a55931c09c4e60d19cb71fe75f9d0"
       }
@@ -248,14 +248,14 @@
     "sandbox-testnet": {
       "chainId": 6252,
       "tokenLists": {
-        "erc20.json": "ae23b843591bfb67631fed47bd75ff8b5811e8e0ea8dc8ec940ee584268095e9"
+        "erc20.json": "a261272f3429f5b1ba6de3cc0920344962b39a637d9cf537d2d3d589eebf3eb1"
       }
     },
     "sepolia": {
       "chainId": 11155111,
       "tokenLists": {
         "erc1155.json": "78950703921b02ed218b9b35476e904804e7b94b0c6b9d4e7e872dcbdb43579d",
-        "erc20.json": "49bcba015a139afe5e276f2956dc9502f5a49c4172111b89fe7ddb3cde364913",
+        "erc20.json": "7fe487b82d411cf281af86b025d2141f22b80c01f9e0c6ea74ec65c6bee5804b",
         "erc721.json": "d202da2ff8d75608b76c94670cb86b6f724439267dca075494e69e781d08fa2c",
         "misc.json": "8e943cb229329f1d47860e17f550eb645ed34392fda0e5edd5e659c4fd2c6d8c"
       }
@@ -264,7 +264,7 @@
       "chainId": 1482601649,
       "tokenLists": {
         "erc1155.json": "b8fab64c8f77a94e648aba4915528fffc5309cbbec77a080f5dbc76dcdb0b629",
-        "erc20.json": "f6bf3e3ff5069563dbc6d9ae5b455fc0b00449e2cf873b5cec26c73fb56a2623",
+        "erc20.json": "0dc7ab3d65176204e6d0b9ae804405c9fd5582061c55b610c56c0602b80283b0",
         "erc721.json": "a2e6e73d5940749265aa3f3ca1aeefa784020192916f56bb175fb1e91e30951c",
         "misc.json": "743c3762d3f9c41287aad12baed71061f0f88de10b42a040f658c5051110c6c8"
       }
@@ -273,7 +273,7 @@
       "chainId": 37084624,
       "tokenLists": {
         "erc1155.json": "3c3c68cd385bf2215dea31737aca315aa662ea1966d2f823ad1ec2d68b0a312d",
-        "erc20.json": "6ca91c5ff24b01c2fb506dd6797948e43b29b79a4010f74d397cfda413fcf70b",
+        "erc20.json": "b89e83c5efef81e06e27f2fbd230c8fce261d66e686a3d529c02bb0d333a111c",
         "erc721.json": "2724dff3a2a5b8e6fcdb3afea08610edcef82e3843a07b79cef872c8a17cfc2b",
         "misc.json": "111900f96b82306e3fbdfb868829557caec98caf0ad2713c72496a7f9b03ba8e"
       }
