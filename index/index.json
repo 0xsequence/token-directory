@@ -22,7 +22,7 @@
     "apechain": {
       "chainId": 33139,
       "tokenLists": {
-        "erc20.json": "d7755da8441d871dfa4f9aa33debc8a472fe37a2246ee5a0f137fe7f36124ddf"
+        "erc20.json": "79edb913a0e0a94d5e380cd4b733b96fcd24e02bec61bc7c1419d15303f337de"
       }
     },
     "arbitrum": {
