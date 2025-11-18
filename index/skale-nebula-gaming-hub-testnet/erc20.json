@@ -14,16 +14,16 @@
     {
       "chainId": 37084624,
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "name": "ETH",
-      "symbol": "ETH",
+      "name": "sFUEL",
+      "symbol": "sFUEL",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/images/tokens/large/37084624/0x0000000000000000000000000000000000000000.webp"
     },
     {
       "chainId": 37084624,
       "address": "0x0000000000000000000000000000000000000000",
-      "name": "ETH",
-      "symbol": "ETH",
+      "name": "sFUEL",
+      "symbol": "sFUEL",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/images/tokens/large/37084624/0x0000000000000000000000000000000000000000.webp"
     },
