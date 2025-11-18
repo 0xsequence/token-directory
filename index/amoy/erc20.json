@@ -3,9 +3,30 @@
   "chainId": 80002,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
   "timestamp": "2025-04-02T15:36:16.623Z",
   "tokens": [
+    {
+      "chainId": 80002,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 80002,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
     {
       "chainId": 80002,
       "address": "0x41e94eb019c0762f9bfcf9fb1e58725bfb0e7582",
@@ -16,7 +37,11 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "categories": ["usd-stablecoin", "transactional", "usdc"],
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "usdc"
+        ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
@@ -29,9 +54,12 @@
       "symbol": "TEST",
       "decimals": 10,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-      "extensions": {
-      }
+      "extensions": {}
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }

@@ -3,9 +3,28 @@
   "chainId": 42161,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc20", "arbitrum"],
+  "keywords": [
+    "erc20",
+    "arbitrum"
+  ],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
     {
       "chainId": 42161,
       "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
@@ -16,7 +35,11 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "categories": ["usd-stablecoin", "transactional", "usdc"],
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "usdc"
+        ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
@@ -32,7 +55,13 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "categories": ["usd-stablecoin", "transactional", "wrapped", "bridged", "usdc"],
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "wrapped",
+          "bridged",
+          "usdc"
+        ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
@@ -48,7 +77,14 @@
       "extensions": {
         "link": "https://makerdao.com/",
         "description": "Dai is the native stablecoin for the Maker protocol. It is the world’s first crypto-collateralized and decentralized stablecoin, whose value is soft pegged to the US Dollar. The collateralized assets backing Dai are other cryptocurrencies instead of fiat and are held within smart contracts rather than in institutions.",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker"],
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi",
+          "protocol",
+          "maker"
+        ],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
@@ -64,7 +100,14 @@
       "extensions": {
         "link": "https://treasure.lol/",
         "description": "MAGIC is the native token of Treasure. Treasure is the decentralized video game console connecting games and communities together through imagination, MAGIC, and NFTs.",
-        "categories": ["value", "governance", "transactional", "gaming", "reward", "treasure"],
+        "categories": [
+          "value",
+          "governance",
+          "transactional",
+          "gaming",
+          "reward",
+          "treasure"
+        ],
         "ogImage": null
       }
     },
@@ -78,7 +121,15 @@
       "extensions": {
         "link": "https://www.talesofelleria.com/",
         "description": "Ellerium ($ELM) is a rare natural resource found within the world of Elleria. It is said to be the crystallized blessing of the Goddess and functions as the main currency throughout the whole metaverse.",
-        "categories": ["transactional", "reward", "gaming", "rpg", "mmo", "fantasy", "strategy"],
+        "categories": [
+          "transactional",
+          "reward",
+          "gaming",
+          "rpg",
+          "mmo",
+          "fantasy",
+          "strategy"
+        ],
         "ogImage": null
       }
     },
@@ -93,7 +144,12 @@
       "extensions": {
         "link": "https://weth.io/",
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
-        "categories": ["defi", "protocol", "chain", "wrapped"]
+        "categories": [
+          "defi",
+          "protocol",
+          "chain",
+          "wrapped"
+        ]
       }
     },
     {
@@ -107,7 +163,12 @@
       "extensions": {
         "link": "https://guardfdn.com/",
         "description": "Guardian is for purpose driven companies and projects building and contributing to the web3 economy.",
-        "categories": ["governance", "protocol", "defi", "access"]
+        "categories": [
+          "governance",
+          "protocol",
+          "defi",
+          "access"
+        ]
       }
     },
     {
@@ -123,5 +184,9 @@
       }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }

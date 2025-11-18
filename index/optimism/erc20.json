@@ -3,9 +3,28 @@
   "chainId": 10,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc20", "optimism"],
+  "keywords": [
+    "erc20",
+    "optimism"
+  ],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 10,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 10,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
     {
       "chainId": 10,
       "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
@@ -16,7 +35,11 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "categories": ["usd-stablecoin", "transactional", "usdc"],
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "usdc"
+        ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -33,7 +56,14 @@
       "extensions": {
         "link": "https://makerdao.com/",
         "description": "Dai is the native stablecoin for the Maker protocol. It is the world’s first crypto-collateralized and decentralized stablecoin, whose value is soft pegged to the US Dollar. The collateralized assets backing Dai are other cryptocurrencies instead of fiat and are held within smart contracts rather than in institutions.",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker"],
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi",
+          "protocol",
+          "maker"
+        ],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -49,7 +79,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["value", "defi", "protocol", "stablecoin"]
+        "categories": [
+          "value",
+          "defi",
+          "protocol",
+          "stablecoin"
+        ]
       }
     },
     {
@@ -61,7 +96,15 @@
       "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "lending", "protocol", "reward", "staking", "aave"]
+        "categories": [
+          "governance",
+          "defi",
+          "lending",
+          "protocol",
+          "reward",
+          "staking",
+          "aave"
+        ]
       }
     },
     {
@@ -73,7 +116,14 @@
       "logoURI": "https://ethereum-optimism.github.io/data/AELIN/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "access", "protocol", "reward", "staking"]
+        "categories": [
+          "governance",
+          "defi",
+          "access",
+          "protocol",
+          "reward",
+          "staking"
+        ]
       }
     },
     {
@@ -85,7 +135,16 @@
       "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "access", "protocol", "reward", "staking", "exchange", "balancer"]
+        "categories": [
+          "governance",
+          "defi",
+          "access",
+          "protocol",
+          "reward",
+          "staking",
+          "exchange",
+          "balancer"
+        ]
       }
     },
     {
@@ -97,7 +156,11 @@
       "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "chain", "smart-contract"]
+        "categories": [
+          "governance",
+          "chain",
+          "smart-contract"
+        ]
       }
     },
     {
@@ -109,7 +172,11 @@
       "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x158F513096923fF2d3aab2BcF4478536de6725e2",
-        "categories": ["value", "defi", "wrapped"]
+        "categories": [
+          "value",
+          "defi",
+          "wrapped"
+        ]
       }
     },
     {
@@ -121,7 +188,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "protocol", "staking", "reward"]
+        "categories": [
+          "governance",
+          "defi",
+          "protocol",
+          "staking",
+          "reward"
+        ]
       }
     },
     {
@@ -133,7 +206,15 @@
       "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "protocol", "staking", "reward", "access", "curve"]
+        "categories": [
+          "governance",
+          "defi",
+          "protocol",
+          "staking",
+          "reward",
+          "access",
+          "curve"
+        ]
       }
     },
     {
@@ -145,7 +226,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "transactional", "rwa", "access", "infrastructure"]
+        "categories": [
+          "governance",
+          "transactional",
+          "rwa",
+          "access",
+          "infrastructure"
+        ]
       }
     },
     {
@@ -157,7 +244,15 @@
       "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "transactional", "defi", "access", "lending", "reward", "staking"]
+        "categories": [
+          "governance",
+          "transactional",
+          "defi",
+          "access",
+          "lending",
+          "reward",
+          "staking"
+        ]
       }
     },
     {
@@ -169,7 +264,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "access", "reward", "staking"]
+        "categories": [
+          "governance",
+          "defi",
+          "access",
+          "reward",
+          "staking"
+        ]
       }
     },
     {
@@ -181,7 +282,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["usd-stablecoin", "usd-stablecoin", "defi", "lending", "reward"]
+        "categories": [
+          "usd-stablecoin",
+          "usd-stablecoin",
+          "defi",
+          "lending",
+          "reward"
+        ]
       }
     },
     {
@@ -193,7 +300,11 @@
       "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["infrastructure", "access", "value"]
+        "categories": [
+          "infrastructure",
+          "access",
+          "value"
+        ]
       }
     },
     {
@@ -205,7 +316,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "lending", "access"]
+        "categories": [
+          "governance",
+          "defi",
+          "lending",
+          "access"
+        ]
       }
     },
     {
@@ -217,7 +333,10 @@
       "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["access", "reward"]
+        "categories": [
+          "access",
+          "reward"
+        ]
       }
     },
     {
@@ -229,7 +348,16 @@
       "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["chain", "protocol", "governance", "gas", "smart-contract", "infrastructure", "reward", "staking"]
+        "categories": [
+          "chain",
+          "protocol",
+          "governance",
+          "gas",
+          "smart-contract",
+          "infrastructure",
+          "reward",
+          "staking"
+        ]
       }
     },
     {
@@ -241,7 +369,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "staking", "reward", "access"]
+        "categories": [
+          "governance",
+          "staking",
+          "reward",
+          "access"
+        ]
       }
     },
     {
@@ -253,7 +386,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["infrastructure", "staking", "reward", "access"]
+        "categories": [
+          "infrastructure",
+          "staking",
+          "reward",
+          "access"
+        ]
       }
     },
     {
@@ -265,7 +403,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "staking", "reward", "defi", "transactional"]
+        "categories": [
+          "governance",
+          "staking",
+          "reward",
+          "defi",
+          "transactional"
+        ]
       }
     },
     {
@@ -277,7 +421,15 @@
       "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "protocol", "staking", "reward", "exchange", "governance", "transactional"]
+        "categories": [
+          "defi",
+          "protocol",
+          "staking",
+          "reward",
+          "exchange",
+          "governance",
+          "transactional"
+        ]
       }
     },
     {
@@ -289,7 +441,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "transactional", "value", "infrastructure", "staking"]
+        "categories": [
+          "governance",
+          "transactional",
+          "value",
+          "infrastructure",
+          "staking"
+        ]
       }
     },
     {
@@ -301,7 +459,9 @@
       "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["meme"]
+        "categories": [
+          "meme"
+        ]
       }
     },
     {
@@ -313,7 +473,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/LRC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["chain", "layer2", "governance", "infrastructure", "transactional"]
+        "categories": [
+          "chain",
+          "layer2",
+          "governance",
+          "infrastructure",
+          "transactional"
+        ]
       }
     },
     {
@@ -325,7 +491,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi"]
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi"
+        ]
       }
     },
     {
@@ -337,7 +508,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "access", "exchange"]
+        "categories": [
+          "governance",
+          "defi",
+          "access",
+          "exchange"
+        ]
       }
     },
     {
@@ -349,7 +525,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/MASK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "protocol", "access", "infrastructure"]
+        "categories": [
+          "governance",
+          "protocol",
+          "access",
+          "infrastructure"
+        ]
       }
     },
     {
@@ -361,7 +542,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
-        "categories": ["governance", "defi", "access", "transactional", "maker"]
+        "categories": [
+          "governance",
+          "defi",
+          "access",
+          "transactional",
+          "maker"
+        ]
       }
     },
     {
@@ -373,7 +560,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "access", "transactional", "maker"]
+        "categories": [
+          "governance",
+          "defi",
+          "access",
+          "transactional",
+          "maker"
+        ]
       }
     },
     {
@@ -385,7 +578,16 @@
       "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["chain", "governance", "gas", "smart-contract", "infrastructure", "staking", "reward", "layer2"]
+        "categories": [
+          "chain",
+          "governance",
+          "gas",
+          "smart-contract",
+          "infrastructure",
+          "staking",
+          "reward",
+          "layer2"
+        ]
       }
     },
     {
@@ -397,7 +599,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["gaming", "simulation", "rpg", "strategy"]
+        "categories": [
+          "gaming",
+          "simulation",
+          "rpg",
+          "strategy"
+        ]
       }
     },
     {
@@ -409,7 +616,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "exchange", "governance", "staking", "reward"]
+        "categories": [
+          "defi",
+          "exchange",
+          "governance",
+          "staking",
+          "reward"
+        ]
       }
     },
     {
@@ -421,7 +634,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "access", "reward", "staking"]
+        "categories": [
+          "governance",
+          "defi",
+          "access",
+          "reward",
+          "staking"
+        ]
       }
     },
     {
@@ -433,7 +652,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "access", "reward", "staking"]
+        "categories": [
+          "governance",
+          "defi",
+          "access",
+          "reward",
+          "staking"
+        ]
       }
     },
     {
@@ -445,7 +670,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["stablecoin", "transactional", "defi", "protocol"]
+        "categories": [
+          "stablecoin",
+          "transactional",
+          "defi",
+          "protocol"
+        ]
       }
     },
     {
@@ -457,7 +687,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "staking", "reward", "protocol"]
+        "categories": [
+          "defi",
+          "staking",
+          "reward",
+          "protocol"
+        ]
       }
     },
     {
@@ -469,7 +704,11 @@
       "logoURI": "https://ethereum-optimism.github.io/data/RGT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "governance", "access"]
+        "categories": [
+          "defi",
+          "governance",
+          "access"
+        ]
       }
     },
     {
@@ -481,7 +720,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/SARCO/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["protocol", "staking", "access", "governance"]
+        "categories": [
+          "protocol",
+          "staking",
+          "access",
+          "governance"
+        ]
       }
     },
     {
@@ -493,7 +737,14 @@
       "logoURI": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "protocol", "staking", "reward", "access", "synthetix"]
+        "categories": [
+          "defi",
+          "protocol",
+          "staking",
+          "reward",
+          "access",
+          "synthetix"
+        ]
       }
     },
     {
@@ -505,7 +756,14 @@
       "logoURI": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "protocol", "staking", "reward", "access", "synthetix"]
+        "categories": [
+          "defi",
+          "protocol",
+          "staking",
+          "reward",
+          "access",
+          "synthetix"
+        ]
       }
     },
     {
@@ -517,7 +775,14 @@
       "logoURI": "https://ethereum-optimism.github.io/data/sLINK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "protocol", "staking", "reward", "access", "synthetix"]
+        "categories": [
+          "defi",
+          "protocol",
+          "staking",
+          "reward",
+          "access",
+          "synthetix"
+        ]
       }
     },
     {
@@ -529,7 +794,14 @@
       "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x136b1EC699c62b0606854056f02dC7Bb80482d63",
-        "categories": ["defi", "protocol", "staking", "reward", "access", "synthetix"]
+        "categories": [
+          "defi",
+          "protocol",
+          "staking",
+          "reward",
+          "access",
+          "synthetix"
+        ]
       }
     },
     {
@@ -541,7 +813,11 @@
       "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["infrastructure", "access", "staking"]
+        "categories": [
+          "infrastructure",
+          "access",
+          "staking"
+        ]
       }
     },
     {
@@ -553,7 +829,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["infrastructure", "access", "staking", "rwa", "governance"]
+        "categories": [
+          "infrastructure",
+          "access",
+          "staking",
+          "rwa",
+          "governance"
+        ]
       }
     },
     {
@@ -565,7 +847,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["usd-stablecoin", "stablecoin", "defi", "protocol", "synthetix"]
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "defi",
+          "protocol",
+          "synthetix"
+        ]
       }
     },
     {
@@ -577,7 +865,14 @@
       "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "staking", "reward", "protocol", "access", "sports"]
+        "categories": [
+          "defi",
+          "staking",
+          "reward",
+          "protocol",
+          "access",
+          "sports"
+        ]
       }
     },
     {
@@ -589,7 +884,10 @@
       "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "access"]
+        "categories": [
+          "governance",
+          "access"
+        ]
       }
     },
     {
@@ -601,7 +899,10 @@
       "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["usd-stablecoin", "transactional"]
+        "categories": [
+          "usd-stablecoin",
+          "transactional"
+        ]
       }
     },
     {
@@ -613,7 +914,14 @@
       "logoURI": "https://ethereum-optimism.github.io/data/UMA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["governance", "defi", "protocol", "reward", "staking", "access"]
+        "categories": [
+          "governance",
+          "defi",
+          "protocol",
+          "reward",
+          "staking",
+          "access"
+        ]
       }
     },
     {
@@ -625,7 +933,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["exchange", "governance", "defi", "uniswap"]
+        "categories": [
+          "exchange",
+          "governance",
+          "defi",
+          "uniswap"
+        ]
       }
     },
     {
@@ -637,7 +950,11 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional"]
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional"
+        ]
       }
     },
     {
@@ -649,7 +966,11 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["usd-stablecoin", "transactional", "usdt"]
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "usdt"
+        ]
       }
     },
     {
@@ -661,7 +982,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/UST/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "wrapped"]
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "wrapped"
+        ]
       }
     },
     {
@@ -673,7 +999,14 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc76cbFbAfD41761279E3EDb23Fd831Ccb74D5D67",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "reward"]
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi",
+          "protocol",
+          "reward"
+        ]
       }
     },
     {
@@ -685,7 +1018,13 @@
       "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["value", "reward", "infrastructure", "wrapped", "bridged"]
+        "categories": [
+          "value",
+          "reward",
+          "infrastructure",
+          "wrapped",
+          "bridged"
+        ]
       }
     },
     {
@@ -697,7 +1036,12 @@
       "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["defi", "protocol", "chain", "wrapped"]
+        "categories": [
+          "defi",
+          "protocol",
+          "chain",
+          "wrapped"
+        ]
       }
     },
     {
@@ -709,7 +1053,10 @@
       "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["stablecoin", "transactional"]
+        "categories": [
+          "stablecoin",
+          "transactional"
+        ]
       }
     },
     {
@@ -721,9 +1068,19 @@
       "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "categories": ["exchange", "transactional", "governance", "staking", "reward"]
+        "categories": [
+          "exchange",
+          "transactional",
+          "governance",
+          "staking",
+          "reward"
+        ]
       }
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }

@@ -3,9 +3,30 @@
   "chainId": 1482601649,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+    {
+      "chainId": 1482601649,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 1482601649,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
     {
       "chainId": 1482601649,
       "address": "0xcc205196288b7a26f6d43bbd68aaa98dde97276d",
@@ -49,5 +70,9 @@
       "logoURI": "https://assets.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }

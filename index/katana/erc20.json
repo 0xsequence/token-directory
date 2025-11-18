@@ -13,6 +13,22 @@
   "tokens": [
     {
       "chainId": 747474,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 747474,
       "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
       "name": "Vault Bridge ETH",
       "symbol": "wETH",
