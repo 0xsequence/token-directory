@@ -14,16 +14,16 @@
     {
       "chainId": 42793,
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "name": "ETH",
-      "symbol": "ETH",
+      "name": "XTZ",
+      "symbol": "XTZ",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/images/tokens/large/42793/0x0000000000000000000000000000000000000000.webp"
     },
     {
       "chainId": 42793,
       "address": "0x0000000000000000000000000000000000000000",
-      "name": "ETH",
-      "symbol": "ETH",
+      "name": "XTZ",
+      "symbol": "XTZ",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/images/tokens/large/42793/0x0000000000000000000000000000000000000000.webp"
     },

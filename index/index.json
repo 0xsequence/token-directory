@@ -144,7 +144,13 @@
     "etherlink": {
       "chainId": 42793,
       "tokenLists": {
-        "erc20.json": "86ee44c41b08d1125c14f08d65314746ca3cf7189c8725ed5e567bb5a076621c"
+        "erc20.json": "d6abe9bd6c5c7c3ae65aa8678a5cac5a32feae2a525439419a00bd7f3002c85f"
+      }
+    },
+    "etherlink-testnet": {
+      "chainId": 128123,
+      "tokenLists": {
+        "erc20.json": "9ebf7b3e55f23e0dfae19fbbafbdcd82f606c22287fefd1c148395d2838b500f"
       }
     },
     "gnosis": {
