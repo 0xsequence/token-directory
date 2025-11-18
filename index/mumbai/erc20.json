@@ -14,18 +14,18 @@
     {
       "chainId": 80001,
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "name": "MATIC",
-      "symbol": "MATIC",
+      "name": "POL",
+      "symbol": "POL",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/80001/0x0000000000000000000000000000000000000000.webp"
     },
     {
       "chainId": 80001,
       "address": "0x0000000000000000000000000000000000000000",
-      "name": "MATIC",
-      "symbol": "MATIC",
+      "name": "POL",
+      "symbol": "POL",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/80001/0x0000000000000000000000000000000000000000.webp"
     },
     {
       "chainId": 80001,
