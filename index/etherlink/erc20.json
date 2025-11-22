@@ -17,7 +17,11 @@
       "name": "XTZ",
       "symbol": "XTZ",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/42793/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/42793/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 42793,
@@ -25,7 +29,11 @@
       "name": "XTZ",
       "symbol": "XTZ",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/42793/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/42793/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 42793,
@@ -33,7 +41,11 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
     },
     {
       "chainId": 42793,

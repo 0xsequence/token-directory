@@ -15,7 +15,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/10/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/10/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 10,
@@ -23,7 +27,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/10/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/10/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 10,
@@ -43,7 +51,9 @@
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "featured": true,
+        "featureIndex": 1
       }
     },
     {
@@ -67,7 +77,9 @@
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
-        "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
+        "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65",
+        "featured": true,
+        "featureIndex": 3
       }
     },
     {
@@ -970,7 +982,9 @@
           "usd-stablecoin",
           "transactional",
           "usdt"
-        ]
+        ],
+        "featured": true,
+        "featureIndex": 2
       }
     },
     {

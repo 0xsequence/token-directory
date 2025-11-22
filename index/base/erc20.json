@@ -15,7 +15,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/8453/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/8453/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 8453,
@@ -23,7 +27,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/8453/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/8453/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 8453,
@@ -42,7 +50,9 @@
         ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
-        "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "featured": true,
+        "featureIndex": 1
       }
     },
     {
