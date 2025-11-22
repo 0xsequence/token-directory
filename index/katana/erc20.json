@@ -17,7 +17,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/747474/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/747474/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 747474,
@@ -25,7 +29,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/747474/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/747474/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 747474,
@@ -41,7 +49,11 @@
       "name": "Vault Bridge USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
     },
     {
       "chainId": 747474,
@@ -49,7 +61,11 @@
       "name": "Vault Bridge USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xdac17f958d2ee523a2206206994597c13d831ec7.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xdac17f958d2ee523a2206206994597c13d831ec7.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 2
+      }
     },
     {
       "chainId": 747474,

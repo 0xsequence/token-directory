@@ -17,7 +17,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 1,
@@ -25,7 +29,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 1,
@@ -104,7 +112,9 @@
       "extensions": {
         "link": "https://tether.to/",
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en...",
-        "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png"
+        "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png",
+        "featured": true,
+        "featureIndex": 2
       }
     },
     {
@@ -4861,7 +4871,9 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
+        "featured": true,
+        "featureIndex": 1
       }
     },
     {
@@ -7019,7 +7031,9 @@
       "extensions": {
         "link": "https://makerdao.com/",
         "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
-        "ogImage": "https://makerdao.com/dai.png"
+        "ogImage": "https://makerdao.com/dai.png",
+        "featured": true,
+        "featureIndex": 3
       }
     },
     {

@@ -15,7 +15,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/100/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/100/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 100,
@@ -23,7 +27,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/100/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/100/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 100,
@@ -40,7 +48,9 @@
           "transactional",
           "usdc"
         ],
-        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
+        "featured": true,
+        "featureIndex": 1
       }
     },
     {
@@ -61,7 +71,9 @@
           "protocol",
           "maker"
         ],
-        "ogImage": "https://makerdao.com/dai.png"
+        "ogImage": "https://makerdao.com/dai.png",
+        "featured": true,
+        "featureIndex": 3
       }
     }
   ],

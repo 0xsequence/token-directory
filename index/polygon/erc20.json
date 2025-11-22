@@ -17,7 +17,11 @@
       "name": "POL",
       "symbol": "POL",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/137/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/137/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 137,
@@ -25,7 +29,11 @@
       "name": "POL",
       "symbol": "POL",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/137/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/137/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 137,
@@ -199,7 +207,9 @@
         ],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
-        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "featured": true,
+        "featureIndex": 3
       }
     },
     {
@@ -982,7 +992,9 @@
           "transactional",
           "usdc"
         ],
-        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
+        "featured": true,
+        "featureIndex": 1
       }
     },
     {
@@ -1204,7 +1216,9 @@
         ],
         "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png",
         "originChainId": 1,
-        "originAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        "originAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "featured": true,
+        "featureIndex": 2
       }
     },
     {
