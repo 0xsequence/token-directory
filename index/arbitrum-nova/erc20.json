@@ -15,7 +15,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/42170/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/42170/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 42170,
@@ -23,7 +27,11 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/42170/0x0000000000000000000000000000000000000000.webp"
+      "logoURI": "https://assets.sequence.info/images/tokens/large/42170/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
     },
     {
       "chainId": 42170,
@@ -42,7 +50,9 @@
         ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
-        "originAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        "originAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "featured": true,
+        "featureIndex": 1
       }
     },
     {
@@ -65,7 +75,9 @@
         ],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
-        "originAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+        "originAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "featured": true,
+        "featureIndex": 3
       }
     },
     {
