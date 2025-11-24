@@ -198,7 +198,7 @@
     "monad": {
       "chainId": 143,
       "tokenLists": {
-        "erc20.json": "60183e80b7468a582c90f30c5dc99c0d9f8b75805bfedcecf5e80f91447367f5"
+        "erc20.json": "9f7263844939b29720364288b40f20411e06cce81937ec104475041dcf547d4f"
       }
     },
     "mumbai": {

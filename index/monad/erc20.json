@@ -12,6 +12,18 @@
   "tokens": [
     {
       "chainId": 143,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Monad",
+      "symbol": "MON",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/143/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 143,
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "name": "Monad",
       "symbol": "MON",
