@@ -195,6 +195,12 @@
         "misc.json": "f98a5ccf5fa208e0861c020ad16b44adfafff42d8f359fa94e6701a7397b1e92"
       }
     },
+    "monad": {
+      "chainId": 143,
+      "tokenLists": {
+        "erc20.json": "60183e80b7468a582c90f30c5dc99c0d9f8b75805bfedcecf5e80f91447367f5"
+      }
+    },
     "mumbai": {
       "deprecated": true,
       "chainId": 80001,

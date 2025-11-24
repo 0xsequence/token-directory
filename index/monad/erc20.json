@@ -1,0 +1,46 @@
+{
+  "name": "sequence-erc20-monad",
+  "chainId": 143,
+  "tokenStandard": "erc20",
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
+  "timestamp": "2025-11-20T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 143,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "Monad",
+      "symbol": "MON",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/143/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 143,
+      "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+      "name": "Wrapped MON",
+      "symbol": "WMON",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/143/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 143,
+      "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
+    }
+  ]
+}
