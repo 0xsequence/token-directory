@@ -88,10 +88,10 @@
         "underlyingTokenAddress": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
         "underlyingTokenName": "Monerium EUR emoney",
         "underlyingTokenSymbol": "EURe",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -106,10 +106,10 @@
         "underlyingTokenAddress": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
         "underlyingTokenName": "Gho Token",
         "underlyingTokenSymbol": "GHO",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -124,10 +124,10 @@
         "underlyingTokenAddress": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
         "underlyingTokenName": "Gnosis Token on xDai",
         "underlyingTokenSymbol": "GNO",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -142,10 +142,10 @@
         "underlyingTokenAddress": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
         "underlyingTokenName": "USD//C on xDai",
         "underlyingTokenSymbol": "USDC",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -160,10 +160,10 @@
         "underlyingTokenAddress": "0x2a22f9c3b484c3629090FeED35F17Ff8F88f76F0",
         "underlyingTokenName": "Bridged USDC (Gnosis)",
         "underlyingTokenSymbol": "USDC.e",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -178,10 +178,10 @@
         "underlyingTokenAddress": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
         "underlyingTokenName": "Wrapped Ether on xDai",
         "underlyingTokenSymbol": "WETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -196,10 +196,10 @@
         "underlyingTokenAddress": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
         "underlyingTokenName": "Wrapped XDAI",
         "underlyingTokenSymbol": "WXDAI",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -214,10 +214,10 @@
         "underlyingTokenAddress": "0xaf204776c7245bF4147c2612BF6e5972Ee483701",
         "underlyingTokenName": "Savings xDAI",
         "underlyingTokenSymbol": "sDAI",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -232,10 +232,10 @@
         "underlyingTokenAddress": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
         "underlyingTokenName": "Wrapped liquid staked Ether 2.0 from Mainnet",
         "underlyingTokenSymbol": "wstETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     }
   ],

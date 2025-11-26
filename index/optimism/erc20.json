@@ -1103,10 +1103,10 @@
         "underlyingTokenAddress": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
         "underlyingTokenName": "Aave Token",
         "underlyingTokenSymbol": "AAVE",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1121,10 +1121,10 @@
         "underlyingTokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "underlyingTokenName": "Dai Stablecoin",
         "underlyingTokenSymbol": "DAI",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1139,10 +1139,10 @@
         "underlyingTokenAddress": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
         "underlyingTokenName": "ChainLink Token",
         "underlyingTokenSymbol": "LINK",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1157,10 +1157,10 @@
         "underlyingTokenAddress": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
         "underlyingTokenName": "LUSD Stablecoin",
         "underlyingTokenSymbol": "LUSD",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1175,10 +1175,10 @@
         "underlyingTokenAddress": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
         "underlyingTokenName": "Mai Stablecoin",
         "underlyingTokenSymbol": "MAI",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1193,10 +1193,10 @@
         "underlyingTokenAddress": "0x4200000000000000000000000000000000000042",
         "underlyingTokenName": "Optimism",
         "underlyingTokenSymbol": "OP",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1211,10 +1211,10 @@
         "underlyingTokenAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
         "underlyingTokenName": "USD Coin (USDC.e)",
         "underlyingTokenSymbol": "USDC",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1229,10 +1229,10 @@
         "underlyingTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
         "underlyingTokenName": "USD Coin",
         "underlyingTokenSymbol": "USDC",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1247,10 +1247,10 @@
         "underlyingTokenAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
         "underlyingTokenName": "Tether USD",
         "underlyingTokenSymbol": "USDT",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1265,10 +1265,10 @@
         "underlyingTokenAddress": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
         "underlyingTokenName": "Wrapped BTC",
         "underlyingTokenSymbol": "WBTC",
-        "underlyingTokenDecimals": 8
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 8,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1283,10 +1283,10 @@
         "underlyingTokenAddress": "0x4200000000000000000000000000000000000006",
         "underlyingTokenName": "Wrapped Ether",
         "underlyingTokenSymbol": "WETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1301,10 +1301,10 @@
         "underlyingTokenAddress": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
         "underlyingTokenName": "Rocket Pool ETH",
         "underlyingTokenSymbol": "rETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1319,10 +1319,10 @@
         "underlyingTokenAddress": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
         "underlyingTokenName": "Synth sUSD",
         "underlyingTokenSymbol": "sUSD",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -1337,10 +1337,10 @@
         "underlyingTokenAddress": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
         "underlyingTokenName": "Wrapped liquid staked Ether 2.0",
         "underlyingTokenSymbol": "wstETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     }
   ],
