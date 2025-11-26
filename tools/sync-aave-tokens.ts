@@ -71,9 +71,6 @@ type TokenListEntry = {
     decimals: number;
     logoURI: string;
     extensions?: Record<string, unknown>;
-    indexingInfo: {
-        useOnChainBalance: true;
-    };
 };
 
 type TokenList = {
@@ -151,6 +148,9 @@ const transformReservesToTokens = (reserves: Reserve[]): TokenListEntry[] => {
                 underlyingTokenName: underlyingToken?.name,
                 underlyingTokenSymbol: underlyingToken?.symbol,
                 underlyingTokenDecimals: underlyingToken?.decimals,
+                indexingInfo: {
+                    useOnChainBalance: true,
+                },
             });
 
             return {
@@ -161,9 +161,6 @@ const transformReservesToTokens = (reserves: Reserve[]): TokenListEntry[] => {
                 decimals: aToken.decimals,
                 logoURI: aToken.imageUrl ?? '',
                 ...(Object.keys(extensions).length ? { extensions } : {}),
-                indexingInfo: {
-                    useOnChainBalance: true,
-                },
             };
         });
 };

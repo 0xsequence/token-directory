@@ -207,10 +207,10 @@
         "underlyingTokenAddress": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
         "underlyingTokenName": "Aave Token",
         "underlyingTokenSymbol": "AAVE",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -225,10 +225,10 @@
         "underlyingTokenAddress": "0x912CE59144191C1204E64559FE8253a0e49E6548",
         "underlyingTokenName": "Arbitrum",
         "underlyingTokenSymbol": "ARB",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -243,10 +243,10 @@
         "underlyingTokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "underlyingTokenName": "Dai Stablecoin",
         "underlyingTokenSymbol": "DAI",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -261,10 +261,10 @@
         "underlyingTokenAddress": "0xD22a58f79e9481D1a88e00c343885A588b34b68B",
         "underlyingTokenName": "STASIS EURS Token",
         "underlyingTokenSymbol": "EURS",
-        "underlyingTokenDecimals": 2
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 2,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -279,10 +279,10 @@
         "underlyingTokenAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
         "underlyingTokenName": "Frax",
         "underlyingTokenSymbol": "FRAX",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -297,10 +297,10 @@
         "underlyingTokenAddress": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33",
         "underlyingTokenName": "Gho Token",
         "underlyingTokenSymbol": "GHO",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -315,10 +315,10 @@
         "underlyingTokenAddress": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
         "underlyingTokenName": "ChainLink Token",
         "underlyingTokenSymbol": "LINK",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -333,10 +333,10 @@
         "underlyingTokenAddress": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
         "underlyingTokenName": "LUSD Stablecoin",
         "underlyingTokenSymbol": "LUSD",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -351,10 +351,10 @@
         "underlyingTokenAddress": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
         "underlyingTokenName": "Mai Stablecoin",
         "underlyingTokenSymbol": "MAI",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -369,10 +369,10 @@
         "underlyingTokenAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "underlyingTokenName": "USD Coin (USDC.e)",
         "underlyingTokenSymbol": "USDC",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -387,10 +387,10 @@
         "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
         "underlyingTokenName": "USD Coin",
         "underlyingTokenSymbol": "USDC",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -405,10 +405,10 @@
         "underlyingTokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
         "underlyingTokenName": "USD₮0",
         "underlyingTokenSymbol": "USD₮0",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -423,10 +423,10 @@
         "underlyingTokenAddress": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
         "underlyingTokenName": "Wrapped BTC",
         "underlyingTokenSymbol": "WBTC",
-        "underlyingTokenDecimals": 8
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 8,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -441,10 +441,10 @@
         "underlyingTokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "underlyingTokenName": "Wrapped Ether",
         "underlyingTokenSymbol": "WETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -459,10 +459,10 @@
         "underlyingTokenAddress": "0x2416092f143378750bb29b79eD961ab195CcEea5",
         "underlyingTokenName": "Renzo Restaked ETH",
         "underlyingTokenSymbol": "ezETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -477,10 +477,10 @@
         "underlyingTokenAddress": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
         "underlyingTokenName": "Rocket Pool ETH",
         "underlyingTokenSymbol": "rETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -495,10 +495,10 @@
         "underlyingTokenAddress": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
         "underlyingTokenName": "KelpDao Restaked ETH",
         "underlyingTokenSymbol": "rsETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -513,10 +513,10 @@
         "underlyingTokenAddress": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
         "underlyingTokenName": "Arbitrum tBTC v2",
         "underlyingTokenSymbol": "tBTC",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -531,10 +531,10 @@
         "underlyingTokenAddress": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
         "underlyingTokenName": "Wrapped eETH",
         "underlyingTokenSymbol": "weETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -549,10 +549,10 @@
         "underlyingTokenAddress": "0x5979D7b546E38E414F7E9822514be443A4800529",
         "underlyingTokenName": "Wrapped liquid staked Ether 2.0",
         "underlyingTokenSymbol": "wstETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     }
   ],

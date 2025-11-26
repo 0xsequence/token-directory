@@ -57,10 +57,10 @@
         "underlyingTokenAddress": "0x810D46F9a9027E28F9B01F75E2bdde839dA61115",
         "underlyingTokenName": "ChainLink Token",
         "underlyingTokenSymbol": "LINK",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -75,10 +75,10 @@
         "underlyingTokenAddress": "0xba50Cd2A20f6DA35D788639E581bca8d0B5d4D5f",
         "underlyingTokenName": "USD Coin",
         "underlyingTokenSymbol": "USDC",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -93,10 +93,10 @@
         "underlyingTokenAddress": "0x0a215D8ba66387DCA84B284D18c3B4ec3de6E54a",
         "underlyingTokenName": "Tether USD",
         "underlyingTokenSymbol": "USDT",
-        "underlyingTokenDecimals": 6
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -111,10 +111,10 @@
         "underlyingTokenAddress": "0x54114591963CF60EF3aA63bEfD6eC263D98145a4",
         "underlyingTokenName": "Wrapped BTC",
         "underlyingTokenSymbol": "WBTC",
-        "underlyingTokenDecimals": 8
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 8,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -129,10 +129,10 @@
         "underlyingTokenAddress": "0x4200000000000000000000000000000000000006",
         "underlyingTokenName": "Wrapped Ether",
         "underlyingTokenSymbol": "WETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -147,10 +147,10 @@
         "underlyingTokenAddress": "0xD171b9694f7A2597Ed006D41f7509aaD4B485c4B",
         "underlyingTokenName": "Coinbase Wrapped Staked ETH ",
         "underlyingTokenSymbol": "cbETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     }
   ],
