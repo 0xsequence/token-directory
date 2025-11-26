@@ -22766,6 +22766,1428 @@
         "description": "Embrace your inner Mojo and prove your strength on the battlefield!",
         "ogImage": "https://images.squarespace-cdn.com/content/v1/62bb628d44219244e9079a5a/43731023-15df-4737-a74a-209692abdd7b/planet-mojo-logo-home-splash-trimmed.png?format=1500w"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x71Aef7b30728b9BB371578f36c5A1f1502a5723e",
+      "name": "Aave Ethereum 1INCH",
+      "symbol": "aEth1INCH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x71Aef7b30728b9BB371578f36c5A1f1502a5723e&token=aEth1INCH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "underlyingTokenName": "1INCH Token",
+        "underlyingTokenSymbol": "1INCH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9",
+      "name": "Aave Ethereum AAVE",
+      "symbol": "aEthAAVE",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9&token=aEthAAVE",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "underlyingTokenName": "Aave Token",
+        "underlyingTokenSymbol": "AAVE",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2516E7B3F76294e03C42AA4c5b5b4DCE9C436fB8",
+      "name": "Aave Ethereum BAL",
+      "symbol": "aEthBAL",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x2516E7B3F76294e03C42AA4c5b5b4DCE9C436fB8&token=aEthBAL",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "underlyingTokenName": "Balancer",
+        "underlyingTokenSymbol": "BAL",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B95Ec873268a6BFC6427e7a28e396Db9D0ebc65",
+      "name": "Aave Ethereum CRV",
+      "symbol": "aEthCRV",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x7B95Ec873268a6BFC6427e7a28e396Db9D0ebc65&token=aEthCRV",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "underlyingTokenName": "Curve DAO Token",
+        "underlyingTokenSymbol": "CRV",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x018008bfb33d285247A21d44E50697654f754e63",
+      "name": "Aave Ethereum DAI",
+      "symbol": "aEthDAI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x018008bfb33d285247A21d44E50697654f754e63&token=aEthDAI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "underlyingTokenName": "Dai Stablecoin",
+        "underlyingTokenSymbol": "DAI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x545bD6c032eFdde65A377A6719DEF2796C8E0f2e",
+      "name": "Aave Ethereum ENS",
+      "symbol": "aEthENS",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x545bD6c032eFdde65A377A6719DEF2796C8E0f2e&token=aEthENS",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+        "underlyingTokenName": "Ethereum Name Service",
+        "underlyingTokenSymbol": "ENS",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c0E06a0b1A4c160c17545FF2A951bfcA57C0002",
+      "name": "Aave Ethereum ETHx",
+      "symbol": "aEthETHx",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x1c0E06a0b1A4c160c17545FF2A951bfcA57C0002&token=aEthETHx",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+        "underlyingTokenName": "ETHx",
+        "underlyingTokenSymbol": "ETHx",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xAA6e91C82942aeAE040303Bf96c15a6dBcB82CA0",
+      "name": "Aave Ethereum EURC",
+      "symbol": "aEthEURC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xAA6e91C82942aeAE040303Bf96c15a6dBcB82CA0&token=aEthEURC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+        "underlyingTokenName": "Euro Coin",
+        "underlyingTokenSymbol": "EURC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xcCA43ceF272c30415866914351fdfc3E881bb7c2",
+      "name": "Aave Ethereum FBTC",
+      "symbol": "aEthFBTC",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xcCA43ceF272c30415866914351fdfc3E881bb7c2&token=aEthFBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+        "underlyingTokenName": "Fire Bitcoin",
+        "underlyingTokenSymbol": "FBTC",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4e245848d6E1220DBE62e155d89fa327E43CB06",
+      "name": "Aave Ethereum FRAX",
+      "symbol": "aEthFRAX",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xd4e245848d6E1220DBE62e155d89fa327E43CB06&token=aEthFRAX",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+        "underlyingTokenName": "Frax",
+        "underlyingTokenSymbol": "FRAX",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x82F9c5ad306BBa1AD0De49bB5FA6F01bf61085ef",
+      "name": "Aave Ethereum FXS",
+      "symbol": "aEthFXS",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x82F9c5ad306BBa1AD0De49bB5FA6F01bf61085ef&token=aEthFXS",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+        "underlyingTokenName": "Frax Share",
+        "underlyingTokenSymbol": "FXS",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x00907f9921424583e7ffBfEdf84F92B7B2Be4977",
+      "name": "Aave Ethereum GHO",
+      "symbol": "aEthGHO",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x00907f9921424583e7ffBfEdf84F92B7B2Be4977&token=aEthGHO",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+        "underlyingTokenName": "Gho Token",
+        "underlyingTokenSymbol": "GHO",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b502e3796385E1e9755d7043B9C945C3aCCeC9C",
+      "name": "Aave Ethereum KNC",
+      "symbol": "aEthKNC",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x5b502e3796385E1e9755d7043B9C945C3aCCeC9C&token=aEthKNC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+        "underlyingTokenName": "Kyber Network Crystal v2",
+        "underlyingTokenSymbol": "KNC",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x65906988ADEe75306021C417a1A3458040239602",
+      "name": "Aave Ethereum LBTC",
+      "symbol": "aEthLBTC",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x65906988ADEe75306021C417a1A3458040239602&token=aEthLBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8236a87084f8B84306f72007F36F2618A5634494",
+        "underlyingTokenName": "Lombard Staked Bitcoin",
+        "underlyingTokenSymbol": "LBTC",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A44fd41566876A39655f74971a3A6eA0a17a454",
+      "name": "Aave Ethereum LDO",
+      "symbol": "aEthLDO",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x9A44fd41566876A39655f74971a3A6eA0a17a454&token=aEthLDO",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+        "underlyingTokenName": "Lido DAO Token",
+        "underlyingTokenSymbol": "LDO",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E8C8A7243651DB1384C0dDfDbE39761E8e7E51a",
+      "name": "Aave Ethereum LINK",
+      "symbol": "aEthLINK",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x5E8C8A7243651DB1384C0dDfDbE39761E8e7E51a&token=aEthLINK",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "underlyingTokenName": "ChainLink Token",
+        "underlyingTokenSymbol": "LINK",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Fe6a295459FAe07DF8A0ceCC36F37160FE86AA9",
+      "name": "Aave Ethereum LUSD",
+      "symbol": "aEthLUSD",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x3Fe6a295459FAe07DF8A0ceCC36F37160FE86AA9&token=aEthLUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "underlyingTokenName": "LUSD Stablecoin",
+        "underlyingTokenSymbol": "LUSD",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A458A9dc9048e005d22849F470891b840296619",
+      "name": "Aave Ethereum MKR",
+      "symbol": "aEthMKR",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x8A458A9dc9048e005d22849F470891b840296619&token=aEthMKR",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+        "underlyingTokenName": "Maker",
+        "underlyingTokenSymbol": "MKR",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x38A5357Ce55c81add62aBc84Fb32981e2626ADEf",
+      "name": "Aave Ethereum PT_USDe_25SEP2025",
+      "symbol": "aEthPT_USDe_25SEP2025",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x38A5357Ce55c81add62aBc84Fb32981e2626ADEf&token=aEthPT_USDe_25SEP2025",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xBC6736d346a5eBC0dEbc997397912CD9b8FAe10a",
+        "underlyingTokenName": "PT Ethena USDe 25SEP2025",
+        "underlyingTokenSymbol": "PT-USDe-25SEP2025",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x38C503a438185cDE29b5cF4dC1442FD6F074F1cc",
+      "name": "Aave Ethereum PT_USDe_27NOV2025",
+      "symbol": "aEthPT_USDe_27NOV2025",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x38C503a438185cDE29b5cF4dC1442FD6F074F1cc&token=aEthPT_USDe_27NOV2025",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x62C6E813b9589C3631Ba0Cdb013acdB8544038B7",
+        "underlyingTokenName": "PT Ethena USDe 27NOV2025",
+        "underlyingTokenSymbol": "PT-USDe-27NOV2025",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x312ffC57778CEfa11989733e6E08143E7E229c1c",
+      "name": "Aave Ethereum PT_USDe_31JUL2025",
+      "symbol": "aEthPT_USDe_31JUL2025",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x312ffC57778CEfa11989733e6E08143E7E229c1c&token=aEthPT_USDe_31JUL2025",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x917459337CaAC939D41d7493B3999f571D20D667",
+        "underlyingTokenName": "PT Ethena USDe 31JUL2025",
+        "underlyingTokenSymbol": "PT-USDe-31JUL2025",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xE728577e9a1Fe7032bc309B4541F58f45443866e",
+      "name": "Aave Ethereum PT_USDE_5FEB_2026",
+      "symbol": "aEthPT_USDE_5FEB_2026",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xE728577e9a1Fe7032bc309B4541F58f45443866e&token=aEthPT_USDE_5FEB_2026",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x1F84a51296691320478c98b8d77f2Bbd17D34350",
+        "underlyingTokenName": "PT Ethena USDe 5FEB2026",
+        "underlyingTokenSymbol": "PT-USDe-5FEB2026",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eDff5AF94334fBd7C38ae318edf1c40e072b73B",
+      "name": "Aave Ethereum PT_eUSDe_14AUG2025",
+      "symbol": "aEthPT_eUSDe_14AUG2025",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x2eDff5AF94334fBd7C38ae318edf1c40e072b73B&token=aEthPT_eUSDe_14AUG2025",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x14Bdc3A3AE09f5518b923b69489CBcAfB238e617",
+        "underlyingTokenName": "PT Ethereal eUSDE 14AUG2025",
+        "underlyingTokenSymbol": "PT-eUSDE-14AUG2025",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B0821e768Ed9039a70eD1E80E15E76a5bE5Df5F",
+      "name": "Aave Ethereum PT_eUSDE_29MAY2025",
+      "symbol": "aEthPT_eUSDE_29MAY2025",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x4B0821e768Ed9039a70eD1E80E15E76a5bE5Df5F&token=aEthPT_eUSDE_29MAY2025",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x50D2C7992b802Eef16c04FeADAB310f31866a545",
+        "underlyingTokenName": "PT Ethereal eUSDE 29MAY2025",
+        "underlyingTokenSymbol": "PT-eUSDE-29MAY2025",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f4a0873a3A02f7C0CB0e13a1d4362a1AD90e751",
+      "name": "Aave Ethereum PT_sUSDE_25SEP2025",
+      "symbol": "aEthPT_sUSDE_25SEP2025",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x5f4a0873a3A02f7C0CB0e13a1d4362a1AD90e751&token=aEthPT_sUSDE_25SEP2025",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9F56094C450763769BA0EA9Fe2876070c0fD5F77",
+        "underlyingTokenName": "PT Ethena sUSDE 25SEP2025",
+        "underlyingTokenSymbol": "PT-sUSDE-25SEP2025",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x285866acB0d60105B4Ed350a463361c2d9afA0E2",
+      "name": "Aave Ethereum PT_sUSDe_27NOV2025",
+      "symbol": "aEthPT_sUSDe_27NOV2025",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x285866acB0d60105B4Ed350a463361c2d9afA0E2&token=aEthPT_sUSDe_27NOV2025",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xe6A934089BBEe34F832060CE98848359883749B3",
+        "underlyingTokenName": "PT Ethena sUSDE 27NOV2025",
+        "underlyingTokenSymbol": "PT-sUSDE-27NOV2025",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xDE6eF6CB4aBd3A473ffC2942eEf5D84536F8E864",
+      "name": "Aave Ethereum PT_sUSDE_31JUL2025",
+      "symbol": "aEthPT_sUSDE_31JUL2025",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xDE6eF6CB4aBd3A473ffC2942eEf5D84536F8E864&token=aEthPT_sUSDE_31JUL2025",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x3b3fB9C57858EF816833dC91565EFcd85D96f634",
+        "underlyingTokenName": "PT Ethena sUSDE 31JUL2025",
+        "underlyingTokenSymbol": "PT-sUSDE-31JUL2025",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe54767735fB7Acca2aa7E2d209a6f705073536D",
+      "name": "Aave Ethereum PT_sUSDe_5FEB_2026",
+      "symbol": "aEthPT_sUSDe_5FEB_2026",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xbe54767735fB7Acca2aa7E2d209a6f705073536D&token=aEthPT_sUSDe_5FEB_2026",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xE8483517077afa11A9B07f849cee2552f040d7b2",
+        "underlyingTokenName": "PT Ethena sUSDE 5FEB2026",
+        "underlyingTokenSymbol": "PT-sUSDE-5FEB2026",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C0d01AbF3e6aDfcA0989eBbA9d6e85dD58EaB1E",
+      "name": "Aave Ethereum PYUSD",
+      "symbol": "aEthPYUSD",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x0C0d01AbF3e6aDfcA0989eBbA9d6e85dD58EaB1E&token=aEthPYUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+        "underlyingTokenName": "PayPal USD",
+        "underlyingTokenSymbol": "PYUSD",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xFa82580c16A31D0c1bC632A36F82e83EfEF3Eec0",
+      "name": "Aave Ethereum RLUSD",
+      "symbol": "aEthRLUSD",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xFa82580c16A31D0c1bC632A36F82e83EfEF3Eec0&token=aEthRLUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+        "underlyingTokenName": "RLUSD",
+        "underlyingTokenSymbol": "RLUSD",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xB76CF92076adBF1D9C39294FA8e7A67579FDe357",
+      "name": "Aave Ethereum RPL",
+      "symbol": "aEthRPL",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xB76CF92076adBF1D9C39294FA8e7A67579FDe357&token=aEthRPL",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+        "underlyingTokenName": "Rocket Pool Protocol",
+        "underlyingTokenSymbol": "RPL",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7B4c17861357B8ABB91F25581E7263E08DCB59c",
+      "name": "Aave Ethereum SNX",
+      "symbol": "aEthSNX",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xC7B4c17861357B8ABB91F25581E7263E08DCB59c&token=aEthSNX",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "underlyingTokenName": "Synthetix Network Token",
+        "underlyingTokenSymbol": "SNX",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bA9843bD4327c6c77011406dE5fA8749F7E3479",
+      "name": "Aave Ethereum STG",
+      "symbol": "aEthSTG",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x1bA9843bD4327c6c77011406dE5fA8749F7E3479&token=aEthSTG",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+        "underlyingTokenName": "StargateToken",
+        "underlyingTokenSymbol": "STG",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6D2224916DDFbbab6e6bd0D1B7034f4Ae0CaB18",
+      "name": "Aave Ethereum UNI",
+      "symbol": "aEthUNI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xF6D2224916DDFbbab6e6bd0D1B7034f4Ae0CaB18&token=aEthUNI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "underlyingTokenName": "Uniswap",
+        "underlyingTokenSymbol": "UNI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c",
+      "name": "Aave Ethereum USDC",
+      "symbol": "aEthUSDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c&token=aEthUSDC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x32a6268f9Ba3642Dda7892aDd74f1D34469A4259",
+      "name": "Aave Ethereum USDS",
+      "symbol": "aEthUSDS",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x32a6268f9Ba3642Dda7892aDd74f1D34469A4259&token=aEthUSDS",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+        "underlyingTokenName": "USDS Stablecoin",
+        "underlyingTokenSymbol": "USDS",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
+      "name": "Aave Ethereum USDT",
+      "symbol": "aEthUSDT",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a&token=aEthUSDT",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F5923Fc5FD4a93352581b38B7cD26943012DECF",
+      "name": "Aave Ethereum USDe",
+      "symbol": "aEthUSDe",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x4F5923Fc5FD4a93352581b38B7cD26943012DECF&token=aEthUSDe",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+        "underlyingTokenName": "USDe",
+        "underlyingTokenSymbol": "USDe",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc4ef66D4fCeEba34aBB4dE69dB391Bc5476ccc8",
+      "name": "Aave Ethereum USDtb",
+      "symbol": "aEthUSDtb",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xEc4ef66D4fCeEba34aBB4dE69dB391Bc5476ccc8&token=aEthUSDtb",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
+        "underlyingTokenName": "USDtb",
+        "underlyingTokenSymbol": "USDtb",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Ee5bf7ae06D1Be5997A1A72006FE6C607eC6DE8",
+      "name": "Aave Ethereum WBTC",
+      "symbol": "aEthWBTC",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x5Ee5bf7ae06D1Be5997A1A72006FE6C607eC6DE8&token=aEthWBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "underlyingTokenName": "Wrapped BTC",
+        "underlyingTokenSymbol": "WBTC",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8",
+      "name": "Aave Ethereum WETH",
+      "symbol": "aEthWETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8&token=aEthWETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A2b6f94Ff3A89a03E8c02Ee92b55aF90c9454A2",
+      "name": "Aave Ethereum XAUt",
+      "symbol": "aEthXAUt",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x8A2b6f94Ff3A89a03E8c02Ee92b55aF90c9454A2&token=aEthXAUt",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+        "underlyingTokenName": "Tether Gold",
+        "underlyingTokenSymbol": "XAUt",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c647cE0Ae10658ec44FA4E11A51c96e94efd1Dd",
+      "name": "Aave Ethereum cbBTC",
+      "symbol": "aEthcbBTC",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x5c647cE0Ae10658ec44FA4E11A51c96e94efd1Dd&token=aEthcbBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+        "underlyingTokenName": "Coinbase Wrapped BTC",
+        "underlyingTokenSymbol": "cbBTC",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x977b6fc5dE62598B08C85AC8Cf2b745874E8b78c",
+      "name": "Aave Ethereum cbETH",
+      "symbol": "aEthcbETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x977b6fc5dE62598B08C85AC8Cf2b745874E8b78c&token=aEthcbETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+        "underlyingTokenName": "Coinbase Wrapped Staked ETH",
+        "underlyingTokenSymbol": "cbETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb82fa9f31612989525992FCfBB09AB22Eff5c85A",
+      "name": "Aave Ethereum crvUSD",
+      "symbol": "aEthcrvUSD",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xb82fa9f31612989525992FCfBB09AB22Eff5c85A&token=aEthcrvUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+        "underlyingTokenName": "Curve.Fi USD Stablecoin",
+        "underlyingTokenSymbol": "crvUSD",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fefd7069a7D91d01f269DADE14526CCF3487810",
+      "name": "Aave Ethereum eBTC",
+      "symbol": "aEtheBTC",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x5fefd7069a7D91d01f269DADE14526CCF3487810&token=aEtheBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
+        "underlyingTokenName": "ether.fi BTC",
+        "underlyingTokenSymbol": "eBTC",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F9190496e0DFC831C3bd307978de4a245E2F5cD",
+      "name": "Aave Ethereum eUSDe",
+      "symbol": "aEtheUSDe",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x5F9190496e0DFC831C3bd307978de4a245E2F5cD&token=aEtheUSDe",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x90D2af7d622ca3141efA4d8f1F24d86E5974Cc8F",
+        "underlyingTokenName": "Ethereal Pre-deposit Vault",
+        "underlyingTokenSymbol": "eUSDe",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E2a4d9B3DF7Aae73b418Bd39F3af9e148E3F479",
+      "name": "Aave Ethereum ezETH",
+      "symbol": "aEthezETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x4E2a4d9B3DF7Aae73b418Bd39F3af9e148E3F479&token=aEthezETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+        "underlyingTokenName": "Renzo Restaked ETH",
+        "underlyingTokenSymbol": "ezETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x927709711794F3De5DdBF1D176bEE2D55Ba13c21",
+      "name": "Aave Ethereum osETH",
+      "symbol": "aEthosETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x927709711794F3De5DdBF1D176bEE2D55Ba13c21&token=aEthosETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+        "underlyingTokenName": "Staked ETH",
+        "underlyingTokenSymbol": "osETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xCc9EE9483f662091a1de4795249E24aC0aC2630f",
+      "name": "Aave Ethereum rETH",
+      "symbol": "aEthrETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xCc9EE9483f662091a1de4795249E24aC0aC2630f&token=aEthrETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+        "underlyingTokenName": "Rocket Pool ETH",
+        "underlyingTokenSymbol": "rETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D62109243b87C4bA3EE7bA1D91B0dD0A074d7b1",
+      "name": "Aave Ethereum rsETH",
+      "symbol": "aEthrsETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x2D62109243b87C4bA3EE7bA1D91B0dD0A074d7b1&token=aEthrsETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+        "underlyingTokenName": "rsETH",
+        "underlyingTokenSymbol": "rsETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C612E3B15b96Ff9A6faED838F8d07d479a8dD4c",
+      "name": "Aave Ethereum sDAI",
+      "symbol": "aEthsDAI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x4C612E3B15b96Ff9A6faED838F8d07d479a8dD4c&token=aEthsDAI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+        "underlyingTokenName": "Savings Dai",
+        "underlyingTokenSymbol": "sDAI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4579a27aF00A62C0EB156349f31B345c08386419",
+      "name": "Aave Ethereum sUSDe",
+      "symbol": "aEthsUSDe",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x4579a27aF00A62C0EB156349f31B345c08386419&token=aEthsUSDe",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+        "underlyingTokenName": "Staked USDe",
+        "underlyingTokenSymbol": "sUSDe",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x10Ac93971cdb1F5c778144084242374473c350Da",
+      "name": "Aave Ethereum tBTC",
+      "symbol": "aEthtBTC",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x10Ac93971cdb1F5c778144084242374473c350Da&token=aEthtBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+        "underlyingTokenName": "tBTC v2",
+        "underlyingTokenSymbol": "tBTC",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x481a2acf3A72ffDc602A9541896Ca1DB87f86cf7",
+      "name": "Aave Ethereum tETH",
+      "symbol": "aEthtETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x481a2acf3A72ffDc602A9541896Ca1DB87f86cf7&token=aEthtETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xD11c452fc99cF405034ee446803b6F6c1F6d5ED8",
+        "underlyingTokenName": "Treehouse ETH",
+        "underlyingTokenSymbol": "tETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xBdfa7b7893081B35Fb54027489e2Bc7A38275129",
+      "name": "Aave Ethereum weETH",
+      "symbol": "aEthweETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xBdfa7b7893081B35Fb54027489e2Bc7A38275129&token=aEthweETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+        "underlyingTokenName": "Wrapped eETH",
+        "underlyingTokenSymbol": "weETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B925eD163218f6662a35e0f0371Ac234f9E9371",
+      "name": "Aave Ethereum wstETH",
+      "symbol": "aEthwstETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x0B925eD163218f6662a35e0f0371Ac234f9E9371&token=aEthwstETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+        "underlyingTokenName": "Wrapped liquid staked Ether 2.0",
+        "underlyingTokenSymbol": "wstETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6914ECCf50837dC61b43ee478a9BD9B439648956",
+      "name": "Aave Ethereum EtherFi FRAX",
+      "symbol": "aEthEtherFiFRAX",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x6914ECCf50837dC61b43ee478a9BD9B439648956&token=aEthEtherFiFRAX",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+        "underlyingTokenName": "Frax",
+        "underlyingTokenSymbol": "FRAX",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdF7f48892244C6106EA784609f7de10AB36F9c7e",
+      "name": "Aave Ethereum EtherFi PYUSD",
+      "symbol": "aEthEtherFiPYUSD",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xdF7f48892244C6106EA784609f7de10AB36F9c7e&token=aEthEtherFiPYUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+        "underlyingTokenName": "PayPal USD",
+        "underlyingTokenSymbol": "PYUSD",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7380c583cDe4409eFF5DD3320D93a45D96B80E2e",
+      "name": "Aave Ethereum EtherFi USDC",
+      "symbol": "aEthEtherFiUSDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x7380c583cDe4409eFF5DD3320D93a45D96B80E2e&token=aEthEtherFiUSDC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe1F842e7e0afd2c2322aae5d34bA899544b29db",
+      "name": "Aave Ethereum EtherFi weETH",
+      "symbol": "aEthEtherFiweETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xbe1F842e7e0afd2c2322aae5d34bA899544b29db&token=aEthEtherFiweETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+        "underlyingTokenName": "Wrapped eETH",
+        "underlyingTokenSymbol": "weETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x18eFE565A5373f430e2F809b97De30335B3ad96A",
+      "name": "Aave Ethereum Lido GHO",
+      "symbol": "aEthLidoGHO",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x18eFE565A5373f430e2F809b97De30335B3ad96A&token=aEthLidoGHO",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+        "underlyingTokenName": "Gho Token",
+        "underlyingTokenSymbol": "GHO",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A1FBcb52Ed4d9b23daD17E1E8Aed4BB0E6079b8",
+      "name": "Aave Ethereum Lido USDC",
+      "symbol": "aEthLidoUSDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x2A1FBcb52Ed4d9b23daD17E1E8Aed4BB0E6079b8&token=aEthLidoUSDC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x09AA30b182488f769a9824F15E6Ce58591Da4781",
+      "name": "Aave Ethereum Lido USDS",
+      "symbol": "aEthLidoUSDS",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x09AA30b182488f769a9824F15E6Ce58591Da4781&token=aEthLidoUSDS",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+        "underlyingTokenName": "USDS Stablecoin",
+        "underlyingTokenSymbol": "USDS",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA1fDbBD71B0aA16162D76914d69cD8CB3Ef92da",
+      "name": "Aave Ethereum Lido WETH",
+      "symbol": "aEthLidoWETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xfA1fDbBD71B0aA16162D76914d69cD8CB3Ef92da&token=aEthLidoWETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x74e5664394998f13B07aF42446380ACef637969f",
+      "name": "Aave Ethereum Lido ezETH",
+      "symbol": "aEthLidoezETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x74e5664394998f13B07aF42446380ACef637969f&token=aEthLidoezETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+        "underlyingTokenName": "Renzo Restaked ETH",
+        "underlyingTokenSymbol": "ezETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x56D919E7B25aA42F3F8a4BC77b8982048F2E84B4",
+      "name": "Aave Ethereum Lido rsETH",
+      "symbol": "aEthLidorsETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x56D919E7B25aA42F3F8a4BC77b8982048F2E84B4&token=aEthLidorsETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+        "underlyingTokenName": "rsETH",
+        "underlyingTokenSymbol": "rsETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2015641564a5914A17CB9A92eC8d8feCfa8f2D0",
+      "name": "Aave Ethereum Lido sUSDe",
+      "symbol": "aEthLidosUSDe",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xc2015641564a5914A17CB9A92eC8d8feCfa8f2D0&token=aEthLidosUSDe",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+        "underlyingTokenName": "Staked USDe",
+        "underlyingTokenSymbol": "sUSDe",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xce8c60fd8390eFCc3Fc66A3f0bd64BEb969e750E",
+      "name": "Aave Ethereum Lido tETH",
+      "symbol": "aEthLidotETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xce8c60fd8390eFCc3Fc66A3f0bd64BEb969e750E&token=aEthLidotETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xD11c452fc99cF405034ee446803b6F6c1F6d5ED8",
+        "underlyingTokenName": "Treehouse ETH",
+        "underlyingTokenSymbol": "tETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xC035a7cf15375cE2706766804551791aD035E0C2",
+      "name": "Aave Ethereum Lido wstETH",
+      "symbol": "aEthLidowstETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xC035a7cf15375cE2706766804551791aD035E0C2&token=aEthLidowstETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+        "underlyingTokenName": "Wrapped liquid staked Ether 2.0",
+        "underlyingTokenSymbol": "wstETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x946281A2d0DD6e650d08f74833323D66AE4c8b12",
+      "name": "Aave Horizon RWA GHO",
+      "symbol": "aHorRwaGHO",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x946281A2d0DD6e650d08f74833323D66AE4c8b12&token=aHorRwaGHO",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+        "underlyingTokenName": "Gho Token",
+        "underlyingTokenSymbol": "GHO",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0EC6c4482Ac1Ef77bE239C0AC833CF37A27c876",
+      "name": "Aave Horizon RWA JAAA",
+      "symbol": "aHorRwaJAAA",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xB0EC6c4482Ac1Ef77bE239C0AC833CF37A27c876&token=aHorRwaJAAA",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x5a0F93D040De44e78F251b03c43be9CF317Dcf64",
+        "underlyingTokenName": "Janus Henderson Anemoy AAA CLO Fund Token",
+        "underlyingTokenSymbol": "JAAA",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x844f07AB09aa5dBDCE6A9b1206CE150E1eaDacCb",
+      "name": "Aave Horizon RWA JTRSY",
+      "symbol": "aHorRwaJTRSY",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x844f07AB09aa5dBDCE6A9b1206CE150E1eaDacCb&token=aHorRwaJTRSY",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8c213ee79581Ff4984583C6a801e5263418C4b86",
+        "underlyingTokenName": "Janus Henderson Anemoy Treasury Fund",
+        "underlyingTokenSymbol": "JTRSY",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3190143Eb552456F88464662f0c0C4aC67A77eB",
+      "name": "Aave Horizon RWA RLUSD",
+      "symbol": "aHorRwaRLUSD",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xE3190143Eb552456F88464662f0c0C4aC67A77eB&token=aHorRwaRLUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+        "underlyingTokenName": "RLUSD",
+        "underlyingTokenSymbol": "RLUSD",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x08b798c40b9AB931356d9aB4235F548325C4cb80",
+      "name": "Aave Horizon RWA USCC",
+      "symbol": "aHorRwaUSCC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x08b798c40b9AB931356d9aB4235F548325C4cb80&token=aHorRwaUSCC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x14d60E7FDC0D71d8611742720E4C50E7a974020c",
+        "underlyingTokenName": "Superstate Crypto Carry Fund",
+        "underlyingTokenSymbol": "USCC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x68215B6533c47ff9f7125aC95adf00fE4a62f79e",
+      "name": "Aave Horizon RWA USDC",
+      "symbol": "aHorRwaUSDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x68215B6533c47ff9f7125aC95adf00fE4a62f79e&token=aHorRwaUSDC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E58a2E433A739726134c83d2f07b2562e8dFdB3",
+      "name": "Aave Horizon RWA USTB",
+      "symbol": "aHorRwaUSTB",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x4E58a2E433A739726134c83d2f07b2562e8dFdB3&token=aHorRwaUSTB",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e",
+        "underlyingTokenName": "Superstate Short Duration US Government Securities Fund",
+        "underlyingTokenSymbol": "USTB",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc167932AC4EEc2B65844EF00D31b4550250536A5",
+      "name": "Aave Horizon RWA USYC",
+      "symbol": "aHorRwaUSYC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xc167932AC4EEc2B65844EF00D31b4550250536A5&token=aHorRwaUSYC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x136471a34f6ef19fE571EFFC1CA711fdb8E49f2b",
+        "underlyingTokenName": "US Yield Coin",
+        "underlyingTokenSymbol": "USYC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1CfD16b8E4B1C86Bb5b7A104cfEFbc7b09326dD",
+      "name": "Aave Horizon RWA VBILL",
+      "symbol": "aHorRwaVBILL",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xE1CfD16b8E4B1C86Bb5b7A104cfEFbc7b09326dD&token=aHorRwaVBILL",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x2255718832bC9fD3bE1CaF75084F4803DA14FF01",
+        "underlyingTokenName": "VanEck Treasury Fund",
+        "underlyingTokenSymbol": "VBILL",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
     }
   ],
   "version": {

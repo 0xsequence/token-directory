@@ -219,6 +219,330 @@
         "featured": true,
         "featureIndex": 1
       }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
+      "name": "Aave Avalanche AAVE",
+      "symbol": "aAvaAAVE",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0xf329e36C7bF6E5E86ce2150875a84Ce77f477375&token=aAvaAAVE",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+        "underlyingTokenName": "Aave Token",
+        "underlyingTokenSymbol": "AAVE.e",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+      "name": "Aave Avalanche AUSD",
+      "symbol": "aAvaAUSD",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x724dc807b04555b71ed48a6896b6F41593b8C637&token=aAvaAUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+        "underlyingTokenName": "AUSD",
+        "underlyingTokenSymbol": "AUSD",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
+      "name": "Aave Avalanche BTC.b",
+      "symbol": "aAvaBTC.b",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x8ffDf2DE812095b1D19CB146E4c004587C0A0692&token=aAvaBTC.b",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "underlyingTokenName": "Bitcoin",
+        "underlyingTokenSymbol": "BTC.b",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+      "name": "Aave Avalanche DAI",
+      "symbol": "aAvaDAI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE&token=aAvaDAI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+        "underlyingTokenName": "Dai Stablecoin",
+        "underlyingTokenSymbol": "DAI.e",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8a9FdE6925a839F6B1932d16B36aC026F8d3FbdB",
+      "name": "Aave Avalanche EURC",
+      "symbol": "aAvaEURC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x8a9FdE6925a839F6B1932d16B36aC026F8d3FbdB&token=aAvaEURC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+        "underlyingTokenName": "Euro Coin",
+        "underlyingTokenSymbol": "EURC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc45A479877e1e9Dfe9FcD4056c699575a1045dAA",
+      "name": "Aave Avalanche FRAX",
+      "symbol": "aAvaFRAX",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0xc45A479877e1e9Dfe9FcD4056c699575a1045dAA&token=aAvaFRAX",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+        "underlyingTokenName": "Frax",
+        "underlyingTokenSymbol": "FRAX",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xf611aEb5013fD2c0511c9CD55c7dc5C1140741A6",
+      "name": "Aave Avalanche GHO",
+      "symbol": "aAvaGHO",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0xf611aEb5013fD2c0511c9CD55c7dc5C1140741A6&token=aAvaGHO",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+        "underlyingTokenName": "Gho Token",
+        "underlyingTokenSymbol": "GHO",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+      "name": "Aave Avalanche LINK",
+      "symbol": "aAvaLINK",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530&token=aAvaLINK",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x5947BB275c521040051D82396192181b413227A3",
+        "underlyingTokenName": "Chainlink Token",
+        "underlyingTokenSymbol": "LINK.e",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+      "name": "Aave Avalanche MAI",
+      "symbol": "aAvaMAI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x8Eb270e296023E9D92081fdF967dDd7878724424&token=aAvaMAI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
+        "underlyingTokenName": "Mai Stablecoin",
+        "underlyingTokenSymbol": "MAI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "name": "Aave Avalanche USDC",
+      "symbol": "aAvaUSDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x625E7708f30cA75bfd92586e17077590C60eb4cD&token=aAvaUSDC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6533afac2E7BCCB20dca161449A13A32D391fb00",
+      "name": "Aave Avalanche USDe",
+      "symbol": "aAvaUSDe",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x6533afac2E7BCCB20dca161449A13A32D391fb00&token=aAvaUSDe",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "underlyingTokenName": "USDe",
+        "underlyingTokenSymbol": "USDe",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Avalanche USDT",
+      "symbol": "aAvaUSDT",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x6ab707Aca953eDAeFBc4fD23bA73294241490620&token=aAvaUSDT",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "underlyingTokenName": "TetherToken",
+        "underlyingTokenSymbol": "USDt",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+      "name": "Aave Avalanche WAVAX",
+      "symbol": "aAvaWAVAX",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97&token=aAvaWAVAX",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "underlyingTokenName": "Wrapped AVAX",
+        "underlyingTokenSymbol": "WAVAX",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x078f358208685046a11C85e8ad32895DED33A249",
+      "name": "Aave Avalanche WBTC",
+      "symbol": "aAvaWBTC",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x078f358208685046a11C85e8ad32895DED33A249&token=aAvaWBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+        "underlyingTokenName": "Wrapped BTC",
+        "underlyingTokenSymbol": "WBTC.e",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+      "name": "Aave Avalanche WETH",
+      "symbol": "aAvaWETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8&token=aAvaWETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH.e",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+      "name": "Aave Avalanche SAVAX",
+      "symbol": "aAvaSAVAX",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf&token=aAvaSAVAX",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+        "underlyingTokenName": "Staked AVAX",
+        "underlyingTokenSymbol": "sAVAX",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x44705f578135cC5d703b4c9c122528C73Eb87145",
+      "name": "Aave Avalanche sUSDe",
+      "symbol": "aAvasUSDe",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x44705f578135cC5d703b4c9c122528C73Eb87145&token=aAvasUSDe",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+        "underlyingTokenName": "Staked USDe",
+        "underlyingTokenSymbol": "sUSDe",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x40B4BAEcc69B882e8804f9286b12228C27F8c9BF",
+      "name": "Aave Avalanche wrsETH",
+      "symbol": "aAvawrsETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=43114:0x40B4BAEcc69B882e8804f9286b12228C27F8c9BF&token=aAvawrsETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x7bFd4CA2a6Cf3A3fDDd645D10B323031afe47FF0",
+        "underlyingTokenName": "rsETHWrapper",
+        "underlyingTokenSymbol": "wrsETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
     }
   ]
 }
