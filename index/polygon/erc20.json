@@ -7613,6 +7613,384 @@
         ],
         "ogImage": "https://images.squarespace-cdn.com/content/v1/62bb628d44219244e9079a5a/43731023-15df-4737-a74a-209692abdd7b/planet-mojo-logo-home-splash-trimmed.png?format=1500w"
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
+      "name": "Aave Polygon AAVE",
+      "symbol": "aPolAAVE",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0xf329e36C7bF6E5E86ce2150875a84Ce77f477375&token=aPolAAVE",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "underlyingTokenName": "Aave (PoS)",
+        "underlyingTokenSymbol": "AAVE",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
+      "name": "Aave Polygon BAL",
+      "symbol": "aPolBAL",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x8ffDf2DE812095b1D19CB146E4c004587C0A0692&token=aPolBAL",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+        "underlyingTokenName": "Balancer (PoS)",
+        "underlyingTokenSymbol": "BAL",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+      "name": "Aave Polygon CRV",
+      "symbol": "aPolCRV",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf&token=aPolCRV",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "underlyingTokenName": "CRV (PoS)",
+        "underlyingTokenSymbol": "CRV",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+      "name": "Aave Polygon DAI",
+      "symbol": "aPolDAI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE&token=aPolDAI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "underlyingTokenName": "(PoS) Dai Stablecoin",
+        "underlyingTokenSymbol": "DAI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+      "name": "Aave Polygon DPI",
+      "symbol": "aPolDPI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x724dc807b04555b71ed48a6896b6F41593b8C637&token=aPolDPI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
+        "underlyingTokenName": "DefiPulse Index (PoS)",
+        "underlyingTokenSymbol": "DPI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x8437d7C167dFB82ED4Cb79CD44B7a32A1dd95c77",
+      "name": "Aave Polygon AGEUR",
+      "symbol": "aPolAGEUR",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x8437d7C167dFB82ED4Cb79CD44B7a32A1dd95c77&token=aPolAGEUR",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+        "underlyingTokenName": "EURA (previously agEUR)",
+        "underlyingTokenSymbol": "EURA",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5",
+      "name": "Aave Polygon EURS",
+      "symbol": "aPolEURS",
+      "decimals": 2,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5&token=aPolEURS",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
+        "underlyingTokenName": "STASIS EURS Token (PoS)",
+        "underlyingTokenSymbol": "EURS",
+        "underlyingTokenDecimals": 2
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+      "name": "Aave Polygon GHST",
+      "symbol": "aPolGHST",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x8Eb270e296023E9D92081fdF967dDd7878724424&token=aPolGHST",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "underlyingTokenName": "Aavegotchi GHST Token (PoS)",
+        "underlyingTokenSymbol": "GHST",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+      "name": "Aave Polygon LINK",
+      "symbol": "aPolLINK",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530&token=aPolLINK",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "underlyingTokenName": "ChainLink Token",
+        "underlyingTokenSymbol": "LINK",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x80cA0d8C38d2e2BcbaB66aA1648Bd1C7160500FE",
+      "name": "Aave Polygon MATICX",
+      "symbol": "aPolMATICX",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x80cA0d8C38d2e2BcbaB66aA1648Bd1C7160500FE&token=aPolMATICX",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+        "underlyingTokenName": "Liquid Staking Matic (PoS)",
+        "underlyingTokenSymbol": "MaticX",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xc45A479877e1e9Dfe9FcD4056c699575a1045dAA",
+      "name": "Aave Polygon SUSHI",
+      "symbol": "aPolSUSHI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0xc45A479877e1e9Dfe9FcD4056c699575a1045dAA&token=aPolSUSHI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "underlyingTokenName": "SushiToken (PoS)",
+        "underlyingTokenSymbol": "SUSHI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "name": "Aave Polygon USDC",
+      "symbol": "aPolUSDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x625E7708f30cA75bfd92586e17077590C60eb4cD&token=aPolUSDC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "underlyingTokenName": "USD Coin (PoS)",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xA4D94019934D8333Ef880ABFFbF2FDd611C762BD",
+      "name": "Aave Polygon USDCn",
+      "symbol": "aPolUSDCn",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0xA4D94019934D8333Ef880ABFFbF2FDd611C762BD&token=aPolUSDCn",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Polygon USDT",
+      "symbol": "aPolUSDT",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x6ab707Aca953eDAeFBc4fD23bA73294241490620&token=aPolUSDT",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "underlyingTokenName": "USDT0",
+        "underlyingTokenSymbol": "USDT0",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x078f358208685046a11C85e8ad32895DED33A249",
+      "name": "Aave Polygon WBTC",
+      "symbol": "aPolWBTC",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x078f358208685046a11C85e8ad32895DED33A249&token=aPolWBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "underlyingTokenName": "(PoS) Wrapped BTC",
+        "underlyingTokenSymbol": "WBTC",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+      "name": "Aave Polygon WETH",
+      "symbol": "aPolWETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8&token=aPolWETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+      "name": "Aave Polygon WMATIC",
+      "symbol": "aPolWMATIC",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97&token=aPolWMATIC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "underlyingTokenName": "Wrapped Polygon Ecosystem Token",
+        "underlyingTokenSymbol": "WPOL",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x6533afac2E7BCCB20dca161449A13A32D391fb00",
+      "name": "Aave Polygon JEUR",
+      "symbol": "aPolJEUR",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x6533afac2E7BCCB20dca161449A13A32D391fb00&token=aPolJEUR",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c",
+        "underlyingTokenName": "Jarvis Synthetic Euro",
+        "underlyingTokenSymbol": "jEUR",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xeBe517846d0F36eCEd99C735cbF6131e1fEB775D",
+      "name": "Aave Polygon MIMATIC",
+      "symbol": "aPolMIMATIC",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0xeBe517846d0F36eCEd99C735cbF6131e1fEB775D&token=aPolMIMATIC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+        "underlyingTokenName": "miMATIC",
+        "underlyingTokenSymbol": "miMATIC",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xEA1132120ddcDDA2F119e99Fa7A27a0d036F7Ac9",
+      "name": "Aave Polygon STMATIC",
+      "symbol": "aPolSTMATIC",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0xEA1132120ddcDDA2F119e99Fa7A27a0d036F7Ac9&token=aPolSTMATIC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+        "underlyingTokenName": "Staked MATIC (PoS)",
+        "underlyingTokenSymbol": "stMATIC",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xf59036CAEBeA7dC4b86638DFA2E3C97dA9FcCd40",
+      "name": "Aave Polygon wstETH",
+      "symbol": "aPolwstETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0xf59036CAEBeA7dC4b86638DFA2E3C97dA9FcCd40&token=aPolwstETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
+        "underlyingTokenName": "Wrapped liquid staked Ether 2.0 (PoS)",
+        "underlyingTokenSymbol": "wstETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
     }
   ],
   "version": {

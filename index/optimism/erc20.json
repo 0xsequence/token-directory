@@ -1090,6 +1090,258 @@
           "reward"
         ]
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
+      "name": "Aave Optimism AAVE",
+      "symbol": "aOptAAVE",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0xf329e36C7bF6E5E86ce2150875a84Ce77f477375&token=aOptAAVE",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+        "underlyingTokenName": "Aave Token",
+        "underlyingTokenSymbol": "AAVE",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+      "name": "Aave Optimism DAI",
+      "symbol": "aOptDAI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE&token=aOptDAI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "underlyingTokenName": "Dai Stablecoin",
+        "underlyingTokenSymbol": "DAI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+      "name": "Aave Optimism LINK",
+      "symbol": "aOptLINK",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530&token=aOptLINK",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+        "underlyingTokenName": "ChainLink Token",
+        "underlyingTokenSymbol": "LINK",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+      "name": "Aave Optimism LUSD",
+      "symbol": "aOptLUSD",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x8Eb270e296023E9D92081fdF967dDd7878724424&token=aOptLUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+        "underlyingTokenName": "LUSD Stablecoin",
+        "underlyingTokenSymbol": "LUSD",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
+      "name": "Aave Optimism MAI",
+      "symbol": "aOptMAI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x8ffDf2DE812095b1D19CB146E4c004587C0A0692&token=aOptMAI",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+        "underlyingTokenName": "Mai Stablecoin",
+        "underlyingTokenSymbol": "MAI",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+      "name": "Aave Optimism OP",
+      "symbol": "aOptOP",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf&token=aOptOP",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x4200000000000000000000000000000000000042",
+        "underlyingTokenName": "Optimism",
+        "underlyingTokenSymbol": "OP",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "name": "Aave Optimism USDC",
+      "symbol": "aOptUSDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x625E7708f30cA75bfd92586e17077590C60eb4cD&token=aOptUSDC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "underlyingTokenName": "USD Coin (USDC.e)",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5",
+      "name": "Aave Optimism USDCn",
+      "symbol": "aOptUSDCn",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5&token=aOptUSDCn",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Optimism USDT",
+      "symbol": "aOptUSDT",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x6ab707Aca953eDAeFBc4fD23bA73294241490620&token=aOptUSDT",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x078f358208685046a11C85e8ad32895DED33A249",
+      "name": "Aave Optimism WBTC",
+      "symbol": "aOptWBTC",
+      "decimals": 8,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x078f358208685046a11C85e8ad32895DED33A249&token=aOptWBTC",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "underlyingTokenName": "Wrapped BTC",
+        "underlyingTokenSymbol": "WBTC",
+        "underlyingTokenDecimals": 8
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+      "name": "Aave Optimism WETH",
+      "symbol": "aOptWETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8&token=aOptWETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x4200000000000000000000000000000000000006",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+      "name": "Aave Optimism rETH",
+      "symbol": "aOptrETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x724dc807b04555b71ed48a6896b6F41593b8C637&token=aOptrETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+        "underlyingTokenName": "Rocket Pool ETH",
+        "underlyingTokenSymbol": "rETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+      "name": "Aave Optimism SUSD",
+      "symbol": "aOptSUSD",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97&token=aOptSUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "underlyingTokenName": "Synth sUSD",
+        "underlyingTokenSymbol": "sUSD",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0xc45A479877e1e9Dfe9FcD4056c699575a1045dAA",
+      "name": "Aave Optimism wstETH",
+      "symbol": "aOptwstETH",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=10:0xc45A479877e1e9Dfe9FcD4056c699575a1045dAA&token=aOptwstETH",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+        "underlyingTokenName": "Wrapped liquid staked Ether 2.0",
+        "underlyingTokenSymbol": "wstETH",
+        "underlyingTokenDecimals": 18
+      },
+      "indexingInfo": {
+        "useOnChainBalance": true
+      }
     }
   ],
   "version": {
