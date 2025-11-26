@@ -514,10 +514,10 @@
         "underlyingTokenAddress": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
         "underlyingTokenName": "BTCB Token",
         "underlyingTokenSymbol": "BTCB",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -532,10 +532,10 @@
         "underlyingTokenAddress": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
         "underlyingTokenName": "PancakeSwap Token",
         "underlyingTokenSymbol": "Cake",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -550,10 +550,10 @@
         "underlyingTokenAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
         "underlyingTokenName": "Ethereum Token",
         "underlyingTokenSymbol": "ETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -568,10 +568,10 @@
         "underlyingTokenAddress": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
         "underlyingTokenName": "First Digital USD",
         "underlyingTokenSymbol": "FDUSD",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -586,10 +586,10 @@
         "underlyingTokenAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
         "underlyingTokenName": "USD Coin",
         "underlyingTokenSymbol": "USDC",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -604,10 +604,10 @@
         "underlyingTokenAddress": "0x55d398326f99059fF775485246999027B3197955",
         "underlyingTokenName": "Tether USD",
         "underlyingTokenSymbol": "USDT",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -622,10 +622,10 @@
         "underlyingTokenAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "underlyingTokenName": "Wrapped BNB",
         "underlyingTokenSymbol": "WBNB",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     },
     {
@@ -640,10 +640,10 @@
         "underlyingTokenAddress": "0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C",
         "underlyingTokenName": "Wrapped liquid staked Ether 2.0",
         "underlyingTokenSymbol": "wstETH",
-        "underlyingTokenDecimals": 18
-      },
-      "indexingInfo": {
-        "useOnChainBalance": true
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     }
   ],
