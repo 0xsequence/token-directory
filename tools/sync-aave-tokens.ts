@@ -172,7 +172,9 @@ const normalizeChainFolderName = (chainName: string) =>
     chainName
         .trim()
         .toLowerCase()
-        .replace(/\s+/g, '-');
+        .replace(/\s+/g, '-')
+        .replace(/^bsc$/, 'bnb')
+        .replace(/^ethereum$/, 'mainnet');
 
 const loadTokenList = async (
     chainName: string,

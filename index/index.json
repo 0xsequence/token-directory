@@ -127,7 +127,7 @@
       "chainId": 56,
       "tokenLists": {
         "erc1155.json": "28043748f0e1390007a2aaedcc90b0080ed20868c0ace50dec43ffe3428cd10c",
-        "erc20.json": "bd61f149300451c2685d7e63435fb063c7e86fddc615f5c18aa1f3ee2ea92ef7",
+        "erc20.json": "f207e7f288a658986a64a0f0086a3dc6efa7678b0dfc7f21771194263502c397",
         "erc721.json": "5c718e78766bf16d0219e5544e0430e1f9b5347a8771384c7d4f7edc27fd37e3",
         "misc.json": "a20390d029418b4ff5ec02ed493ed5b1ccdff41e89b7c7aec9d79bf789ec9075"
       }
@@ -139,18 +139,6 @@
         "erc20.json": "53396b0df4ee542605eacca3a00a2c135bd950299e70fd344807175a28978766",
         "erc721.json": "3771aedbe59f6b42d5adf09a4ed6839978b5498717ee5028c0b0828e81deecb1",
         "misc.json": "98730eedffc5471b79a038915a7834f3d78c26d4b43ed97d000e92a8fea0fb16"
-      }
-    },
-    "bsc": {
-      "chainId": 56,
-      "tokenLists": {
-        "erc20.json": "6fd6f2d333c9acd176a91a8360efddf1b6f0d24a6efebc60d961052103f0eee1"
-      }
-    },
-    "ethereum": {
-      "chainId": 1,
-      "tokenLists": {
-        "erc20.json": "a382862371d8c1b31bd95d31037d178ac951cc3e36e24e8154a02e1087071b27"
       }
     },
     "etherlink": {
@@ -202,7 +190,7 @@
       "chainId": 1,
       "tokenLists": {
         "erc1155.json": "fcf9839d83d05187f03cfc6ef1278c02828e5f415d65c57725954b61685a8e18",
-        "erc20.json": "f88e832a2a619d3272008e9452bdf9a40dfea91689b108bb93ddeb6b54e19d40",
+        "erc20.json": "a779623fd6e61ad7d5a47167c2bfb32cfa3a66de4d8f972ea2260d506f258931",
         "erc721.json": "e14bd87d3814aaa9928352298dfc4efe90cc12111c14ac2ce47ecf9b27f361ab",
         "misc.json": "f98a5ccf5fa208e0861c020ad16b44adfafff42d8f359fa94e6701a7397b1e92"
       }
