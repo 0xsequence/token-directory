@@ -4,12 +4,11 @@
     "_external": {
       "chainId": 0,
       "tokenLists": {
-        "1-uniswap.json": "a96d8e098034afc56d87ea410955a77bd37e6e8cfcdadfaa3dfb60e17898f542",
+        "1-uniswap.json": "9c464f4f70a1bfbacee55bb29feb389aa84ea9eb70394540a9c8d99f8aeac61a",
         "2-sushiswap.json": "b871b728c4c7b8c2cc987c41238d43188c6936da3cd69615eb9a013f820a99d3",
-        "3-coingecko.json": "940e4da07b8e1a06489be530a6f964496d4f2eec8ab40ef651d59cbf42897576",
-        "4-pancakeswap-default.json": "d35bdd7bbc4db9baa4ff25c2a018aef99e67a40592aee94a3f5992cd92a7ced2",
-        "5-pancakeswap-extended.json": "be547f4d160632ac84b1248ad0401a856dc7e838b18ba9aaa7bce299d5d9f61c",
-        "6-katana.json": "c0ca7122c2e8bcbb7770e920da235384bd087d5cefb912ba7595c11430a15928"
+        "3-pancakeswap-default.json": "d35bdd7bbc4db9baa4ff25c2a018aef99e67a40592aee94a3f5992cd92a7ced2",
+        "4-pancakeswap-extended.json": "b26372b26aee969e9551f43ec618f6fc27d74e91f1e2af400d55302f64e1702e",
+        "5-katana.json": "c0ca7122c2e8bcbb7770e920da235384bd087d5cefb912ba7595c11430a15928"
       }
     },
     "amoy": {
