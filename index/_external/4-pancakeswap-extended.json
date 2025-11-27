@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-12T17:24:04.180Z",
+  "timestamp": "2025-11-27T07:42:19.498Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 647
+    "patch": 663
   },
   "tokens": [
     {
@@ -6662,6 +6662,134 @@
       "address": "0xc8739fbBd54C587a2ad43b50CbcC30ae34FE9e34",
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xc8739fbBd54C587a2ad43b50CbcC30ae34FE9e34.png"
+    },
+    {
+      "name": "Pieverse Token",
+      "chainId": 56,
+      "symbol": "PIEVERSE",
+      "address": "0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9.png"
+    },
+    {
+      "name": "Planck",
+      "chainId": 56,
+      "symbol": "PLANCK",
+      "address": "0x004D50B3fC784b580531D8e8615AA96Cf7fbb919",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x004D50B3fC784b580531D8e8615AA96Cf7fbb919.png"
+    },
+    {
+      "name": "CoinMarketCap 20 Index DTF",
+      "chainId": 56,
+      "symbol": "CMC20",
+      "address": "0x2f8A339B5889FfaC4c5A956787cdA593b3c36867",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2f8A339B5889FfaC4c5A956787cdA593b3c36867.png"
+    },
+    {
+      "name": "Datagram",
+      "chainId": 56,
+      "symbol": "DGRAM",
+      "address": "0x49c6C91EC839A581DE2B882e868494215250ee59",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x49c6C91EC839A581DE2B882e868494215250ee59.png"
+    },
+    {
+      "name": "GAIB",
+      "chainId": 56,
+      "symbol": "GAIB",
+      "address": "0xC19D38925F9F645337B1D1f37bAf3C0647A48E50",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xC19D38925F9F645337B1D1f37bAf3C0647A48E50.png"
+    },
+    {
+      "name": "BOB",
+      "chainId": 56,
+      "symbol": "BOB",
+      "address": "0x52B5fB4B0F6572B8C44d0251Cc224513ac5eB7E7",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x52B5fB4B0F6572B8C44d0251Cc224513ac5eB7E7.png"
+    },
+    {
+      "name": "YieldNest RWA MAX",
+      "chainId": 56,
+      "symbol": "ynRWAx",
+      "address": "0x185716BEB4ccBFa547B00eAd24Ac6705BD47b8f0",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x185716BEB4ccBFa547B00eAd24Ac6705BD47b8f0.png"
+    },
+    {
+      "name": "Ultiland",
+      "chainId": 56,
+      "symbol": "ARTX",
+      "address": "0x8105743e8A19c915a604D7D9e7aa3A060A4C2c32",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x8105743e8A19c915a604D7D9e7aa3A060A4C2c32.png"
+    },
+    {
+      "name": "MineD",
+      "chainId": 56,
+      "symbol": "DIGI",
+      "address": "0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d.png"
+    },
+    {
+      "name": "Kyuzo’s Friends",
+      "chainId": 56,
+      "symbol": "KO",
+      "address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2D739Dd563609C39A1aE1546a03E8b469361175f.png"
+    },
+    {
+      "name": "Irys",
+      "chainId": 56,
+      "symbol": "IRYS",
+      "address": "0x91152B4Ef635403efBAe860edD0F8c321d7c035d",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x91152B4Ef635403efBAe860edD0F8c321d7c035d.png"
+    },
+    {
+      "name": "GUA",
+      "chainId": 56,
+      "symbol": "GUA",
+      "address": "0xA5C8e1513B6A08334b479fe4D71F1253259469BE",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xA5C8e1513B6A08334b479fe4D71F1253259469BE.png"
+    },
+    {
+      "name": "三维威廉泰尔企鹅",
+      "chainId": 56,
+      "symbol": "恶俗企鹅",
+      "address": "0xE1E93E92C0c2Aff2dC4D7d4A8b250d973cAd4444",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xE1E93E92C0c2Aff2dC4D7d4A8b250d973cAd4444.png"
+    },
+    {
+      "name": "Sparkle Token",
+      "chainId": 56,
+      "symbol": "SSS",
+      "address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD.png"
+    },
+    {
+      "name": "Port3 Network",
+      "chainId": 56,
+      "symbol": "PORT3",
+      "address": "0xf6402bEc11BD945BBd46BE77e1fA5D477883F6C2",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xf6402bEc11BD945BBd46BE77e1fA5D477883F6C2.png"
+    },
+    {
+      "name": "ltCIC",
+      "chainId": 56,
+      "symbol": "ltCIC",
+      "address": "0x058240afd2DF517fAD59baA3a39C6AE28cf37F32",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x058240afd2DF517fAD59baA3a39C6AE28cf37F32.png"
     }
   ],
   "keywords": [
