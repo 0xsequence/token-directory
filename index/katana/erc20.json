@@ -226,6 +226,14 @@
       "symbol": "PROVE",
       "decimals": 18,
       "logoURI": "https://assets.katana.network/icons/prove.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x93Fec6639717b6215A48E5a72a162C50DCC40d68",
+      "name": "AUSD yVault",
+      "symbol": "AUSD",
+      "decimals": 6,
+      "logoURI": "https://katanascan.com/token/images/yearnv3vaults_64.svg"
     }
   ],
   "version": {
