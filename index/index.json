@@ -232,7 +232,7 @@
       "chainId": 137,
       "tokenLists": {
         "erc1155.json": "2c44c6b05d66e8d17b007d7d51f37f087875eaad8a9c2d7769d0671e1ce3f298",
-        "erc20.json": "fa592749f4bb0b399990848819a77e141f6985d819bb7693c59feb7d70eaa918",
+        "erc20.json": "a5202982884f9f77c956020a9bd06272f1bcf916d2be94649580ab16f7985386",
         "erc721.json": "db9ac4f33c2726399a06117041823ccaf1be059bcb1587e706971574ef86249f",
         "misc.json": "80ed5add20b07abafcd9ced20d8cdc0ba6a588b724320c66739e1db3d264d503"
       }

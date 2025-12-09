@@ -215,13 +215,13 @@
     {
       "chainId": 137,
       "address": "0x0000000000000000000000000000000000001010",
-      "name": "Matic Network",
-      "symbol": "MATIC",
+      "name": "Polygon Token",
+      "symbol": "POL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/Matic.png?1553498071",
+      "logoURI": "https://assets.coingecko.com/coins/images/32440/standard/pol.png?1759114181",
       "extensions": {
-        "link": "https://matic.network",
-        "description": "Matic Network provides scalable, secure and instant Ethereum transactions. It is built on an implementation of the PLASMA framework and functions as an off chain scaling solution. Matic Network offers scalability solutions along with other tools to the developer ecosystem, which enable Matic to seamlessly integrate with dApps while helping developers create an enhanced user experience.",
+        "link": "https://polygon.technology/",
+        "description": "Polygon (previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.",
         "categories": [
           "chain",
           "protocol",
@@ -233,10 +233,8 @@
           "staking",
           "layer2"
         ],
-        "ogImage": "/banners/matic-network-1x1.png",
         "originChainId": 1,
-        "originAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
-        "blacklist": true
+        "originAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
       }
     },
     {
