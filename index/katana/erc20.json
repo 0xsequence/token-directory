@@ -39,7 +39,7 @@
       "chainId": 747474,
       "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
       "name": "Vault Bridge ETH",
-      "symbol": "vbETH",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39723/large/WETH.PNG?1723733967"
     },
