@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-27T07:42:19.498Z",
+  "timestamp": "2025-12-17T07:26:11.333Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 663
+    "patch": 679
   },
   "tokens": [
     {
@@ -6790,6 +6790,134 @@
       "address": "0x058240afd2DF517fAD59baA3a39C6AE28cf37F32",
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x058240afd2DF517fAD59baA3a39C6AE28cf37F32.png"
+    },
+    {
+      "name": "GaiAI Token",
+      "chainId": 56,
+      "symbol": "GAIX",
+      "address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xc12eFb9e4A1A753e7f6523482C569793C2271dbB.png"
+    },
+    {
+      "name": "MINervAI",
+      "chainId": 56,
+      "symbol": "MINAI",
+      "address": "0xda05E094fC8710A1eB7cA8EcB8f62680C0AE9B0c",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xda05E094fC8710A1eB7cA8EcB8f62680C0AE9B0c.png"
+    },
+    {
+      "name": "Rayls",
+      "chainId": 56,
+      "symbol": "RLS",
+      "address": "0x17EA10b6aE4FDE59FDBF471Bd28Ab9710F508816",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x17EA10b6aE4FDE59FDBF471Bd28Ab9710F508816.png"
+    },
+    {
+      "name": "BNB+",
+      "chainId": 56,
+      "symbol": "BNB+",
+      "address": "0x5D5721Bf35BDfFBa64E7b8fCeeb4712904a0DD11",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5D5721Bf35BDfFBa64E7b8fCeeb4712904a0DD11.png"
+    },
+    {
+      "name": "BIO",
+      "chainId": 56,
+      "symbol": "BIO",
+      "address": "0x226A2FA2556C48245E57cd1cbA4C6c9e67077DD2",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x226A2FA2556C48245E57cd1cbA4C6c9e67077DD2.png"
+    },
+    {
+      "name": "Power",
+      "chainId": 56,
+      "symbol": "POWER",
+      "address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223.png"
+    },
+    {
+      "name": "NIGHT",
+      "chainId": 56,
+      "symbol": "NIGHT",
+      "address": "0xFe930c2d63AeD9b82fC4DBC801920dD2c1a3224F",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xFe930c2d63AeD9b82fC4DBC801920dD2c1a3224F.png"
+    },
+    {
+      "name": "STABLE",
+      "chainId": 56,
+      "symbol": "STABLE",
+      "address": "0x011EBe7d75E2C9D1E0bD0be0bEf5C36f0A90075F",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x011EBe7d75E2C9D1E0bD0be0bEf5C36f0A90075F.png"
+    },
+    {
+      "name": "Cysic Token",
+      "chainId": 56,
+      "symbol": "CYS",
+      "address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0C69199C1562233640e0Db5Ce2c399A88eB507C7.png"
+    },
+    {
+      "name": "BeatSwap",
+      "chainId": 56,
+      "symbol": "BTX",
+      "address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3.png"
+    },
+    {
+      "name": "RaveDAO",
+      "chainId": 56,
+      "symbol": "RAVE",
+      "address": "0x97693439EA2f0ecdeb9135881E49f354656a911c",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x97693439EA2f0ecdeb9135881E49f354656a911c.png"
+    },
+    {
+      "name": "DOYR",
+      "chainId": 56,
+      "symbol": "DOYR",
+      "address": "0x925c8Ab7A9a8a148E87CD7f1EC7ECc3625864444",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x925c8Ab7A9a8a148E87CD7f1EC7ECc3625864444.png"
+    },
+    {
+      "name": "Infrared Governance Token",
+      "chainId": 56,
+      "symbol": "IR",
+      "address": "0xAce9De5AF92Eb82A97A5973B00efF85024bDCB39",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xAce9De5AF92Eb82A97A5973B00efF85024bDCB39.png"
+    },
+    {
+      "name": "LISA Token",
+      "chainId": 56,
+      "symbol": "LISA",
+      "address": "0x0AA9D742A1e3C4Ad2947eBbf268aFA15D7c9bFBd",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0AA9D742A1e3C4Ad2947eBbf268aFA15D7c9bFBd.png"
+    },
+    {
+      "name": "United Stables",
+      "chainId": 56,
+      "symbol": "U",
+      "address": "0xcE24439F2D9C6a2289F741120FE202248B666666",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xcE24439F2D9C6a2289F741120FE202248B666666.png"
+    },
+    {
+      "name": "VOOI",
+      "chainId": 56,
+      "symbol": "VOOI",
+      "address": "0x876cEcb73c9ED1B1526F8e35C6a5a51a31BCF341",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x876cEcb73c9ED1B1526F8e35C6a5a51a31BCF341.png"
     }
   ],
   "keywords": [

@@ -554,6 +554,27 @@
           "useOnChainBalance": true
         }
       }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x46850ad61c2b7d64d08c9c754f45254596696984",
+      "name": "PayPal USD",
+      "symbol": "PYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31212/standard/PYUSD_Logo_%282%29.png?1696530039",
+      "extensions": {
+        "link": "https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd",
+        "description": "PayPal USD (PYUSD) is a stablecoin that is redeemable 1:1 for US dollars. Buy, sell, and transfer it in the app or on our site. Plus, when you hold PYUSD on PayPal, you could get 4% rewards.",
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi"
+        ],
+        "ogImage": "https://assets.coingecko.com/coins/images/31212/standard/PYUSD_Logo_%282%29.png?1696530039",
+        "featured": true,
+        "featureIndex": 4
+      }
     }
   ],
   "version": {
