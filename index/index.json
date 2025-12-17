@@ -179,6 +179,12 @@
         "misc.json": "0b25dc3ea49c8f217a83e381a2c38a9875cb3fda6f49621f10cdb1abbff5bcff"
       }
     },
+    "incentiv": {
+      "chainId": 24101,
+      "tokenLists": {
+        "erc20.json": "372e874df7ecdb9a6b39448b6465ba0542accd9830ebd68d7d88129a5c96e655"
+      }
+    },
     "katana": {
       "chainId": 747474,
       "tokenLists": {
