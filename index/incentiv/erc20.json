@@ -1,0 +1,102 @@
+{
+  "name": "sequence-erc20-incentiv",
+  "chainId": 24101,
+  "tokenStandard": "erc20",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": [
+    "erc20",
+    "incentiv"
+  ],
+  "timestamp": "2025-12-17T19:03:47.288Z",
+  "tokens": [
+    {
+      "chainId": 24101,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "CENT",
+      "symbol": "CENT",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/24101/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 24101,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "CENT",
+      "symbol": "CENT",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/24101/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 24101,
+      "address": "0x16e43840d8D79896A389a3De85aB0B0210C05685",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "link": "https://www.circle.com/en/usdc",
+        "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "usdc"
+        ],
+        "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
+        "originChainId": 1,
+        "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "featured": true,
+        "featureIndex": 1
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+      "name": "Wrapped CENT",
+      "type": "ERC20",
+      "symbol": "WCENT",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "link": "https://incentiv.io/",
+        "description": "WCENT is the wrapped ERC20 version of CENT, native token on Incentiv.",
+        "categories": [
+          "defi",
+          "protocol",
+          "chain",
+          "wrapped"
+        ],
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x39b076b5d23F588690D480af3Bf820edad31a4bB",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "extensions": {
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "usdt"
+        ],
+        "featured": true,
+        "featureIndex": 2
+      }
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
