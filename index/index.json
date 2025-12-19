@@ -195,7 +195,7 @@
       "chainId": 1,
       "tokenLists": {
         "erc1155.json": "fcf9839d83d05187f03cfc6ef1278c02828e5f415d65c57725954b61685a8e18",
-        "erc20.json": "415def3202c9f2d02106711bd3c44095ac3beefc3b689d59cd9fd25aeb290eed",
+        "erc20.json": "85f202f526b927d256e7b98a70175f32cc0497df9fe02b9bd5ef542811bada63",
         "erc721.json": "e14bd87d3814aaa9928352298dfc4efe90cc12111c14ac2ce47ecf9b27f361ab",
         "misc.json": "f98a5ccf5fa208e0861c020ad16b44adfafff42d8f359fa94e6701a7397b1e92"
       }
