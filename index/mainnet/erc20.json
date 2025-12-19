@@ -4314,7 +4314,7 @@
         "link": "https://polygon.technology/pol-token",
         "description": "POL is the currency of Polygon that enables users to interact with tens of thousands of dApps involved in our ecosystem. It is also used to secure the network by staking.",
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 5
       }
     },
     {
@@ -22701,7 +22701,7 @@
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it's own form of Token. Think Augur's REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
         "ogImage": null,
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 4
       }
     },
     {
