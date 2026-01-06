@@ -33170,7 +33170,7 @@
       "name": "Wrapped Cryptopunks",
       "type": "ERC721",
       "symbol": "WPUNKS",
-      "logoURI": "https://i.seadn.io/gcs/files/e0972d771af4d633e70e00338aa38e34.png?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/ethereum/c755bc5b794641d3af0f1544126f8a13/972d771af4d633e70e00338aa38e34/e0972d771af4d633e70e00338aa38e34.png?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0xfbd28b1782f06f42b32038633d84da20e4befae5db6ed805184626c1e1935830",
       "extensions": {
@@ -33186,7 +33186,7 @@
       "name": "Beanz",
       "type": "ERC721",
       "symbol": "BEANZ",
-      "logoURI": "https://i.seadn.io/gae/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/collection/beanzofficial/image/55051cfd6611e32edc843d7cc5acf7/5c55051cfd6611e32edc843d7cc5acf7.png?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0x7c87b27c57449a12057511c95bde413df3f8d18edf549d2a46d4a7a217a9734d",
       "extensions": {
@@ -33202,7 +33202,7 @@
       "name": "Azuki",
       "type": "ERC721",
       "symbol": "AZUKI",
-      "logoURI": "https://i.seadn.io/gae/H8jOCJuQokNqGBpkBN5wk1oZwO7LM8bNnrHCaekV2nKjnCqw6UB5oaH8XyNeBDj6bA_n1mjejzhFQUP3O1NfjFLHr3FOaeHcTOOT?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/collection/azuki/image/d62d4b9df96c961712b03f41c4231c/4dd62d4b9df96c961712b03f41c4231c.jpeg?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0xaac5c1986881770562f335902b7fcc80236eb423e3509529d39756fb7e184f34",
       "extensions": {
@@ -33218,7 +33218,7 @@
       "name": "MutantApeYachtClub",
       "type": "ERC721",
       "symbol": "MAYC",
-      "logoURI": "https://i.seadn.io/gae/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/collection/mutant-ape-yacht-club/image/33dcf5ce12bc4760bf912a5b3f5979/f033dcf5ce12bc4760bf912a5b3f5979.png?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0xcd2a5a9ed8613fa2eb0c2292a8dcce9837ec10ba4b37b728d26a79920ddb45f5",
       "extensions": {
@@ -33234,7 +33234,7 @@
       "name": "BoredApeYachtClub",
       "type": "ERC721",
       "symbol": "BAYC",
-      "logoURI": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/collection/boredapeyachtclub/image/1a09c26b1c30427b26944c47fc7bb9/d81a09c26b1c30427b26944c47fc7bb9.png?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0x0ba5e25e74d81bab327110c8d8b44320f50ad5c3e91a546a5c5a9b605cf653b3",
       "extensions": {
@@ -33249,7 +33249,7 @@
       "name": "Meebits",
       "type": "ERC721",
       "symbol": "MEEBIT",
-      "logoURI": "https://i.seadn.io/gcs/files/2d036c8c2bed042a1588622c3173677f.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/ethereum/333a4a1b74694e5b8b12d9a6983ec00d/036c8c2bed042a1588622c3173677f/2d036c8c2bed042a1588622c3173677f.png?h=250&w=250",
       "extensions": {
         "link": "https://meebits.app/",
         "description": "The Meebits are 20,000 unique 3D voxel characters, created by a custom generative algorithm, then registered on the Ethereum blockchain.",
@@ -33262,7 +33262,7 @@
       "name": "Otherdeed for Otherside",
       "type": "ERC721",
       "symbol": "OTHERDEED",
-      "logoURI": "https://i.seadn.io/gae/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/collection/otherdeed/image/8031a7bfbb75c4777a63957828f657/028031a7bfbb75c4777a63957828f657.jpeg?h=250&w=250",
       "extensions": {
         "link": "https://otherside.xyz/",
         "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
@@ -33275,7 +33275,7 @@
       "name": "Mutant Ape Yacht Club",
       "type": "ERC721",
       "symbol": "MUTANT",
-      "logoURI": "https://i.seadn.io/gae/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/collection/mutant-ape-yacht-club/image/33dcf5ce12bc4760bf912a5b3f5979/f033dcf5ce12bc4760bf912a5b3f5979.png?h=250&w=250",
       "extensions": {
         "link": "https://yuga.com/",
         "description": "The MUTANT APE YACHT CLUB is a collection of up to 20,000 Mutant Apes that can only be created by exposing an existing Bored Ape to a vial of MUTANT SERUM or by minting a Mutant Ape in the public sale.",
@@ -33288,7 +33288,7 @@
       "name": "DeGods",
       "type": "ERC721",
       "symbol": "DEGODS",
-      "logoURI": "https://i.seadn.io/gcs/files/c6cb0b1d6f2ab61c0efacf00e62e2230.jpg?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/base/8f212d28956b432fa8764bd366f2e61d/b09232fb71c6fb678b460a1c5b6de03f.jpeg?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0xc1d9588dd13d747bde51bc340e4fed610f57554af583437ba2f75ebd8c6e5b6b",
       "extensions": {
@@ -33304,7 +33304,7 @@
       "name": "Milady",
       "type": "ERC721",
       "symbol": "MIL",
-      "logoURI": "https://i.seadn.io/gae/a_frplnavZA9g4vN3SexO5rrtaBX_cBTaJYcgrPtwQIqPhzgzUendQxiwUdr51CGPE2QyPEa1DHnkW1wLrHAv5DgfC3BP-CWpFq6BA?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/collection/milady/image/d4499e2e55f5e85ead4b0eb7f7dad7/90d4499e2e55f5e85ead4b0eb7f7dad7.jpeg?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0x55046e88eaae71e721e9af707c87afa6108087bcc4ece426f2752052d4365f20",
       "extensions": {
@@ -33320,7 +33320,7 @@
       "name": "Doodles",
       "type": "ERC721",
       "symbol": "DOODLE",
-      "logoURI": "https://i.seadn.io/gae/7B0qai02OdHA8P_EOVK672qUliyjQdQDGNrACxs7WnTgZAkJa_wWURnIFKeOh5VTf8cfTqW3wQpozGedaC9mteKphEOtztls02RlWQ?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/collection/doodles-official/image/63a85a2900fdd4bfe8f34a444b72d3/e663a85a2900fdd4bfe8f34a444b72d3.jpeg?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0xe75ec5f80ae1de3c861c0fd75ebf38ad23406563359ae5574c9c37084ada09ae",
       "extensions": {
@@ -33336,7 +33336,7 @@
       "name": "PudgyPenguins",
       "type": "ERC721",
       "symbol": "PPG",
-      "logoURI": "https://i.seadn.io/gae/yNi-XdGxsgQCPpqSio4o31ygAV6wURdIdInWRcFIl46UjUQ1eV7BEndGe8L661OoG-clRi7EgInLX4LPu9Jfw4fq0bnVYHqg7RFi?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/collection/pudgypenguins/image/f489fb69fd11886b468c0f7ff1376c/cdf489fb69fd11886b468c0f7ff1376c.png?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0x5184c58406e07d654a5e39591c5adf95a8de48e5ea96eec2f4666d84ab248b09",
       "extensions": {
@@ -33352,7 +33352,7 @@
       "name": "Cool Cats NFT",
       "type": "ERC721",
       "symbol": "CC",
-      "logoURI": "https://i.seadn.io/gae/LIov33kogXOK4XZd2ESj29sqm_Hww5JSdO7AFn5wjt8xgnJJ0UpNV9yITqxra3s_LMEW1AnnrgOVB_hDpjJRA1uF4skI5Sdi_9rULi8?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/ethereum/aaa51fcc7e44421b8a9f54bab4269fd1/2c31f59ad9d5f4565d33e0351fa8e9/872c31f59ad9d5f4565d33e0351fa8e9.png?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0x64ba3f1bf70cf05e42a616d37a21018df9681c795c5e7bcd8ca8bf2b1b9e058a",
       "extensions": {
@@ -33367,7 +33367,7 @@
       "address": "0x767785a8f4f7583c3a79ae59183d605fdb8b3289",
       "name": "BEANS PETS GEN 1 - Dumb Ways to Die",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gae/7slGK7rKSHWXCRdgo3c1breCsb4tEPNCpuZn3E8yCd1c9ZrwTz02za2k1j06FNqJsXIfTfPZQByxytFt-hJS7Fy-4u3OWrxsRk71v9M?w=500&auto=format",
+      "logoURI": "https://i2c.seadn.io/ethereum/45b97c575f1e4f829d19f1bda65fdb75/acd83117f004e4f7611c019a4d31b2/e6acd83117f004e4f7611c019a4d31b2.png?h=250&w=250",
       "extensions": {
         "link": "https://www.beansnfts.io/",
         "description": "BEANS PETS is a collection of 4,200 unique digital collectibles on the Ethereum blockchain. BEANS PET GEN 1 was originally granted to eligible holders of the BEANS - Dumb Ways to Die collection and grants access to a special 3D companion in PlaySide's Bean Land, an upcoming P&E top-down action game set in the Dumb Ways to Die universe. This collection along with BEANS, CLASSIC BEANS and HOLDERS LOOT is created by PlaySide Studios, Australia's largest publicly listed video game company. Visit https://www.beansnfts.io/ for more details.",
@@ -33379,7 +33379,7 @@
       "address": "0x48355ce6ba377d06335be9499feaf735948484bc",
       "name": "BEANS - Dumb Ways to Die",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gae/qXvhLctJ8ajL_68PNU10U_Gb8fjgk_1b7OgLGLEQiBqrS4lMeTvRUnz-YF_Z6l_WhgF_fsZPlBqdXui-LTnqu74WOgifLgSIF19N1g?w=500&auto=format",
+      "logoURI": "https://i2c.seadn.io/ethereum/36d178c2add340ca8cea5f91e76540d5/b7f42ee3c631058dce49860085454c/6db7f42ee3c631058dce49860085454c.png?h=250&w=250",
       "extensions": {
         "link": "https://www.beansnfts.io/",
         "description": "BEANS are one of a kind digital collectibles that live on the Ethereum blockchain. Each BEAN comes with special accessories, giving you access to exclusive members-only benefits in Bean Land, a fun and silly top-down action Play & Earn game coming in 2023. head over to https://www.beansnfts.io/ to learn more and join our discord community.",
@@ -33391,7 +33391,7 @@
       "address": "0x440d4955a914d5e29f861ac024a608ae41c56cb6",
       "name": "Pooky Stickers",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gcs/files/44f4e3f859cb33bd9139f87b9aabbe4f.jpg?w=500&auto=format",
+      "logoURI": "https://i2c.seadn.io/polygon/7e17ed2a5f4e43b1ac056fbebc2014bd/f4e3f859cb33bd9139f87b9aabbe4f/44f4e3f859cb33bd9139f87b9aabbe4f.jpeg?h=250&w=250",
       "extensions": {
         "link": "https://pooky.gg",
         "description": "Stickers are customisations for your Pookyballs (https://opensea.io/collection/pookyballs). They're used in Pooky to supercharge your predictions and build custom strategies!",
@@ -33403,7 +33403,7 @@
       "address": "0xf32c1fb9b982D211B16c340E3bd0925FB1dc77cA",
       "name": "CLASSIC BEANS - Dumb Ways to Die",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gae/vI8acnlmyF8Wudg6xriwaSOwnNFaVPJVTOb-Perv3a_Nh6JJLk-wU7Hw8N6Itk6laJQVYPoVEWwsQSUDbpd119h3grulOmHYDJZjfDY?w=500&auto=format",
+      "logoURI": "https://i2c.seadn.io/ethereum/545902b9eb2845df9e2df758bdfee02b/d09d33665c85f8bcb314fe57dbee53/d3d09d33665c85f8bcb314fe57dbee53.png?h=250&w=250",
       "extensions": {
         "link": "https://www.beansnfts.io/",
         "description": "CLASSIC BEANS NFTs are a collection of 20 unique digital collectibles on the Ethereum blockchain. CLASSIC BEANS are the featured BEANS from the original games and starred in the 2012 global safety campaign that went viral on YouTube. A CLASSIC BEAN comes with utility and grants access to members-only benefits in Bean Land, an upcoming P&E top-down action game. Visit https://www.beansnfts.io/ for more details.",
@@ -33416,7 +33416,7 @@
       "name": "OKGO",
       "standard": "erc721",
       "symbol": "OKGO",
-      "logoURI": "https://i.seadn.io/s/raw/files/a35928ac8cf52099bd0f5b611684d543.png",
+      "logoURI": "https://i2c.seadn.io/ethereum/ad2ebef9e6544f09a8e9222ecee93d0d/00dcd36ab9439cbdbf5f327a4c86d2/7000dcd36ab9439cbdbf5f327a4c86d2.png?h=250&w=250",
       "extensions": {
         "link": "https://opensea.io/collection/okgonft",
         "description": "OKGO is a 100% generative on-chain CC0 card collection",
@@ -33429,7 +33429,7 @@
       "name": "Better Buddies",
       "standard": "erc721",
       "symbol": "BBUDDIES",
-      "logoURI": "https://i.seadn.io/gcs/files/64f2106485b22e0e138fc97ed2460d75.jpg",
+      "logoURI": "https://i2c.seadn.io/ethereum/743f49d6fa9d4d7e93b0179835735d75/f2106485b22e0e138fc97ed2460d75/64f2106485b22e0e138fc97ed2460d75.jpeg?h=250&w=250",
       "extensions": {
         "link": "https://opensea.io/collection/betterbuddies",
         "description": "A collection of 2,050 planet-positive NFTs here to fight climate change. Because Earth is non-fungible. So let’s not burn it 🌎 ✌️50% of revenue from the BETTER BUDDIES mint and sales from the hodl_better account go toward the BETTER CLIMATE FUND.",
@@ -33462,7 +33462,7 @@
       "name": "My Pet Hooligan",
       "standard": "erc721",
       "symbol": "MPH",
-      "logoURI": "https://i.seadn.io/gae/aITOppXWvfLhdRq4gUL5kkQ2Li0ljfWOAveam2wQy_znEa7WWI7Ci1mbSE6-DIVQl1MNxuAaYWx2wsVAv_IU7PpL-DfWWrZ60Tv6fw?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/collection/mypethooligan/image/ab73140a4bf427462c441007ac0194/d7ab73140a4bf427462c441007ac0194.gif?h=250&w=250",
       "extensions": {
         "link": "https://mypethooligan.com/",
         "description": "A genesis collection of 8888 Pet Hooligans – unique 3D characters that are posed to defend Web3 from the corporate overlord, MetaZuckBot.Each Hooligan provides access to the AMGI Studio's suite of animation products, and are also your playable avatars in the social-action, multiplayer game My Pet Hooligan - free-to-play early access out now!Sequi Lepus."
@@ -33474,7 +33474,7 @@
       "name": "ZuckCorp Items",
       "standard": "erc721",
       "symbol": "MPH",
-      "logoURI": "https://i.seadn.io/gcs/files/1d139d08f4f0575803d71fd16533d524.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/ethereum/89596ff21c0f4778ac925e7a54c5fb62/139d08f4f0575803d71fd16533d524/1d139d08f4f0575803d71fd16533d524.png?h=250&w=250",
       "extensions": {
         "description": "ZB-14 classified items. Probably nothing…",
         "link": "https://mypethooligan.com/"
@@ -33486,7 +33486,7 @@
       "name": "ZuckBots",
       "standard": "erc721",
       "symbol": "MPH",
-      "logoURI": "https://i.seadn.io/gcs/files/30dbf8fa65488229a85595309635f8c9.png?auto=format&dpr=1&w=64",
+      "logoURI": "https://i2c.seadn.io/ethereum/62f21b5be0e74f33b2abee44f58f97d2/dbf8fa65488229a85595309635f8c9/30dbf8fa65488229a85595309635f8c9.png?h=250&w=250",
       "extensions": {
         "description": "Once a robotic army that served the overlord Meta ZuckBot. The Hooligan’s worked out how to hack the ZuckBots and pulled off the greatest heist in Metaverse History, breaking into ZuckCorp and relieving Meta ZuckBot a number of OG Zuckbots.The ZuckBots are My Pet Hooligan’s first companion drop. In total there are 7 models of ZuckBots. These OG ZuckBots will serve as the key to unlocking further models through old school tests of skill, faith and critical thinking…Zuckbots will give you access to MPH’s Rabbit Hole game and social experience. A ZuckBot Battle Arena mobile game is also in the works for iOS and Android. Zuckbots will also have token gated access to AMGI Studios creator tools including Hooligram, immi, and more...The rebellion has grown stronger…",
         "link": "https://mypethooligan.com/"
@@ -33498,7 +33498,7 @@
       "name": "SYMBIOGENESIS",
       "standard": "erc721",
       "symbol": "SYMBIO",
-      "logoURI": "https://i.seadn.io/s/raw/files/c7e3ae0072dc5a57b64dde46b6d73745.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/ethereum/2ed4eb047e2f46b38ea79941b67264dc/e3ae0072dc5a57b64dde46b6d73745/c7e3ae0072dc5a57b64dde46b6d73745.png?h=250&w=250",
       "extensions": {
         "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 character (Ethereum) - collectible artworks meet real game utility.\n\n Game Utility\nThis game's genre is defined as 'Narrative-unlocked NFT entertainment' \n\nAs you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.",
         "link": "https://symbiogenesis.app/",
@@ -33511,7 +33511,7 @@
       "name": "Avarik Saga Universe",
       "standard": "erc721",
       "symbol": "AVARIK",
-      "logoURI": "https://i.seadn.io/s/raw/files/e0eba7e43f619c417c3453e3a3d2a1db.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/ethereum/225d34ee5ea744c18afdfa22e36edfef/eba7e43f619c417c3453e3a3d2a1db/e0eba7e43f619c417c3453e3a3d2a1db.png?h=250&w=250",
       "extensions": {
         "description": "Avarik Saga is the journey of the 8,888 generative NFT personas of Knights, Archers, and Wizards originated from over 300+ uniquely hand drawn traits in 4 clashing factions.\n\nThere is a legend whispered through these medieval lands, that a hero will guide their faction to triumph and cease the endless wars between the feisty Ignis, the benevolent Terra, the fluid Glacia, and the mystical Tenebris.",
         "link": "https://avariksaga.com/",
@@ -33524,7 +33524,7 @@
       "name": "Azuki Elementals",
       "standard": "erc721",
       "symbol": "ELEM",
-      "logoURI": "https://i.seadn.io/gcs/files/bbaf43ee4a02d5affb7e8fc186d0bdb5.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/collection/azukielementals/image/af43ee4a02d5affb7e8fc186d0bdb5/bbaf43ee4a02d5affb7e8fc186d0bdb5.png?h=250&w=250",
       "extensions": {
         "description": "Azuki Elementals are a collection of 20,000 characters within the four domains of the Garden.\n\nTake the red bean.",
         "link": "https://www.azuki.com/elementals/reveal",
@@ -33537,7 +33537,7 @@
       "name": "CryptoPunks",
       "standard": "erc721",
       "symbol": "C",
-      "logoURI": "https://i.seadn.io/gae/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/ethereum/41f13fa2cbb64d908a9add3243345bbc/f092b6ebf5bbfaca498a6135cad5a8/4bf092b6ebf5bbfaca498a6135cad5a8.png?h=250&w=250",
       "extensions": {
         "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.",
         "link": "https://opensea.io/collection/cryptopunks",
@@ -33550,7 +33550,7 @@
       "name": "CLONE X - X TAKASHI MURAKAMI",
       "standard": "erc721",
       "symbol": "CloneX",
-      "logoURI": "https://i.seadn.io/gae/XN0XuD8Uh3jyRWNtPTFeXJg_ht8m5ofDx6aHklOiy4amhFuWUa0JaR6It49AH8tlnYS386Q0TW_-Lmedn0UET_ko1a3CbJGeu5iHMg?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/ethereum/75db99053ab444cfa0d8fb55d1f60547/2a98bfb35de339b49f3a4f0c4696c4/5c2a98bfb35de339b49f3a4f0c4696c4.png?h=250&w=250",
       "extensions": {
         "description": "20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸",
         "link": "https://clonex.rtfkt.com/",
@@ -33563,7 +33563,7 @@
       "name": "Mocaverse",
       "standard": "erc721",
       "symbol": "MOCA",
-      "logoURI": "https://i.seadn.io/gcs/files/6a0b776c9bb3973d1dd8d399353da9f5.gif?auto=format&dpr=1&w=128",
+      "logoURI": "https://i2c.seadn.io/collection/mocaverse/image/0b776c9bb3973d1dd8d399353da9f5/6a0b776c9bb3973d1dd8d399353da9f5.gif?h=250&w=250",
       "extensions": {
         "description": "Mocaverse is the Animoca Brands membership NFT collection of 8,888 unique beings that thrive in unity: The Mocas. There are 5 incredible Moca tribes of the Angels, Builders, Dreamers, Connectors, and Neo-Capitalists. Join the Mocas in the realms to Learn, Play, Do Good, and Build together as we champion our Web3 values! Learn more about the Mocas on our website.",
         "link": "https://www.mocaverse.xyz/",
@@ -33576,7 +33576,7 @@
       "name": "0N1 Force",
       "standard": "erc721",
       "symbol": "0N1",
-      "logoURI": "https://i.seadn.io/gae/7gOej3SUvqALR-qkqL_ApAt97SpUKQOZQe88p8jPjeiDDcqITesbAdsLcWlsIg8oh7SRrTpUPfPlm12lb4xDahgP2h32pQQYCsuOM_s?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/ethereum/13ee6ba6db0b4b2f93b303df4996c3bd/42b7b54aadf15c977b92e18a08750f/6242b7b54aadf15c977b92e18a08750f.png?h=250&w=250",
       "extensions": {
         "description": "The 0N1 Force are 7,777 generative side-profile characters with over 100 hand-drawn features fighting for their existence. Strength, spirit, and style are what you’ll need to survive in The Ethereal Enclave.\n\nIn addition to the high-resolution artwork, each 0N1 NFT grants access to benefits found on the 0N1force website and Discord--the first of which is participation in a collaborative RPG that takes players into the 0N1verse.",
         "link": "https://www.0n1force.com/home",

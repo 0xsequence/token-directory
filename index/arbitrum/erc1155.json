@@ -1,39 +1,39 @@
 {
-  "name": "sequence-erc1155-arbitrum",
-  "chainId": 42161,
-  "tokenStandard": "erc1155",
-  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc1155", "arbitrum"],
-  "timestamp": "2021-12-08T19:03:47.288Z",
-  "tokens": [
-    {
-      "chainId": 42161,
-      "address": "0xEBba467eCB6b21239178033189CeAE27CA12EaDf",
-      "name": "Treasures",
-      "standard": "erc1155",
-      "symbol": null,
-      "logoURI": "https://trove.treasure.lol/images/fetch/f_auto,c_limit,w_640,q_auto/https://djmahssgw62sw.cloudfront.net/0/Treasures.jpg",
-      "extensions": {
-        "link": "https://lore.bridgeworld.treasure.lol/",
-        "description": "Treasures are composable building blocks in Bridgeworld that will be used inter- and intra-metaverse.",
-        "categories": ["gaming", "mmo", "strategy"],
-        "ogImage": "https://djmahssgw62sw.cloudfront.net/0/Trove_Banner_XL_Other_1024x256px.jpg"
-      }
-    },
-    {
-      "chainId": 42161,
-      "address": "0x381227255eF6c5d85966b78d13e4B4a4c8719b5E",
-      "name": "Tales of Elleria - Relics",
-      "standard": "erc1155",
-      "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/a8a9ce818bdb9d5d767261a4ec5cc8c8.png?auto=format&w=256",
-      "extensions": {
-        "link": "https://www.talesofelleria.com/",
-        "description": "Tales of Elleria is an immersive three-dimensional role-playing GameFi project built on Arbitrum One. Summon heroes, take on assignments, go on quests and epic adventures to battle dangerous monsters and earn tremendous rewards.",
-        "categories": ["gaming", "rpg", "mmo", "strategy"],
-        "ogImage": "https://i.seadn.io/gcs/files/5cf33d22f7ee87e3bdc2fa5ec6e96fb7.png?auto=format&w=2048"
-      }
-    }
-  ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+	"name": "sequence-erc1155-arbitrum",
+	"chainId": 42161,
+	"tokenStandard": "erc1155",
+	"logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+	"keywords": ["erc1155", "arbitrum"],
+	"timestamp": "2021-12-08T19:03:47.288Z",
+	"tokens": [
+		{
+			"chainId": 42161,
+			"address": "0xEBba467eCB6b21239178033189CeAE27CA12EaDf",
+			"name": "Treasures",
+			"standard": "erc1155",
+			"symbol": null,
+			"logoURI": "https://trove.treasure.lol/images/fetch/f_auto,c_limit,w_640,q_auto/https://djmahssgw62sw.cloudfront.net/0/Treasures.jpg",
+			"extensions": {
+				"link": "https://lore.bridgeworld.treasure.lol/",
+				"description": "Treasures are composable building blocks in Bridgeworld that will be used inter- and intra-metaverse.",
+				"categories": ["gaming", "mmo", "strategy"],
+				"ogImage": "https://djmahssgw62sw.cloudfront.net/0/Trove_Banner_XL_Other_1024x256px.jpg"
+			}
+		},
+		{
+			"chainId": 42161,
+			"address": "0x381227255eF6c5d85966b78d13e4B4a4c8719b5E",
+			"name": "Tales of Elleria - Relics",
+			"standard": "erc1155",
+			"symbol": null,
+			"logoURI": "https://i2c.seadn.io/collection/elleria-relics/image/707b6e28b332c80f9da40b9d4a676b/a0707b6e28b332c80f9da40b9d4a676b.png?h=250&w=250",
+			"extensions": {
+				"link": "https://www.talesofelleria.com/",
+				"description": "Tales of Elleria is an immersive three-dimensional role-playing GameFi project built on Arbitrum One. Summon heroes, take on assignments, go on quests and epic adventures to battle dangerous monsters and earn tremendous rewards.",
+				"categories": ["gaming", "rpg", "mmo", "strategy"],
+				"ogImage": "https://i.seadn.io/gcs/files/5cf33d22f7ee87e3bdc2fa5ec6e96fb7.png?auto=format&w=2048"
+			}
+		}
+	],
+	"version": {"major": 1, "minor": 0, "patch": 0}
 }

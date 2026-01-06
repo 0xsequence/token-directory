@@ -333,7 +333,7 @@
       "name": "Bumpkin Wearables",
       "standard": "erc1155",
       "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/67c854746e74d4da4939e9c778c2b5f6.png?auto=format&w=256",
+      "logoURI": "https://i2c.seadn.io/collection/bumpkin-wearables/image/0fc9348b82ac13512985713bf15169/f80fc9348b82ac13512985713bf15169.png?h=250&w=250",
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Make your Bumpkin Beautiful! Collect wearable items for your Bumpkin NFT. Each item in this collection is a SFT that can be attached to your Bumpkin.",
@@ -347,7 +347,7 @@
       "name": "GFC P2E Fragments",
       "standard": "erc1155",
       "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/c2a8ef75fec898c11c54740bc578a211.png?auto=format&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/48f2eaa0bd9e4e7d8802191c882171f0/e42e0695c4c5b52ce2f67708244343/b1e42e0695c4c5b52ce2f67708244343.png?h=250&w=250",
       "extensions": {
         "link": "https://galaxyfightclub.com/",
         "description": "Key fragments or key shards are rewards won inside the Galaxy Fight Club game, they can be combined into key fragments which are used to open loot boxes on our website.",
@@ -361,7 +361,7 @@
       "name": "GFC P2E Keys",
       "standard": "erc1155",
       "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/c2a8ef75fec898c11c54740bc578a211.png?auto=format&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/fad5200f5972417a83e6f87de16cd8b4/a8ef75fec898c11c54740bc578a211/c2a8ef75fec898c11c54740bc578a211.png?h=250&w=250",
       "extensions": {
         "link": "https://galaxyfightclub.com/",
         "description": "Keys are crafted from corresponding key fragments on our website, keys can be used to open loot boxes on our website to access loot like weapons and others",
@@ -470,7 +470,7 @@
       "name": "Shrub Paper Gardens",
       "standard": "erc1155",
       "symbol": null,
-      "logoURI": "https://i.seadn.io/gae/wFPpiiVtioq_CvPDv-b2D_3v90Rsjt4B-s57hzUd_TkFHrRcgKkU-gxwCTQDR1pD0plX_aKzyhfaIbwdh1l2epeWuB2x0hd6HbkVqw?auto=format&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/54012e6c41684df3aafc918f908dc485/4c4acaa776d37338fceeb3a0c3e9c7/cf4c4acaa776d37338fceeb3a0c3e9c7.png?h=250&w=250",
       "extensions": {
         "link": "https://gardens.shrub.finance/",
         "description": "The first interactive on-chain growth NFT. Shrub.finance's genesis NFT project is the most technically advanced NFT series yet. In this series you plant a seed and grow it into a Shrub all on the Polygon blockchain. Dynamic metadata means you watch it grow on OpenSea. Join us in this groundbreaking series. Seeds available here https://opensea.io/collection/shrub-paper-gardens-seeds.",
@@ -484,7 +484,7 @@
       "name": "CropBytes",
       "standard": "erc1155",
       "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/7fa8b882238d173749179d291d174fc9.png?auto=format&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/05f9f6930902493a8d2a0ada21a3b5f8/19bf3408270940a3a0097492b93733/4219bf3408270940a3a0097492b93733.png?h=250&w=250",
       "extensions": {
         "link": "https://www.cropbytes.com/",
         "description": "Welcome to CropBytes, where you can live the life of a virtual farmer and build your empire from the ground up! Own and run your business, engage in farming activities, and trade rare assets to grow your portfolio.",
@@ -499,7 +499,7 @@
       "name": "Planet IX - Assets",
       "type": "ERC1155",
       "symbol": "PIX-A",
-      "logoURI": "https://i.seadn.io/gcs/files/2f986a0fc7c0f30fbe04f85c6831d5df.png?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/ethereum/cf1b6377dc87406d98523ad64a7ee5f8/986a0fc7c0f30fbe04f85c6831d5df/2f986a0fc7c0f30fbe04f85c6831d5df.png?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0xa6796e3f59c8bc070ff3410877825c7f1151115f82ad9f558140e8fbcd0d3829",
       "extensions": {
@@ -518,7 +518,7 @@
       "name": "MetaStar Strikers: Badges",
       "standard": "ERC1155",
       "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/6fa615de540a53c6141ca94a7df4ac8c.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/31773751e4e54e6ea57fd1f49edc2b23/a615de540a53c6141ca94a7df4ac8c/6fa615de540a53c6141ca94a7df4ac8c.png?h=250&w=250",
       "extensions": {
         "link": "https://metastar.gg/",
         "description": "This badge symbolizes your status as one of our most exclusive members. The crème de la crème. Expect exclusive rewards and special services to the owners of this sought out item.",
@@ -531,7 +531,7 @@
       "address": "0xb27bbc8f0092284a880d1616f184d86c1a640fae",
       "name": "Crypto Unicorns: Shadowcorn Items Marketplace",
       "type": "ERC1155",
-      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/b234c061ffd04a8fb1b9098eb233303a/193be903e282bb6466ddcc6b1fd248/ad193be903e282bb6466ddcc6b1fd248.png?h=250&w=250",
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Welcome to the Shadowcorns' spooky bazaar deep within the Dark Forest, which lies in the realms of Crypto Unicorns, a blockchain game where you can collect, hatch, and breed your own NFT Unicorns and Battle! The Shadowcorns, menacing cousins of Unicorns, use this market to purchase and sell their items, from Crafting Components to powerful Minions, ready to build their armies and launch an offensive against the unicorns!",
@@ -544,7 +544,7 @@
       "address": "0x99A558BDBdE247C2B2716f0D4cFb0E246DFB697D",
       "name": "Crypto Unicorns: Items Marketplace",
       "type": "ERC1155",
-      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/2923d52c575647ee832f5acdc37bb00b/856d90c3d6afbfb3c5437b7bd4febb/e0856d90c3d6afbfb3c5437b7bd4febb.png?h=250&w=250",
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Crypto Unicorns is a blockchain game in which you can collect, hatch, breed, and evolve your very own Crypto Unicorns in order to participate in farming your Land NFTs, gathering resources, and joining in an ever-expanding list of activities like Jousting, Racing, and Team RPG Battle! So come on in and join the Unicorn Fam! Here you’ll be able to find a variety of items to help you in your journey... Lootboxes, Golden Tickets, the coveted Shadowcorn eggs, and more!",
