@@ -1,10 +1,5 @@
 {
   "!!NOTE!!": "This file is manually maintained, and represents the deprecated chains that are no longer supported.",
   "!!NOTE2!!": "Anything on this list and its children will be ignored by external indexers.",
-  "deprecated": [
-    "astar-zkevm",
-    "astar-zkyoto",
-    "rinkeby",
-    "mumbai"
-  ]
+  "deprecated": ["astar-zkevm", "astar-zkyoto", "rinkeby", "mumbai"]
 }

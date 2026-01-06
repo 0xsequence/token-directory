@@ -4,67 +4,67 @@
     "_external": {
       "chainId": 0,
       "tokenLists": {
-        "1-uniswap.json": "7d4bb41865276ceb75427548f344e60cdda4de0333714f193abf6be189fb87f7",
-        "2-sushiswap.json": "b871b728c4c7b8c2cc987c41238d43188c6936da3cd69615eb9a013f820a99d3",
-        "3-pancakeswap-default.json": "d35bdd7bbc4db9baa4ff25c2a018aef99e67a40592aee94a3f5992cd92a7ced2",
-        "4-pancakeswap-extended.json": "626b9bee082184e8dfc871e2e5e7a793646e5aa3ae4d8a043d395760fca57c7a",
-        "5-katana.json": "c0ca7122c2e8bcbb7770e920da235384bd087d5cefb912ba7595c11430a15928"
+        "1-uniswap.json": "85b1bf6b3a413c2b6c54f1bd73ddc7faa6e40eae6a229aaf3f8253b75ea773a5",
+        "2-sushiswap.json": "78cd163aaac1eefc5524c3aea72b7aa83bb996f446b2d2c9b332c57c16f300f9",
+        "3-pancakeswap-default.json": "9c494f5ce246deb4f54f6928aa71f12425fce38369c77292fb63dcba5f58299e",
+        "4-pancakeswap-extended.json": "a35e2f0743c2c1a7402e32a9163ebe325875eea2129cacde24e0d8173e6c8e0a",
+        "5-katana.json": "6502d29471b14ed8b420cb81646730876e876f2de7288349a444347ebf730641"
       }
     },
     "amoy": {
       "chainId": 80002,
       "tokenLists": {
-        "erc20.json": "5085c4fba093b6d42e506be43301f04bb5ff8c2bde9c85976067d0bf0e1244e0",
-        "erc721.json": "6a0c3872100ba8de21e4f5a819b1c1fc0bcfbe52ee1b2c40daffd1c9e70b0672"
+        "erc20.json": "9179f87e979910de3b2d22771e53eb46b218701171bc691d5b72e1befb89c606",
+        "erc721.json": "8bd3d969a715c9032a2c774c2e11a57362e19eee899ed4bbab316bc812a88316"
       }
     },
     "apechain": {
       "chainId": 33139,
       "tokenLists": {
-        "erc20.json": "5ac8ca402920e08efec27fbf65572bd5e99603694015325ab30b4d0a0a9367a6"
+        "erc20.json": "985197accb40ef03d5108c5a88926a434aec275647b899d626756deda7ae52f4"
       }
     },
     "arbitrum": {
       "chainId": 42161,
       "tokenLists": {
         "erc1155.json": "303b613d3d66e725cc2d7a9daec17b28ca5b50cdbfed56ce88aba9fe851a91aa",
-        "erc20.json": "4a109eee19baa1a145f3b8f33769ed71c9c81438cbe427504dd7fbc9d287a050",
+        "erc20.json": "97ae7361f47884ec0e432ee680a10a02595f9bd4b81954dec353b84c532e92a8",
         "erc721.json": "e8a31ae32437b84c1bfdc91d51a14c0d401ddd703ebe233aa4cc30ed2c236dc7",
-        "misc.json": "c422af49e57ae6275fd2fb13e0185b9f973eb266f90625f09ebe7b4f1058a8ec"
+        "misc.json": "7fdcd6fbf97166c6c38d0b7c59d5f34beeb611cdaea6fe0c7bf37ed9b4b3ad83"
       }
     },
     "arbitrum-nova": {
       "chainId": 42170,
       "tokenLists": {
         "erc1155.json": "9b7efd7f894a8a4f468074173d016ae9c2f77fdc9f2d0d9fbe181822e705a11f",
-        "erc20.json": "c19d08e9bff1efdcf835b6fcc24db5b55f27ef6e3c2725bf13ddcacfbacc99af",
+        "erc20.json": "da1d370e7b80d1f1820f37127d5553fa13a1c63a96af1f02ff6b0b34755bf457",
         "erc721.json": "6250a319c3096f558abb263db6e3ca83a761b9918abdc6e23e0c13bc8c588c74",
-        "misc.json": "2980480d7aef74ca236e92c44389a94ee1455072dd51a7eeb775df02b9cbe50b"
+        "misc.json": "66d6d73fbd6f3984e1ee9901d90ed5182d0f7b84e89d971323177c74e50e75d9"
       }
     },
     "arbitrum-sepolia": {
       "chainId": 421614,
       "tokenLists": {
-        "erc1155.json": "c15eab761a858a7fb8e287a3e4f266278e2bedc03a4dae395d3efafd97f1da06",
-        "erc20.json": "07b30f5e17faf4125390426d7fcb38889df4c7e6e57103273c5aeea938ac6482",
+        "erc1155.json": "a78068400ac072f42052bae2306abf7b4bf26423ae26b9921887bfa58cc1c3d4",
+        "erc20.json": "9b9967b61edca63a615beb495c795f4d9aae50d99242804ba285262a6b4d7ec1",
         "erc721.json": "f2ce5370cbefc09995e58e8ac42b58c61ec1e89f7b5306c4b3e882a3820c88da",
-        "misc.json": "6358c1951097cb9698ea216b781e03a9ea06aecef4afa76ea0ac4984ababa4b7"
+        "misc.json": "dcd7b7959ef6dc035d6a0dd439737094b48f3e0f9d544b1d3e7f44fdcd85df72"
       }
     },
     "arc-testnet": {
       "chainId": 5042002,
       "tokenLists": {
-        "erc20.json": "a11a1693c64116a601a539b6a3c62f79795d184c1bfcf0d823e99d05205458c1"
+        "erc20.json": "d4554cb58120ad6a122dca41e0879385eb7b6d88678f005846af4c791f5eba57"
       }
     },
     "astar-zkevm": {
       "deprecated": true,
       "chainId": 3776,
       "tokenLists": {
-        "erc1155.json": "a07549e0ad0422d4f4ef32937b068db75369d724a160fe42901e89a40e97a052",
-        "erc20.json": "42184946f839c22693385ee06453806ec89e401ab11af1fbb671efef17810263",
-        "erc721.json": "1590cae4d36e938b67831bf1321827c38cc7c8e7dcb46eea15720eb9c0d3e01f",
-        "misc.json": "175bda5d2e16180beb9e48ab7f31a8f8bd17bb4a25e7846838e67c2a51b45b53"
+        "erc1155.json": "5c2bd6c05228d2268a82534289144d41b1a5dcb00d6f5570fe67a31f742525d8",
+        "erc20.json": "2fc78a13e47e041d0c88c099d3639bd07d247925c80cc86f452ca04ded4c9a21",
+        "erc721.json": "3c06600d58ad170aafb34880d9ba1adc3bb4b75cc6baa70c3a40a6d7271b9c5e",
+        "misc.json": "9edc27cdde629c6d4f4b45244bb6725e8cbef4a018d932c7b36d45ad4f83fe03"
       }
     },
     "astar-zkyoto": {
@@ -72,174 +72,174 @@
       "chainId": 6038361,
       "tokenLists": {
         "erc1155.json": "902ab879f4d9be202291577c8264f750e727712b6e887e4a1e91daf37127c009",
-        "erc20.json": "abb16060c1231e937b87d41d81fa3958b5b4f178c48e860a4985d2f8607ae1d9",
-        "erc721.json": "96d88e9d320162f665eac90852c28573a8fba9c867dd0a97f7d27443ea8191b3",
-        "misc.json": "35b3b1ec28f6c1899fcbd053cb940271e9683d3397604a69c4e190e95a63c878"
+        "erc20.json": "242cfdd875cbff818a79c5152b47df90e6c18aa7b8d48c17af85f1e7492252cd",
+        "erc721.json": "67ab7f330c5df629b853d08b6f506ebe9e9f9d8e04528af9916441ef51d28f8b",
+        "misc.json": "917a1b690d584790eaae20d30a5d2e7907cd8151d70808356e2442aa139118cc"
       }
     },
     "avalanche": {
       "chainId": 43114,
       "tokenLists": {
         "erc1155.json": "87e84f05ad461615cca7a29b579fc5b20694a12b7b4a729088dc23eb01c6b41c",
-        "erc20.json": "f7103f99842e5486c3de5d5e81ad758599ddd05ab12a052bedaa905ff375eba2",
+        "erc20.json": "c3764f05e204ef0d38849b5a3721c07586f17f0134f39a27360f693df6caa2b4",
         "erc721.json": "0649e6b67af5860e10c6211d3e097bfce25b9cf25eaee216e29a68304f4f3a74",
-        "misc.json": "d04b73b989afdcc3b4f8c9646a85d008b00e640fd7978de2cb2c470cd11a86a8"
+        "misc.json": "92e1d2eb863ba815365f798d5ffef9185971eae5e4eb58d412a4dababcab960b"
       }
     },
     "avalanche-testnet": {
       "chainId": 43113,
       "tokenLists": {
-        "erc1155.json": "b444b165ed0b83403e66c2289cb3ab2b4b1a8fcb4d57da01dc2d39d692828d5b",
-        "erc20.json": "130b99aecf5d830eb17814a7261e88839b3aa543c90003f3be988ce7a3ae2805",
-        "erc721.json": "bda662343d37ac17b6e5dd50a1471163a9f5b728d4d3a1fc2ef85ade8442ffda",
-        "misc.json": "e4188ea6e5579cfde3d9ea6f87a3dc5b76c84a44a25cbf0dc2083a70488c959b"
+        "erc1155.json": "6d628bba85959683a06d0ca0bae4c7c9c53af5e25733de04cc3d0fddd43968d7",
+        "erc20.json": "83335f6c18cde3112afcc11b2b3da242851db4a9acfbbd5446dae3bedf781735",
+        "erc721.json": "145248d56d32df2eaf23f47d0f0ff9a88952fc2fbb205f805697e5123c3c7553",
+        "misc.json": "9169852a3e96378280882a0a40598fdec7a413ee186875aa530eaddb2c4b93e3"
       }
     },
     "base": {
       "chainId": 8453,
       "tokenLists": {
-        "erc1155.json": "63604208c3af3daf25e9958f54e898c628bb549432cd08b0437c62c70f74884a",
-        "erc20.json": "750a12b7248d3f68f49dc867d347074d78a838b0552761e535812e5ab68dadb4",
+        "erc1155.json": "1939b05371600ce96c9584299659f67230a939735f607db71169a3d6af439b8f",
+        "erc20.json": "857b03c5b981d00e8c24bc88009dcaf2d586943994b1991eba2f3d86391c19c7",
         "erc721.json": "5059136bcf2470bc6842e9e2e7b65b767156fdee6a3fb48d33a28b6fb3c60ad0",
-        "misc.json": "19b338e7444c7dcc88aaf62910252ef0997cc93d5ac4404a68905d3f00ef9e5b"
+        "misc.json": "5d196e02d0d93403a221925aa68194f8946e506c3d3a38f528a3f310bdc21f6c"
       }
     },
     "base-goerli": {
       "chainId": 84531,
       "tokenLists": {
-        "erc1155.json": "bcd49556e2cbb8716fcd1eb411ea81c91bf1118806c30b7661074e2657b1ad55",
-        "erc20.json": "ba604b8506b50cc7e9f8028ea95429e23b167fd4888a9072b6387a94386d9440",
-        "erc721.json": "42e4b7fd11b8ae74dc7413af598d3ad83b3f1f30ab40d1c4d8fbd81e38c0e139",
-        "misc.json": "a8659f9482a389c5e3abab377195ffa4b84f9a4859b85a95716da2939143cabb"
+        "erc1155.json": "40476a325ac6be2e669de941c4731ee4f400b67efcee89e15133e3e14a077700",
+        "erc20.json": "819329755317cecb22b37b2fdbdbbba9c0ec95a5b6b721ca5b10667cbe2cbe31",
+        "erc721.json": "523cf677ef3ca8ef0cff780bb82b1dd57cfd3d31f49c52ee7716c2f689c7bdee",
+        "misc.json": "b31bcd3de70a454d6507ad2d2fe21305faecbfaa95337bf6c699c3dc02f10e59"
       }
     },
     "base-sepolia": {
       "chainId": 84532,
       "tokenLists": {
-        "erc1155.json": "75e8223a9458522bfbe173b301452e5d3ae76fdc48d456bb10092af99978e765",
-        "erc20.json": "2be217e55a0a8cf9e678c449c4a8b7b52c1d3ca95972ca3b4ea464015c9910be",
-        "erc721.json": "3a6289841b511f342bc5349417987165debb8d6f86b5ae073aa22ba5b98352a0",
-        "misc.json": "0ada9e133265184c0a6a704cb7e337c0bcf6df588e8dec6a3ae32667baf1f7cc"
+        "erc1155.json": "90b87f976209d848d87f802b00e2f4d6f0931f7ddeb5ee2b9f4d7799e24e629c",
+        "erc20.json": "1335c27d37d128f9d94455b4e749f62b076431f3794fad5370c37d98b4ad6dc8",
+        "erc721.json": "6f98afc458aeedebb4a5e6766770564d1b13b7329f235e4aec06fee0aba61b3d",
+        "misc.json": "012d3ed4c4aca85a7a8a7cb0496734713302a4dd9c67a0be68df0112b67b20c8"
       }
     },
     "bnb": {
       "chainId": 56,
       "tokenLists": {
-        "erc1155.json": "28043748f0e1390007a2aaedcc90b0080ed20868c0ace50dec43ffe3428cd10c",
-        "erc20.json": "8a740b22f74c2e6d9ad0a3660bdcb72f5229872365afb0bb8e8f8e89b5db2a1a",
-        "erc721.json": "5c718e78766bf16d0219e5544e0430e1f9b5347a8771384c7d4f7edc27fd37e3",
-        "misc.json": "a20390d029418b4ff5ec02ed493ed5b1ccdff41e89b7c7aec9d79bf789ec9075"
+        "erc1155.json": "ae7818922dbfa44cc008d2a1efc4bf0a6545f92c66fe2ee2596d75be78892bc6",
+        "erc20.json": "37215be26c4830a1df8f1f6f282c3ef31ce72eb7730647b7d80b728100436123",
+        "erc721.json": "e5471df6794131d1eb8a2a03a5984052a87015b5c1b204eb98762b492ecac91e",
+        "misc.json": "bf2fb3b03bd2fdda14b8b13075d0e4bbe3eef0daf4bf83f1a6125d9939cf4e86"
       }
     },
     "bnb-testnet": {
       "chainId": 97,
       "tokenLists": {
-        "erc1155.json": "82eab6a1217333c0d4b944734ed7abe0c61e924730aa5899ec34ba1230d5367f",
-        "erc20.json": "53396b0df4ee542605eacca3a00a2c135bd950299e70fd344807175a28978766",
-        "erc721.json": "3771aedbe59f6b42d5adf09a4ed6839978b5498717ee5028c0b0828e81deecb1",
-        "misc.json": "98730eedffc5471b79a038915a7834f3d78c26d4b43ed97d000e92a8fea0fb16"
+        "erc1155.json": "38e8d09850716ada92040aeac03de284b014c0bf1bb70d975fcf730f33730361",
+        "erc20.json": "d6d012e7e6b28fa809932f4cedb2831f3110e2cb89ec8597bdc55857109bca41",
+        "erc721.json": "f0998cf665e74ce7b5a4e0ff76d4406bf9558e69f9d545fa93d0f92856bd44fb",
+        "misc.json": "f37b57812dc513ec3c7e8ea469f01d1b0780850dc83d9346de28db48a730202d"
       }
     },
     "etherlink": {
       "chainId": 42793,
       "tokenLists": {
-        "erc20.json": "dc5cf825064a11776df77d70435a1d8e79dc14ae984280b1d9999df60144b7c2"
+        "erc20.json": "3d0d6e3b4ec6780848ec2484b64d1f5eb70e4902cfd3ca0fe8f6e524800a970a"
       }
     },
     "etherlink-testnet": {
       "chainId": 128123,
       "tokenLists": {
-        "erc20.json": "9ebf7b3e55f23e0dfae19fbbafbdcd82f606c22287fefd1c148395d2838b500f"
+        "erc20.json": "b5a10351c4a80140531819380f69deb4b0331883551f9c62ebb4a7b29dabbcc2"
       }
     },
     "gnosis": {
       "chainId": 100,
       "tokenLists": {
-        "erc1155.json": "809e63742bc001b84a6b0ad6c3b92fe44d53a4e07f62bccf8441e2e156b5102c",
-        "erc20.json": "0e0c30a6fca410ccd70f6cdaa9d26968ab697e713141ef16a2c2c149608dc553",
+        "erc1155.json": "8932ecfce6b8951d24a850e08de16105fe8d394764f8beefc016b571d894c46f",
+        "erc20.json": "8162e517086f02e01a1ea6f7bcce39e0510e070baf8084d1f506dbc9736d7a23",
         "erc721.json": "ce8e5cd39632d71337faa7e4678fad3d0f215a648bea78bed3fbba3c9a032a0f",
-        "misc.json": "e2a2b91457a5585bf5a1c688c45e4c5e966037dc62e0e9fbe431a2d2d8350d13"
+        "misc.json": "5d5dbda639f269f54df67d8a844353522df6224fb0c4a898a2494d3677ab3921"
       }
     },
     "homeverse": {
       "chainId": 19011,
       "tokenLists": {
-        "erc1155.json": "77172de2a7fc8f6d9d98be528e7c98761570490cba2c3a828230f7ec448fca3f",
-        "erc20.json": "cbe02756c8409fe1448feb7ab56827e96e1009a3b7b0943e9c1f409eead242c5",
-        "erc721.json": "bd03c49dbce0b042ba48ba1623986845c99f2ac6003bedef2484cd6da38a4ecc",
-        "misc.json": "fda4979646fa958c51676da937fcd90c3c5351cde07b90c2725807df105fdb36"
+        "erc1155.json": "4e0931638d5f8c402a09ba63180de832f250d13ebd3309378ef244c4bbf58813",
+        "erc20.json": "bd7fb90a61ca5bf1a3f097d45799cdb3e8c847b84c0dd0ea90f7090f310d69eb",
+        "erc721.json": "29f32f1966639ad0b31bed04bdb2bf8d3236bca2f8785484f1f1b4dc34f9b003",
+        "misc.json": "925274c64c50f7a9bdc67e1b984cbf318c5ae4f0593c6b2ed22134faad079e28"
       }
     },
     "homeverse-testnet": {
       "chainId": 40875,
       "tokenLists": {
-        "erc1155.json": "faa7da608317b2bf8faef93ba2e1d0aafe87156975ca8821acacb3ff092fffa8",
-        "erc20.json": "fcdf364e4cc3d309dcc06412ab5eb0f417c55cb2b79593b3f2814db1c4194956",
-        "erc721.json": "c3dd752ac8d0c5e2cd81f1ded13a8056bcae854b864ae7b57f86898d2b596af7",
-        "misc.json": "0b25dc3ea49c8f217a83e381a2c38a9875cb3fda6f49621f10cdb1abbff5bcff"
+        "erc1155.json": "96cb06379a79d820df90ae0293501dd30a0bf5bfc32e29cd09fd6f7473a8b86f",
+        "erc20.json": "19897f38644b9e08d5c04ac8e00ae0fd25c69ba06f0870979e00a7c0e4d8aaf2",
+        "erc721.json": "e9bcb31da3a2fd59c9b5b997b96f3f96ad5e5d5da883ca898ad93ad686078d68",
+        "misc.json": "90966460eef43dce8f1f59c23c456c34483882e2fd42bd28da64f7ba082327e5"
       }
     },
     "incentiv": {
       "chainId": 24101,
       "tokenLists": {
-        "erc20.json": "372e874df7ecdb9a6b39448b6465ba0542accd9830ebd68d7d88129a5c96e655"
+        "erc20.json": "c2bcdd25cb3a4a585a46bec9bcded5189360f00918a3f4e6c0a4fc883f977c88"
       }
     },
     "katana": {
       "chainId": 747474,
       "tokenLists": {
-        "erc20.json": "607b1349267c4ee7b934864e39df2f03157e50138fb30e75324130cce1d93d57"
+        "erc20.json": "7eefe29f07bf9fca34350bcc292f067b995681429cb5b1cfbd50f5cf44ee0c2c"
       }
     },
     "mainnet": {
       "chainId": 1,
       "tokenLists": {
         "erc1155.json": "fcf9839d83d05187f03cfc6ef1278c02828e5f415d65c57725954b61685a8e18",
-        "erc20.json": "acf03a7e5fd879cfe0bd0c21bf3955dcbd43cc074c49f8af2fd1e03fe6fa7947",
-        "erc721.json": "e14bd87d3814aaa9928352298dfc4efe90cc12111c14ac2ce47ecf9b27f361ab",
+        "erc20.json": "d7dbac876c6b2e4bd30d1d20c324e24b6eb746a324ce51cea19d93cf11f1f37f",
+        "erc721.json": "ddd79219e9df3158cdf175c305d45307592fe5709388fd267926e99d2f5957d4",
         "misc.json": "f98a5ccf5fa208e0861c020ad16b44adfafff42d8f359fa94e6701a7397b1e92"
       }
     },
     "monad": {
       "chainId": 143,
       "tokenLists": {
-        "erc20.json": "9f7263844939b29720364288b40f20411e06cce81937ec104475041dcf547d4f"
+        "erc20.json": "621a041d87cb99c0ccb37befb64838aa9493c42a737c275a0fd53814497ffadb"
       }
     },
     "mumbai": {
       "deprecated": true,
       "chainId": 80001,
       "tokenLists": {
-        "erc1155.json": "122877d588cfa29abf606d73fc6e4c922a528816fd041ba5edd421492e921fe9",
-        "erc20.json": "ac49aad5949d52dd763fc5cd2d032dd84e7c36ebdff93647bc8e47a5d46384ff",
-        "erc721.json": "23ebb6875780e99337ca8e137106d47c5ccad0fb189c95a912b20cf0a6ea3034",
-        "misc.json": "6653b382415f8aa6186d4ae2ceb51da7a2ed9d14f35358839be401707b8c4c7c"
+        "erc1155.json": "6c26c6a8ece598cd1a5d46a1d2a30bdeaf880613bca9a2c4517b9a51d238df0b",
+        "erc20.json": "bca87305a373574b4d7bbcf5ec98bb3ef03894f9abec28fb90ed5bd765b605d0",
+        "erc721.json": "c5188eb533174861d1125e7c03b94ef6ac3a1b569b68df8a043c6c8c4e444c41",
+        "misc.json": "8292bffbaff6fcd1d77cf0e9bf5f8e36211ddf8a057a025651adb2e770a5666e"
       }
     },
     "optimism": {
       "chainId": 10,
       "tokenLists": {
-        "erc1155.json": "3363104494f667dbb49bb5207a008b595ec6b1f320a35eab08efe48bc9e22608",
-        "erc20.json": "8a3df6bb41ab2f462feaa4cea5f2b7f4e8c03c697edc8cbe2fd2684454aeb58a",
-        "erc721.json": "a5c809ddfa9cff90d9a2b520f62bad806a0aca6fda5bd470a05ed76f5e5e649f",
-        "misc.json": "d7f6bdb150473774d2ece93941da25309196b6c1c24d005c19c60bc5d173f8a8"
+        "erc1155.json": "d3b8cd8af641eb038f784d1ad753c51ec8262a3c93f6a6d56ba1620a7d88e0e0",
+        "erc20.json": "42f5262e4e829bd73c9acc95a2ca61db2b056c9cce48390cfcf65d14188d7ab7",
+        "erc721.json": "b31e44ac1f7d75445c07eb621f4c84aed399a228bc00e8c97d322aac6af81452",
+        "misc.json": "125585e3bdfbabdba8c61efbe6344dc4213b47d22013779adf728e9a0d6dd92c"
       }
     },
     "optimism-sepolia": {
       "chainId": 11155420,
       "tokenLists": {
-        "erc1155.json": "840eb4ef881d50baed0ba90e2f356cb659223949bf1e5f51ad8583dd45b4f0b6",
-        "erc20.json": "3ef8f767f9561a5ef4c794fa8fb0a18417fb595d245d0654c1fefecce97a8d49",
-        "erc721.json": "45e323fe7ec90ee1a9eeaa2f52ed151be83af010d194f44a969e03c515c173ab",
-        "misc.json": "ca0d895b40082dc2ed1b6d35a077d0de7a05a748107a66ec8653a1562ea4bd63"
+        "erc1155.json": "2c65a5b7a9ec4d753cfec3313541b8ba88ba5db33b8f458991855ef7676d0911",
+        "erc20.json": "6cfc8eabbacb2dd1196315fd637385961284f5d8565f76f508e587da9d8a67a3",
+        "erc721.json": "8f0f700c6f532487170f206f42f0a1b509ca0a190d9f551af0e1b8aec5b4eb8c",
+        "misc.json": "254634ac3494efe43ee8bc2b9757d2679f5cadc92304e61b32baf9c3d1cde9c7"
       }
     },
     "polygon": {
       "chainId": 137,
       "tokenLists": {
-        "erc1155.json": "2c44c6b05d66e8d17b007d7d51f37f087875eaad8a9c2d7769d0671e1ce3f298",
-        "erc20.json": "a5202982884f9f77c956020a9bd06272f1bcf916d2be94649580ab16f7985386",
-        "erc721.json": "db9ac4f33c2726399a06117041823ccaf1be059bcb1587e706971574ef86249f",
+        "erc1155.json": "6b7752b1d880d99a85a69710d9c84df8270dea836799bf044917d921a249dbba",
+        "erc20.json": "45e5372b1dcba2f5914f16f14cf9a415ba9dfa8106f436495a146a11d7d432e4",
+        "erc721.json": "5f51ad65a6535395a2b9e30a95b960a42e492b3ae3e1007008327bd9f9f62804",
         "misc.json": "80ed5add20b07abafcd9ced20d8cdc0ba6a588b724320c66739e1db3d264d503"
       }
     },
@@ -247,9 +247,9 @@
       "chainId": 1101,
       "tokenLists": {
         "erc1155.json": "d9910af19bec3d401db8f1bdc0c4fe5a8361d234cc5934a5c7298793fdbcf245",
-        "erc20.json": "a98a0bf97a479bdbe27728cbf58fe57466d5d99ed4d4120929650667820bbea0",
-        "erc721.json": "01572b97b0c136b51ec0cc1b26c6f6f7443b29679df5d16f956d9fdc75bd5818",
-        "misc.json": "9cf6c2d5b48e3be3afe439db561fefd07dbc6d464aba978c30d009ef02207f44"
+        "erc20.json": "f03c43d09b9032273a18da6d2a89a4820c674daf7c29294f88b05878c91d25dd",
+        "erc721.json": "1068233922c6fad4a84652137a3cb535fd3ec1411c7356e4ae689c6138265057",
+        "misc.json": "e3f0639a6562c9dfa616ae37fd4e1459c5e70c7ffb5a53402454d347e923e4f8"
       }
     },
     "rinkeby": {
@@ -257,7 +257,7 @@
       "chainId": 4,
       "tokenLists": {
         "erc1155.json": "e3175c6c63c9bb0d352f6ae5f84cfcf2622370fec2870bd4878b3a282fae63f5",
-        "erc20.json": "7c42a1e837d394812e94aaff76efe3ed863a1ef82316a142d326c9226048a1a0",
+        "erc20.json": "334515966386f42342f930400ec70acc7410a5be898a0c060eb5d2243ee9011c",
         "erc721.json": "a358c70f620e4fac608da34aaa0d59bff326b5df7d407e7faf538f6a5058f7cf",
         "misc.json": "b8853f0471b8aba265f1353a26480efc315a55931c09c4e60d19cb71fe75f9d0"
       }
@@ -265,34 +265,34 @@
     "sandbox-testnet": {
       "chainId": 6252,
       "tokenLists": {
-        "erc20.json": "a261272f3429f5b1ba6de3cc0920344962b39a637d9cf537d2d3d589eebf3eb1"
+        "erc20.json": "0e398b219ae0f27001f277be50a0ecf1edd264062c36f0bf286b8567500c2e46"
       }
     },
     "sepolia": {
       "chainId": 11155111,
       "tokenLists": {
-        "erc1155.json": "78950703921b02ed218b9b35476e904804e7b94b0c6b9d4e7e872dcbdb43579d",
-        "erc20.json": "7fe487b82d411cf281af86b025d2141f22b80c01f9e0c6ea74ec65c6bee5804b",
-        "erc721.json": "d202da2ff8d75608b76c94670cb86b6f724439267dca075494e69e781d08fa2c",
-        "misc.json": "8e943cb229329f1d47860e17f550eb645ed34392fda0e5edd5e659c4fd2c6d8c"
+        "erc1155.json": "f508f8cc65aaa542e7f8fe852909f8101d61d7ea7801cf2bd62ae0467e15a863",
+        "erc20.json": "d1751234a1539b93ed6e78933bbeac35db391df181b7a28102b72c898731db66",
+        "erc721.json": "a393450115ee85af3abae987fcc5a8a1158fc1dab742f98a5f9c12144905021c",
+        "misc.json": "12887f338fab73f7f728e3ba7d50345a2edab05d8d006ea4f383e5f00862f330"
       }
     },
     "skale-nebula-gaming-hub": {
       "chainId": 1482601649,
       "tokenLists": {
-        "erc1155.json": "b8fab64c8f77a94e648aba4915528fffc5309cbbec77a080f5dbc76dcdb0b629",
-        "erc20.json": "97b034323be06e89806356d93588e454f14b5e932d3bce012d6c7fb78c2df44c",
-        "erc721.json": "a2e6e73d5940749265aa3f3ca1aeefa784020192916f56bb175fb1e91e30951c",
-        "misc.json": "743c3762d3f9c41287aad12baed71061f0f88de10b42a040f658c5051110c6c8"
+        "erc1155.json": "729cceeb7d1649d558761e4630406e20ae1b1e28b0cb168748911ec4625ff5af",
+        "erc20.json": "1466b20de92c95349cb63f3f84ff4f61427a2f3ff5e9e80e933b53c9030613a8",
+        "erc721.json": "2ef5fd86b4f3828f1b628749c2c8a15871a049a1af6e74b64a764f8c2bffce22",
+        "misc.json": "9a425412acda24e3fe8630f01b5ecff16dcc83670db2a6d4df169b3e9d3193e2"
       }
     },
     "skale-nebula-gaming-hub-testnet": {
       "chainId": 37084624,
       "tokenLists": {
-        "erc1155.json": "3c3c68cd385bf2215dea31737aca315aa662ea1966d2f823ad1ec2d68b0a312d",
-        "erc20.json": "9d6de2911ada0ccee18e05b8b6b5787c02ed416c70a3e6a63108f35ca69be0fe",
-        "erc721.json": "2724dff3a2a5b8e6fcdb3afea08610edcef82e3843a07b79cef872c8a17cfc2b",
-        "misc.json": "111900f96b82306e3fbdfb868829557caec98caf0ad2713c72496a7f9b03ba8e"
+        "erc1155.json": "0ea99662b054d0af7687295207e0adabcb7ca6bbcbf3dd92540df9500c3421c0",
+        "erc20.json": "0e665f8fc66ac32504cc61ba1f29c2c4a915e61f1c7f26fc870c9d54e9745081",
+        "erc721.json": "3f270a39411cc6f8ffb77d062ac9717ace4adfa832037ab07a20d7ac64a8cc02",
+        "misc.json": "71ff0898bb8677b3f1af5c01e5a4f6397e27f90f614dc9fba97e07210a9c6b7b"
       }
     }
   }

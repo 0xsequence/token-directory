@@ -16,7 +16,15 @@
       "extensions": {
         "link": "https://darkearth.gg/",
         "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
-        "categories": ["gaming", "art", "defi", "reward", "fantasy", "strategy", "p2e"],
+        "categories": [
+          "gaming",
+          "art",
+          "defi",
+          "reward",
+          "fantasy",
+          "strategy",
+          "p2e"
+        ],
         "ogImage": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-banner.png"
       }
     }

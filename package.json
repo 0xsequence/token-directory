@@ -9,6 +9,7 @@
   "scripts": {
     "reindex": "tsx tools/reindex.ts",
     "sync-external": "tsx tools/sync-external.ts",
+    "format": "prettier --write .",
     "prepare": "husky"
   },
   "files": [
@@ -17,6 +18,7 @@
   "devDependencies": {
     "@types/node": "^22.14.0",
     "husky": "^9.1.7",
+    "prettier": "^3.4.2",
     "tsx": "^4.19.3"
   }
 }
