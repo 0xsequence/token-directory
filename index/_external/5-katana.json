@@ -2,11 +2,7 @@
   "name": "Katana Token List",
   "logoURI": "https://assets.katana.network/katana-social-icon.svg",
   "timestamp": "2025-06-05T19:00:00.000Z",
-  "keywords": [
-    "katana",
-    "DeFi",
-    "L2"
-  ],
+  "keywords": ["katana", "DeFi", "L2"],
   "version": {
     "major": 1,
     "minor": 1,
@@ -22,9 +18,7 @@
       "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/eth.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Katana Network Token",
@@ -34,9 +28,7 @@
       "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
       "originTokenAddress": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://assets.katana.network/icons/kat.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Vault Bridge ETH",
@@ -47,9 +39,7 @@
       "originTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/eth.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Vault Bridge USDC",
@@ -60,9 +50,7 @@
       "originTokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/usdc.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Vault Bridge USDT",
@@ -73,9 +61,7 @@
       "originTokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/usdt.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Vault Bridge WBTC",
@@ -86,9 +72,7 @@
       "originTokenAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/btc.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Vault Bridge USDS",
@@ -110,9 +94,7 @@
       "originTokenAddress": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/ausd.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Lombard Staked BTC",
@@ -123,9 +105,7 @@
       "originTokenAddress": "0x8236a87084f8b84306f72007f36f2618a5634494",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/lbtc.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Bitcoin on Katana",
@@ -135,9 +115,7 @@
       "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
       "originTokenAddress": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
       "logoURI": "https://assets.katana.network/icons/btck.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Jito Staked SOL",
@@ -147,9 +125,7 @@
       "address": "0x6C16E26013f2431e8B2e1Ba7067ECCcad0Db6C52",
       "originTokenAddress": "0x6C16E26013f2431e8B2e1Ba7067ECCcad0Db6C52",
       "logoURI": "https://assets.katana.network/icons/jitosol.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Solana (Universal)",
@@ -160,9 +136,7 @@
       "originTokenAddress": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
       "originChainId": 8453,
       "logoURI": "https://assets.katana.network/icons/usol.png",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "SUI (Universal)",
@@ -195,9 +169,7 @@
       "originTokenAddress": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/morpho.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Bridge-wrapped POL",
@@ -208,9 +180,7 @@
       "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/pol.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Bridge-wrapped SUSHI",
@@ -221,9 +191,7 @@
       "originTokenAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/sushi.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Bridge-wrapped Yearn Finance",
@@ -234,9 +202,7 @@
       "originTokenAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/yearn.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Bridge-wrapped weETH",
@@ -247,9 +213,7 @@
       "originTokenAddress": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/weeth.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "Bridge-wrapped wstETH",
@@ -260,9 +224,7 @@
       "originTokenAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
       "originChainId": 1,
       "logoURI": "https://assets.katana.network/icons/wsteth.svg",
-      "tags": [
-        "priority"
-      ]
+      "tags": ["priority"]
     },
     {
       "name": "BitVault USD",

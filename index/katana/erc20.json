@@ -3,12 +3,7 @@
   "chainId": 747474,
   "tokenStandard": "erc20",
   "logoURI": "",
-  "keywords": [
-    "erc20",
-    "fungible",
-    "stablecoin",
-    "coingecko"
-  ],
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
   "timestamp": "2025-09-01T00:00:00.000Z",
   "tokens": [
     {
