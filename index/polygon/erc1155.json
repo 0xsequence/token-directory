@@ -124,7 +124,15 @@
       "extensions": {
         "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker", "wrapped"],
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi",
+          "protocol",
+          "maker",
+          "wrapped"
+        ],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xdde0A6b9617781b8984790F0d0a40232556869Dd",
@@ -143,7 +151,15 @@
       "extensions": {
         "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker", "wrapped"],
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi",
+          "protocol",
+          "maker",
+          "wrapped"
+        ],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xb634304708e3bf20B19472822DDDAd4CE59EE485",
@@ -161,7 +177,15 @@
       "extensions": {
         "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker", "wrapped"],
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi",
+          "protocol",
+          "maker",
+          "wrapped"
+        ],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0xDbC352232F6B6A5a2f18Ea58DC9E79df59e54575",
@@ -179,7 +203,15 @@
       "extensions": {
         "link": null,
         "description": "TEST CURRENCY, NOT THE REAL DAI. DAI is a token tracking the price of 1 USD.",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi", "protocol", "maker", "wrapped"],
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi",
+          "protocol",
+          "maker",
+          "wrapped"
+        ],
         "ogImage": null,
         "originChainId": 137,
         "originAddress": "0x972A6BA04AE120F9B51F0770FEb03c1785877e4E",
@@ -596,7 +628,8 @@
         "description": "Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. This Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar.",
         "categories": ["art", "meme"]
       }
-    },{
+    },
+    {
       "chainId": 137,
       "address": "0x86935f11c86623dec8a25696e1c19a8659cbf95d",
       "name": "Aavegotchi",
@@ -648,7 +681,7 @@
         "categories": ["gaming", "access"],
         "ogImage": "https://www.boomland.io/static/media/homeThumbnail.37e22084c408bc384b17.jpg"
       }
-    }  
+    }
   ],
   "version": { "major": 1, "minor": 2, "patch": 0 }
 }

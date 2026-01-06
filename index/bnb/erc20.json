@@ -3,12 +3,7 @@
   "chainId": 56,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": [
-    "erc20",
-    "fungible",
-    "stablecoin",
-    "coingecko"
-  ],
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
   "timestamp": "2022-03-02T05:44:10.382Z",
   "tokens": [
     {
@@ -217,11 +212,7 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "categories": [
-          "usd-stablecoin",
-          "transactional",
-          "usdc"
-        ],
+        "categories": ["usd-stablecoin", "transactional", "usdc"],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -311,11 +302,7 @@
       "extensions": {
         "link": "https://www.paxos.com/busd/",
         "description": "BUSD is a 1:1 USD-backed stablecoin approved by the New York State Department of Financial Services (NYDFS), issued in partnership with Paxos.",
-        "categories": [
-          "usd-stablecoin",
-          "transactional",
-          "bnb"
-        ],
+        "categories": ["usd-stablecoin", "transactional", "bnb"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
@@ -356,13 +343,7 @@
       "extensions": {
         "link": "https://dogecoin.com/",
         "description": "Dogecoin (DOGE) is based on the popular \"doge\" Internet meme and features a Shiba Inu on its logo. Dogecoin's creators envisaged it as a fun, light-hearted cryptocurrency. that would have greater appeal beyond the core Bitcoin audience, since it was based on a dog meme.",
-        "categories": [
-          "meme",
-          "chain",
-          "gas",
-          "infrastructure",
-          "reward"
-        ],
+        "categories": ["meme", "chain", "gas", "infrastructure", "reward"],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": null
@@ -425,13 +406,7 @@
       "extensions": {
         "link": "https://www.realfevr.com/fevr",
         "description": "RealFevr is a company established in 2015 in the fantasy markets with a football fantasy leagues game that currently has over 2 Million downloads on iOS and Android. With the fantasy leagues concept proven, RealFevr is now working towards being one of the NFT industry leaders by having the first-ever fully licensed Football Video NFTs Marketplace. Its NFTs will also be integrated into the FEVR Battle Arena, a new trading moments game (Play and Earn) that’s currently in its alpha testing stage.",
-        "categories": [
-          "gaming",
-          "reward",
-          "access",
-          "simulation",
-          "sports"
-        ],
+        "categories": ["gaming", "reward", "access", "simulation", "sports"],
         "ogImage": null,
         "originChainId": 56,
         "originAddress": null
@@ -470,12 +445,7 @@
       "extensions": {
         "link": "https://guardfdn.com/",
         "description": "Guardian is for purpose driven companies and projects building and contributing to the web3 economy.",
-        "categories": [
-          "governance",
-          "protocol",
-          "defi",
-          "access"
-        ]
+        "categories": ["governance", "protocol", "defi", "access"]
       }
     },
     {

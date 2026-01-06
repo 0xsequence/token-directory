@@ -3,12 +3,7 @@
   "chainId": 1101,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": [
-    "erc20",
-    "fungible",
-    "stablecoin",
-    "coingecko"
-  ],
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
   "timestamp": "2021-01-25T15:36:16.623Z",
   "tokens": [
     {
@@ -37,11 +32,7 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "categories": [
-          "usd-stablecoin",
-          "transactional",
-          "usdc"
-        ],
+        "categories": ["usd-stablecoin", "transactional", "usdc"],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
@@ -105,11 +96,7 @@
       "extensions": {
         "link": "https://tether.to/",
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en...",
-        "categories": [
-          "usd-stablecoin",
-          "transactional",
-          "usdc"
-        ],
+        "categories": ["usd-stablecoin", "transactional", "usdc"],
         "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png"
       }
     },
@@ -124,12 +111,7 @@
       "extensions": {
         "link": "https://weth.io/",
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
-        "categories": [
-          "defi",
-          "protocol",
-          "chain",
-          "wrapped"
-        ]
+        "categories": ["defi", "protocol", "chain", "wrapped"]
       }
     },
     {

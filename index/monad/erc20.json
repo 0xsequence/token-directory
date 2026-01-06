@@ -2,12 +2,7 @@
   "name": "sequence-erc20-monad",
   "chainId": 143,
   "tokenStandard": "erc20",
-  "keywords": [
-    "erc20",
-    "fungible",
-    "stablecoin",
-    "coingecko"
-  ],
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
   "timestamp": "2025-11-20T00:00:00.000Z",
   "tokens": [
     {

@@ -16,7 +16,15 @@
       "extensions": {
         "link": "https://darkearth.gg/",
         "description": "Dark Earth is a futuristic science fiction metaverse that makes use of decentralized elements such as NFTs (Non-Fungible Tokens).",
-        "categories": ["gaming", "art", "defi", "reward", "fantasy", "strategy", "p2e"],
+        "categories": [
+          "gaming",
+          "art",
+          "defi",
+          "reward",
+          "fantasy",
+          "strategy",
+          "p2e"
+        ],
         "ogImage": "https://raw.githubusercontent.com/0xsequence/token-directory/d9b09a44e1efa2a962f9d18247da3292773c8766/images/dark-earth-banner.png",
         "originChainId": 137,
         "originAddress": null
@@ -48,7 +56,14 @@
       "extensions": {
         "link": "https://neondistrict.io/",
         "description": "Neon District is a free-to-play cyberpunk role-playing game. Collect characters and gear, craft and level up teams, and battle against other players through competitive multiplayer and in turn-based combat.",
-        "categories": ["gaming", "defi", "reward", "cyberpunk", "strategy", "p2e"],
+        "categories": [
+          "gaming",
+          "defi",
+          "reward",
+          "cyberpunk",
+          "strategy",
+          "p2e"
+        ],
         "ogImage": "https://lh3.googleusercontent.com/_EmX1Ndvx24VZ8-pmDC7NjgICFnUC-YIuxDYKCO2-T4WYbMyPnnH0oAYKXcu03_vMHQNGX-S0jcte66UEnThkkGIo6EA3wwpiQox=h600",
         "originChainId": 1,
         "originAddress": null
@@ -64,7 +79,15 @@
       "extensions": {
         "link": "https://blocklords.io",
         "description": "BLOCKLORDS is a smart-contract based grand strategy game where players are thrown into a medieval world and will have to fight their way to the top. HERO NFTs include a hero’s name, base stats, equipped item, traits, and title, making them valuable assets and necessary in order to play BLOCKLORDS ETH at launch.",
-        "categories": ["gaming", "defi", "reward", "strategy", "pvp", "simulation", "p2e"],
+        "categories": [
+          "gaming",
+          "defi",
+          "reward",
+          "strategy",
+          "pvp",
+          "simulation",
+          "p2e"
+        ],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x2c04e6dd23c33a66f58dfb79dfb15285336c92d0"
@@ -96,7 +119,15 @@
       "extensions": {
         "link": "https://godsunchained.com/?refcode=0x5b3256965e7C3cF26E11FCAf296DfC8807C01073",
         "description": "Alert: This is the legacy collection.  Gods Unchained is a free-to-play, turn-based competitive trading card game in which cards can be bought and sold on the OpenSea marketplace. Players use their collection to build decks of cards, and select a God to play with at the start of each match. The goal of the game is to reduce your opponent's life to zero. Each deck contains exactly 30 cards. On OpenSea, cards can be sold for a fixed price, auctioned, or sold in bundles.",
-        "categories": ["gaming", "tcg", "reward", "fantasy", "pvp", "strategy", "p2e"],
+        "categories": [
+          "gaming",
+          "tcg",
+          "reward",
+          "fantasy",
+          "pvp",
+          "strategy",
+          "p2e"
+        ],
         "ogImage": "https://godsunchained.com/assets/images/backgrounds/wide-hi-res-god.jpg",
         "originChainId": 1,
         "originAddress": "0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab"
@@ -144,7 +175,15 @@
       "extensions": {
         "link": "https://www.drakons.io/",
         "description": "Drakons are genetically unique and artistically designed digital dragons created as crypto collectibles. Collect according to their attributes in terms of Agility, Strength, Intelligence and Health Points. Collect now so you can breed, sire, sell, battle and be a Drakon Master!",
-        "categories": ["gaming", "art", "defi", "reward", "fantasy", "pvp", "p2e"],
+        "categories": [
+          "gaming",
+          "art",
+          "defi",
+          "reward",
+          "fantasy",
+          "pvp",
+          "p2e"
+        ],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x989e1fb123b67afd66e10574c8b409bc6e812d9a"
@@ -160,7 +199,15 @@
       "extensions": {
         "link": "https://www.cometh.io",
         "description": "Cometh is a DeFi powered game with yield generating NFT.\r\nGet spaceships, explore the galaxy and earn tokens.",
-        "categories": ["gaming", "defi", "reward", "sci-fi", "strategy", "pvp", "p2e"],
+        "categories": [
+          "gaming",
+          "defi",
+          "reward",
+          "sci-fi",
+          "strategy",
+          "pvp",
+          "p2e"
+        ],
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xbcd4f1ecff4318e7a0c791c7728f3830db506c71"
@@ -286,7 +333,14 @@
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Bumpkins are beautiful, bold and ready for an adventure. Use your Bumpkin to explore the Sunflower MetaVerse and grow your farming empire.",
-        "categories": ["gaming", "reward", "access", "fantasy", "strategy", "p2e"],
+        "categories": [
+          "gaming",
+          "reward",
+          "access",
+          "fantasy",
+          "strategy",
+          "p2e"
+        ],
         "ogImage": "https://i.seadn.io/gcs/files/e4994945529c28946af305dd983c8e65.png?auto=format&w=3840",
         "featured": true
       }
@@ -377,7 +431,8 @@
         "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://imagedelivery.net/1AztEX5-1VUaJuxpzoqU7A/bf6e7d2d-2187-46e1-c728-ac097b1a6a00/public"
       }
-    },{
+    },
+    {
       "chainId": 137,
       "address": "0x44d255166acc83c09a73d6f6f44cf534726c2947",
       "name": "Cinematic Collectors Pass",
@@ -709,7 +764,15 @@
       "extensions": {
         "link": "https://www.boomland.io/",
         "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG.",
-        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e", "rpg"]
+        "categories": [
+          "gaming",
+          "art",
+          "reward",
+          "fantasy",
+          "pvp",
+          "p2e",
+          "rpg"
+        ]
       }
     },
     {
@@ -721,9 +784,18 @@
       "extensions": {
         "link": "https://www.boomland.io/",
         "description": "BoomLand is Blockchain game developer and publisher with its own NFT marketplace and decentralized ecosystem. Our mission is to push the mass adoption of Web3 gaming by targeting and onboarding traditional Web2 players. Our first game, “Hunters On-Chain”, is a mobile first, multiplayer RPG.",
-        "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e", "rpg"]
+        "categories": [
+          "gaming",
+          "art",
+          "reward",
+          "fantasy",
+          "pvp",
+          "p2e",
+          "rpg"
+        ]
       }
-    },{
+    },
+    {
       "chainId": 137,
       "address": "0xe13cdbe1b619837773de29f316428d7f65e7df9a",
       "name": "Boomland Genesis T2 Chests",
@@ -772,7 +844,8 @@
         "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e"],
         "ogImage": "https://esportsheroes.gg/assets/esh_splash.png"
       }
-    },{
+    },
+    {
       "chainId": 137,
       "address": "0x61b9233548c428965e6db730508662AE81ce40be",
       "name": "Synergians",
@@ -785,7 +858,8 @@
         "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
         "ogImage": "https://storage.googleapis.com/sequence-prod-cluster-builder/projects/1977/landingBannerUrl/2ecae86ff91114e20330401b0d5d1cecd7c94ead6629b1dcf0e364395ec1fb93.png"
       }
-    } , {
+    },
+    {
       "chainId": 137,
       "address": "0x7e562729ca839acd6acd0d74554b238230c09c23",
       "name": "Synergians Badges",
@@ -840,7 +914,7 @@
         "categories": ["gaming", "art", "reward", "access"],
         "ogImage": "https://i.seadn.io/gcs/files/6f2a6fad6c7a160de029413524f3a23c.png?auto=format&dpr=1&w=384"
       }
-    }       
+    }
   ],
   "version": { "major": 1, "minor": 2, "patch": 1 }
 }

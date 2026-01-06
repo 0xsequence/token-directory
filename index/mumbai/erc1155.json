@@ -16,7 +16,14 @@
       "extensions": {
         "link": "https://www.skyweaver.net/",
         "description": "Skyweaver is a Free-to-Play, trading card game powered by Polygon and Ethereum.",
-        "categories": ["gaming", "art", "skyweaver", "tcg", "strategy", "fantasy"],
+        "categories": [
+          "gaming",
+          "art",
+          "skyweaver",
+          "tcg",
+          "strategy",
+          "fantasy"
+        ],
         "ogImage": "https://skyweaver.net/images/skyweavercover.jpg",
         "originChainId": 80001,
         "originAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",

@@ -33370,7 +33370,7 @@
       "logoURI": "https://i.seadn.io/gae/7slGK7rKSHWXCRdgo3c1breCsb4tEPNCpuZn3E8yCd1c9ZrwTz02za2k1j06FNqJsXIfTfPZQByxytFt-hJS7Fy-4u3OWrxsRk71v9M?w=500&auto=format",
       "extensions": {
         "link": "https://www.beansnfts.io/",
-        "description": "BEANS PETS is a collection of 4,200 unique digital collectibles on the Ethereum blockchain. BEANS PET GEN 1 was originally granted to eligible holders of the BEANS - Dumb Ways to Die collection and grants access to a special 3D companion in PlaySide's Bean Land, an upcoming P&E top-down action game set in the Dumb Ways to Die universe. This collection along with BEANS, CLASSIC BEANS and HOLDERS LOOT is created by PlaySide Studios, Australia's largest publicly listed video game company. Visit https://www.beansnfts.io/ for more details."        ,
+        "description": "BEANS PETS is a collection of 4,200 unique digital collectibles on the Ethereum blockchain. BEANS PET GEN 1 was originally granted to eligible holders of the BEANS - Dumb Ways to Die collection and grants access to a special 3D companion in PlaySide's Bean Land, an upcoming P&E top-down action game set in the Dumb Ways to Die universe. This collection along with BEANS, CLASSIC BEANS and HOLDERS LOOT is created by PlaySide Studios, Australia's largest publicly listed video game company. Visit https://www.beansnfts.io/ for more details.",
         "ogImage": "https://i.seadn.io/gae/IdOw_9gz5xUevHdD3qKAWfUOAW03SqjD5aRb4dTAUD4DTYiKKt7n5POdzK80QCrIlItRXYy_JWVanISJgLCifWAkadeKZuIvZK8eCw?w=500&auto=format"
       }
     },
@@ -33379,8 +33379,7 @@
       "address": "0x48355ce6ba377d06335be9499feaf735948484bc",
       "name": "BEANS - Dumb Ways to Die",
       "type": "ERC721",
-      "logoURI": 
-      "https://i.seadn.io/gae/qXvhLctJ8ajL_68PNU10U_Gb8fjgk_1b7OgLGLEQiBqrS4lMeTvRUnz-YF_Z6l_WhgF_fsZPlBqdXui-LTnqu74WOgifLgSIF19N1g?w=500&auto=format",
+      "logoURI": "https://i.seadn.io/gae/qXvhLctJ8ajL_68PNU10U_Gb8fjgk_1b7OgLGLEQiBqrS4lMeTvRUnz-YF_Z6l_WhgF_fsZPlBqdXui-LTnqu74WOgifLgSIF19N1g?w=500&auto=format",
       "extensions": {
         "link": "https://www.beansnfts.io/",
         "description": "BEANS are one of a kind digital collectibles that live on the Ethereum blockchain. Each BEAN comes with special accessories, giving you access to exclusive members-only benefits in Bean Land, a fun and silly top-down action Play & Earn game coming in 2023. head over to https://www.beansnfts.io/ to learn more and join our discord community.",
@@ -33423,7 +33422,8 @@
         "description": "OKGO is a 100% generative on-chain CC0 card collection",
         "ogImage": "https://i.seadn.io/s/raw/files/a35928ac8cf52099bd0f5b611684d543.png"
       }
-    },{
+    },
+    {
       "chainId": 1,
       "address": "0xeF51dA1eA651b5CBa8a12D0F8Ea7bA48fFd126AC",
       "name": "Better Buddies",
@@ -33602,7 +33602,7 @@
       "symbol": "GAM3RS",
       "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmainnet%2FiP3aWzfOlBvWQx7ZVDDwFZajkAUc5SWvTVabagJ1zmuZevzL2eHp5i4nFBe%252B7E%252BatuaQziyzbXkPhqriDhG4jhYrhpnNsD7wWWjQNZ4r6Hx5HANHpiPydDWZqzoXin8y4NZqjj4CyPk2NaSOEoHjKA%253D%253D%3Fwidth%3D250",
       "extensions": {
-        "description":"Prove your worth and become one of 333 GAM3RS to join the future of gaming. Get exclusive rewards, early access to the top web3 games, [REDACTED], and much more. GAM3RS is an NFT collection on Ethereum, granting its holders access to the upcoming $G3 presale and ecosystem rewards.",
+        "description": "Prove your worth and become one of 333 GAM3RS to join the future of gaming. Get exclusive rewards, early access to the top web3 games, [REDACTED], and much more. GAM3RS is an NFT collection on Ethereum, granting its holders access to the upcoming $G3 presale and ecosystem rewards.",
         "link": "https://gam3s.gg/"
       }
     }

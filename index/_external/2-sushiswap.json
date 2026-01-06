@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-  "keywords": [
-    "sushiswap",
-    "default"
-  ],
+  "keywords": ["sushiswap", "default"],
   "tokens": [
     {
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
