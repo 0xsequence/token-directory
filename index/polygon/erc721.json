@@ -329,7 +329,7 @@
       "name": "Bumpkins",
       "standard": "erc721",
       "symbol": "BK",
-      "logoURI": "https://i.seadn.io/gcs/files/8a31f573c990cd233670218581953e24.png?auto=format&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/e6e864f834e840539ffdab24442279a0/31f573c990cd233670218581953e24/8a31f573c990cd233670218581953e24.png?h=250&w=250",
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Bumpkins are beautiful, bold and ready for an adventure. Use your Bumpkin to explore the Sunflower MetaVerse and grow your farming empire.",
@@ -341,7 +341,7 @@
           "strategy",
           "p2e"
         ],
-        "ogImage": "https://i.seadn.io/gcs/files/e4994945529c28946af305dd983c8e65.png?auto=format&w=3840",
+        "ogImage": "https://i2c.seadn.io/polygon/e6e864f834e840539ffdab24442279a0/994945529c28946af305dd983c8e65/e4994945529c28946af305dd983c8e65.png?w=2000",
         "featured": true
       }
     },
@@ -351,7 +351,7 @@
       "name": "Galaxy OAT",
       "type": "ERC721",
       "symbol": "OAT",
-      "logoURI": "https://i.seadn.io/gcs/files/c083274101cf84f66c7490b14d7dc480.png?w=500\u0026auto=format",
+      "logoURI": "https://i2c.seadn.io/matic/0x5d666f215a85b87cb042d59662a7ecd2c8cc44e6/44e5b3921dc747de8c5ecaf7e8d4be/0a44e5b3921dc747de8c5ecaf7e8d4be.png?h=250&w=250",
       "deployed": true,
       "bytecodeHash": "0xcebd5c9c0626e270a4a23e57f8d16069e2ce18ad07042d87fe87812b641dca4b",
       "extensions": {
@@ -382,12 +382,12 @@
       "name": "Champion Chests",
       "type": "ERC721",
       "symbol": "MOJO",
-      "logoURI": "https://i.seadn.io/gcs/files/0ea2b881a5a3f55bc7c5d478ddaa8bf2.jpg?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/fb0aed9684c344bfb7a3ec2e98f12d87/a2b881a5a3f55bc7c5d478ddaa8bf2/0ea2b881a5a3f55bc7c5d478ddaa8bf2.jpeg?h=250&w=250",
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Planet Mojo is an ecosystem of interconnected games built by Mystic Moose and set inside a mysterious alien planet with an evolving narrative. Players compete with customized teams of fantastical creatures in a suite of eSports, PvP games.",
         "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/1eda452d25e276592665fc10cfd3ae64.png?auto=format&dpr=1&w=3840"
+        "ogImage": "https://i2c.seadn.io/polygon/fb0aed9684c344bfb7a3ec2e98f12d87/487e3235d4272f863b49ce5b9661ff/22487e3235d4272f863b49ce5b9661ff.jpeg?w=2000"
       }
     },
     {
@@ -424,7 +424,7 @@
       "name": "Mod-able Mojos",
       "type": "ERC721",
       "symbol": "MOJO",
-      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/ed1b5c58a81146eebe54a91cc33bf360/5d630601fb5efdb35fb916dcaac6a6/345d630601fb5efdb35fb916dcaac6a6.gif?h=250&w=250",
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Mod-able Mojos are a new collection from Planet Mojo where users will be able to swap parts and customize the look of their Mojos both in-game, and on-chain. Mojos are powerful plant heroes brought forth by the planet to battle the deadly threat known as the Scourge. They are 3D playable game characters in Mojo Melee and future games and experiences set inside the Planet Mojo Universe.",
@@ -438,7 +438,7 @@
       "name": "Cinematic Collectors Pass",
       "type": "ERC721",
       "symbol": "MOJO",
-      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/a7982944612f4c47803f6ae3b3303f9f/151cde0809dc1ba1eb78de41b9486e/e1151cde0809dc1ba1eb78de41b9486e.png?h=250&w=250",
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "A limited edition Cinematic Collector's Pass \"movie poster\" NFT created for the community in celebration of the release of Planet Mojo's first cinematic trailer!",
@@ -452,7 +452,7 @@
       "name": "VIP Playtest Pass",
       "type": "ERC721",
       "symbol": "MOJO",
-      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/d717e826219043c884b2a519362f203d/5ec9388bf6f83c879cb1b9c520b961/c15ec9388bf6f83c879cb1b9c520b961.png?h=250&w=250",
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "The Planet Mojo VIP Playtest Pass NFT is a ticket that provides access to Pre-Alpha testing of the auto battler game Mojo Melee. Pass holders will be eligible to earn in-game rewards, a special badge and invitations to special events.",
@@ -466,12 +466,12 @@
       "name": "MetaStar Strikers: Strikers",
       "type": "ERC721",
       "symbol": "STRIKERS",
-      "logoURI": "https://i.seadn.io/gcs/files/d89c7bf65b3cb00ae17c466306e1ffef.gif?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/8332aeb2f7004b1b9d440a59dd8d0848/9c7bf65b3cb00ae17c466306e1ffef/d89c7bf65b3cb00ae17c466306e1ffef.gif?h=250&w=250",
       "extensions": {
         "link": "https://metastar.gg/",
         "description": "The playable characters in MetaStar Strikers! With unique visual looks and four in-game stats, you won’t want to miss these!",
         "categories": ["gaming", "sports", "defi", "reward", "pvp", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/c01f03d12b96549667526df5ebb3903d.png?auto=format&dpr=1&w=3840"
+        "ogImage": "https://i2c.seadn.io/polygon/8332aeb2f7004b1b9d440a59dd8d0848/1f03d12b96549667526df5ebb3903d/c01f03d12b96549667526df5ebb3903d.png?w=2000"
       }
     },
     {
@@ -480,12 +480,12 @@
       "name": "MetaStar Strikers: Avatars",
       "type": "ERC721",
       "symbol": "STRIKERS",
-      "logoURI": "https://i.seadn.io/gcs/files/727dbec029b4e994e89298c7c6ff8468.gif?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/b0985043ac014003b56985c9a1b997a4/7dbec029b4e994e89298c7c6ff8468/727dbec029b4e994e89298c7c6ff8468.gif?h=250&w=250",
       "extensions": {
         "link": "https://metastar.gg/",
         "description": "Welcome to the home of MetaStar Strikers: Avatars on OpenSea. Discover the best items in this collection.",
         "categories": ["gaming", "sports", "defi", "reward", "pvp", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/506167396d6d2f96492606fc82c8f58a.png?auto=format&dpr=1&w=3840"
+        "ogImage": "https://i2c.seadn.io/polygon/b0985043ac014003b56985c9a1b997a4/6167396d6d2f96492606fc82c8f58a/506167396d6d2f96492606fc82c8f58a.png?w=2000"
       }
     },
     {
@@ -494,12 +494,12 @@
       "name": "Champions Ascension - Prime Eternal",
       "type": "ERC721",
       "symbol": "PEC",
-      "logoURI": "https://i.seadn.io/gcs/files/2ef3e366b335b566c04749975fecbac4.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/79f2e51c67ef46729d85e218b759c28b/45f20b639b08392b7c3007f4629195/1645f20b639b08392b7c3007f4629195.png?h=250&w=250",
       "extensions": {
         "link": "https://champions.io/",
         "description": "Primes sit at the highest tier of ascension. They are the strongest in 1v1 & receive daily gold claims. \n\nMeet the glorious 7622 champions who have ascended to the status of Prime Eternal. These Divine few have no equal in the arena, and receive the highest level of in game benefits. Prime Eternals will never be minted again, and give you access to the growing fantasy world Massina. Claim your Prime Eternal Champion, to play in Champions: Ascension a AAA play-to-earn game by Rough House Games.",
         "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e"],
-        "ogImage": "https://i.seadn.io/s/primary-drops/0xe22575fad77781d730c6ed5d24dd1908d6d5b730/27298272:about:media:9c7c15d2-b0d6-4383-8b82-ad798b2161d0.png?auto=format&dpr=1&w=2048"
+        "ogImage": "https://i2c.seadn.io/polygon/79f2e51c67ef46729d85e218b759c28b/7b661c52ed7fbaf4cbf07a0f986892/777b661c52ed7fbaf4cbf07a0f986892.png?w=2000"
       }
     },
     {
@@ -508,12 +508,12 @@
       "name": "Champions Ascension - Pets of Massina",
       "type": "ERC721",
       "symbol": "PET",
-      "logoURI": "https://i.seadn.io/gcs/files/4c7c67b9714044fdb03e1bed80dd75cb.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/79f2e51c67ef46729d85e218b759c28b/45f20b639b08392b7c3007f4629195/1645f20b639b08392b7c3007f4629195.png?h=250&w=250",
       "extensions": {
         "link": "https://champions.io/",
         "description": "Pets are a collection of unique companions who inhabit the universe of Champions Ascension. \n\nPets of Massina is a collection of unique companions that inhabit the universe of Champions Ascension. These creatures love joining forces with Champions, aiding them in their adventures, boosting their combat prowess, unlocking secrets and breaking hearts.",
         "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/s/primary-drops/0x58481864048671c833a0cee0d467d34534171713/27298275:about:media:616a3939-2303-4ca6-8a22-fbd687a7cf72.png?auto=format&dpr=1&w=2048"
+        "ogImage": "https://i2c.seadn.io/polygon/09bfb38a28b54987bdc0f922606f7719/c02848320f11bb839f725e07f154e7/0ec02848320f11bb839f725e07f154e7.png?w=2000"
       }
     },
     {
@@ -522,12 +522,12 @@
       "name": "Champions Ascension - Imperial Gallery",
       "type": "ERC721",
       "symbol": "ART",
-      "logoURI": "https://i.seadn.io/gcs/files/2203e103fad296773e1aa3a336a6779b.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/5877120b947a4047979cf70be306aaf4/45f20b639b08392b7c3007f4629195/1645f20b639b08392b7c3007f4629195.png?h=250&w=250",
       "extensions": {
         "link": "https://champions.io/",
         "description": "The Imperial Gallery are items that will be used to enhance all player-generated content in Massina. \n\nThe Imperial Gallery hosts the most prized works of art, items and artifacts that have been collected over centuries by the line of Massina Emperors. People travel from all corners of the world to witness the marvels contained in the gallery. Would-be thieves are executed on site. Children and Beadols pay half.",
         "categories": ["art", "reward", "access"],
-        "ogImage": "https://i.seadn.io/s/primary-drops/0x13d15d8b7b2bf48cbaf144c5c50e67b6b635b5cd/27298278:about:media:90f2f170-5792-47ce-ae57-d77e049677d8.png?auto=format&dpr=1&w=2048"
+        "ogImage": "https://i2c.seadn.io/polygon/5877120b947a4047979cf70be306aaf4/94d840a0a45150a8296f97fb88a6ed/c294d840a0a45150a8296f97fb88a6ed.png?w=2000"
       }
     },
     {
@@ -536,12 +536,12 @@
       "name": "Champions Ascension - Elemental Eternal",
       "type": "ERC721",
       "symbol": "ELEMENTAL",
-      "logoURI": "https://i.seadn.io/gcs/files/06c3079b88c3b23cd605a9d30e0d9041.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/44e12b40850e49199031e8318233b31a/45f20b639b08392b7c3007f4629195/1645f20b639b08392b7c3007f4629195.png?h=250&w=250",
       "extensions": {
         "link": "https://champions.io/",
         "description": "Elementals were forged for AOE & Group combat. They represent the houses of Air, Fire, Earth & Water. \n\nAs the House of the World was shattered, the Elemental Houses would rise from its remains. Mighty Champions willing to represent the four Elements: Air, Fire, Earth and Water, claimed their right to fight in the Colosseum Eternal, but the Emperor had other plans. Until now. The Elemental Champions are allowed in the arena once more and the stakes have never been higher.",
         "categories": ["gaming", "art", "reward", "fantasy", "pvp", "p2e"],
-        "ogImage": "https://i.seadn.io/s/primary-drops/0xc615bfb753fc2bab65065987391d046105673284/27298225:about:media:01dc39bc-a9cf-4ec9-b802-9e1f6a7784e1.png?auto=format&dpr=1&w=2048"
+        "ogImage": "https://i2c.seadn.io/polygon/44e12b40850e49199031e8318233b31a/59c11c571dce09369b3143fb9d3f8d/6d59c11c571dce09369b3143fb9d3f8d.png?w=2000"
       }
     },
     {
@@ -550,12 +550,12 @@
       "name": "Champions Ascension - Crystals",
       "type": "ERC721",
       "symbol": "CRYSTAL",
-      "logoURI": "https://i.seadn.io/gcs/files/06c3079b88c3b23cd605a9d30e0d9041.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/ed227a6b254b4ec4947c7628b996de07/45f20b639b08392b7c3007f4629195/1645f20b639b08392b7c3007f4629195.png?h=250&w=250",
       "extensions": {
         "link": "https://champions.io/",
         "description": "Crystals, created from Raw Essence, play a major role in the progression & imbuement of Champions. \n\nThe Crystal creation process had been a well kept secret of Massina's Alchemists for ages. The power contained within the Essence Crystals has many uses, and they are highly sought after by aspiring Maestros that wish to imbue their Grunts with the power of the Seven Houses. Under the watch of Head Alchemist Prometheus, Crystal forging has become a profitable business for everyone with enough coin to pay for their services.",
         "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/s/primary-drops/0x80e919391b82815327842ae55f57430571fc8b2c/31436194:about:media:e33bb8b6-eaf9-4e2f-8d85-ae724e796eb9.png?auto=format&dpr=1&w=2048"
+        "ogImage": "https://i2c.seadn.io/polygon/ed227a6b254b4ec4947c7628b996de07/10a0f7f1dfd73000a4993bf7a1d4f6/f610a0f7f1dfd73000a4993bf7a1d4f6.png?w=2000"
       }
     },
     {
@@ -564,12 +564,12 @@
       "name": "Champions Ascension - Scrolls",
       "type": "ERC721",
       "symbol": "SCROLL",
-      "logoURI": "https://i.seadn.io/gcs/files/06c3079b88c3b23cd605a9d30e0d9041.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/de20bc85c7174697a38b1a3ddc0b10cb/45f20b639b08392b7c3007f4629195/1645f20b639b08392b7c3007f4629195.png?h=250&w=250",
       "extensions": {
         "link": "https://champions.io/",
         "description": "Scrolls are a rare progression component required to achieve all levels of ascension. \n\nThe path of Ascension is at the core of the games in Massina. Maestros can only dream of one day leading an Eternal into battle, but very few accomplish such a feat. The priests of the Tower of Ascension have very strict requirements in order to deem a Champion worthy of their rituals, and the proper Scrolls of Ascension are proof that both Maestro and Champion understand the great power that will be bestowed upon them.",
         "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/s/primary-drops/0xc7dc85e36d067bb5c8e9f3a1a1086c99a1a3cdb2/31436204:about:media:469f6da7-ec39-4074-9a85-9fc514b2e9b7.png?auto=format&dpr=1&w=2048"
+        "ogImage": "https://i2c.seadn.io/polygon/de20bc85c7174697a38b1a3ddc0b10cb/e7e61a738eda989254700be0384556/b5e7e61a738eda989254700be0384556.png?w=2000"
       }
     },
     {
@@ -578,12 +578,12 @@
       "name": "Champions Ascension - Monstrous Compendium",
       "type": "ERC721",
       "symbol": "MONSTER",
-      "logoURI": "https://i.seadn.io/gcs/files/06c3079b88c3b23cd605a9d30e0d9041.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/cde161f88a214ad0b514c3a379d623ac/45f20b639b08392b7c3007f4629195/1645f20b639b08392b7c3007f4629195.png?h=250&w=250",
       "extensions": {
         "link": "https://champions.io/",
         "description": "Gruesome parts, combined to create a powerful monster, set to defend all user generated content. \n\nMassina has no shortage of terrifying and fantastical creatures. At the crossroads of many worlds, there is a new abomination entering the Arena every day. Some Maestros have taken to collecting these monsters in grotesque menageries in hopes of using them to train their Champions, or perhaps eliminate a powerful rival.",
         "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/s/primary-drops/0x3be1e1eb87d50064507c453e1e266d2b07ccc3b2/31436336:about:media:59ce19e1-304d-4884-9979-8797d4751aaa.png?auto=format&dpr=1&w=2048"
+        "ogImage": "https://i2c.seadn.io/polygon/cde161f88a214ad0b514c3a379d623ac/0b4b6ff93c6a30890592f43302d8bc/db0b4b6ff93c6a30890592f43302d8bc.png?w=2000"
       }
     },
     {
@@ -592,12 +592,12 @@
       "name": "Sunflower Land Buds",
       "type": "ERC721",
       "symbol": "BUDS",
-      "logoURI": "https://i.seadn.io/s/raw/files/3cc31f6b34094e95a59f306856ac8fb1.gif?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/930ae004f16b4ee486d5e0c5157b7203/c31f6b34094e95a59f306856ac8fb1/3cc31f6b34094e95a59f306856ac8fb1.gif?h=250&w=250",
       "extensions": {
         "link": "https://sunflower-land.com/",
         "description": "Introducing Buds, the friendly farming pets that will turbo charge your Sunflower Land farm and gaming experience. These buds mark the start of a new era of collectibles and utility in Sunflower Land, providing exciting gameplay avenues. Players will now be able to collect a one of a kind Sunflower Land collectible and use it in their farming adventure.",
         "categories": ["gaming", "art", "reward", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/6531ea1f4be7477f5bbf92ac2ebc51b4.gif?auto=format&dpr=1&w=3840"
+        "ogImage": "https://i2c.seadn.io/polygon/930ae004f16b4ee486d5e0c5157b7203/60056c9065de98738a00f30d11f8b0/2b60056c9065de98738a00f30d11f8b0.png?w=2000"
       }
     },
     {
@@ -606,12 +606,12 @@
       "name": "REVV Racing Collection",
       "standard": "erc721",
       "symbol": null,
-      "logoURI": "https://i.seadn.io/gcs/files/9d3cc3cab0f6cb2e655c298dca8d54df.png?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/5c2e00b540514d4ab70ba91bd8b33b63/3cc3cab0f6cb2e655c298dca8d54df/9d3cc3cab0f6cb2e655c298dca8d54df.png?h=250&w=250",
       "extensions": {
         "link": "https://www.revvracing.com/",
         "description": "REVV Racing is a competitive racing game, and part of the REVV Motorsport ecosystem.Designed from the ground-up to be interoperable, and utilising the REVV and SHRD tokens, REVV Racing provides both collectable and gameplay experiences for racing game players and driving enthusiast - whether competitive or casual, collectors, or fans of motorsports in general.Ready to race? We'll see you on the track!",
         "categories": ["gaming", "sports", "driving", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/6079f927aa6fb503bfada25572ede681.png?auto=format&dpr=1&w=3840"
+        "ogImage": "https://i2c.seadn.io/polygon/5c2e00b540514d4ab70ba91bd8b33b63/79f927aa6fb503bfada25572ede681/6079f927aa6fb503bfada25572ede681.png?w=2000"
       }
     },
     {
@@ -619,12 +619,12 @@
       "address": "0xdc0479cc5bba033b3e7de9f178607150b3abce1f",
       "name": "Crypto Unicorns Market",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/04cf53dba42c4c999863410ef22b6b5f/d9ee24710f4a89a8fb9c36bedbfc5f/0bd9ee24710f4a89a8fb9c36bedbfc5f.png?h=250&w=250",
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Crypto Unicorns is a Digital Pet Collecting and Farming Game built on the blockchain.In Crypto Unicorns, gameplay centers around awesomely unique Unicorn NFTs which players combine with Land NFTs to utilize in a fun farming simulation, as well as other gameplay including Jousting, Racing, and Team RPG.",
         "categories": ["gaming", "reward", "access", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+        "ogImage": "https://i2c.seadn.io/polygon/04cf53dba42c4c999863410ef22b6b5f/15b1676f5618b50d64aea341703624/ad15b1676f5618b50d64aea341703624.png?w=2000"
       }
     },
     {
@@ -632,12 +632,12 @@
       "address": "0xa7D50EE3D7485288107664cf758E877a0D351725",
       "name": "Crypto Unicorns: Shadowcorns Market",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/07c488363a39457e9a7676056c4c2952/d9ee24710f4a89a8fb9c36bedbfc5f/0bd9ee24710f4a89a8fb9c36bedbfc5f.png?h=250&w=250",
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Shadowcorns are the dark, brooding cousins of the frolicking, carefree heroes of the Crypto Unicorns universe! The 3,000 Shadowcorns hatched from Common, Rare, and Mythic Shadowcorn Eggs form the foundation of the long-term PvE gameplay in Crypto Unicorns, being the key to the domination and production of Shadowcorn Minions!",
         "categories": ["gaming", "reward", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+        "ogImage": "https://i2c.seadn.io/polygon/07c488363a39457e9a7676056c4c2952/15b1676f5618b50d64aea341703624/ad15b1676f5618b50d64aea341703624.png?w=2000"
       }
     },
     {
@@ -645,12 +645,12 @@
       "address": "0xF0648328101F0a18469401a1dbf52CDF82a7fE45",
       "name": "Crypto Unicorns: Shadowcorn Rituals Marketplace",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/52cf1cd87b9447a7b66f8ea316d250f1/193be903e282bb6466ddcc6b1fd248/ad193be903e282bb6466ddcc6b1fd248.png?h=250&w=250",
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Minions form the power base of Shadowcorns, the ill-tempered arch-enemies of Crypto Unicorns, the blockchain game where you can collect, hatch, and breed your own NFT Unicorns and Battle! Shadowcorns have each mastered their own dark arts and unique tricks to craft a vast array of different henchmen to send forth in their quest for total domination. In order to preserve this ancient knowledge, it is transcribed into the pages of Rituals, each one providing the details of what's required to summon a specific Minion type.",
         "categories": ["gaming", "reward", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+        "ogImage": "https://i2c.seadn.io/polygon/52cf1cd87b9447a7b66f8ea316d250f1/15b1676f5618b50d64aea341703624/ad15b1676f5618b50d64aea341703624.png?w=2000"
       }
     },
     {
@@ -658,12 +658,12 @@
       "address": "0xA2a13cE1824F3916fC84C65e559391fc6674e6e8",
       "name": "Crypto Unicorns Land Market",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gae/dMdzLtIMk55q0zcTe6S26MMPJHJmAxNHPLCpu5Z0QKo1x4HpejJpjaWJHL_-JaVUOt2vNPot9hvpsdPuD_X78H4wMxM5whtBN0yie7c?auto=format&dpr=1&w=256",
+      "logoURI": "https://i2c.seadn.io/polygon/52cf1cd87b9447a7b66f8ea316d250f1/193be903e282bb6466ddcc6b1fd248/ad193be903e282bb6466ddcc6b1fd248.png?h=250&w=250",
       "extensions": {
         "link": "https://www.cryptounicorns.fun/",
         "description": "Crypto Unicorns is a Digital Pet Collecting and Farming Game built on the blockchain.In Crypto Unicorns, gameplay centers around awesomely unique Unicorn NFTs which players combine with Land NFTs to utilize in a fun farming simulation, as well as other gameplay including Jousting, Racing, and Team RPG.",
         "categories": ["gaming", "reward", "access", "fantasy", "p2e"],
-        "ogImage": "https://i.seadn.io/gcs/files/7de573fd08112f68f44c17ec91d49b54.png?auto=format&dpr=1&h=500"
+        "ogImage": "https://i2c.seadn.io/polygon/25fcc3a06c21460996c12abc84683042/15b1676f5618b50d64aea341703624/ad15b1676f5618b50d64aea341703624.png?w=2000"
       }
     },
     {
@@ -671,12 +671,12 @@
       "address": "0x3f316061c3ded6afd876988e387de224d7dad648",
       "name": "SYMBIOGENESIS - Member Card",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gcs/files/3cabddb5c8e34af1d9c4e69d162537b8.png?w=256&auto=format",
+      "logoURI": "https://i2c.seadn.io/polygon/2c6147daa929468c82ac855160950cde/abddb5c8e34af1d9c4e69d162537b8/3cabddb5c8e34af1d9c4e69d162537b8.png?h=250&w=250",
       "extensions": {
         "link": "https://symbiogenesis.app/",
         "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 character (Ethereum) - collectible artworks meet real game utility.\r\n \r\nGame Utility\r\nThis game's genre is defined as \"Narrative-unlocked NFT entertainment\"\r\nAs you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.\r\n\r\nThe member cards are able to be used as utility within the game.",
         "categories": ["gaming", "art", "reward", "access"],
-        "ogImage": "https://i.seadn.io/gcs/files/e43c4fc02b76343e64dd95d9737121bc.png?w=500&auto=format"
+        "ogImage": "https://i2c.seadn.io/polygon/2c6147daa929468c82ac855160950cde/3c4fc02b76343e64dd95d9737121bc/e43c4fc02b76343e64dd95d9737121bc.png?w=2000"
       }
     },
     {
@@ -684,7 +684,7 @@
       "address": "0x0c15126d2086f6df5ede0da8b552e7b2d067d4d9",
       "name": "Mod-able Mojos",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
+      "logoURI": "https://i2c.seadn.io/polygon/ed1b5c58a81146eebe54a91cc33bf360/5d630601fb5efdb35fb916dcaac6a6/345d630601fb5efdb35fb916dcaac6a6.gif?h=250&w=250",
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Mod-able Mojos are a new collection from Planet Mojo where users will be able to swap parts and customize the look of their Mojos both in-game, and on-chain. Mojos are powerful plant heroes brought forth by the planet to battle the deadly threat known as the Scourge. They are 3D playable game characters in Mojo Melee and future games and experiences set inside the Planet Mojo Universe.",
@@ -697,12 +697,12 @@
       "address": "0x440d4955a914d5e29f861ac024a608ae41c56cb6",
       "name": "Pooky Stickers",
       "type": "ERC721",
-      "logoURI": "https://i.seadn.io/gcs/files/44f4e3f859cb33bd9139f87b9aabbe4f.jpg?w=500&auto=format",
+      "logoURI": "https://i2c.seadn.io/polygon/7e17ed2a5f4e43b1ac056fbebc2014bd/f4e3f859cb33bd9139f87b9aabbe4f/44f4e3f859cb33bd9139f87b9aabbe4f.jpeg?h=250&w=250",
       "extensions": {
         "link": "https://pooky.gg/",
         "description": "Stickers are customisations for your Pookyballs (https://opensea.io/collection/pookyballs). They're used in Pooky to supercharge your predictions and build custom strategies!",
         "categories": ["art", "reward", "access"],
-        "ogImage": "https://i.seadn.io/gcs/files/a1b94edb173f4880773aa1282b4a06d4.png?w=500&auto=format"
+        "ogImage": "https://i2c.seadn.io/polygon/7e17ed2a5f4e43b1ac056fbebc2014bd/b94edb173f4880773aa1282b4a06d4/a1b94edb173f4880773aa1282b4a06d4.png?w=2000"
       }
     },
     {
@@ -747,7 +747,7 @@
       "address": "0x90c45bb702384812825da4971054fdb6836582a0",
       "name": "Mojo-Champion",
       "type": "erc721",
-      "logoURI": "https://i.seadn.io/s/raw/files/345d630601fb5efdb35fb916dcaac6a6.gif?w=500&auto=format",
+      "logoURI": "https://i2c.seadn.io/polygon/4a542704ea474fc59bd6bcfdb94d11d7/29940dfdcb8459fbb4935709c5e565/0a29940dfdcb8459fbb4935709c5e565.jpeg?h=250&w=250",
       "extensions": {
         "link": "https://www.planetmojo.io/",
         "description": "Champions are warriors from the Clans of Planet Mojo. They have been sent to discover the source of the Scourge and determine whether an age-old prophecy is unfolding. In Mojo Melee, most of a player’s team will consist of Champions that have banded together with their Mojo to battle together.",
@@ -907,12 +907,12 @@
       "name": "SYMBIOGENESIS - AL",
       "type": "ERC721",
       "symbol": "SYMAL",
-      "logoURI": "https://i.seadn.io/gcs/files/6f2a6fad6c7a160de029413524f3a23c.png?auto=format&dpr=1&w=384",
+      "logoURI": "https://i2c.seadn.io/polygon/a93ffb5605974c26b51b59c796e7fbbb/2a6fad6c7a160de029413524f3a23c/6f2a6fad6c7a160de029413524f3a23c.png?h=250&w=250",
       "extensions": {
         "link": "https://symbiogenesis.app/",
         "description": "Square Enix Global NFT Collectible Art Project - SYMBIOGENESIS - 10,000 collectible artworks meet real game utility.\n\nGame Utility\nThis game's genre is defined as 'Narrative-unlocked NFT entertainment' \n As you unlock the main story, as well as the individual stories of each character, unravel the mysteries of the world.\n\nThe chip-like relics contain Allowlist points for chapter 1 but do not contain any in-game utility",
         "categories": ["gaming", "art", "reward", "access"],
-        "ogImage": "https://i.seadn.io/gcs/files/6f2a6fad6c7a160de029413524f3a23c.png?auto=format&dpr=1&w=384"
+        "ogImage": "https://i2c.seadn.io/polygon/a93ffb5605974c26b51b59c796e7fbbb/ff1068c7b988ffb3c7a06227a0b7a3/c1ff1068c7b988ffb3c7a06227a0b7a3.png?w=2000"
       }
     }
   ],
