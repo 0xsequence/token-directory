@@ -3,7 +3,12 @@
   "chainId": 43114,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
   "timestamp": "2022-08-22T15:36:16.623Z",
   "tokens": [
     {
@@ -104,7 +109,12 @@
       "extensions": {
         "link": null,
         "description": null,
-        "categories": ["usd-stablecoin", "transactional", "wrapped", "bridged"],
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "wrapped",
+          "bridged"
+        ],
         "ogImage": null
       }
     },
@@ -138,7 +148,13 @@
       "extensions": {
         "link": null,
         "description": null,
-        "categories": ["defi", "protocol", "chain", "wrapped", "bridged"],
+        "categories": [
+          "defi",
+          "protocol",
+          "chain",
+          "wrapped",
+          "bridged"
+        ],
         "ogImage": null
       }
     },
@@ -172,7 +188,13 @@
       "extensions": {
         "link": "https://www.realfevr.com/fevr",
         "description": "RealFevr is a company established in 2015 in the fantasy markets with a football fantasy leagues game that currently has over 2 Million downloads on iOS and Android. With the fantasy leagues concept proven, RealFevr is now working towards being one of the NFT industry leaders by having the first-ever fully licensed Football Video NFTs Marketplace. Its NFTs will also be integrated into the FEVR Battle Arena, a new trading moments game (Play and Earn) that’s currently in its alpha testing stage.",
-        "categories": ["gaming", "reward", "access", "simulation", "sports"],
+        "categories": [
+          "gaming",
+          "reward",
+          "access",
+          "simulation",
+          "sports"
+        ],
         "ogImage": null,
         "originChainId": 56,
         "originAddress": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc"
@@ -188,7 +210,11 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "categories": ["usd-stablecoin", "transactional", "usdc"],
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "usdc"
+        ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "featured": true,
         "featureIndex": 1
@@ -512,6 +538,132 @@
         "underlyingTokenAddress": "0x7bFd4CA2a6Cf3A3fDDd645D10B323031afe47FF0",
         "underlyingTokenName": "rsETHWrapper",
         "underlyingTokenSymbol": "wrsETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21",
+      "name": "Aave V2 Wrapped Ether",
+      "symbol": "avWETH.e",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH.e",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d",
+      "name": "Aave V2 Wrapped BTC",
+      "symbol": "avWBTC.e",
+      "decimals": 8,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x50b7545627a5162f82a992c33b87adc75187b218",
+        "underlyingTokenName": "Wrapped BTC",
+        "underlyingTokenSymbol": "WBTC.e",
+        "underlyingTokenDecimals": 8,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd45b7c061016102f9fa220502908f2c0f1add1d7",
+      "name": "Aave V2 Aave Token",
+      "symbol": "avAAVE.e",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+        "underlyingTokenName": "Aave Token",
+        "underlyingTokenSymbol": "AAVE.e",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x46a51127c3ce23fb7ab1de06226147f446e4a857",
+      "name": "Aave V2 USD Coin",
+      "symbol": "avUSDC.e",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC.e",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xdfe521292ece2a4f44242efbcd66bc594ca9714b",
+      "name": "Aave V2 Wrapped AVAX",
+      "symbol": "avWAVAX",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "underlyingTokenName": "Wrapped AVAX",
+        "underlyingTokenSymbol": "WAVAX",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x532e6537fea298397212f09a61e03311686f548e",
+      "name": "Aave V2 Tether USD",
+      "symbol": "avUSDT.e",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT.e",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a",
+      "name": "Aave V2 Dai Stablecoin",
+      "symbol": "avDAI.e",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+        "underlyingTokenName": "Dai Stablecoin",
+        "underlyingTokenSymbol": "DAI.e",
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
