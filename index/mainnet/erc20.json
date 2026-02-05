@@ -3,7 +3,12 @@
   "chainId": 1,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
   "timestamp": "2021-01-27T22:00:03.430Z",
   "tokens": [
     {
@@ -24183,6 +24188,1140 @@
         "underlyingTokenName": "VanEck Treasury Fund",
         "underlyingTokenSymbol": "VBILL",
         "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c0477d085ECb607CF8429f3eC91Ae5E1e460F4F",
+      "name": "Aave Ethereum USDG",
+      "symbol": "aEthUSDG",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x7c0477d085ECb607CF8429f3eC91Ae5E1e460F4F&token=aEthUSDG",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+        "underlyingTokenName": "Global Dollar",
+        "underlyingTokenSymbol": "USDG",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xAa0200d169fF3ba9385c12E073c5d1d30434AE7b",
+      "name": "Aave Ethereum mUSD",
+      "symbol": "aEthmUSD",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xAa0200d169fF3ba9385c12E073c5d1d30434AE7b&token=aEthmUSD",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+        "underlyingTokenName": "MetaMask USD",
+        "underlyingTokenSymbol": "mUSD",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x24Ab03a9a5Bc2C49E5523e8d915A3536ac38B91D",
+      "name": "Aave Ethereum syrupUSDT",
+      "symbol": "aEthsyrupUSDT",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x24Ab03a9a5Bc2C49E5523e8d915A3536ac38B91D&token=aEthsyrupUSDT",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x356B8d89c1e1239Cbbb9dE4815c39A1474d5BA7D",
+        "underlyingTokenName": "Syrup USDT",
+        "underlyingTokenSymbol": "syrupUSDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x101cc05f4a51c0319f570d5e146a8c625198e636",
+      "name": "Aave V2 TrueUSD",
+      "symbol": "aTUSD",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x0000000000085d4780b73119b644ae5ecd22b376",
+        "underlyingTokenName": "TrueUSD",
+        "underlyingTokenSymbol": "TUSD",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2365a4890ed8965e564b7e2d27c38ba67fec4c6f",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniWBTCUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x004375dff511095cc5a197a54140a24efef3a416",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniWBTCUSDC",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9bc48c72154ef3e5425641a3c747242112a46af",
+      "name": "Aave V2 Rai Reflex Index",
+      "symbol": "aRAI",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+        "underlyingTokenName": "Rai Reflex Index",
+        "underlyingTokenSymbol": "RAI",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd37ee7e4f452c6638c96536e68090de8cbcdb583",
+      "name": "Aave V2 Gemini dollar",
+      "symbol": "aGUSD",
+      "decimals": 2,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+        "underlyingTokenName": "Gemini dollar",
+        "underlyingTokenSymbol": "GUSD",
+        "underlyingTokenDecimals": 2,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5165d24277cd063f5ac44efd447b27025e888f37",
+      "name": "Aave V2 yearn.finance",
+      "symbol": "aYFI",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "underlyingTokenName": "yearn.finance",
+        "underlyingTokenSymbol": "YFI",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1",
+      "name": "Aave V2 Basic Attention Token",
+      "symbol": "aBAT",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+        "underlyingTokenName": "Basic Attention Token",
+        "underlyingTokenSymbol": "BAT",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa685a61171bb30d4072b338c80cb7b2c865c873e",
+      "name": "Aave V2 Decentraland MANA",
+      "symbol": "aMANA",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+        "underlyingTokenName": "Decentraland MANA",
+        "underlyingTokenSymbol": "MANA",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb29130cbcc3f791f077eade0266168e808e5151e",
+      "name": "Aave V2 1INCH Token",
+      "symbol": "a1INCH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "underlyingTokenName": "1INCH Token",
+        "underlyingTokenSymbol": "1INCH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f634c6135d2ebd550000ac92f494f9cb8183dae",
+      "name": "Aave V2 DefiPulse Index",
+      "symbol": "aDPI",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+        "underlyingTokenName": "DefiPulse Index",
+        "underlyingTokenSymbol": "DPI",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x358bd0d980e031e23eba9aa793926857703783bd",
+      "name": "Aave V2 Balancer Pool Token",
+      "symbol": "aAmmBptWBTCWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x1eff8af5d577060ba4ac8a29a13525bb0ee2a3d5",
+        "underlyingTokenName": "Balancer Pool Token",
+        "underlyingTokenSymbol": "AmmBptWBTCWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1",
+      "name": "Aave V2 Uniswap",
+      "symbol": "aUNI",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "underlyingTokenName": "Uniswap",
+        "underlyingTokenSymbol": "UNI",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x13b2f6928d7204328b0e8e4bcd0379aa06ea21fa",
+      "name": "Aave V2 Wrapped BTC",
+      "symbol": "aAmmWBTC",
+      "decimals": 8,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "underlyingTokenName": "Wrapped BTC",
+        "underlyingTokenSymbol": "AmmWBTC",
+        "underlyingTokenDecimals": 8,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
+      "name": "Aave V2 Wrapped BTC",
+      "symbol": "aWBTC",
+      "decimals": 8,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "underlyingTokenName": "Wrapped BTC",
+        "underlyingTokenSymbol": "WBTC",
+        "underlyingTokenDecimals": 8,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5394794be8b6ed5572fcd6b27103f46b5f390e8f",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniYFIWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x2fdbadf3c4d5a8666bc06645b8358ab803996e28",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniYFIWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ea20e7ffb006d4cfe84df2f72d8c7bd89247db0",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniCRVWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x3da1313ae46132a397d90d95b1424a9a7e3e0fce",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniCRVWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a",
+      "name": "Aave V2 Republic Token",
+      "symbol": "aREN",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x408e41876cccdc0f92210600ef50372656052a38",
+        "underlyingTokenName": "Republic Token",
+        "underlyingTokenSymbol": "REN",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x38e491a71291cd43e8de63b7253e482622184894",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniSNXWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x43ae24960e5534731fc831386c07755a2dc33d47",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniSNXWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x952749e07d7157bb9644a894dfaf3bad5ef6d918",
+      "name": "Aave V2 Convex Token",
+      "symbol": "aCVX",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+        "underlyingTokenName": "Convex Token",
+        "underlyingTokenSymbol": "CVX",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa361718326c15715591c299427c62086f69923d9",
+      "name": "Aave V2 Binance USD",
+      "symbol": "aBUSD",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+        "underlyingTokenName": "Binance USD",
+        "underlyingTokenSymbol": "BUSD",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd145c6ae8931ed5bca9b5f5b7da5991f5ab63b5c",
+      "name": "Aave V2 Gelato Uniswap DAI/USDC LP",
+      "symbol": "aAmmGUniDAIUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x50379f632ca68d36e50cfbc8f78fe16bd1499d1e",
+        "underlyingTokenName": "Gelato Uniswap DAI/USDC LP",
+        "underlyingTokenSymbol": "AmmGUniDAIUSDC",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
+      "name": "Aave V2 ChainLink Token",
+      "symbol": "aLINK",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "underlyingTokenName": "ChainLink Token",
+        "underlyingTokenSymbol": "LINK",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c5024cd4f8a59110119c56f8933403a539555eb",
+      "name": "Aave V2 Synth sUSD",
+      "symbol": "aSUSD",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+        "underlyingTokenName": "Synth sUSD",
+        "underlyingTokenSymbol": "SUSD",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd109b2a304587569c84308c55465cd9ff0317bfb",
+      "name": "Aave V2 Balancer Pool Token",
+      "symbol": "aAmmBptBALWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x59a19d8c652fa0284f44113d0ff9aba70bd46fb4",
+        "underlyingTokenName": "Balancer Pool Token",
+        "underlyingTokenSymbol": "AmmBptBALWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xce1871f791548600cb59efbeffc9c38719142079",
+      "name": "Aave V2 LUSD Stablecoin",
+      "symbol": "aLUSD",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+        "underlyingTokenName": "LUSD Stablecoin",
+        "underlyingTokenSymbol": "LUSD",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x79be75ffc64dd58e66787e4eae470c8a1fd08ba4",
+      "name": "Aave V2 Dai Stablecoin",
+      "symbol": "aAmmDAI",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "underlyingTokenName": "Dai Stablecoin",
+        "underlyingTokenSymbol": "AmmDAI",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+      "name": "Aave V2 Dai Stablecoin",
+      "symbol": "aDAI",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "underlyingTokenName": "Dai Stablecoin",
+        "underlyingTokenSymbol": "DAI",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
+      "name": "Aave V2 Aave Token",
+      "symbol": "aAAVE",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "underlyingTokenName": "Aave Token",
+        "underlyingTokenSymbol": "AAVE",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4937682df3c8aef4fe912a96a74121c0829e664",
+      "name": "Aave V2 Frax",
+      "symbol": "aFRAX",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "underlyingTokenName": "Frax",
+        "underlyingTokenSymbol": "FRAX",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
+      "name": "Aave V2 SushiBar",
+      "symbol": "aXSUSHI",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+        "underlyingTokenName": "SushiBar",
+        "underlyingTokenSymbol": "XSUSHI",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9e201a4e269d6cd5e9f0fcbcb78520cf815878b",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniRENWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8bd1661da98ebdd3bd080f0be4e6d9be8ce9858c",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniRENWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e8f4bdbe3d47d7d7de490437aea9915d930f1a3",
+      "name": "Aave V2 Paxos Standard",
+      "symbol": "aPAX",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+        "underlyingTokenName": "Paxos Standard",
+        "underlyingTokenSymbol": "PAX",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x683923db55fead99a79fa01a27eec3cb19679cc3",
+      "name": "Aave V2 Fei USD",
+      "symbol": "aFEI",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+        "underlyingTokenName": "Fei USD",
+        "underlyingTokenSymbol": "FEI",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc713e5e149d5d0715dcd1c156a020976e7e56b88",
+      "name": "Aave V2 Maker",
+      "symbol": "aMKR",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+        "underlyingTokenName": "Maker",
+        "underlyingTokenSymbol": "MKR",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd24946147829deaa935be2ad85a3291dbf109c80",
+      "name": "Aave V2 USD Coin",
+      "symbol": "aAmmUSDC",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "AmmUSDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+      "name": "Aave V2 USD Coin",
+      "symbol": "aUSDC",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8db81b84d30e2387de0ff330420a4aaa6688134",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniLINKWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniLINKWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9303eabc860a743aabcc3a1629014cabcc3f8d36",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniDAIWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniDAIWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2e2152647f4c26028482efaf64b2aa28779efc4",
+      "name": "Aave V2 UST (Wormhole)",
+      "symbol": "aUST",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+        "underlyingTokenName": "UST (Wormhole)",
+        "underlyingTokenSymbol": "UST",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xe340b25fe32b1011616bb8ec495a4d503e322177",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniDAIUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xae461ca67b15dc8dc81ce7615e0320da1a9ab8d5",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniDAIUSDC",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1982b2f5814301d4e9a8b0201555376e62f82428",
+      "name": "Aave V2 Liquid staked Ether 2.0",
+      "symbol": "aSTETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+        "underlyingTokenName": "Liquid staked Ether 2.0",
+        "underlyingTokenSymbol": "STETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x391e86e2c002c70dee155eaceb88f7a3c38f5976",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniUSDCWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniUSDCWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1b0edf4460cc4d8bfaa18ed871bff15e5b57eb4",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniBATWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xb6909b960dbbe7392d405429eb2b3649752b4838",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniBATWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x272f97b7a56a387ae942350bbc7df5700f8a4576",
+      "name": "Aave V2 Balancer",
+      "symbol": "aBAL",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
+        "underlyingTokenName": "Balancer",
+        "underlyingTokenSymbol": "BAL",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc58f53a8adff2fb4eb16ed56635772075e2ee123",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniWBTCWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniWBTCWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x35f6b052c598d933d69a4eec4d04c73a191fe6c2",
+      "name": "Aave V2 Synthetix Network Token",
+      "symbol": "aSNX",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "underlyingTokenName": "Synthetix Network Token",
+        "underlyingTokenSymbol": "SNX",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9fb4ad91812b704ba883b11d2b576e890a6730a",
+      "name": "Aave V2 Wrapped Ether",
+      "symbol": "aAmmWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "AmmWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
+      "name": "Aave V2 Wrapped Ether",
+      "symbol": "aWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a14e23a58edf4efdcb360f68cd1b95ce2081a2f",
+      "name": "Aave V2 Ethereum Name Service",
+      "symbol": "aENS",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+        "underlyingTokenName": "Ethereum Name Service",
+        "underlyingTokenSymbol": "ENS",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x370adc71f67f581158dc56f539df5f399128ddf9",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniMKRWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xc2adda861f89bbb333c90c492cb837741916a225",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniMKRWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xca5dfdabbffd58cfd49a9f78ca52ec8e0591a3c5",
+      "name": "Aave V2 Gelato Uniswap USDC/USDT LP",
+      "symbol": "aAmmGUniUSDCUSDT",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xd2eec91055f07fe24c9ccb25828ecfefd4be0c41",
+        "underlyingTokenName": "Gelato Uniswap USDC/USDT LP",
+        "underlyingTokenSymbol": "AmmGUniUSDCUSDT",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d26dcd840fcc8e4b2193ace8a092e4a65832f9f",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniUNIWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xd3d2e2692501a5c9ca623199d38826e513033a17",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniUNIWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e6bb68acec8fefbd87d192be09bb274170a0548",
+      "name": "Aave V2 Ampleforth",
+      "symbol": "aAMPL",
+      "decimals": 9,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+        "underlyingTokenName": "Ampleforth",
+        "underlyingTokenSymbol": "AMPL",
+        "underlyingTokenDecimals": 9,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x514cd6756ccbe28772d4cb81bc3156ba9d1744aa",
+      "name": "Aave V2 renFIL",
+      "symbol": "aRENFIL",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5",
+        "underlyingTokenName": "renFIL",
+        "underlyingTokenSymbol": "RENFIL",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1",
+      "name": "Aave V2 Curve DAO Token",
+      "symbol": "aCRV",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+        "underlyingTokenName": "Curve DAO Token",
+        "underlyingTokenSymbol": "CRV",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x17a79792fe6fe5c95dfe95fe3fcee3caf4fe4cb7",
+      "name": "Aave V2 Tether USD",
+      "symbol": "aAmmUSDT",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "AmmUSDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+      "name": "Aave V2 Tether USD",
+      "symbol": "aUSDT",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
+      "name": "Aave V2 Kyber Network Crystal",
+      "symbol": "aKNC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+        "underlyingTokenName": "Kyber Network Crystal",
+        "underlyingTokenSymbol": "KNC",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xe59d2ff6995a926a574390824a657eed36801e55",
+      "name": "Aave V2 Uniswap V2",
+      "symbol": "aAmmUniAAVEWETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xdfc14d2af169b0d36c4eff567ada9b2e0cae044f",
+        "underlyingTokenName": "Uniswap V2",
+        "underlyingTokenSymbol": "AmmUniAAVEWETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e",
+      "name": "Aave V2 0x Protocol Token",
+      "symbol": "aZRX",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+        "underlyingTokenName": "0x Protocol Token",
+        "underlyingTokenSymbol": "ZRX",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
+      "name": "Aave V2 Enjin Coin",
+      "symbol": "aENJ",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+        "underlyingTokenName": "Enjin Coin",
+        "underlyingTokenSymbol": "ENJ",
+        "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
         }

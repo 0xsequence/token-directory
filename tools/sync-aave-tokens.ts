@@ -34,6 +34,53 @@ const TARGET_CHAIN_IDS: number[] = [
   1, 42161, 43114, 8453, 56, 100, 10, 137, 84532,
 ]
 
+// Aave V2 subgraph IDs on The Graph decentralized network
+// Requires THEGRAPH_API_KEY environment variable
+// Get a free API key (100k queries/month) at https://thegraph.com/studio/apikeys/
+const V2_SUBGRAPH_IDS: Record<number, string> = {
+  1: '8wR23o1zkS4gpLqLNU4kG3JHYVucqGyopL5utGxP2q1N', // Ethereum
+  137: 'H1Et77RZh3XEf27vkAmJyzgCME2RSFLtDS2f4PPW6CGp', // Polygon
+  43114: 'EZvK18pMhwiCjxwesRLTg81fP33WnR6BnZe5Cvma3H1C', // Avalanche
+}
+
+const getV2SubgraphEndpoint = (chainId: number): string | null => {
+  const apiKey = process.env.THEGRAPH_API_KEY
+  if (!apiKey) {
+    return null
+  }
+  const subgraphId = V2_SUBGRAPH_IDS[chainId]
+  if (!subgraphId) {
+    return null
+  }
+  return `https://gateway.thegraph.com/api/${apiKey}/subgraphs/id/${subgraphId}`
+}
+
+const CHAIN_ID_TO_FOLDER_NAME: Record<number, string> = {
+  1: 'mainnet',
+  137: 'polygon',
+  43114: 'avalanche',
+}
+
+// V2 aToken symbol prefixes by chain
+const V2_ATOKEN_PREFIX: Record<number, string> = {
+  1: 'a', // Ethereum: aUSDC, aWETH
+  137: 'am', // Polygon: amUSDC, amWETH
+  43114: 'av', // Avalanche: avUSDC, avWETH
+}
+
+export const GET_AAVE_V2_RESERVES = `{
+  reserves(first: 100) {
+    id
+    name
+    symbol
+    decimals
+    aToken {
+      id
+    }
+    underlyingAsset
+  }
+}`
+
 type Reserve = {
   aToken: {
     address: string
@@ -50,6 +97,23 @@ type Reserve = {
     imageUrl?: string | null
     decimals?: number
   } | null
+}
+
+type V2AToken = {
+  id: string // Token address
+}
+
+type V2Reserve = {
+  id: string
+  name: string
+  symbol: string
+  decimals: number
+  aToken: V2AToken
+  underlyingAsset: string
+}
+
+type V2ReservesResponse = {
+  reserves?: V2Reserve[]
 }
 
 type Market = {
@@ -298,8 +362,139 @@ const processMarkets = async () => {
   }
 }
 
+async function fetchV2Reserves(chainId: number): Promise<V2Reserve[]> {
+  const endpoint = getV2SubgraphEndpoint(chainId)
+  if (!endpoint) {
+    return []
+  }
+
+  try {
+    const response = await fetch(endpoint, {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+      },
+      body: JSON.stringify({
+        query: GET_AAVE_V2_RESERVES,
+      }),
+    })
+
+    if (!response.ok) {
+      console.warn(
+        `[V2] Failed to fetch reserves for chain ${chainId}: HTTP ${response.status}`
+      )
+      return []
+    }
+
+    const payload = (await response.json()) as GraphqlResponse<V2ReservesResponse>
+
+    if (payload.errors?.length) {
+      const messages = payload.errors
+        .map(error => error.message ?? 'Unknown error')
+        .join('; ')
+      console.warn(`[V2] GraphQL errors for chain ${chainId}: ${messages}`)
+      return []
+    }
+
+    return payload.data?.reserves ?? []
+  } catch (error) {
+    console.warn(`[V2] Error fetching reserves for chain ${chainId}:`, error)
+    return []
+  }
+}
+
+const transformV2ReservesToTokens = (
+  reserves: V2Reserve[],
+  chainId: number
+): TokenListEntry[] => {
+  const prefix = V2_ATOKEN_PREFIX[chainId] ?? 'a'
+
+  return reserves
+    .filter(reserve => Boolean(reserve?.aToken?.id))
+    .map(reserve => {
+      const { aToken, underlyingAsset, name, symbol, decimals } = reserve
+
+      // Derive aToken symbol/name from underlying (e.g., USDC -> amUSDC on Polygon)
+      const aTokenSymbol = `${prefix}${symbol}`
+      const aTokenName = `Aave V2 ${name ?? symbol}`
+
+      const extensions = sanitizeExtensions({
+        aaveAToken: true,
+        underlyingTokenAddress: underlyingAsset,
+        underlyingTokenName: name,
+        underlyingTokenSymbol: symbol,
+        underlyingTokenDecimals: decimals,
+        indexingInfo: {
+          useOnChainBalance: true,
+        },
+      })
+
+      return {
+        chainId,
+        address: aToken.id,
+        name: aTokenName,
+        symbol: aTokenSymbol,
+        decimals,
+        logoURI: '',
+        ...(Object.keys(extensions).length ? { extensions } : {}),
+      }
+    })
+}
+
+const processV2Markets = async () => {
+  if (!process.env.THEGRAPH_API_KEY) {
+    console.log(
+      '\n[V2] Skipping Aave V2 tokens (THEGRAPH_API_KEY not set). ' +
+        'Get a free API key at https://thegraph.com/studio/apikeys/'
+    )
+    return
+  }
+
+  const chainIds = Object.keys(V2_SUBGRAPH_IDS).map(Number)
+  console.log(`\n[V2] Fetching Aave V2 tokens for chain IDs: ${chainIds.join(', ')}`)
+
+  for (const chainId of chainIds) {
+    const folderName = CHAIN_ID_TO_FOLDER_NAME[chainId]
+    if (!folderName) {
+      console.warn(`[V2] No folder name mapping for chain ${chainId}`)
+      continue
+    }
+
+    const reserves = await fetchV2Reserves(chainId)
+    if (!reserves.length) {
+      console.log(`[V2][${folderName}] No reserves returned from subgraph.`)
+      continue
+    }
+
+    const tokens = transformV2ReservesToTokens(reserves, chainId)
+    console.log(`[V2][${folderName}] Processing ${tokens.length} V2 tokens.`)
+
+    const tokenListPath = path.join(
+      TOKEN_DIRECTORY_ROOT,
+      folderName,
+      'erc20.json'
+    )
+
+    const tokenList = await loadTokenList(folderName, chainId, tokenListPath)
+    const additions = mergeTokens(tokenList.tokens, tokens)
+
+    if (!additions.length) {
+      console.log(`[V2][${folderName}] No new tokens to add.`)
+      continue
+    }
+
+    tokenList.tokens.push(...additions)
+
+    await writeTokenList(tokenListPath, tokenList)
+    console.log(
+      `[V2][${folderName}] Added ${additions.length} tokens -> ${tokenListPath}`
+    )
+  }
+}
+
 const main = async () => {
   await processMarkets()
+  await processV2Markets()
 }
 
 main().catch(error => {
