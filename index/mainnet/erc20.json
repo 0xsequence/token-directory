@@ -25326,6 +25326,21 @@
           "useOnChainBalance": true
         }
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6694e05B750015f54Ac646544a4a9D33cbe4086",
+      "name": "BTCD",
+      "symbol": "BTCD",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xC6694e05B750015f54Ac646544a4a9D33cbe4086.webp",
+      "extensions": {
+        "link": "https://etherscan.io/token/0xC6694e05B750015f54Ac646544a4a9D33cbe4086",
+        "description": "BTCD Token",
+        "ogImage": null,
+        "featured": true,
+        "featureIndex": 6
+      }
     }
   ],
   "version": {
