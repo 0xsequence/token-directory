@@ -84,7 +84,11 @@
       "name": "Katana Network Token",
       "symbol": "KAT",
       "decimals": 18,
-      "logoURI": "https://assets.katana.network/icons/kat.svg"
+      "logoURI": "https://assets.katana.network/icons/kat.svg",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 6
+      }
     },
     {
       "chainId": 747474,
