@@ -188,7 +188,7 @@
     "katana": {
       "chainId": 747474,
       "tokenLists": {
-        "erc20.json": "7eefe29f07bf9fca34350bcc292f067b995681429cb5b1cfbd50f5cf44ee0c2c"
+        "erc20.json": "637b44ac90e88066847593880349d9034ab8dec414b61bfce2ed9bcd07776c97"
       }
     },
     "mainnet": {
