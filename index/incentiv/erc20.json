@@ -49,8 +49,8 @@
       }
     },
     {
-      "chainId": 42161,
-      "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+      "chainId": 24101,
+      "address": "0xB0f0A14A50F14dc9e6476d61C00cF0375Dd4EB04",
       "name": "Wrapped CENT",
       "type": "ERC20",
       "symbol": "WCENT",
@@ -65,7 +65,7 @@
       }
     },
     {
-      "chainId": 10,
+      "chainId": 24101,
       "address": "0x39b076b5d23F588690D480af3Bf820edad31a4bB",
       "name": "Tether USD",
       "symbol": "USDT",
