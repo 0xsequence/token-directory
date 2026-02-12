@@ -182,7 +182,7 @@
     "incentiv": {
       "chainId": 24101,
       "tokenLists": {
-        "erc20.json": "c2bcdd25cb3a4a585a46bec9bcded5189360f00918a3f4e6c0a4fc883f977c88"
+        "erc20.json": "e2c70eb24725bdd944707579f2c8e874decbeada9d0a509648ce09d8572000ca"
       }
     },
     "katana": {
