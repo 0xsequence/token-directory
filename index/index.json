@@ -294,6 +294,12 @@
         "erc721.json": "3f270a39411cc6f8ffb77d062ac9717ace4adfa832037ab07a20d7ac64a8cc02",
         "misc.json": "71ff0898bb8677b3f1af5c01e5a4f6397e27f90f614dc9fba97e07210a9c6b7b"
       }
+    },
+    "sonic": {
+      "chainId": 146,
+      "tokenLists": {
+        "erc20.json": "575d1610c4de7b9139023c82c0bac301cd8a3edd57be306e29453a2850016c7c"
+      }
     }
   }
 }

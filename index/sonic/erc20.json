@@ -1,0 +1,87 @@
+{
+  "name": "sequence-erc20-sonic",
+  "chainId": 146,
+  "tokenStandard": "erc20",
+  "logoURI": "",
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "timestamp": "2025-09-01T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 146,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "S",
+      "symbol": "S",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 146,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "S",
+      "symbol": "S",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 146,
+      "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
+    },
+    {
+      "chainId": 146,
+      "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 2
+      }
+    },
+    {
+      "chainId": 146,
+      "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
+      "name": "Wrapped Sonic",
+      "symbol": "wS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 3
+      }
+    },
+    {
+      "chainId": 146,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 4
+      }
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
