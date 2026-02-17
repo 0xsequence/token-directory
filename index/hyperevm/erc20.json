@@ -1,0 +1,75 @@
+{
+  "name": "sequence-erc20-hyperevm",
+  "chainId": 999,
+  "tokenStandard": "erc20",
+  "logoURI": "",
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "timestamp": "2026-01-01T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 999,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "HYPE",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68481/large/hype.png?1755878697",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 999,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "HYPE",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68481/large/hype.png?1755878697",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 999,
+      "address": "0xb88339cb7199b77e23db6e890353e22632ba630f",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
+    },
+    {
+      "chainId": 999,
+      "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 2
+      }
+    },
+    {
+      "chainId": 999,
+      "address": "0x5555555555555555555555555555555555555555",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68481/large/hype.png?1755878697",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 3
+      }
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
