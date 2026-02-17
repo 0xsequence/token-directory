@@ -122,6 +122,12 @@
         "misc.json": "012d3ed4c4aca85a7a8a7cb0496734713302a4dd9c67a0be68df0112b67b20c8"
       }
     },
+    "berachain": {
+      "chainId": 80094,
+      "tokenLists": {
+        "erc20.json": "6609d04431c3ff7041802d5b2019e0b74281ae1491499730dd61ddbd26084512"
+      }
+    },
     "bnb": {
       "chainId": 56,
       "tokenLists": {
