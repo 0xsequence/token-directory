@@ -179,6 +179,12 @@
         "misc.json": "90966460eef43dce8f1f59c23c456c34483882e2fd42bd28da64f7ba082327e5"
       }
     },
+    "hyperevm": {
+      "chainId": 999,
+      "tokenLists": {
+        "erc20.json": "56f0f70a3fcd2f33c87d58e399e392e65c65d99759c71a218dc704aa2e1e5159"
+      }
+    },
     "incentiv": {
       "chainId": 24101,
       "tokenLists": {
