@@ -18,7 +18,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/100/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -30,7 +30,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/100/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -50,7 +50,7 @@
         ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "featured": true,
-        "featureIndex": 1
+        "featureIndex": 2
       }
     },
     {
@@ -73,7 +73,7 @@
         ],
         "ogImage": "https://makerdao.com/dai.png",
         "featured": true,
-        "featureIndex": 2
+        "featureIndex": 3
       }
     },
     {

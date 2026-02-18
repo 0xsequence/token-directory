@@ -18,7 +18,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/42170/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -30,7 +30,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/42170/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -52,7 +52,7 @@
         "originChainId": 1,
         "originAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "featured": true,
-        "featureIndex": 3
+        "featureIndex": 2
       }
     },
     {
@@ -77,7 +77,7 @@
         "originChainId": 1,
         "originAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "featured": true,
-        "featureIndex": 4
+        "featureIndex": 3
       }
     },
     {
@@ -100,7 +100,7 @@
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
         "originAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "featureIndex": 2
+        "featureIndex": 4
       }
     },
     {
@@ -113,7 +113,7 @@
       "extensions": {
         "link": "https://docs.arbitrum.foundation/deployment-addresses",
         "description": "$ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to shape Arbitrum's future together.",
-        "featureIndex": 1
+        "featureIndex": 5
       }
     }
   ],

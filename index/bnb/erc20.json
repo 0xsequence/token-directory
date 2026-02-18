@@ -20,7 +20,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/56/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -32,7 +32,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/56/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -79,7 +79,7 @@
         "ogImage": null,
         "originChainId": 56,
         "originAddress": null,
-        "featureIndex": 16
+        "featureIndex": 17
       }
     },
     {
@@ -105,7 +105,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "featureIndex": 4
+        "featureIndex": 6
       }
     },
     {
@@ -157,7 +157,7 @@
         "ogImage": "https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2021/01/19225127/Fantom-1.png",
         "originChainId": 1,
         "originAddress": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
-        "featureIndex": 11
+        "featureIndex": 12
       }
     },
     {
@@ -180,7 +180,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": null,
-        "featureIndex": 1
+        "featureIndex": 5
       }
     },
     {
@@ -209,7 +209,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-        "featureIndex": 2
+        "featureIndex": 4
       }
     },
     {
@@ -231,7 +231,7 @@
         "originChainId": 1,
         "originAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "featured": true,
-        "featureIndex": 3
+        "featureIndex": 2
       }
     },
     {
@@ -254,7 +254,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": null,
-        "featureIndex": 6
+        "featureIndex": 8
       }
     },
     {
@@ -280,7 +280,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": null,
-        "featureIndex": 9
+        "featureIndex": 10
       }
     },
     {
@@ -306,7 +306,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": null,
-        "featureIndex": 13
+        "featureIndex": 14
       }
     },
     {
@@ -327,7 +327,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-        "featureIndex": 5
+        "featureIndex": 7
       }
     },
     {
@@ -353,7 +353,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": "0x7884F51dC1410387371ce61747CB6264E1dAeE0B",
-        "featureIndex": 12
+        "featureIndex": 13
       }
     },
     {
@@ -376,7 +376,7 @@
         "ogImage": null,
         "originChainId": 1,
         "originAddress": null,
-        "featureIndex": 7
+        "featureIndex": 9
       }
     },
     {
@@ -446,7 +446,7 @@
         "ogImage": null,
         "originChainId": 56,
         "originAddress": null,
-        "featureIndex": 15
+        "featureIndex": 16
       }
     },
     {
@@ -469,7 +469,7 @@
         "ogImage": null,
         "originChainId": 56,
         "originAddress": null,
-        "featureIndex": 10
+        "featureIndex": 11
       }
     },
     {
@@ -489,7 +489,7 @@
           "defi",
           "access"
         ],
-        "featureIndex": 14
+        "featureIndex": 15
       }
     },
     {
@@ -513,7 +513,7 @@
         ],
         "ogImage": "https://makerdao.com/dai.png",
         "featured": true,
-        "featureIndex": 8
+        "featureIndex": 3
       }
     },
     {

@@ -30,6 +30,22 @@ const NATIVE_ADDRESSES = new Set([
   '0x0000000000000000000000000000000000000000',
 ])
 
+// Tokens pinned to the top of the featured list (after native), in order.
+// Global pins apply to all chains, chain-specific pins come after.
+const GLOBAL_PINNED_SYMBOLS = ['usdc', 'usdt', 'dai']
+
+const CHAIN_PINNED_SYMBOLS: Record<string, string[]> = {
+  mainnet: ['weth'],
+  arbitrum: ['weth', 'arb'],
+  optimism: ['weth', 'op'],
+  polygon: ['wmatic', 'wpol', 'pol', 'matic'],
+  base: ['weth'],
+  avalanche: ['wavax', 'avax'],
+  bnb: ['wbnb', 'bnb'],
+  gnosis: ['wxdai', 'gno'],
+  'arbitrum-nova': ['weth', 'arb'],
+}
+
 const SUPPORTED_CHAINS: Record<string, string> = {
   mainnet: 'ethereum',
   arbitrum: 'arbitrum-one',
@@ -319,15 +335,40 @@ async function processChain(
     .filter(m => m.total_volume != null && m.total_volume > 0)
     .slice(0, count)
 
+  // Build set of all resolved addresses (tokens the script knows about)
+  const resolvedAddresses = new Set<string>()
+  for (const addrs of coinIdToAddresses.values()) {
+    for (const addr of addrs) {
+      resolvedAddresses.add(addr.toLowerCase())
+    }
+  }
+
+  // Pin stablecoins and chain-specific tokens to the top
+  const pinOrder = [
+    ...GLOBAL_PINNED_SYMBOLS,
+    ...(CHAIN_PINNED_SYMBOLS[chain] ?? []),
+  ]
+  // Pull pinned tokens out of ranked list and prepend in pin order
+  const pinned: MarketEntry[] = []
+  for (const sym of pinOrder) {
+    const idx = ranked.findIndex(m => m.symbol.toLowerCase() === sym)
+    if (idx !== -1) {
+      const [entry] = ranked.splice(idx, 1)
+      pinned.push(entry)
+    }
+  }
+  ranked.unshift(...pinned)
+
   // Build set of addresses that should be featured (by volume rank)
+  // Native tokens share featureIndex 1, ERC-20s start at 2
   const featuredAddresses = new Map<string, number>()
-  let rank = 1
+  let rank = 2
   for (const entry of ranked) {
     const addresses = coinIdToAddresses.get(entry.id) ?? []
     for (const addr of addresses) {
       featuredAddresses.set(addr.toLowerCase(), rank)
+      rank++
     }
-    rank++
   }
 
   // Track old featureIndex for reporting
@@ -341,16 +382,19 @@ async function processChain(
     }
   }
 
-  // Apply changes
+  // Apply changes — only touch tokens we actually resolved on CoinGecko
   for (const token of tokenList.tokens) {
     const addrLower = token.address.toLowerCase()
 
-    // Native tokens: always featureIndex 0
+    // Native tokens: always featureIndex 1 (0xeeee and 0x0000 share the same index)
     if (NATIVE_ADDRESSES.has(addrLower)) {
       if (!token.extensions) token.extensions = {}
-      token.extensions.featureIndex = 0
+      token.extensions.featureIndex = 1
       continue
     }
+
+    // Skip tokens we couldn't resolve — leave them exactly as-is
+    if (!resolvedAddresses.has(addrLower)) continue
 
     const newRank = featuredAddresses.get(addrLower)
     if (newRank != null) {
@@ -358,7 +402,7 @@ async function processChain(
       if (!token.extensions) token.extensions = {}
       token.extensions.featureIndex = newRank
     } else if (token.extensions?.featureIndex != null) {
-      // No longer in top N: remove featureIndex only
+      // Resolved but not in top N: remove featureIndex only
       delete token.extensions.featureIndex
       // Clean up empty extensions
       if (Object.keys(token.extensions).length === 0) {
@@ -373,7 +417,7 @@ async function processChain(
   // Native tokens
   for (const token of tokenList.tokens) {
     if (NATIVE_ADDRESSES.has(token.address.toLowerCase())) {
-      console.log(`  #0  ${token.symbol} (${token.address}) [native]`)
+      console.log(`  #1  ${token.symbol} (${token.address}) [native]`)
     }
   }
 

@@ -20,7 +20,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/43114/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -32,7 +32,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/43114/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -54,7 +54,7 @@
           "wrapped"
         ],
         "ogImage": null,
-        "featureIndex": 3
+        "featureIndex": 4
       }
     },
     {
@@ -76,7 +76,7 @@
           "maker"
         ],
         "ogImage": null,
-        "featureIndex": 8
+        "featureIndex": 3
       }
     },
     {
@@ -99,7 +99,7 @@
           "bridged"
         ],
         "ogImage": null,
-        "featureIndex": 2
+        "featureIndex": 5
       }
     },
     {
@@ -119,7 +119,7 @@
           "bridged"
         ],
         "ogImage": null,
-        "featureIndex": 7
+        "featureIndex": 9
       }
     },
     {
@@ -140,7 +140,7 @@
           "bridged"
         ],
         "ogImage": null,
-        "featureIndex": 6
+        "featureIndex": 8
       }
     },
     {
@@ -161,7 +161,7 @@
           "bridged"
         ],
         "ogImage": null,
-        "featureIndex": 4
+        "featureIndex": 6
       }
     },
     {
@@ -182,7 +182,7 @@
           "bridged"
         ],
         "ogImage": null,
-        "featureIndex": 5
+        "featureIndex": 7
       }
     },
     {
@@ -205,7 +205,7 @@
         "ogImage": null,
         "originChainId": 56,
         "originAddress": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc",
-        "featureIndex": 9
+        "featureIndex": 10
       }
     },
     {
@@ -225,7 +225,7 @@
         ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "featured": true,
-        "featureIndex": 1
+        "featureIndex": 2
       }
     },
     {

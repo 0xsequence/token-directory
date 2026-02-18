@@ -18,7 +18,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/42161/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -30,7 +30,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/42161/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -52,7 +52,7 @@
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
         "featured": true,
-        "featureIndex": 1
+        "featureIndex": 2
       }
     },
     {
@@ -75,7 +75,7 @@
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-        "featureIndex": 6
+        "featureIndex": 8
       }
     },
     {
@@ -100,7 +100,7 @@
         "originChainId": 1,
         "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
         "featured": true,
-        "featureIndex": 7
+        "featureIndex": 3
       }
     },
     {
@@ -122,7 +122,7 @@
           "treasure"
         ],
         "ogImage": null,
-        "featureIndex": 5
+        "featureIndex": 7
       }
     },
     {
@@ -164,7 +164,7 @@
           "chain",
           "wrapped"
         ],
-        "featureIndex": 3
+        "featureIndex": 4
       }
     },
     {
@@ -184,7 +184,7 @@
           "defi",
           "access"
         ],
-        "featureIndex": 8
+        "featureIndex": 9
       }
     },
     {
@@ -197,7 +197,7 @@
       "extensions": {
         "link": "https://docs.arbitrum.foundation/deployment-addresses",
         "description": "$ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to shape Arbitrum's future together.",
-        "featureIndex": 4
+        "featureIndex": 5
       }
     },
     {
@@ -578,7 +578,7 @@
         ],
         "ogImage": "https://assets.coingecko.com/coins/images/31212/standard/PYUSD_Logo_%282%29.png?1696530039",
         "featured": true,
-        "featureIndex": 2
+        "featureIndex": 6
       }
     }
   ],
