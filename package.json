@@ -9,6 +9,7 @@
   "scripts": {
     "reindex": "tsx tools/reindex.ts",
     "sync-external": "tsx tools/sync-external.ts",
+    "update-featured": "tsx tools/update-featured.ts",
     "format": "prettier --write .",
     "prepare": "husky"
   },
