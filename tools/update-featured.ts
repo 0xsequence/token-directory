@@ -334,14 +334,9 @@ async function processChain(
     (a, b) => (b.total_volume ?? 0) - (a.total_volume ?? 0)
   )
 
-  // Filter to those with volume, exclude tokens newer than 1 month, take top N
-  const minTokenAge = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000)
+  // Filter to those with volume and take top N
   const ranked = marketData
-    .filter(m => {
-      if (m.total_volume == null || m.total_volume <= 0) return false
-      if (m.atl_date && new Date(m.atl_date) > minTokenAge) return false
-      return true
-    })
+    .filter(m => m.total_volume != null && m.total_volume > 0)
     .slice(0, count)
 
   // Build set of all resolved addresses (tokens the script knows about)

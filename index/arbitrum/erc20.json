@@ -75,7 +75,7 @@
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-        "featureIndex": 28
+        "featureIndex": 37
       }
     },
     {
@@ -122,7 +122,7 @@
           "treasure"
         ],
         "ogImage": null,
-        "featureIndex": 24
+        "featureIndex": 32
       }
     },
     {
@@ -183,7 +183,8 @@
           "protocol",
           "defi",
           "access"
-        ]
+        ],
+        "featureIndex": 38
       }
     },
     {
@@ -195,7 +196,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16547/standard/arb.jpg",
       "extensions": {
         "link": "https://docs.arbitrum.foundation/deployment-addresses",
-        "description": "$ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to shape Arbitrum's future together."
+        "description": "$ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to shape Arbitrum's future together.",
+        "featureIndex": 5
       }
     },
     {
@@ -576,7 +578,7 @@
         ],
         "ogImage": "https://assets.coingecko.com/coins/images/31212/standard/PYUSD_Logo_%282%29.png?1696530039",
         "featured": true,
-        "featureIndex": 8
+        "featureIndex": 9
       }
     },
     {
@@ -588,7 +590,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
       "extensions": {
         "coingeckoId": "aave",
-        "featureIndex": 5
+        "featureIndex": 6
       }
     },
     {
@@ -600,7 +602,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
       "extensions": {
         "coingeckoId": "coinbase-wrapped-btc",
-        "featureIndex": 6
+        "featureIndex": 7
       }
     },
     {
@@ -612,7 +614,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
       "extensions": {
         "coingeckoId": "chainlink",
-        "featureIndex": 7
+        "featureIndex": 8
       }
     },
     {
@@ -624,7 +626,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
       "extensions": {
         "coingeckoId": "uniswap",
-        "featureIndex": 9
+        "featureIndex": 10
       }
     },
     {
@@ -636,7 +638,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
       "extensions": {
         "coingeckoId": "usdt0",
-        "featureIndex": 10
+        "featureIndex": 11
       }
     },
     {
@@ -647,7 +649,8 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg?1753324525",
       "extensions": {
-        "coingeckoId": "espresso"
+        "coingeckoId": "espresso",
+        "featureIndex": 12
       }
     },
     {
@@ -659,7 +662,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/39532/large/WBTCLOGO.png?1764570002",
       "extensions": {
         "coingeckoId": "arbitrum-bridged-wbtc-arbitrum-one",
-        "featureIndex": 12
+        "featureIndex": 13
       }
     },
     {
@@ -671,7 +674,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
       "extensions": {
         "coingeckoId": "ethena-usde",
-        "featureIndex": 11
+        "featureIndex": 14
       }
     },
     {
@@ -683,7 +686,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
       "extensions": {
         "coingeckoId": "layerzero",
-        "featureIndex": 13
+        "featureIndex": 15
       }
     },
     {
@@ -695,7 +698,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
       "extensions": {
         "coingeckoId": "curve-dao-token",
-        "featureIndex": 14
+        "featureIndex": 16
       }
     },
     {
@@ -706,7 +709,8 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
       "extensions": {
-        "coingeckoId": "ether-fi"
+        "coingeckoId": "ether-fi",
+        "featureIndex": 17
       }
     },
     {
@@ -718,7 +722,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
       "extensions": {
         "coingeckoId": "pancakeswap-token",
-        "featureIndex": 15
+        "featureIndex": 18
       }
     },
     {
@@ -730,7 +734,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/69134/large/Rain_logo_1_.png?1762952191",
       "extensions": {
         "coingeckoId": "rain",
-        "featureIndex": 16
+        "featureIndex": 19
       }
     },
     {
@@ -742,7 +746,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
       "extensions": {
         "coingeckoId": "pendle",
-        "featureIndex": 17
+        "featureIndex": 20
       }
     },
     {
@@ -754,7 +758,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/33669/large/sUSDe-Symbol-Color.png?1716307680",
       "extensions": {
         "coingeckoId": "ethena-staked-usde",
-        "featureIndex": 18
+        "featureIndex": 21
       }
     },
     {
@@ -765,7 +769,8 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
       "extensions": {
-        "coingeckoId": "compound-governance-token"
+        "coingeckoId": "compound-governance-token",
+        "featureIndex": 23
       }
     },
     {
@@ -777,7 +782,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/55857/large/USDai_Token_Full_Glyph.png?1755229050",
       "extensions": {
         "coingeckoId": "usdai",
-        "featureIndex": 19
+        "featureIndex": 22
       }
     },
     {
@@ -789,7 +794,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
       "extensions": {
         "coingeckoId": "morpho",
-        "featureIndex": 20
+        "featureIndex": 24
       }
     },
     {
@@ -800,7 +805,8 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
       "extensions": {
-        "coingeckoId": "lido-dao"
+        "coingeckoId": "lido-dao",
+        "featureIndex": 25
       }
     },
     {
@@ -811,7 +817,8 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/53575/large/anime.jpg?1736748703",
       "extensions": {
-        "coingeckoId": "anime"
+        "coingeckoId": "anime",
+        "featureIndex": 27
       }
     },
     {
@@ -822,7 +829,8 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/35087/large/W_Token_%283%29.png?1758122686",
       "extensions": {
-        "coingeckoId": "wormhole"
+        "coingeckoId": "wormhole",
+        "featureIndex": 26
       }
     },
     {
@@ -834,7 +842,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1696503058",
       "extensions": {
         "coingeckoId": "rocket-pool",
-        "featureIndex": 26
+        "featureIndex": 34
       }
     },
     {
@@ -846,7 +854,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/4379/large/Celr.png?1696504978",
       "extensions": {
         "coingeckoId": "celer-network",
-        "featureIndex": 22
+        "featureIndex": 30
       }
     },
     {
@@ -858,7 +866,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/30118/large/crvusd.jpg?1746670973",
       "extensions": {
         "coingeckoId": "crvusd",
-        "featureIndex": 23
+        "featureIndex": 31
       }
     },
     {
@@ -869,7 +877,8 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159",
       "extensions": {
-        "coingeckoId": "the-graph"
+        "coingeckoId": "the-graph",
+        "featureIndex": 29
       }
     },
     {
@@ -881,7 +890,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/55861/large/sUSDai_Token_Full_Glyph.png?1755229072",
       "extensions": {
         "coingeckoId": "susdai",
-        "featureIndex": 25
+        "featureIndex": 33
       }
     },
     {
@@ -893,7 +902,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/54471/large/corn.jpg?1739933588",
       "extensions": {
         "coingeckoId": "corn-3",
-        "featureIndex": 27
+        "featureIndex": 35
       }
     },
     {
@@ -904,7 +913,8 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_%281%29.png?1718232706",
       "extensions": {
-        "coingeckoId": "aethir"
+        "coingeckoId": "aethir",
+        "featureIndex": 36
       }
     },
     {
@@ -916,7 +926,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/30663/large/gho-token-logo.png?1720517092",
       "extensions": {
         "coingeckoId": "gho",
-        "featureIndex": 21
+        "featureIndex": 28
       }
     }
   ],
