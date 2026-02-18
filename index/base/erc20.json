@@ -429,29 +429,6 @@
     },
     {
       "chainId": 8453,
-      "address": "0x1ceA84203673764244E05693e42E6Ace62bE9BA5",
-      "name": "Wrapped Bitcoin",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/7598/large/WBTCLOGO.png?1764496367",
-      "extensions": {
-        "coingeckoId": "wrapped-bitcoin",
-        "featureIndex": 8
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
-      "name": "Polkadot",
-      "symbol": "DOT",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/12171/large/polkadot.jpg?1766533446",
-      "extensions": {
-        "coingeckoId": "polkadot"
-      }
-    },
-    {
-      "chainId": 8453,
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
       "name": "Ethena USDe",
       "symbol": "USDE",
@@ -499,29 +476,6 @@
     },
     {
       "chainId": 8453,
-      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-      "name": "AUSD",
-      "symbol": "AUSD",
-      "decimals": 6,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132",
-      "extensions": {
-        "coingeckoId": "agora-dollar",
-        "featureIndex": 12
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x00f3C42833C3170159af4E92dbb451Fb3F708917",
-      "name": "Internet Computer",
-      "symbol": "ICP",
-      "decimals": 8,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
-      "extensions": {
-        "coingeckoId": "internet-computer"
-      }
-    },
-    {
-      "chainId": 8453,
       "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
       "name": "LayerZero",
       "symbol": "ZRO",
@@ -542,17 +496,6 @@
       "extensions": {
         "coingeckoId": "curve-dao-token",
         "featureIndex": 14
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x6C240DDA6b5c336DF09A4D011139beAAa1eA2Aa2",
-      "name": "Ether.fi",
-      "symbol": "ETHFI",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
-      "extensions": {
-        "coingeckoId": "ether-fi"
       }
     },
     {
@@ -663,40 +606,6 @@
     },
     {
       "chainId": 8453,
-      "address": "0x2081Ab0D9EC9e4303234Ab26D86b20B3367946ee",
-      "name": "EigenCloud (prev. EigenLayer)",
-      "symbol": "EIGEN",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/37441/large/eigencloud.jpg?1751003565",
-      "extensions": {
-        "coingeckoId": "eigenlayer"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x0C1dC73159e30c4b06170F2593D3118968a0DCa5",
-      "name": "GoPlus Security",
-      "symbol": "GPS",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/53686/large/Separate_logo%EF%BC%88green%EF%BC%89.png?1737033911",
-      "extensions": {
-        "coingeckoId": "goplus-security",
-        "featureIndex": 22
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0xe4c3461a20f50daD7B9E88ca0222A255C4126fC0",
-      "name": "XION",
-      "symbol": "XION",
-      "decimals": 6,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/39034/large/Burnt-Xion-Blaise-Logo-White-On-Black-Square.png?1720038410",
-      "extensions": {
-        "coingeckoId": "xion-2"
-      }
-    },
-    {
-      "chainId": 8453,
       "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
       "name": "Morpho",
       "symbol": "MORPHO",
@@ -768,52 +677,6 @@
     },
     {
       "chainId": 8453,
-      "address": "0x19e8d59ff3D7A31289e0Dc04Db48d43b02c7ffa6",
-      "name": "Cysic",
-      "symbol": "CYS",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/71025/large/cysic.png?1765330348",
-      "extensions": {
-        "coingeckoId": "cysic"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
-      "name": "Movement",
-      "symbol": "MOVE",
-      "decimals": 8,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/39345/large/movement-testnet-token.png?1721878759",
-      "extensions": {
-        "coingeckoId": "movement"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0xac531Eb26Ca1d21b85126De8FB87E80E09002DcF",
-      "name": "The Sandbox",
-      "symbol": "SAND",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971",
-      "extensions": {
-        "coingeckoId": "the-sandbox",
-        "featureIndex": 29
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x1aA8fD5BCce2231C6100d55Bf8B377cff33Acfc3",
-      "name": "RaveDAO",
-      "symbol": "RAVE",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/70544/large/coin.jpeg?1762452940",
-      "extensions": {
-        "coingeckoId": "ravedao",
-        "featureIndex": 28
-      }
-    },
-    {
-      "chainId": 8453,
       "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
       "name": "Wormhole",
       "symbol": "W",
@@ -821,17 +684,6 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/35087/large/W_Token_%283%29.png?1758122686",
       "extensions": {
         "coingeckoId": "wormhole"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x032d86656Db142138AC97d2c5C4E3766E8c0482d",
-      "name": "Allora",
-      "symbol": "ALLO",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165",
-      "extensions": {
-        "coingeckoId": "allora"
       }
     },
     {
@@ -860,18 +712,6 @@
     },
     {
       "chainId": 8453,
-      "address": "0x5Ca35eBC4f25B042d2cAE75914c7e882E631fA9A",
-      "name": "Neiro",
-      "symbol": "NEIRO",
-      "decimals": 9,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567",
-      "extensions": {
-        "coingeckoId": "neiro-3",
-        "featureIndex": 34
-      }
-    },
-    {
-      "chainId": 8453,
       "address": "0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229",
       "name": "Horizen",
       "symbol": "ZEN",
@@ -892,30 +732,6 @@
       "extensions": {
         "coingeckoId": "bankercoin-2",
         "featureIndex": 33
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181",
-      "name": "Beldex",
-      "symbol": "BDX",
-      "decimals": 9,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/5111/large/Beldex.png?1696505631",
-      "extensions": {
-        "coingeckoId": "beldex",
-        "featureIndex": 35
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x391359ab0CCef572DcaC78F74E47D7C06Db0b982",
-      "name": "SuperVerse",
-      "symbol": "SUPER",
-      "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312",
-      "extensions": {
-        "coingeckoId": "superfarm",
-        "featureIndex": 36
       }
     },
     {
