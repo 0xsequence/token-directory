@@ -20,7 +20,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/43114/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -32,7 +32,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/43114/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -53,7 +53,8 @@
           "staking",
           "wrapped"
         ],
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 4
       }
     },
     {
@@ -74,7 +75,8 @@
           "protocol",
           "maker"
         ],
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 3
       }
     },
     {
@@ -96,7 +98,8 @@
           "wrapped",
           "bridged"
         ],
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 5
       }
     },
     {
@@ -115,7 +118,8 @@
           "wrapped",
           "bridged"
         ],
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 9
       }
     },
     {
@@ -135,7 +139,8 @@
           "wrapped",
           "bridged"
         ],
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 8
       }
     },
     {
@@ -155,7 +160,8 @@
           "wrapped",
           "bridged"
         ],
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 6
       }
     },
     {
@@ -175,7 +181,8 @@
           "wrapped",
           "bridged"
         ],
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 7
       }
     },
     {
@@ -197,7 +204,8 @@
         ],
         "ogImage": null,
         "originChainId": 56,
-        "originAddress": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc"
+        "originAddress": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc",
+        "featureIndex": 10
       }
     },
     {
@@ -217,7 +225,7 @@
         ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "featured": true,
-        "featureIndex": 1
+        "featureIndex": 2
       }
     },
     {

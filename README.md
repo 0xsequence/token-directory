@@ -20,6 +20,8 @@ Token directory that contains a comprehensive list of ERC-20, ERC-721, ERC-1155 
   call it manually if you like.
 - `pnpm sync-external` must be called manually periodically to ensure we have the latest contents, this
   script is not run automatically.
+- `pnpm update-featured` updates the `featured` / `featureIndex` fields on ERC-20 tokens based on
+  24hr trading volume from the CoinGecko API. See usage below.
 
 ## Setup
 
@@ -27,6 +29,35 @@ Token directory that contains a comprehensive list of ERC-20, ERC-721, ERC-1155 
 - `pnpm reindex` to reindex the token directory master index.json, but see notes above, as this
   is also automatically called as a pre-commit hook.
 - `pnpm sync-external` to sync ./index/external.json files to local ./index/\_external/ folder.
+- `pnpm update-featured` to update featured token rankings (see below).
+
+## Update Featured Tokens
+
+Ranks tokens by 24hr trading volume from CoinGecko and assigns `featureIndex` values in each chain's `erc20.json`.
+
+Requires a [CoinGecko Pro API key](https://www.coingecko.com/en/api). Copy `.env.sample` to `.env` and fill in your key, or pass it directly:
+
+```bash
+COINGECKO_API_KEY=xxx pnpm update-featured
+```
+
+By default the script performs a **dry run** — it prints the proposed ranking without writing any files. Pass `--write` to apply changes.
+
+```bash
+# Preview changes for all supported chains
+pnpm update-featured
+
+# Preview a single chain
+pnpm update-featured -- --chain arbitrum
+
+# Apply changes
+pnpm update-featured -- --write
+
+# Feature top 20 instead of default 50
+pnpm update-featured -- --write --count 20
+```
+
+Supported chains: mainnet, arbitrum, polygon, optimism, base, avalanche, bnb, gnosis, arbitrum-nova.
 
 ## Token List Formats
 

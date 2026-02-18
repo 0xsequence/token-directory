@@ -18,7 +18,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/8453/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -30,7 +30,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/8453/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -52,7 +52,7 @@
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
         "featured": true,
-        "featureIndex": 1
+        "featureIndex": 2
       }
     },
     {
@@ -71,7 +71,8 @@
           "protocol",
           "chain",
           "wrapped"
-        ]
+        ],
+        "featureIndex": 4
       }
     },
     {
@@ -92,7 +93,8 @@
           "exchange",
           "smart-contract",
           "wrapped"
-        ]
+        ],
+        "featureIndex": 5
       }
     },
     {
@@ -115,7 +117,8 @@
         ],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
-        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "featureIndex": 3
       }
     },
     {

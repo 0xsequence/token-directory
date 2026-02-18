@@ -3,7 +3,12 @@
   "chainId": 1,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
   "timestamp": "2021-01-27T22:00:03.430Z",
   "tokens": [
     {
@@ -15,7 +20,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -27,7 +32,7 @@
       "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
-        "featureIndex": 0
+        "featureIndex": 1
       }
     },
     {
@@ -42,7 +47,8 @@
         "description": "As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.",
         "ogImage": null,
         "originChainId": 56,
-        "originAddress": "0x0000000000000000000000000000000000000000"
+        "originAddress": "0x0000000000000000000000000000000000000000",
+        "featureIndex": 6
       }
     },
     {
@@ -109,7 +115,7 @@
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en...",
         "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png",
         "featured": true,
-        "featureIndex": 2
+        "featureIndex": 3
       }
     },
     {
@@ -161,7 +167,8 @@
       "extensions": {
         "link": "https://golem.network/",
         "description": "Golem is a decentralized supercomputer that is accessible by anyone. The system is made up of the combined power of user’s machines from personal PCs to entire datacenters. Golem is able to compute almost any tasks from CGI rendering through machine learning to scientific learning. It utilizes an <a href\"https://www.coingecko.com/en/coins/ethereum\">ethereum</a>-based transaction system to clear payments between providers, requestors and software developers however it is safe because all computations take place in sandbox environments and are fully isolated from the hosts’ systems. \r\n\r\nThe company released Brass in 2016 which includes Blender and LuxRender which are the two tools for CGI rendering. There are three releases that follows which are Clay, Stone and Iron. Golem has recently updated their Brass Beta and the highlight of this upgrade are the streamlined task creation GUI, the support for partial task restart in case of subtask timeouts and the fix that should alleviate the ...",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 42
       }
     },
     {
@@ -278,7 +285,8 @@
       "extensions": {
         "link": "https://basicattentiontoken.org/",
         "description": "Basic Attention Token (BAT) is an open-source, decentralized ad exchange platform built on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> platform. Basic Attention Token held an initial coin offering on May 31, 2017 for its eponymous ERC-20 utility token, raising approximately $35M USD at the time in less than 30 seconds. The Basic Attention Token aims to fix digital advertising, which is broken, fraudulent and opaque. \r\n\r\nBasic Attention Token work by having advertisers pay BAT to website publishers for the attention of users. The BAT token is designed to correctly value and price user attention within the platform. The Basic Attention Token comprises various components, including attention measurement systems, analytics dashboards and machine learning algorithms. Integration of BAT into a given host application involves implementing BAT Ads, a system that matches and displays ads to users based on locally stored data. Ad targeting is performed wholly on-device,...",
-        "ogImage": "https://basicattentiontoken.org/static-assets/images/bat-og.png"
+        "ogImage": "https://basicattentiontoken.org/static-assets/images/bat-og.png",
+        "featureIndex": 33
       }
     },
     {
@@ -369,7 +377,8 @@
       "extensions": {
         "link": "https://erasure.world/",
         "description": "A new kind of hedge fund built by a network of data scientists.",
-        "ogImage": "https://erasure.world/static/media/crowdsourcing.3d3bcd63.jpg"
+        "ogImage": "https://erasure.world/static/media/crowdsourcing.3d3bcd63.jpg",
+        "featureIndex": 49
       }
     },
     {
@@ -616,7 +625,8 @@
       "extensions": {
         "link": "https://0x.org/",
         "description": null,
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 24
       }
     },
     {
@@ -629,7 +639,8 @@
       "extensions": {
         "link": "https://chain.link/",
         "description": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin’s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora’s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they’re trying to improve.\r\n\r\nChainlink’s first component consists of on-chain contracts deployed o...",
-        "ogImage": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5fa2e075cfcf344baa0e9063_chainlink-open-graph-images_home%20(with%20illustration).png"
+        "ogImage": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5fa2e075cfcf344baa0e9063_chainlink-open-graph-images_home%20(with%20illustration).png",
+        "featureIndex": 8
       }
     },
     {
@@ -642,7 +653,8 @@
       "extensions": {
         "link": "https://decentraland.org/",
         "description": "Decentraland is an Ethereum-powered virtual reality platform. In this virtual world, you purchase plots of land that you can later traverse, build upon, and monetize. There’s no limit to what you can do. It’s the first digital platform that’s completely owned by its users. Similar to games like Skyrim and Fallout, Decentraland is an all-immersive virtual universe. However, instead of playing on a 2-dimensional screen, you participate in a 3-dimensional world. It seems to be the logical next step before creating full-blown AI-based games in the physical space à la Westworld. Similar groupings on LAND comprise Districts. Districts are basically communities that revolve around a shared theme. For example, there may be a District just for crypto enthusiasts with cryptocurrency apps and services.\r\n\r\nThe Decentraland team is led by Ari Meilich (Project Lead) and Esteban Ordano (Tech Lead). Ordano previously worked at <a href=\"https://bitpay.com/\">Bitpay</a> as a software engineer and foun...",
-        "ogImage": "/static/scenes4-2ef0a5fdf1ed8717a126299d0a46f3b5.jpg"
+        "ogImage": "/static/scenes4-2ef0a5fdf1ed8717a126299d0a46f3b5.jpg",
+        "featureIndex": 28
       }
     },
     {
@@ -694,7 +706,8 @@
       "extensions": {
         "link": "https://loopring.org/",
         "description": "Loopring is an Ethereum zkRollup protocol - a type of layer 2 scaling solution. Layer 2s are an environment that sits above Ethereum, where transaction throughput can be increased, and transaction cost can be decreased. From a user's POV, that means faster, cheaper, gas-free transactions. Importantly, zkRollups maintain the complete self-custodial security guarantees of Ethereum.  \r\n\r\nLoopring is also a collection of products built on top of its open source protocol. These products include a non-custodial exchange (AMM and orderbook), payments, and wallets, powered by Loopring zkRollup.",
-        "ogImage": "/images/logo.JPG"
+        "ogImage": "/images/logo.JPG",
+        "featureIndex": 36
       }
     },
     {
@@ -733,7 +746,8 @@
       "extensions": {
         "link": "https://storj.io/",
         "description": "Storj is an open-source platform that leverages the blockchain to provide end-to-end encrypted cloud storage services. Instead of maintaining its own data centres, Storj platform relies on a peer-to-peer network of individuals or entities sharing their storage spaces. The Storj project is owned and developed by Storj Labs Inc. Storj intends to facilitate a faster, cheaper, and secure file storage solution than traditional cloud storage platforms. To achieve its goal, Storj deploys several innovative technologies and methods to make sure that users are able to store and retrieve data in a fastest possible way while not compromising the security and integrity of data.\r\n\r\nStorj Labs Inc was founded in 2014 by Shawn Wilkinson with co-founders John Quinn. The company is headquartered at Atlanta, Georgia in the United States. Shawn was previously appointed as CEO, but in March 2018, he stepped down from the post to serve as CSO of the company.\r\n\r\nShawn was replaced by Ben Golub (Ex-CEO of...",
-        "ogImage": "https://storj.io/img/storj-logo.jpg"
+        "ogImage": "https://storj.io/img/storj-logo.jpg",
+        "featureIndex": 35
       }
     },
     {
@@ -1045,7 +1059,8 @@
       "extensions": {
         "link": "https://enjin.io/",
         "description": "Enjin Coin is a cryptocurrency for virtual goods created by Enjin. Enjin is the “largest gaming community platform online” with over 250,000 gaming communities and 18.7 million registered gamers. The Enjin team is designing the coin completely around gaming with the goal of it being the most usable cryptocurrency for the industry. The project includes the Enjin Coin as well as a suite of software development kits (SDKs) that developers can integrate into their games and communities. Bringing blockchain to gaming helps to reduce the high fees and fraud that’s prevalent in the transfer of virtual goods.\r\n\r\nEnjin Coin is an ERC20 token built on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> network. With that, the project not only acts as a cryptocurrency but also has smart contract capabilities. It’s also one of the first projects testing the <a href=\"https://www.coingecko.com/en/coins/raiden-network\">Raiden Network</a>, Ethereum’s version of the Lightning Netw...",
-        "ogImage": "https://assets-global.website-files.com/5d56cb37dc00725ec86984e3/5d847881a21fc85559338eb8_1.png"
+        "ogImage": "https://assets-global.website-files.com/5d56cb37dc00725ec86984e3/5d847881a21fc85559338eb8_1.png",
+        "featureIndex": 46
       }
     },
     {
@@ -1721,7 +1736,8 @@
       "extensions": {
         "link": "https://origintrail.io/",
         "description": "OriginTrail provides a helpful protocol solution to the problem of maintaining trust among all players involved in bringing a product to market by making the “chain” in “supply chain” more literal. Using blockchain technology, OriginTrail can append immutable data to products as they take each step along the supply route. Thus, each participant not only verifies that their conditions are being met but that at every previous stage, the right conditions were also met by everyone else. This is achieved by making an application layer that allows data to be collected in the real world, and then stored on the blockchain. OriginTrail started out by testing their tracking with organic beef products in 2014, and they are still mostly involved in the tracking of food products in general. It wasn’t until 2016 that they introduced a blockchain into their system.\r\n\r\nIn January 2018, they raised US$22.5 million in their ICO. Since their ICO they’ve successfully launched their testnet, implemented...",
-        "ogImage": "https://origintrail.io/storage/origintrail-sharing-image-fb.jpeg"
+        "ogImage": "https://origintrail.io/storage/origintrail-sharing-image-fb.jpeg",
+        "featureIndex": 51
       }
     },
     {
@@ -3151,7 +3167,8 @@
       "extensions": {
         "link": "https://www.quant.network",
         "description": "London-based Quant Network is set to revolutionise blockchain technology with the development of their blockchain operating system Overledger. The experienced team are determined to fulfil the original vision of the internet by creating an open trusted network for people, machines, and data to operate securely and safely.\r\n\r\nOverledger -the first interoperable blockchain operating system that facilitates internet-scale development of decentralised, multi-chain applications. Overledger has the ability to unlock and distribute value and applications across current and future blockchains. It is an agnostic platform that connects the world's networks to blockchains and ensures you're not limited to any single a vendor or technology. Overledger is the only platform that facilitates the development of internet-scales development of decentralised, multi-chain applications.",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 26
       }
     },
     {
@@ -3203,7 +3220,8 @@
       "extensions": {
         "link": "https://www.synthetix.io/",
         "description": "Synthetix is based in Australia, Synthetix launched a seed funding round in September, 2017 to develop the concept of a self-contained stablecoin payment network. They then kicked off their public ICO on February 28, 2018 and by the end of the ICO on March 7, 2018, they had met their goal of $30,000,000 USD. Synthetix was <a href=\"https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892\">rebranded</a> from Havven on November 30, 2018.\r\n\r\nSynthetix is led by a multidisciplinary team of 13 individuals. The project was founded by Kain Warwick, who previously co-founded blueshyft, one of the largest digital payment networks in Australia. The CTO is Justin Moses, who also serves as the Director of Engineering at MongoDB. Synthetix aims to address the problem that companies running centralized payment networks such as PayPal, credit card networks, or the SWIFT banking network have “absolute control over the value within the network, so any transaction conducted within the...",
-        "ogImage": "/public/logo-x.png"
+        "ogImage": "/public/logo-x.png",
+        "featureIndex": 14
       }
     },
     {
@@ -3307,7 +3325,8 @@
       "extensions": {
         "link": "https://www.trusttoken.com/",
         "description": "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD. The team believes that TrueUSD will be able to come up with the stable trading instrument for the traders of cryptocurrency that has been long-awaited. This will allow the businesses and consumers to use the digital currency as a medium of an exchange. The goal of the TrueUSD team was to build a coin that is stable and which can be used and trusted by them too. TrustToken is a platform that creates the tokens backed by assets that can easily be purchased and sold all around the world. The first asset token of TrustToken is TrueUSD, which is a stable coin and can be redeemed 1-for-1 for US dollars. TrustToken have partnered with registered fiduciaries and banks for holding the funds securely backed by TrueUSD tokens. To increase the amount of security, fiduciaries, and banks directly handle all the funds. Escrowed funds ...",
-        "ogImage": "https://www.trusttoken.com/static/tt-social-card-8bccc7e39896ee3893eac90950f6a39b.png"
+        "ogImage": "https://www.trusttoken.com/static/tt-social-card-8bccc7e39896ee3893eac90950f6a39b.png",
+        "featureIndex": 44
       }
     },
     {
@@ -3502,7 +3521,8 @@
       "extensions": {
         "link": "https://nexo.io/",
         "description": "The NEXO Token is an asset-backed token and is backed by the underlying assets of Nexo’s loan portfolio. NEXO Tokens Holders will get 30% of the company’s profits.\r\nNEXO Tokens offer additional utility features such as discounted interest rates on the Nexo Instant Crypto-backed Loans and are also accepted as collateral on the Nexo Platform.",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 32
       }
     },
     {
@@ -3892,7 +3912,8 @@
       "extensions": {
         "link": "https://www.ankr.com/",
         "description": "Ankr strives to build a resource efficient blockchain framework that truly enables Distributed Cloud Computing (DCC) and provides user-friendly infrastucture for business applications. There are indeed existing cloud solutions, but Ankr is the first one to leverage both blockchain and trusted hardware.\r\n\r\nTechnology Overview\r\nAnkr provides a computation-resource-efficient blockchain and an integrated data feed system leveraging both cryptographic primitives and trusted hardware \r\n\r\nProof of Useful Work\r\nThe Proof of Useful Work (PoUW) consensus enables a self-sustainable blockchain framework. Instead of wasting electricity and computing power on hashes like Bitcoin does, PoUW uses these resources towards useful work tasks provided by enterprises and consumers. The protocol runs on SGX-enabled CPUs with remote attestation to ensure security and confidentiality. The novel PoUW approach unlocks the massive potential of idle computing power around the world by providing enough incentive...",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 37
       }
     },
     {
@@ -3918,7 +3939,8 @@
       "extensions": {
         "link": "https://www.celer.network/#",
         "description": "Celer Network is a coherent technology and economic architecture to enable Internet-scale public blockchains through off-chain scaling techniques. It can scale out to billions of transactions per second, and will fully unleash the power of blockchain and decentralized applications.\r\n\r\n\r\nProvably Scalable\r\n\r\nSecure & Private\r\n\r\ndApp-Aware\r\n\r\nRapidly Evolvable\r\n\r\nEasy-to-use\r\n\r\nIncentive Compatible",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 29
       }
     },
     {
@@ -3983,7 +4005,8 @@
       "extensions": {
         "link": "https://www.okex.com/okb",
         "description": "<a href=\"https://www.coingecko.com/en/exchanges/okex\">OKEx</a>, the 2nd most popular cryptocurrency exchange by trading volume, launched its platform token ‘OKB‘ today with 10 trading pairs. On its official support page, OKEx describes OKB is a global utility token issued by the OK Blockchain Foundation. The total available supply of OKB will be one billion tokens (1,000,000,000), with a distribution model that allocates 60% of the supply will be given out to OKEx customers for community building and during marketing campaigns. According to OKEx, the company had officially issued OKB on ERC20 protocol earlier this month. \r\n\r\nThe company denied ICO (initial coin offering) and public fundraising. Reportedly the company had stated that it would be soon shifting the token to its official OK chain and subsequently it will be applied not only on OKEx’s platform but also on other related projects. There will be in total 1 billion tokens supplied globally out of which 600 million coins will...",
-        "ogImage": "https://static.coinall.ltd/cdn/assets/imgs/207/95EDC6DD5D3CBDF8.png"
+        "ogImage": "https://static.coinall.ltd/cdn/assets/imgs/207/95EDC6DD5D3CBDF8.png",
+        "featureIndex": 23
       }
     },
     {
@@ -4309,7 +4332,7 @@
         "link": "https://polygon.technology/pol-token",
         "description": "POL is the currency of Polygon that enables users to interact with tens of thousands of dApps involved in our ecosystem. It is also used to secure the network by staking.",
         "featured": true,
-        "featureIndex": 5
+        "featureIndex": 13
       }
     },
     {
@@ -4699,7 +4722,8 @@
       "extensions": {
         "link": "https://fetch.ai/",
         "description": "Fetch.AI (\"the Project\") brings together machine learning (\"ML\"), artificial intelligence (\"AI\"), multi-agent systems and decentralized ledger technology to create an economic internet — an environment where digital representatives of the economy's moving parts (such as data, hardware, services, people and infrastructure) can get useful work done through effective introductions and predictions\r\n\r\nThese agents can be thought of as digital entities: life-forms that are able to make decisions on their own behalf as well as on behalf of their stakeholders (individuals, private enterprises and governments for example). Fetch.AI's digital world is exposed to agents via its Open Economic Framework (OEF) and is underpinned by unique smart ledger technology to deliver high performance, low cost transactions. The ledger delivers useful proof-of-work that builds market intelligence and trust over time — growing the value of the network as it is used. Fetch.AI can be neatly interfaced to existi...",
-        "ogImage": "https://www.fetch.ai/wp-content/uploads/2018/03/18_03_27_hello-we-are-fetch.ai_.png"
+        "ogImage": "https://www.fetch.ai/wp-content/uploads/2018/03/18_03_27_hello-we-are-fetch.ai_.png",
+        "featureIndex": 17
       }
     },
     {
@@ -4777,7 +4801,8 @@
       "extensions": {
         "link": "https://www.paxos.com/standard/",
         "description": "Paxos Standard (PAX) was created by Paxos, a financial technology company on a mission to modernize finance by mobilizing assets at the speed of the internet. Paxos was the first virtual currency company to receive a charter from the New York State Department of Financial Services. As a chartered limited purpose trust company with fiduciary powers under the Banking Law, Paxos is able to offer regulated services in the crypto-asset and virtual commodities space.\r\n\r\nThe Paxos team comes from a wide variety of backgrounds with a diverse array of experiences ranging from Wall Street to Silicon Valley. It’s led by CEO and co-founder Charles Cascarilla, who has spent his career as a customer, analyst, investor and now creator of financial technology.\r\n\r\nPaxos describes itself as “the first regulated Trust company with blockchain expertise”, and it is using that expertise to create a modern settlement solution that can eliminate risk and simplify settlements. What many people may not know ...",
-        "ogImage": "https://www.paxos.com/wp-content/uploads/2019/02/peer-to-peer.png"
+        "ogImage": "https://www.paxos.com/wp-content/uploads/2019/02/peer-to-peer.png",
+        "featureIndex": 43
       }
     },
     {
@@ -4870,7 +4895,7 @@
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "featured": true,
-        "featureIndex": 1
+        "featureIndex": 2
       }
     },
     {
@@ -5143,7 +5168,8 @@
       "extensions": {
         "link": "https://livepeer.org/",
         "description": "The Livepeer project aims to deliver a live video streaming network protocol that is fully decentralized, highly scalable, crypto token incentivized, and results in a solution which can serve as the live media layer in the decentralized development (web3) stack. In addition, Livepeer is meant to provide an economically efficient alternative to centralized broadcasting solutions for any existing broadcaster. In this document we describe the Livepeer Protocol - a delegated stake based protocol for incentivizing participants in a live video broadcast network in a game-theoretically secure way. We present solutions for the scalable verification of decentralized work, as well as the prevention of useless work in an attempt to game the token allocations in an inflationary system.\r\n\r\nThe Livepeer Token (LPT) is the protocol token of the Livepeer network. But it is not the medium of exchange token. Broadcasters use Ethereum's Ether (ETH) to broadcast video on the network. Nodes who contribu...",
-        "ogImage": "https://livepeer.org/OG.png"
+        "ogImage": "https://livepeer.org/OG.png",
+        "featureIndex": 40
       }
     },
     {
@@ -5247,7 +5273,8 @@
       "extensions": {
         "link": "https://www.crypto.com/en/chain",
         "description": "We propose Crypto.com Chain, the next generation decentralized mobile payment protocol, the most efficient and secure way to pay and be paid in crypto, anywhere, any crypto\r\nwithout fees. Crypto.com Chain will deliver on its vision by developing innovative technology components and processes (inc. scalable encryption algorithm to protect users’ privacy, utilizing trusted execution environments, sustainable price stability mechanisms, user protection via PoGSD) catered specifically to cryptocurrency payment, while leveraging proven blockchain technology structural design elements. ",
-        "ogImage": "https://chain.crypto.com/crypto-com-chain.png"
+        "ogImage": "https://chain.crypto.com/crypto-com-chain.png",
+        "featureIndex": 25
       }
     },
     {
@@ -5379,7 +5406,7 @@
         "description": null,
         "ogImage": "https://wbtc.network/assets/WBTC-icon.svg",
         "featured": true,
-        "featureIndex": 1
+        "featureIndex": 11
       }
     },
     {
@@ -5886,7 +5913,8 @@
       "extensions": {
         "link": "https://www.mxc.com/",
         "description": "MX is the proof of rights and interests of MXC trading platform itself. Its total circulation is 3 billion constantly and never be added. MX holders can enjoy a series of rights and interests including asset appreciation, rebates on platform revenue, supervision, voting, etc. MX can be obtained in two ways: mining and buying.",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 45
       }
     },
     {
@@ -6042,7 +6070,8 @@
       "extensions": {
         "link": "https://prometeus.io/",
         "description": "Prometeus Network is a secure and decentralized ecosystem designed to solve real-world problems in data brokerage, created for the Influencer Marketing, Medical and Insurance data market industries. Prometeus Network is developed by Prometeus Labs. A company existing out of data scientists and entrepreneurs who have been working for more than 15 years on machine learning, business development and marketing.",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 50
       }
     },
     {
@@ -6653,7 +6682,8 @@
       "extensions": {
         "link": "https://www.paxos.com/paxgold/",
         "description": "PAX Gold (PAXG) is an asset-backed token where one token represents one fine troy ounce of a London Good Delivery gold bar, stored in professional vault facilities. Anyone who owns PAXG has ownership rights to that gold under the custody of Paxos Trust Company. Since PAXG represents physical gold, its value is tied directly to the real-time market value of that physical gold.\r\n\r\nPAXG gives customers the benefits of actual physical ownership of specific gold bars with the speed and mobility of a digital asset. Customers are able to have fractional ownership of physical bars. On the Paxos platform, customers can convert their tokens to allocated gold, unallocated gold, or fiat currency (and vice versa) quickly and efficiently, reducing their exposure to settlement risk. PAXG is also available for trading on Paxos’ itBit exchange. PAXG will also be available on other crypto-asset exchanges, wallets, lending platforms and elsewhere within the crypto ecosystem. \r\n\r\nAt any time, PAXG hold...",
-        "ogImage": "https://www.paxos.com/wp-content/uploads/2019/07/PAX-Gold_Logo-1.svg"
+        "ogImage": "https://www.paxos.com/wp-content/uploads/2019/07/PAX-Gold_Logo-1.svg",
+        "featureIndex": 9
       }
     },
     {
@@ -7032,7 +7062,7 @@
         "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
         "ogImage": "https://makerdao.com/dai.png",
         "featured": true,
-        "featureIndex": 3
+        "featureIndex": 4
       }
     },
     {
@@ -7838,7 +7868,8 @@
       "extensions": {
         "link": "https://compound.finance/governance/comp",
         "description": "The Compound Governance Token is a governance token on the Compound Finance lending protocol, COMP allows the owner to delegate voting rights to the address of their choice; the owner’s wallet, another user, an application, or a DeFi expert. Anybody can participate in Compound governance by receiving delegation, without needing to own COMP.\r\n\r\nAnybody with 1% of COMP delegated to their address can propose a governance action; these are simple or complex sets of actions, such as adding support for a new asset, changing an asset’s collateral factor, changing a market’s interest rate model, or changing any other parameter or variable of the protocol that the current administrator can modify.",
-        "ogImage": "https://compound.finance/images/meta-tag.png"
+        "ogImage": "https://compound.finance/images/meta-tag.png",
+        "featureIndex": 20
       }
     },
     {
@@ -7942,7 +7973,8 @@
       "extensions": {
         "link": "https://www.btse.com/en/token",
         "description": "The BTSE token powers the BTSE ecosystem and enhances your trading experience.\r\n",
-        "ogImage": "https://www.btse.com/static/img/btse.png"
+        "ogImage": "https://www.btse.com/static/img/btse.png",
+        "featureIndex": 27
       }
     },
     {
@@ -8163,7 +8195,8 @@
       "extensions": {
         "link": "https://umaproject.org",
         "description": "UMA is a decentralized financial contracts platform built to enable Universal Market Access.\r\n\r\nUMA builds infrastructure for “priceless” financial contracts: DeFi contracts that minimize oracle usage, avoiding many of the security and scalability issues that have plagued decentralized finance. The first contracts built with UMA are priceless synthetic tokens: ERC20 tokens that can track anything while minimizing the need for on-chain price data.\r\n\r\nThe UMA project token powers the system in two ways:\r\n\r\nGovernance: UMA token holders govern what types of contracts can access the system, which asset types are supported, and key system parameters and upgrades.\r\n\r\nPrice requests: the priceless methodology minimizes on-chain price requests but doesn’t eliminate them — when contract interactions are disputed, UMA token holders fulfill price requests via the Data Verification Mechanism, or DVM.\r\n\r\nUMA tokens enable the holder to participate in community governance and resolve contract dis...",
-        "ogImage": "https://umaproject.org/assets/images/UMA_square_red_logo.png"
+        "ogImage": "https://umaproject.org/assets/images/UMA_square_red_logo.png",
+        "featureIndex": 48
       }
     },
     {
@@ -9268,7 +9301,8 @@
       "extensions": {
         "link": "https://rendertoken.com/",
         "description": "OctaneRender® is the world’s first and fastest GPU-accelerated, unbiased, physically correct renderer. Octane uses the graphics card in your computer to render photo-realistic images super fast. With Octane’s parallel compute capabilities, you can create stunning works in a fraction of the time.\r\n\r\nOTOY’s Academy Award®-winning technology is used by leading visual effects studios, artists, animators, designers, architects, and engineers, providing unprecedented creative freedom, new levels of realism, and new economics in content creation and distribution powered by the cloud.\r\n\r\nOTOY® was founded in 2008 by Jules Urbach, Alissa Grainger and Malcolm Taylor. Since then, the company has grown to over 60 employees across four offices with headquarters in Los Angeles, CA.",
-        "ogImage": "https://rendertoken.com/assets/images/meta-card.jpg"
+        "ogImage": "https://rendertoken.com/assets/images/meta-card.jpg",
+        "featureIndex": 15
       }
     },
     {
@@ -9944,7 +9978,8 @@
       "extensions": {
         "link": "https://yearn.finance",
         "description": "Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.\r\n\r\nIt started out as a passion project by Andre Cronje to automate the process of switching capital between lending platforms in search of the best yield offered, as the lending yield is a floating rate rather than fixed rate. Funds are shifted between dYdX, AAVE, and Compound automatically as interest rates change between these protocols. \r\n\r\nThe service offered includes major USD tokens such as DAI, USDT, USDC, and TUSD. For example, if a user deposits DAI into yearn.finance, the user will receive yDAI token in return, which is a yield-bearing DAI token. \r\n\r\nLater on, it collaborated with Curve Finance to release a yield-bearing USD tokens pool that includes four y-tokens: yDAI, yUSDT, yUSDC and yTUSD, it is named as yUSD. \r\n\r\nY...",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 30
       }
     },
     {
@@ -10334,7 +10369,8 @@
       "extensions": {
         "link": "https://shibatoken.com/",
         "description": null,
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 12
       }
     },
     {
@@ -10919,7 +10955,8 @@
       "extensions": {
         "link": "https://www.curve.fi/",
         "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. This is useful in the DeFi ecosystem as there are plenty of wrapped tokens and synthetic tokens that aim to mimic the price of the real underlying asset. \r\n\r\nFor example, one of the biggest pools is 3CRV, which is a stablecoin pool consisting of DAI, USDT, and USDC. Their ratio in the pool will be based on the supply and demand of the market. Depositing a coin with a lesser ratio will yield the user a higher percentage of the pool. As such when the ratio is heavily tilted to one of the coins, it may serve as a good chance to arbitrage.\r\n\r\nCurve Finance also supports yield-bearing tokens. For example, it collaborated with Yearn Finance to release yUSD pools that consisted of yDAI, yUSDT, yUSDC and yTUSD. Users that participated in this pool will not only have yield from the unde...",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 16
       }
     },
     {
@@ -10984,7 +11021,8 @@
       "extensions": {
         "link": "https://www.sandbox.game/en/",
         "description": null,
-        "ogImage": "/The-Sandbox.png"
+        "ogImage": "/The-Sandbox.png",
+        "featureIndex": 22
       }
     },
     {
@@ -11946,7 +11984,8 @@
       "extensions": {
         "link": "https://sushiswap.org/",
         "description": null,
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 38
       }
     },
     {
@@ -13753,7 +13792,8 @@
       "extensions": {
         "link": "https://uniswap.org/",
         "description": null,
-        "ogImage": "https://uniswap.org/twitter-card.jpg"
+        "ogImage": "https://uniswap.org/twitter-card.jpg",
+        "featureIndex": 10
       }
     },
     {
@@ -14910,7 +14950,8 @@
       "extensions": {
         "link": "https://aave.com/",
         "description": null,
-        "ogImage": "https://aave.com/favicon64.png"
+        "ogImage": "https://aave.com/favicon64.png",
+        "featureIndex": 7
       }
     },
     {
@@ -16782,7 +16823,8 @@
       "extensions": {
         "link": "https://injectiveprotocol.com/",
         "description": null,
-        "ogImage": "https://www.injectiveprotocol.com/img/og/og.jpg"
+        "ogImage": "https://www.injectiveprotocol.com/img/og/og.jpg",
+        "featureIndex": 18
       }
     },
     {
@@ -16977,7 +17019,8 @@
       "extensions": {
         "link": "https://woo.network/",
         "description": null,
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 47
       }
     },
     {
@@ -19148,7 +19191,8 @@
       "extensions": {
         "link": "https://skale.network/",
         "description": null,
-        "ogImage": "/static/0bc5697de6429d7f0b77e8d35898ddcd/67f3a/646a2a37c1223c7d847ad4837e8f6e871370e628_screen-shot-2019-09-23-at-20.14.38.png"
+        "ogImage": "/static/0bc5697de6429d7f0b77e8d35898ddcd/67f3a/646a2a37c1223c7d847ad4837e8f6e871370e628_screen-shot-2019-09-23-at-20.14.38.png",
+        "featureIndex": 41
       }
     },
     {
@@ -19252,7 +19296,8 @@
       "extensions": {
         "link": "https://api3.org/",
         "description": "API3 builds blockchain-native, decentralized APIs with DAO-governance and quantifiable security.",
-        "ogImage": "https://api3.org/img/favicons/API3.png"
+        "ogImage": "https://api3.org/img/favicons/API3.png",
+        "featureIndex": 39
       }
     },
     {
@@ -20227,7 +20272,8 @@
       "extensions": {
         "link": "https://thegraph.com/",
         "description": "The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL. Developers can use Graph Explorer to search, find, and publish all the public data they need to build decentralized applications. The Graph Network makes it possible to build serverless dApps that run entirely on public infrastructure.\r\n\r\nGRT is the native token of the network that’s used to coordinate work. GRT is an ERC20 token. Node operators, called Indexers, stake and earn GRT for processing queries. Anyone can delegate GRT to Indexers to secure the network and earn rewards. Curators organize data on The Graph by signaling GRT on useful APIs, called subgraphs. Indexers, Delegators, and Curators work together to organize the data for the crypto economy and maintain a useful global API for DeFi and Web3.\r\n",
-        "ogImage": "https://storage.googleapis.com/graph-web/Jobs-SEO.jpg"
+        "ogImage": "https://storage.googleapis.com/graph-web/Jobs-SEO.jpg",
+        "featureIndex": 34
       }
     },
     {
@@ -20617,7 +20663,8 @@
       "extensions": {
         "link": "https://www.lido.fi",
         "description": "Lido Staked Ether (stETH) is a token that represents your staked ether in Lido, combining the value of initial deposit and staking rewards. stETH tokens are minted upon deposit and burned when redeemed. stETH token balances are pegged 1:1 to the ethers that are staked by Lido and the token’s balances are updated daily to reflect earnings and rewards. stETH tokens can be used as one would use ether, allowing you to earn ETH 2.0 staking rewards whilst benefiting from e.g. yields across decentralised finance products.",
-        "ogImage": "/static/images/meta/lido.png"
+        "ogImage": "/static/images/meta/lido.png",
+        "featureIndex": 19
       }
     },
     {
@@ -20786,7 +20833,8 @@
       "extensions": {
         "link": "https://1inch.exchange/",
         "description": null,
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 31
       }
     },
     {
@@ -21358,7 +21406,8 @@
       "extensions": {
         "link": "https://stake.lido.fi/",
         "description": null,
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 21
       }
     },
     {
@@ -22683,7 +22732,8 @@
       "extensions": {
         "link": "https://weth.io/",
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
-        "ogImage": null
+        "ogImage": null,
+        "featureIndex": 5
       }
     },
     {
@@ -22697,8 +22747,7 @@
         "link": "https://weth.io/",
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it's own form of Token. Think Augur's REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
         "ogImage": null,
-        "featured": true,
-        "featureIndex": 4
+        "featured": true
       }
     },
     {
@@ -25335,8 +25384,7 @@
         "link": "https://btcd.fi/",
         "description": "BTCD Token",
         "ogImage": null,
-        "featured": true,
-        "featureIndex": 6
+        "featured": true
       }
     }
   ],
