@@ -71,7 +71,8 @@
           "protocol",
           "chain",
           "wrapped"
-        ]
+        ],
+        "featureIndex": 2
       }
     },
     {
@@ -92,7 +93,8 @@
           "exchange",
           "smart-contract",
           "wrapped"
-        ]
+        ],
+        "featureIndex": 3
       }
     },
     {
@@ -115,7 +117,8 @@
         ],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
-        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "featureIndex": 4
       }
     },
     {
