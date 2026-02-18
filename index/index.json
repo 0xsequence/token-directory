@@ -122,6 +122,12 @@
         "misc.json": "012d3ed4c4aca85a7a8a7cb0496734713302a4dd9c67a0be68df0112b67b20c8"
       }
     },
+    "berachain": {
+      "chainId": 80094,
+      "tokenLists": {
+        "erc20.json": "6609d04431c3ff7041802d5b2019e0b74281ae1491499730dd61ddbd26084512"
+      }
+    },
     "bnb": {
       "chainId": 56,
       "tokenLists": {
@@ -177,6 +183,12 @@
         "erc20.json": "19897f38644b9e08d5c04ac8e00ae0fd25c69ba06f0870979e00a7c0e4d8aaf2",
         "erc721.json": "e9bcb31da3a2fd59c9b5b997b96f3f96ad5e5d5da883ca898ad93ad686078d68",
         "misc.json": "90966460eef43dce8f1f59c23c456c34483882e2fd42bd28da64f7ba082327e5"
+      }
+    },
+    "hyperevm": {
+      "chainId": 999,
+      "tokenLists": {
+        "erc20.json": "56f0f70a3fcd2f33c87d58e399e392e65c65d99759c71a218dc704aa2e1e5159"
       }
     },
     "incentiv": {
@@ -293,6 +305,12 @@
         "erc20.json": "0e665f8fc66ac32504cc61ba1f29c2c4a915e61f1c7f26fc870c9d54e9745081",
         "erc721.json": "3f270a39411cc6f8ffb77d062ac9717ace4adfa832037ab07a20d7ac64a8cc02",
         "misc.json": "71ff0898bb8677b3f1af5c01e5a4f6397e27f90f614dc9fba97e07210a9c6b7b"
+      }
+    },
+    "sonic": {
+      "chainId": 146,
+      "tokenLists": {
+        "erc20.json": "575d1610c4de7b9139023c82c0bac301cd8a3edd57be306e29453a2850016c7c"
       }
     }
   }
