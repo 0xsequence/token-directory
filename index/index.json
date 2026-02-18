@@ -28,7 +28,7 @@
       "chainId": 42161,
       "tokenLists": {
         "erc1155.json": "efdf23b5c46d712ebba7b3fd5226518b4dd190badda613b3a5718d178a67f3e9",
-        "erc20.json": "932a4fc05bdd7ecdfa8006abb81f2cd8499a56695ad6182805e1367ade6ac75c",
+        "erc20.json": "8545425bcd7528c592a4be934118c41639929be98b4e6a78e6264d07f778668f",
         "erc721.json": "e8a31ae32437b84c1bfdc91d51a14c0d401ddd703ebe233aa4cc30ed2c236dc7",
         "misc.json": "7fdcd6fbf97166c6c38d0b7c59d5f34beeb611cdaea6fe0c7bf37ed9b4b3ad83"
       }

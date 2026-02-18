@@ -2,6 +2,7 @@ import path from 'node:path'
 import { readFileSync } from 'node:fs'
 import { promises as fs } from 'node:fs'
 import { parseArgs } from 'node:util'
+import { getAddress } from 'viem'
 
 // Load .env file if present (no external deps)
 try {
@@ -277,7 +278,7 @@ async function processChain(
 
     additions.push({
       chainId,
-      address,
+      address: getAddress(address),
       name: market.name,
       symbol: market.symbol.toUpperCase(),
       decimals,
