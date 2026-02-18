@@ -10,6 +10,7 @@
     "reindex": "tsx tools/reindex.ts",
     "sync-external": "tsx tools/sync-external.ts",
     "update-featured": "tsx tools/update-featured.ts",
+    "sync-coingecko": "tsx tools/sync-coingecko.ts",
     "format": "prettier --write .",
     "prepare": "husky"
   },
