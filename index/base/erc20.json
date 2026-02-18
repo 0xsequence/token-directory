@@ -72,7 +72,7 @@
           "chain",
           "wrapped"
         ],
-        "featureIndex": 3
+        "featureIndex": 4
       }
     },
     {
@@ -93,7 +93,8 @@
           "exchange",
           "smart-contract",
           "wrapped"
-        ]
+        ],
+        "featureIndex": 40
       }
     },
     {
@@ -116,7 +117,8 @@
         ],
         "ogImage": "https://makerdao.com/dai.png",
         "originChainId": 1,
-        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+        "originAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "featureIndex": 3
       }
     },
     {
@@ -398,7 +400,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
       "extensions": {
         "coingeckoId": "aave",
-        "featureIndex": 4
+        "featureIndex": 5
       }
     },
     {
@@ -410,7 +412,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
       "extensions": {
         "coingeckoId": "coinbase-wrapped-btc",
-        "featureIndex": 5
+        "featureIndex": 6
       }
     },
     {
@@ -422,7 +424,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
       "extensions": {
         "coingeckoId": "chainlink",
-        "featureIndex": 6
+        "featureIndex": 7
       }
     },
     {
@@ -434,7 +436,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/7598/large/WBTCLOGO.png?1764496367",
       "extensions": {
         "coingeckoId": "wrapped-bitcoin",
-        "featureIndex": 7
+        "featureIndex": 8
       }
     },
     {
@@ -445,8 +447,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/12171/large/polkadot.jpg?1766533446",
       "extensions": {
-        "coingeckoId": "polkadot",
-        "featureIndex": 8
+        "coingeckoId": "polkadot"
       }
     },
     {
@@ -469,8 +470,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
       "extensions": {
-        "coingeckoId": "ethena",
-        "featureIndex": 10
+        "coingeckoId": "ethena"
       }
     },
     {
@@ -482,7 +482,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
       "extensions": {
         "coingeckoId": "virtual-protocol",
-        "featureIndex": 11
+        "featureIndex": 10
       }
     },
     {
@@ -494,7 +494,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/3406/large/SNX.png?1696504103",
       "extensions": {
         "coingeckoId": "havven",
-        "featureIndex": 12
+        "featureIndex": 11
       }
     },
     {
@@ -506,7 +506,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132",
       "extensions": {
         "coingeckoId": "agora-dollar",
-        "featureIndex": 13
+        "featureIndex": 12
       }
     },
     {
@@ -517,8 +517,7 @@
       "decimals": 8,
       "logoURI": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
       "extensions": {
-        "coingeckoId": "internet-computer",
-        "featureIndex": 14
+        "coingeckoId": "internet-computer"
       }
     },
     {
@@ -530,7 +529,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
       "extensions": {
         "coingeckoId": "layerzero",
-        "featureIndex": 15
+        "featureIndex": 13
       }
     },
     {
@@ -542,7 +541,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
       "extensions": {
         "coingeckoId": "curve-dao-token",
-        "featureIndex": 16
+        "featureIndex": 14
       }
     },
     {
@@ -553,8 +552,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
       "extensions": {
-        "coingeckoId": "ether-fi",
-        "featureIndex": 17
+        "coingeckoId": "ether-fi"
       }
     },
     {
@@ -566,7 +564,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
       "extensions": {
         "coingeckoId": "pendle",
-        "featureIndex": 18
+        "featureIndex": 15
       }
     },
     {
@@ -578,7 +576,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
       "extensions": {
         "coingeckoId": "pancakeswap-token",
-        "featureIndex": 19
+        "featureIndex": 16
       }
     },
     {
@@ -590,7 +588,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/33669/large/sUSDe-Symbol-Color.png?1716307680",
       "extensions": {
         "coingeckoId": "ethena-staked-usde",
-        "featureIndex": 20
+        "featureIndex": 17
       }
     },
     {
@@ -602,7 +600,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/69318/large/river-token.png?1758523089",
       "extensions": {
         "coingeckoId": "river",
-        "featureIndex": 21
+        "featureIndex": 18
       }
     },
     {
@@ -614,7 +612,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/8713/large/awe-network.jpg?1747816016",
       "extensions": {
         "coingeckoId": "stp-network",
-        "featureIndex": 22
+        "featureIndex": 19
       }
     },
     {
@@ -625,8 +623,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/70945/large/superform.png?1764747920",
       "extensions": {
-        "coingeckoId": "superform",
-        "featureIndex": 23
+        "coingeckoId": "superform"
       }
     },
     {
@@ -638,7 +635,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/69231/large/VgVwfk9E_400x400.png?1761800742",
       "extensions": {
         "coingeckoId": "checkmate-2",
-        "featureIndex": 24
+        "featureIndex": 20
       }
     },
     {
@@ -650,7 +647,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/26045/large/EURC.png?1769615705",
       "extensions": {
         "coingeckoId": "euro-coin",
-        "featureIndex": 25
+        "featureIndex": 21
       }
     },
     {
@@ -661,8 +658,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
       "extensions": {
-        "coingeckoId": "compound-governance-token",
-        "featureIndex": 26
+        "coingeckoId": "compound-governance-token"
       }
     },
     {
@@ -673,8 +669,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/37441/large/eigencloud.jpg?1751003565",
       "extensions": {
-        "coingeckoId": "eigenlayer",
-        "featureIndex": 27
+        "coingeckoId": "eigenlayer"
       }
     },
     {
@@ -686,7 +681,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/53686/large/Separate_logo%EF%BC%88green%EF%BC%89.png?1737033911",
       "extensions": {
         "coingeckoId": "goplus-security",
-        "featureIndex": 29
+        "featureIndex": 22
       }
     },
     {
@@ -697,8 +692,7 @@
       "decimals": 6,
       "logoURI": "https://coin-images.coingecko.com/coins/images/39034/large/Burnt-Xion-Blaise-Logo-White-On-Black-Square.png?1720038410",
       "extensions": {
-        "coingeckoId": "xion-2",
-        "featureIndex": 28
+        "coingeckoId": "xion-2"
       }
     },
     {
@@ -710,7 +704,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
       "extensions": {
         "coingeckoId": "morpho",
-        "featureIndex": 30
+        "featureIndex": 23
       }
     },
     {
@@ -721,8 +715,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002",
       "extensions": {
-        "coingeckoId": "bio-protocol",
-        "featureIndex": 31
+        "coingeckoId": "bio-protocol"
       }
     },
     {
@@ -734,7 +727,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
       "extensions": {
         "coingeckoId": "home",
-        "featureIndex": 32
+        "featureIndex": 24
       }
     },
     {
@@ -746,7 +739,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
       "extensions": {
         "coingeckoId": "venice-token",
-        "featureIndex": 33
+        "featureIndex": 25
       }
     },
     {
@@ -758,7 +751,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
       "extensions": {
         "coingeckoId": "spx6900",
-        "featureIndex": 34
+        "featureIndex": 26
       }
     },
     {
@@ -770,7 +763,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/54693/large/zora.jpg?1741094751",
       "extensions": {
         "coingeckoId": "zora",
-        "featureIndex": 35
+        "featureIndex": 27
       }
     },
     {
@@ -781,8 +774,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/71025/large/cysic.png?1765330348",
       "extensions": {
-        "coingeckoId": "cysic",
-        "featureIndex": 36
+        "coingeckoId": "cysic"
       }
     },
     {
@@ -793,8 +785,7 @@
       "decimals": 8,
       "logoURI": "https://coin-images.coingecko.com/coins/images/39345/large/movement-testnet-token.png?1721878759",
       "extensions": {
-        "coingeckoId": "movement",
-        "featureIndex": 37
+        "coingeckoId": "movement"
       }
     },
     {
@@ -806,7 +797,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971",
       "extensions": {
         "coingeckoId": "the-sandbox",
-        "featureIndex": 39
+        "featureIndex": 29
       }
     },
     {
@@ -818,7 +809,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/70544/large/coin.jpeg?1762452940",
       "extensions": {
         "coingeckoId": "ravedao",
-        "featureIndex": 38
+        "featureIndex": 28
       }
     },
     {
@@ -829,8 +820,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/35087/large/W_Token_%283%29.png?1758122686",
       "extensions": {
-        "coingeckoId": "wormhole",
-        "featureIndex": 40
+        "coingeckoId": "wormhole"
       }
     },
     {
@@ -841,8 +831,7 @@
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165",
       "extensions": {
-        "coingeckoId": "allora",
-        "featureIndex": 41
+        "coingeckoId": "allora"
       }
     },
     {
@@ -854,7 +843,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/33033/large/weETH.png?1701438396",
       "extensions": {
         "coingeckoId": "wrapped-eeth",
-        "featureIndex": 42
+        "featureIndex": 30
       }
     },
     {
@@ -866,7 +855,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/30663/large/gho-token-logo.png?1720517092",
       "extensions": {
         "coingeckoId": "gho",
-        "featureIndex": 43
+        "featureIndex": 32
       }
     },
     {
@@ -878,7 +867,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567",
       "extensions": {
         "coingeckoId": "neiro-3",
-        "featureIndex": 44
+        "featureIndex": 34
       }
     },
     {
@@ -890,7 +879,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/691/large/Horizen2.0-logo_icon-on-yellow_%281%29.png?1751696763",
       "extensions": {
         "coingeckoId": "zencash",
-        "featureIndex": 46
+        "featureIndex": 39
       }
     },
     {
@@ -902,7 +891,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/52626/large/bankr-static.png?1736405365",
       "extensions": {
         "coingeckoId": "bankercoin-2",
-        "featureIndex": 45
+        "featureIndex": 33
       }
     },
     {
@@ -914,7 +903,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/5111/large/Beldex.png?1696505631",
       "extensions": {
         "coingeckoId": "beldex",
-        "featureIndex": 47
+        "featureIndex": 35
       }
     },
     {
@@ -926,7 +915,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312",
       "extensions": {
         "coingeckoId": "superfarm",
-        "featureIndex": 48
+        "featureIndex": 36
       }
     },
     {
@@ -938,7 +927,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/51232/large/_syrup_token_logo.png?1747292046",
       "extensions": {
         "coingeckoId": "syrup",
-        "featureIndex": 49
+        "featureIndex": 37
       }
     },
     {
@@ -950,7 +939,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/11849/large/yearn.jpg?1696511720",
       "extensions": {
         "coingeckoId": "yearn-finance",
-        "featureIndex": 50
+        "featureIndex": 38
       }
     },
     {
@@ -962,7 +951,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/30118/large/crvusd.jpg?1746670973",
       "extensions": {
         "coingeckoId": "crvusd",
-        "featureIndex": 51
+        "featureIndex": 31
       }
     }
   ],

@@ -103,6 +103,7 @@ type MarketsEntry = {
   name: string
   image: string
   total_volume: number | null
+  atl_date: string | null
 }
 
 type ContractResponse = {
@@ -241,6 +242,8 @@ async function processChain(
     address: string
   }[] = []
 
+  const minTokenAge = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000)
+
   for (const market of markets) {
     const platforms = coinPlatforms.get(market.id)
     if (!platforms) continue
@@ -249,6 +252,12 @@ async function processChain(
     if (!address) continue
 
     if (existingAddresses.has(address)) continue
+
+    // Skip tokens newer than 1 month (by atl_date as proxy for age)
+    if (market.atl_date && new Date(market.atl_date) > minTokenAge) {
+      console.log(`  [${chain}] Skipping ${market.symbol} (too new, atl_date: ${market.atl_date})`)
+      continue
+    }
 
     newTokens.push({ market, address })
   }

@@ -95,6 +95,7 @@ type MarketEntry = {
   symbol: string
   name: string
   total_volume: number | null
+  atl_date: string | null
 }
 
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
@@ -161,6 +162,7 @@ type ContractMarketEntry = {
   name: string
   market_data?: {
     total_volume?: Record<string, number>
+    atl_date?: Record<string, string>
   }
 }
 
@@ -168,7 +170,7 @@ async function fetchCoinByContract(
   apiKey: string,
   platformId: string,
   address: string
-): Promise<{ id: string; volume: number } | null> {
+): Promise<{ id: string; volume: number; atl_date: string | null } | null> {
   const url =
     `${COINGECKO_API_BASE}/coins/${platformId}/contract/${address.toLowerCase()}`
   const response = await fetchWithRetry(url, { 'x-cg-pro-api-key': apiKey })
@@ -177,7 +179,8 @@ async function fetchCoinByContract(
 
   const data = (await response.json()) as ContractMarketEntry
   const volume = data.market_data?.total_volume?.usd ?? 0
-  return { id: data.id, volume }
+  const atl_date = data.market_data?.atl_date?.usd ?? null
+  return { id: data.id, volume, atl_date }
 }
 
 async function fetchMarketData(
@@ -298,6 +301,7 @@ async function processChain(
         symbol: token.symbol,
         name: token.name,
         total_volume: result.volume,
+        atl_date: result.atl_date,
       })
     }
 
@@ -330,9 +334,14 @@ async function processChain(
     (a, b) => (b.total_volume ?? 0) - (a.total_volume ?? 0)
   )
 
-  // Filter to those with volume and take top N
+  // Filter to those with volume, exclude tokens newer than 1 month, take top N
+  const minTokenAge = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000)
   const ranked = marketData
-    .filter(m => m.total_volume != null && m.total_volume > 0)
+    .filter(m => {
+      if (m.total_volume == null || m.total_volume <= 0) return false
+      if (m.atl_date && new Date(m.atl_date) > minTokenAge) return false
+      return true
+    })
     .slice(0, count)
 
   // Build set of all resolved addresses (tokens the script knows about)
