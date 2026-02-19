@@ -75,7 +75,7 @@
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-        "featureIndex": 8
+        "featureIndex": 37
       }
     },
     {
@@ -122,7 +122,7 @@
           "treasure"
         ],
         "ogImage": null,
-        "featureIndex": 7
+        "featureIndex": 32
       }
     },
     {
@@ -184,7 +184,7 @@
           "defi",
           "access"
         ],
-        "featureIndex": 9
+        "featureIndex": 38
       }
     },
     {
@@ -578,7 +578,355 @@
         ],
         "ogImage": "https://assets.coingecko.com/coins/images/31212/standard/PYUSD_Logo_%282%29.png?1696530039",
         "featured": true,
+        "featureIndex": 9
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
+      "extensions": {
+        "coingeckoId": "aave",
         "featureIndex": 6
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "CBBTC",
+      "decimals": 8,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
+      "extensions": {
+        "coingeckoId": "coinbase-wrapped-btc",
+        "featureIndex": 7
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
+      "extensions": {
+        "coingeckoId": "chainlink",
+        "featureIndex": 8
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+      "extensions": {
+        "coingeckoId": "uniswap",
+        "featureIndex": 10
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
+      "extensions": {
+        "coingeckoId": "usdt0",
+        "featureIndex": 11
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3b8db18e69d6686ad9371a423afe3dd1065c94f1",
+      "name": "Espresso",
+      "symbol": "ESP",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg?1753324525",
+      "extensions": {
+        "coingeckoId": "espresso",
+        "featureIndex": 12
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+      "name": "Arbitrum Bridged WBTC (Arbitrum One)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39532/large/WBTCLOGO.png?1764570002",
+      "extensions": {
+        "coingeckoId": "arbitrum-bridged-wbtc-arbitrum-one",
+        "featureIndex": 13
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
+      "extensions": {
+        "coingeckoId": "ethena-usde",
+        "featureIndex": 14
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
+      "extensions": {
+        "coingeckoId": "layerzero",
+        "featureIndex": 15
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
+      "extensions": {
+        "coingeckoId": "curve-dao-token",
+        "featureIndex": 16
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
+      "extensions": {
+        "coingeckoId": "ether-fi",
+        "featureIndex": 17
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
+      "extensions": {
+        "coingeckoId": "pancakeswap-token",
+        "featureIndex": 18
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x25118290e6a5f4139381d072181157035864099d",
+      "name": "Rain",
+      "symbol": "RAIN",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69134/large/Rain_logo_1_.png?1762952191",
+      "extensions": {
+        "coingeckoId": "rain",
+        "featureIndex": 19
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+      "extensions": {
+        "coingeckoId": "pendle",
+        "featureIndex": 20
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "Ethena Staked USDe",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33669/large/sUSDe-Symbol-Color.png?1716307680",
+      "extensions": {
+        "coingeckoId": "ethena-staked-usde",
+        "featureIndex": 21
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
+      "extensions": {
+        "coingeckoId": "compound-governance-token",
+        "featureIndex": 23
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+      "name": "USDai",
+      "symbol": "USDAI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55857/large/USDai_Token_Full_Glyph.png?1755229050",
+      "extensions": {
+        "coingeckoId": "usdai",
+        "featureIndex": 22
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x40bd670a58238e6e230c430bbb5ce6ec0d40df48",
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
+      "extensions": {
+        "coingeckoId": "morpho",
+        "featureIndex": 24
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+      "name": "Lido DAO",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
+      "extensions": {
+        "coingeckoId": "lido-dao",
+        "featureIndex": 25
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
+      "name": "Animecoin",
+      "symbol": "ANIME",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53575/large/anime.jpg?1736748703",
+      "extensions": {
+        "coingeckoId": "anime",
+        "featureIndex": 27
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+      "name": "Wormhole",
+      "symbol": "W",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/35087/large/W_Token_%283%29.png?1758122686",
+      "extensions": {
+        "coingeckoId": "wormhole",
+        "featureIndex": 26
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
+      "name": "Rocket Pool",
+      "symbol": "RPL",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1696503058",
+      "extensions": {
+        "coingeckoId": "rocket-pool",
+        "featureIndex": 34
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3a8b787f78d775aecfeea15706d4221b40f345ab",
+      "name": "Celer Network",
+      "symbol": "CELR",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/4379/large/Celr.png?1696504978",
+      "extensions": {
+        "coingeckoId": "celer-network",
+        "featureIndex": 30
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5",
+      "name": "crvUSD",
+      "symbol": "CRVUSD",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/30118/large/crvusd.jpg?1746670973",
+      "extensions": {
+        "coingeckoId": "crvusd",
+        "featureIndex": 31
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+      "name": "The Graph",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159",
+      "extensions": {
+        "coingeckoId": "the-graph",
+        "featureIndex": 29
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0b2b2b2076d95dda7817e785989fe353fe955ef9",
+      "name": "Staked USDai",
+      "symbol": "SUSDAI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55861/large/sUSDai_Token_Full_Glyph.png?1755229072",
+      "extensions": {
+        "coingeckoId": "susdai",
+        "featureIndex": 33
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
+      "name": "Corn",
+      "symbol": "CORN",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54471/large/corn.jpg?1739933588",
+      "extensions": {
+        "coingeckoId": "corn-3",
+        "featureIndex": 35
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
+      "name": "Aethir",
+      "symbol": "ATH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_%281%29.png?1718232706",
+      "extensions": {
+        "coingeckoId": "aethir",
+        "featureIndex": 36
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33",
+      "name": "GHO",
+      "symbol": "GHO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/30663/large/gho-token-logo.png?1720517092",
+      "extensions": {
+        "coingeckoId": "gho",
+        "featureIndex": 28
       }
     }
   ],
