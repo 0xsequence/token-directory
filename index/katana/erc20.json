@@ -233,6 +233,14 @@
       "symbol": "AUSD",
       "decimals": 6,
       "logoURI": "https://katanascan.com/token/images/yearnv3vaults_64.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x7231dbaCdFc968E07656D12389AB20De82FbfCeB",
+      "name": "Auto-Vault KAT",
+      "symbol": "avKAT",
+      "decimals": 18,
+      "logoURI": null
     }
   ],
   "version": {
