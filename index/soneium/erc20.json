@@ -4,7 +4,7 @@
   "tokenStandard": "erc20",
   "logoURI": "",
   "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
-  "timestamp": "2026-03-17T00:00:00.000Z",
+  "timestamp": "2026-01-01T00:00:00.000Z",
   "tokens": [
     {
       "chainId": 1868,
@@ -12,7 +12,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
         "featureIndex": 0
@@ -24,7 +24,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp",
       "extensions": {
         "featured": true,
         "featureIndex": 0
@@ -36,7 +36,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707",
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xdac17f958d2ee523a2206206994597c13d831ec7.webp",
       "extensions": {
         "featured": true,
         "featureIndex": 1
@@ -48,7 +48,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png?1696503332",
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xc02aa39b223fe8d0a0e5c4f27ead9083c756cc2.webp",
       "extensions": {
         "featured": true,
         "featureIndex": 2
@@ -60,7 +60,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744",
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.webp",
       "extensions": {
         "featured": true,
         "featureIndex": 3
@@ -72,7 +72,7 @@
       "name": "USD Coin Bridged",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp",
       "extensions": {
         "featured": true,
         "featureIndex": 4
