@@ -307,6 +307,12 @@
         "misc.json": "71ff0898bb8677b3f1af5c01e5a4f6397e27f90f614dc9fba97e07210a9c6b7b"
       }
     },
+    "soneium": {
+      "chainId": 1868,
+      "tokenLists": {
+        "erc20.json": "c806f1508d60c4de74c7a70dcb4bcff55742ad4d2ce367df7062d83d29277fb0"
+      }
+    },
     "sonic": {
       "chainId": 146,
       "tokenLists": {
