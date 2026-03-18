@@ -240,7 +240,7 @@
       "name": "Auto-Vault KAT",
       "symbol": "avKAT",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://assets.katana.network/icons/avkat.png"
     }
   ],
   "version": {
