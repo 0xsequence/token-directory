@@ -8270,6 +8270,20 @@
           "useOnChainBalance": true
         }
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+      "name": "Katana Network Token",
+      "symbol": "KAT",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/747474/0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d.webp",
+      "extensions": {
+        "originChainId": 747474,
+        "originAddress": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+        "featured": true,
+        "featureIndex": 5
+      }
     }
   ],
   "version": {
