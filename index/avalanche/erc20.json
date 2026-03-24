@@ -243,7 +243,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -261,7 +262,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -279,7 +281,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -297,7 +300,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -315,7 +319,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -333,7 +338,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -351,7 +357,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -369,7 +376,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -387,7 +395,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -405,7 +414,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -423,7 +433,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -441,7 +452,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -459,7 +471,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -477,7 +490,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -495,7 +509,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -513,7 +528,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -531,7 +547,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -549,7 +566,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -567,7 +585,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -585,7 +604,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -603,7 +623,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -621,7 +642,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -639,7 +661,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -657,7 +680,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -675,7 +699,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     }
   ]
