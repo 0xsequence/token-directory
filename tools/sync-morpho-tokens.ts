@@ -129,6 +129,17 @@ const writeTokenList = async (tokenListPath: string, tokenList: TokenList) => {
 const addrKey = (chainId: number, address: string) =>
   `${chainId}:${address.toLowerCase()}`
 
+function resolveMorphoShareDecimals(assetDecimals?: number): number | null {
+  if (assetDecimals === undefined) return null
+
+  if (assetDecimals > 18) return null
+
+  // MetaMorpho share tokens are 18 decimals for the <=18-decimal assets we
+  // sync. If Morpho ever lists a vault backed by an asset with >18 decimals,
+  // treat it as unexpected source data and skip it.
+  return 18
+}
+
 const ensureExtension = (
   token: TokenListEntry,
   key: string,
@@ -227,6 +238,8 @@ async function fetchMorphoVaults(): Promise<MorphoVault[]> {
 async function main() {
   let added = 0
   let modified = 0
+  let omitted = 0
+  const issues: string[] = []
 
   // Step 1: Load chain token lists
   console.log('Loading chain token lists...')
@@ -311,6 +324,27 @@ async function main() {
 
     const key = addrKey(vault.chainId, vault.address)
     const existing = tokenByAddress.get(key)
+    const underlyingAddress = vault.asset?.address
+    const underlyingDecimals = vault.asset?.decimals
+    const shareDecimals = resolveMorphoShareDecimals(underlyingDecimals)
+
+    if (!underlyingAddress || shareDecimals === null) {
+      const missingFields = [
+        !underlyingAddress ? 'asset.address' : null,
+        underlyingDecimals === undefined ? 'asset.decimals' : null,
+        underlyingDecimals !== undefined && underlyingDecimals > 18
+          ? `asset.decimals=${underlyingDecimals} (unexpected)`
+          : null,
+      ]
+        .filter(Boolean)
+        .join(', ')
+
+      omitted++
+      issues.push(
+        `[${folder}] ${vault.name ?? vault.address} (${vault.address}) missing required Morpho fields: ${missingFields}`
+      )
+      continue
+    }
 
     if (existing) {
       let changed = false
@@ -325,6 +359,10 @@ async function main() {
         ensureIndexingInfo(existing)
         changed = true
       }
+      if (existing.decimals !== shareDecimals) {
+        existing.decimals = shareDecimals
+        changed = true
+      }
       if (changed) {
         modified++
         console.log(`  [${folder}] Updated: ${existing.name}`)
@@ -335,18 +373,14 @@ async function main() {
         address: vault.address,
         name: vault.name ?? vault.symbol ?? vault.address,
         symbol: vault.symbol ?? vault.address,
-        decimals: vault.asset?.decimals ?? 18,
+        decimals: shareDecimals,
         logoURI: '',
         extensions: {
           protocol: 'morpho',
-          ...(vault.asset?.address
-            ? {
-                underlyingTokenAddress: vault.asset.address,
-                underlyingTokenName: vault.asset.name ?? '',
-                underlyingTokenSymbol: vault.asset.symbol ?? '',
-                underlyingTokenDecimals: vault.asset.decimals ?? 18,
-              }
-            : {}),
+          underlyingTokenAddress: underlyingAddress,
+          underlyingTokenName: vault.asset?.name ?? '',
+          underlyingTokenSymbol: vault.asset?.symbol ?? '',
+          underlyingTokenDecimals: underlyingDecimals,
           indexingInfo: { useOnChainBalance: true },
         },
       }
@@ -369,6 +403,14 @@ async function main() {
   console.log(`\n── Done ──`)
   console.log(`  ${added} Morpho vaults added`)
   console.log(`  ${modified} existing tokens updated`)
+  console.log(`  ${omitted} vaults omitted due to missing required data`)
+
+  if (issues.length) {
+    console.warn('\n── Issues ──')
+    for (const issue of issues) {
+      console.warn(`  ${issue}`)
+    }
+  }
 }
 
 main().catch(error => {

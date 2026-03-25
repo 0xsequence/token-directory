@@ -1412,13 +1412,17 @@
       "address": "0xc30ce6a5758786e0f640cc5f881dd96e9a1c5c59",
       "name": "Gauntlet USDC Prime",
       "symbol": "gtusdcp",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "underlyingTokenName": "USDC",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1440,7 +1444,7 @@
       "address": "0x48921e52f70CEC7D3425Cf5103Caace27Fc0b2Fe",
       "name": "Edge UltraYield USDC",
       "symbol": "edgeUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",

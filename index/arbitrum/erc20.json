@@ -3,7 +3,10 @@
   "chainId": 42161,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": ["erc20", "arbitrum"],
+  "keywords": [
+    "erc20",
+    "arbitrum"
+  ],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
     {
@@ -40,7 +43,11 @@
       "extensions": {
         "link": "https://www.circle.com/en/usdc",
         "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
-        "categories": ["usd-stablecoin", "transactional", "usdc"],
+        "categories": [
+          "usd-stablecoin",
+          "transactional",
+          "usdc"
+        ],
         "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol",
         "originChainId": 1,
         "originAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -151,7 +158,12 @@
       "extensions": {
         "link": "https://weth.io/",
         "description": "W-ETH is \"wrapped ETH\" but let's start by introducing the players. First, there's Ether token. Ether or ETH is the native currency built on the Ethereum blockchain.\r\nSecond, there are alt tokens. When a dApp (decentralized app) is built off of the Ethereum Blockchain it usually implements it’s own form of Token. Think Augur’s REP Token, or Bancor's BNT Token. Finally the ERC-20 standard. ERC20 is a standard developed after the release of ETH that defines how tokens are transferred and how to keep a consistent record of those transfers among tokens in the Ethereum Network.",
-        "categories": ["defi", "protocol", "chain", "wrapped"],
+        "categories": [
+          "defi",
+          "protocol",
+          "chain",
+          "wrapped"
+        ],
         "featureIndex": 4
       }
     },
@@ -166,7 +178,12 @@
       "extensions": {
         "link": "https://guardfdn.com/",
         "description": "Guardian is for purpose driven companies and projects building and contributing to the web3 economy.",
-        "categories": ["governance", "protocol", "defi", "access"],
+        "categories": [
+          "governance",
+          "protocol",
+          "defi",
+          "access"
+        ],
         "featureIndex": 38
       }
     },
@@ -573,7 +590,12 @@
       "extensions": {
         "link": "https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd",
         "description": "PayPal USD (PYUSD) is a stablecoin that is redeemable 1:1 for US dollars. Buy, sell, and transfer it in the app or on our site. Plus, when you hold PYUSD on PayPal, you could get 4% rewards.",
-        "categories": ["usd-stablecoin", "stablecoin", "transactional", "defi"],
+        "categories": [
+          "usd-stablecoin",
+          "stablecoin",
+          "transactional",
+          "defi"
+        ],
         "ogImage": "https://assets.coingecko.com/coins/images/31212/standard/PYUSD_Logo_%282%29.png?1696530039",
         "featured": true,
         "featureIndex": 9
@@ -932,7 +954,7 @@
       "address": "0xbeeff77CE5C059445714E6A3490E273fE7F2492F",
       "name": "Steakhouse High Yield",
       "symbol": "bbqUSDT0",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -950,7 +972,7 @@
       "address": "0xbeeff1D5dE8F79ff37a151681100B039661da518",
       "name": "Steakhouse High Yield",
       "symbol": "bbqUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -968,7 +990,7 @@
       "address": "0x5837e4189819637853a357aF36650902347F5e73",
       "name": "kpk USDC Yield",
       "symbol": "kpk_USDC_YieldV2",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -986,7 +1008,7 @@
       "address": "0x02641594dd0710f9eCBab6f5D37da121620D38a0",
       "name": "SteakHouse USDC High Yield",
       "symbol": "SPL",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1004,13 +1026,17 @@
       "address": "0x4b6f1c9e5d470b97181786b26da0d0945a7cf027",
       "name": "Hyperithm USDC Apex",
       "symbol": "hyperUSDCa",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1018,13 +1044,17 @@
       "address": "0x7e97fa6893871a2751b5fe961978dccb2c201e65",
       "name": "Gauntlet USDC Core",
       "symbol": "gtUSDCc",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1032,13 +1062,17 @@
       "address": "0x7c574174da4b2be3f705c6244b4bfa0815a8b3ed",
       "name": "Gauntlet USDC Prime",
       "symbol": "gtUSDCp",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1046,13 +1080,17 @@
       "address": "0x5c0c306aaa9f877de636f4d5822ca9f2e81563ba",
       "name": "Steakhouse High Yield USDC",
       "symbol": "bbqUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1060,13 +1098,17 @@
       "address": "0x4739e2c293bdcd835829aa7c5d7fbdee93565d1a",
       "name": "Steakhouse High Yield USDT0",
       "symbol": "bbqUSDT0",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdt0.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "underlyingTokenName": "USDT0",
+        "underlyingTokenSymbol": "USDT0",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1088,7 +1130,7 @@
       "address": "0x36b69949d60d06ECcC14DE0Ae63f4E00cc2cd8B9",
       "name": "Yearn Degen USDC",
       "symbol": "yDG-USDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1106,7 +1148,7 @@
       "address": "0x64CA76e2525fc6Ab2179300c15e343d73e42f958",
       "name": "Clearstar High Yield USDC",
       "symbol": "CSHYUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1124,7 +1166,7 @@
       "address": "0x2C609d9CfC9dda2dB5C128B2a665D921ec53579d",
       "name": "kpk USDC Yield",
       "symbol": "kpk_USDC_Yield",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1142,7 +1184,7 @@
       "address": "0xa60643c90A542A95026C0F1dbdB0615fF42019Cf",
       "name": "MEV Capital USDC",
       "symbol": "MCUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1160,7 +1202,7 @@
       "address": "0x3014ED70B39be395e1a5Eb8ab4c4b8a5378E6522",
       "name": "Not Gauntlet",
       "symbol": "AUSD",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1178,7 +1220,7 @@
       "address": "0x250CF7c82bAc7cB6cf899b6052979d4B5BA1f9ca",
       "name": "Steakhouse Prime USDC",
       "symbol": "steakUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1196,7 +1238,7 @@
       "address": "0x2D91466BCC6946B58869fE2ae521A856737C3f6e",
       "name": "Edge UltraYield USDC",
       "symbol": "edgeUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",

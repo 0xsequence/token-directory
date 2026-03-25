@@ -809,7 +809,7 @@
       "address": "0x050cE30b927Da55177A4914EC73480238BAD56f0",
       "name": "Gauntlet USDC Prime",
       "symbol": "gtusdcp",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -827,7 +827,7 @@
       "address": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
       "name": "Steakhouse Prime Instant",
       "symbol": "steakUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -845,7 +845,7 @@
       "address": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
       "name": "Steakhouse High Yield Instant",
       "symbol": "bbqUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -863,7 +863,7 @@
       "address": "0x5e03f8965e2957291B3c6990C6Cb9023c36d3d30",
       "name": "Prime USDC",
       "symbol": "primeUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -899,7 +899,7 @@
       "address": "0x618495ccC4e751178C4914b1E939C0fe0FB07b9b",
       "name": "Re7 USDC",
       "symbol": "Re7USDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -917,7 +917,7 @@
       "address": "0x8effa741061aaA2d8A5012a9B09A2d31d8B628d7",
       "name": "ARCHITECT Global Value",
       "symbol": "ARCHITECT GVI",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -935,7 +935,7 @@
       "address": "0x01afD5fa7E69Ce5f506C166D2fcbfb12488412AF",
       "name": "Steakhouse USDC High Yield",
       "symbol": "SUHY",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -953,7 +953,7 @@
       "address": "0x1deEfABEe758AAbdC29a542B24ca3b75aFD56765",
       "name": "Gauntlet USDC Frontier",
       "symbol": "gtusdcf",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -971,7 +971,7 @@
       "address": "0xBeEF00fc6e87dE086A0e29169A2f6e25cF5C11a9",
       "name": "Farcaster x Steakhouse Prime",
       "symbol": "steakUSDCfarcaster",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -989,7 +989,7 @@
       "address": "0x2Ba14b2e1E7D2189D3550b708DFCA01f899f33c1",
       "name": "OUSD Vault V2",
       "symbol": "OUSDb-V2",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1007,7 +1007,7 @@
       "address": "0xe7D0DBE3493830e2Ab62619211A2BfF0Fc60dB42",
       "name": "Yearn OG USDC V2",
       "symbol": "yOG-USDC-V2",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1025,7 +1025,7 @@
       "address": "0x6963B0872d67A8795E6513bdBF1f2203c933d221",
       "name": "Maxshot USDC",
       "symbol": "mUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1061,7 +1061,7 @@
       "address": "0x3deDcEcF0246474246a8C5e89dEa35170023071D",
       "name": "Steakhouse Prime USDC",
       "symbol": "sUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1097,7 +1097,7 @@
       "address": "0x116e1A65717A534B73EcB7d4F6543c65DBCd0E46",
       "name": "Clearstar Reactor USDC",
       "symbol": "CSRUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1115,13 +1115,17 @@
       "address": "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
       "name": "Clearstar USDC Reactor",
       "symbol": "CSUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1129,13 +1133,17 @@
       "address": "0x5435bc53f2c61298167cdb11cdf0db2bfa259ca0",
       "name": "Edge UltraYield USDC",
       "symbol": "edgeUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1143,13 +1151,17 @@
       "address": "0xbeefa7b88064feef0cee02aaebbd95d30df3878f",
       "name": "Steakhouse High Yield USDC v1.1",
       "symbol": "bbqUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1157,13 +1169,17 @@
       "address": "0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca",
       "name": "Moonwell Flagship USDC",
       "symbol": "mwUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1171,13 +1187,17 @@
       "address": "0xef417a2512c5a41f69ae4e021648b69a7cde5d03",
       "name": "Yearn OG USDC",
       "symbol": "ymvOG-USDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1185,13 +1205,17 @@
       "address": "0xbeefe94c8ad530842bfe7d8b397938ffc1cb83b2",
       "name": "Steakhouse Prime USDC",
       "symbol": "steakUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1199,13 +1223,17 @@
       "address": "0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61",
       "name": "Gauntlet USDC Prime",
       "symbol": "gtUSDCp",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1213,13 +1241,17 @@
       "address": "0xc0c5689e6f4d256e861f65465b691aeecc0deb12",
       "name": "Gauntlet USDC Core",
       "symbol": "gtUSDCc",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1227,13 +1259,17 @@
       "address": "0x1401d1271c47648ac70cbcdfa3776d4a87ce006b",
       "name": "Pangolins USDC",
       "symbol": "pUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1241,13 +1277,17 @@
       "address": "0x7bfa7c4f149e7415b73bdedfe609237e29cbf34a",
       "name": "Spark USDC Vault",
       "symbol": "sparkUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1255,13 +1295,17 @@
       "address": "0x12afdefb2237a5963e7bab3e2d46ad0eee70406e",
       "name": "Re7 USDC",
       "symbol": "Re7USDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1269,13 +1313,17 @@
       "address": "0x616a4e1db48e22028f6bbf20444cd3b8e3273738",
       "name": "Seamless USDC Vault",
       "symbol": "smUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1283,13 +1331,17 @@
       "address": "0xbeef010f9cb27031ad51e3333f9af9c6b1228183",
       "name": "Steakhouse USDC",
       "symbol": "steakUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1317,7 +1369,11 @@
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+        "underlyingTokenName": "Electronic Dollar",
+        "underlyingTokenSymbol": "eUSD",
+        "underlyingTokenDecimals": 18
       }
     },
     {
@@ -1331,7 +1387,11 @@
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x4200000000000000000000000000000000000006",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
       }
     },
     {
@@ -1345,7 +1405,11 @@
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x4200000000000000000000000000000000000006",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
       }
     },
     {
@@ -1359,7 +1423,11 @@
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x4200000000000000000000000000000000000006",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
       }
     },
     {
@@ -1373,7 +1441,11 @@
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x4200000000000000000000000000000000000006",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
       }
     },
     {
@@ -1381,13 +1453,17 @@
       "address": "0xf24608e0ccb972b0b0f4a6446a0bbf58c701a026",
       "name": "Moonwell Flagship EURC",
       "symbol": "mwEURC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/eurc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+        "underlyingTokenName": "EURC",
+        "underlyingTokenSymbol": "EURC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1395,13 +1471,17 @@
       "address": "0xbeef086b8807dc5e5a1740c5e3a7c4c366ea6ab5",
       "name": "Steakhouse EURC",
       "symbol": "steakEURC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/eurc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+        "underlyingTokenName": "EURC",
+        "underlyingTokenSymbol": "EURC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1409,13 +1489,17 @@
       "address": "0x1c155be6bc51f2c37d472d4c2eba7a637806e122",
       "name": "Gauntlet EURC Core",
       "symbol": "gtEURCc",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/eurc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+        "underlyingTokenName": "EURC",
+        "underlyingTokenSymbol": "EURC",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1429,7 +1513,11 @@
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x7Ba6F01772924a82D9626c126347A28299E98c98",
+        "underlyingTokenName": "Metronome Synth ETH",
+        "underlyingTokenSymbol": "msETH",
+        "underlyingTokenDecimals": 18
       }
     },
     {
@@ -1437,13 +1525,17 @@
       "address": "0xbeef0c8333b3de8f0450565834db4eb05def7a5f",
       "name": "Steakhouse Prime XSGD",
       "symbol": "steakXSGD",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/xsgd.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0x0A4C9cb2778aB3302996A34BeFCF9a8Bc288C33b",
+        "underlyingTokenName": "XSGD",
+        "underlyingTokenSymbol": "XSGD",
+        "underlyingTokenDecimals": 6
       }
     },
     {
@@ -1451,13 +1543,17 @@
       "address": "0x543257ef2161176d7c8cd90ba65c2d4caef5a796",
       "name": "Moonwell Frontier cbBTC",
       "symbol": "mwcbBTC",
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
       "extensions": {
         "protocol": "morpho",
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "underlyingTokenAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+        "underlyingTokenName": "Coinbase Wrapped BTC",
+        "underlyingTokenSymbol": "cbBTC",
+        "underlyingTokenDecimals": 8
       }
     },
     {
@@ -1465,7 +1561,7 @@
       "address": "0x2C6D169782bF18Cc634D076Fe639092227B82fdA",
       "name": "Froge's USDC",
       "symbol": "frUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1483,7 +1579,7 @@
       "address": "0xBeEf2d50B428675a1921bC6bBF4bfb9D8cF1461A",
       "name": "Grove x Steakhouse USDC High Yield",
       "symbol": "grove-bbqUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
@@ -1501,7 +1597,7 @@
       "address": "0x5132017227beb383783085d94Ca43Fb5F188a7d7",
       "name": "Term Prime USDC",
       "symbol": "termUSDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "",
       "extensions": {
         "protocol": "morpho",
