@@ -213,6 +213,7 @@ const transformReservesToTokens = (reserves: Reserve[]): TokenListEntry[] => {
       const { aToken, underlyingToken } = reserve
 
       const extensions = sanitizeExtensions({
+        protocol: 'aave',
         aaveAToken: true,
         underlyingTokenAddress: underlyingToken?.address,
         underlyingTokenName: underlyingToken?.name,
@@ -298,6 +299,21 @@ const mergeTokens = (
   return additions
 }
 
+/** Ensure all existing aTokens have protocol:"aave" in their extensions */
+const tagExistingATokens = (tokens: TokenListEntry[]): number => {
+  let count = 0
+  for (const token of tokens) {
+    if (
+      token.extensions?.aaveAToken === true &&
+      !token.extensions?.protocol
+    ) {
+      token.extensions.protocol = 'aave'
+      count++
+    }
+  }
+  return count
+}
+
 const processMarkets = async () => {
   console.log(
     `Fetching Aave tokens for chain IDs: ${TARGET_CHAIN_IDS.join(', ')}`
@@ -347,17 +363,21 @@ const processMarkets = async () => {
       tokenListPath
     )
     const additions = mergeTokens(tokenList.tokens, tokens)
+    const tagged = tagExistingATokens(tokenList.tokens)
 
-    if (!additions.length) {
-      console.log(`[${chainFolderName}] No new tokens to add.`)
+    if (!additions.length && !tagged) {
+      console.log(`[${chainFolderName}] No changes.`)
       continue
     }
 
     tokenList.tokens.push(...additions)
 
     await writeTokenList(tokenListPath, tokenList)
+    const parts: string[] = []
+    if (additions.length) parts.push(`${additions.length} added`)
+    if (tagged) parts.push(`${tagged} tagged with protocol`)
     console.log(
-      `[${chainFolderName}] Added ${additions.length} tokens -> ${tokenListPath}`
+      `[${chainFolderName}] ${parts.join(', ')} -> ${tokenListPath}`
     )
   }
 }
@@ -419,6 +439,7 @@ const transformV2ReservesToTokens = (
       const aTokenName = `Aave V2 ${name ?? symbol}`
 
       const extensions = sanitizeExtensions({
+        protocol: 'aave',
         aaveAToken: true,
         underlyingTokenAddress: underlyingAsset,
         underlyingTokenName: name,
