@@ -7674,7 +7674,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7692,7 +7693,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7710,7 +7712,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7728,7 +7731,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7746,7 +7750,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7764,7 +7769,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7782,7 +7788,8 @@
         "underlyingTokenDecimals": 2,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7800,7 +7807,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7818,7 +7826,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7836,7 +7845,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7854,7 +7864,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7872,7 +7883,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7890,7 +7902,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7908,7 +7921,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7926,7 +7940,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7944,7 +7959,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7962,7 +7978,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7980,7 +7997,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -7998,7 +8016,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8016,7 +8035,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8034,7 +8054,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8052,7 +8073,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8070,7 +8092,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8088,7 +8111,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8106,7 +8130,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8124,7 +8149,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8142,7 +8168,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8160,7 +8187,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8178,7 +8206,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8196,7 +8225,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8214,7 +8244,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8232,7 +8263,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8250,7 +8282,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -8266,6 +8299,129 @@
         "underlyingTokenName": "Aave (PoS)",
         "underlyingTokenSymbol": "AAVE",
         "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "protocol": "aave"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x3f33f9f7e2d7cfbcbdf8ea8b870a6e3d449664c2",
+      "name": "Compound POL",
+      "symbol": "compPOL",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/pol.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "underlyingTokenAddress": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "underlyingTokenName": "Wrapped Polygon Ecosystem Token",
+        "underlyingTokenSymbol": "WPOL",
+        "underlyingTokenDecimals": 18
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x794a61358d6845594f94dc1db02a252b5b4814ad",
+      "name": "DAI Market",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=137:0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063&token=DAI",
+      "extensions": {
+        "protocol": "aave",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xf5c81d25ee174d83f1fd202ca94ae6070d073ccf",
+      "name": "Compound WETH",
+      "symbol": "compWETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "underlyingTokenAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x781fb7f6d845e3be129289833b04d43aa8558c42",
+      "name": "Compound USDC",
+      "symbol": "compUSDC",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "underlyingTokenAddress": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xAcB0DCe4b0FF400AD8F6917f3ca13E434C9ed6bC",
+      "name": "Steakhouse High Yield USDC",
+      "symbol": "bbqUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "underlyingTokenName": "USD Coin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xfD06859A671C21497a2EB8C5E3fEA48De924D6c8",
+      "name": "Compound USDT",
+      "symbol": "compUSDT",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "underlyingTokenName": "USDT0",
+        "underlyingTokenSymbol": "USDT0",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xB7c9988D3922F25a336a469F3bB26CA61FE79e24",
+      "name": "Steakhouse High Yield USDT0",
+      "symbol": "bbqUSDT0",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "underlyingTokenName": "USDT0",
+        "underlyingTokenSymbol": "USDT0",
+        "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
         }

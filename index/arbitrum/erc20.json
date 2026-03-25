@@ -215,7 +215,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -233,7 +234,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -251,7 +253,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -269,7 +272,8 @@
         "underlyingTokenDecimals": 2,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -287,7 +291,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -305,7 +310,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -323,7 +329,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -341,7 +348,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -359,7 +367,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -377,7 +386,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -395,7 +405,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -413,7 +424,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -431,7 +443,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -449,7 +462,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -467,7 +481,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -485,7 +500,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -503,7 +519,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -521,7 +538,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -539,7 +557,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -557,7 +576,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -927,6 +947,308 @@
       "extensions": {
         "coingeckoId": "gho",
         "featureIndex": 28
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xbeeff77CE5C059445714E6A3490E273fE7F2492F",
+      "name": "Steakhouse High Yield",
+      "symbol": "bbqUSDT0",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "underlyingTokenName": "USDT0",
+        "underlyingTokenSymbol": "USDT0",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xbeeff1D5dE8F79ff37a151681100B039661da518",
+      "name": "Steakhouse High Yield",
+      "symbol": "bbqUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5837e4189819637853a357aF36650902347F5e73",
+      "name": "kpk USDC Yield",
+      "symbol": "kpk_USDC_YieldV2",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x02641594dd0710f9eCBab6f5D37da121620D38a0",
+      "name": "SteakHouse USDC High Yield",
+      "symbol": "SPL",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4b6f1c9e5d470b97181786b26da0d0945a7cf027",
+      "name": "Hyperithm USDC Apex",
+      "symbol": "hyperUSDCa",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7e97fa6893871a2751b5fe961978dccb2c201e65",
+      "name": "Gauntlet USDC Core",
+      "symbol": "gtUSDCc",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7c574174da4b2be3f705c6244b4bfa0815a8b3ed",
+      "name": "Gauntlet USDC Prime",
+      "symbol": "gtUSDCp",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5c0c306aaa9f877de636f4d5822ca9f2e81563ba",
+      "name": "Steakhouse High Yield USDC",
+      "symbol": "bbqUSDC",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4739e2c293bdcd835829aa7c5d7fbdee93565d1a",
+      "name": "Steakhouse High Yield USDT0",
+      "symbol": "bbqUSDT0",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdt0.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "underlyingTokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "underlyingTokenName": "USDT0",
+        "underlyingTokenSymbol": "USDT0",
+        "underlyingTokenDecimals": 6
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x794a61358d6845594f94dc1db02a252b5b4814ad",
+      "name": "USDC Market",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=42161:0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8&token=USDC",
+      "extensions": {
+        "protocol": "aave",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x36b69949d60d06ECcC14DE0Ae63f4E00cc2cd8B9",
+      "name": "Yearn Degen USDC",
+      "symbol": "yDG-USDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x64CA76e2525fc6Ab2179300c15e343d73e42f958",
+      "name": "Clearstar High Yield USDC",
+      "symbol": "CSHYUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2C609d9CfC9dda2dB5C128B2a665D921ec53579d",
+      "name": "kpk USDC Yield",
+      "symbol": "kpk_USDC_Yield",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa60643c90A542A95026C0F1dbdB0615fF42019Cf",
+      "name": "MEV Capital USDC",
+      "symbol": "MCUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3014ED70B39be395e1a5Eb8ab4c4b8a5378E6522",
+      "name": "Not Gauntlet",
+      "symbol": "AUSD",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x250CF7c82bAc7cB6cf899b6052979d4B5BA1f9ca",
+      "name": "Steakhouse Prime USDC",
+      "symbol": "steakUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2D91466BCC6946B58869fE2ae521A856737C3f6e",
+      "name": "Edge UltraYield USDC",
+      "symbol": "edgeUSDC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     }
   ],
