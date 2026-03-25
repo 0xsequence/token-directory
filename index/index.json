@@ -28,7 +28,7 @@
       "chainId": 42161,
       "tokenLists": {
         "erc1155.json": "efdf23b5c46d712ebba7b3fd5226518b4dd190badda613b3a5718d178a67f3e9",
-        "erc20.json": "8cfe1dd055b2d470f325bf3bcf0cd49a114ab294cd734b36cf9c05e975dec8b8",
+        "erc20.json": "e1c3c2904de950be364309cc9d02e1ef838347b6aa039d7b4446f81afd386914",
         "erc721.json": "e8a31ae32437b84c1bfdc91d51a14c0d401ddd703ebe233aa4cc30ed2c236dc7",
         "misc.json": "7fdcd6fbf97166c6c38d0b7c59d5f34beeb611cdaea6fe0c7bf37ed9b4b3ad83"
       }
@@ -250,7 +250,7 @@
       "chainId": 137,
       "tokenLists": {
         "erc1155.json": "f6a710897facb2b4caa28a78694166302811cbd31139d04cccdc4a3e4a18a36c",
-        "erc20.json": "320b529618df9c5937d64bc74ea3177468ee129fed7769a60d2cb320ef92dcc4",
+        "erc20.json": "37f46a388cb4f7a12c1b05f0f77413e95ebcb8b948ccd6c81fddd5e2037d428f",
         "erc721.json": "e32b38f33246eb5dc67bacbb7d72ac0612060cc20aed7d628c30320708fff62f",
         "misc.json": "80ed5add20b07abafcd9ced20d8cdc0ba6a588b724320c66739e1db3d264d503"
       }
