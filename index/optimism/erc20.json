@@ -1156,8 +1156,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1175,8 +1174,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1194,8 +1192,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1213,8 +1210,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1232,8 +1228,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1251,8 +1246,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1270,8 +1264,7 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1289,8 +1282,7 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1308,8 +1300,7 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1327,8 +1318,7 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1346,8 +1336,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1365,8 +1354,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1384,8 +1372,7 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        },
-        "protocol": "aave"
+        }
       }
     },
     {
@@ -1401,53 +1388,6 @@
         "underlyingTokenName": "Wrapped liquid staked Ether 2.0",
         "underlyingTokenSymbol": "wstETH",
         "underlyingTokenDecimals": 18,
-        "indexingInfo": {
-          "useOnChainBalance": true
-        },
-        "protocol": "aave"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0xc30ce6a5758786e0f640cc5f881dd96e9a1c5c59",
-      "name": "Gauntlet USDC Prime",
-      "symbol": "gtusdcp",
-      "decimals": 6,
-      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
-      "extensions": {
-        "protocol": "morpho",
-        "indexingInfo": {
-          "useOnChainBalance": true
-        }
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0x794a61358d6845594f94dc1db02a252b5b4814ad",
-      "name": "USDT Market",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://token-logos.family.co/asset?id=10:0x94b008aA00579c1307B0EF2c499aD98a8ce58e58&token=USDT",
-      "extensions": {
-        "protocol": "aave",
-        "indexingInfo": {
-          "useOnChainBalance": true
-        }
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0x48921e52f70CEC7D3425Cf5103Caace27Fc0b2Fe",
-      "name": "Edge UltraYield USDC",
-      "symbol": "edgeUSDC",
-      "decimals": 6,
-      "logoURI": "",
-      "extensions": {
-        "protocol": "morpho",
-        "underlyingTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
-        "underlyingTokenName": "USDC",
-        "underlyingTokenSymbol": "USDC",
-        "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
         }
