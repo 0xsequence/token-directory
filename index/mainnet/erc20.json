@@ -22832,7 +22832,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22850,7 +22851,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22868,7 +22870,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22886,7 +22889,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22904,7 +22908,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22922,7 +22927,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22940,7 +22946,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22958,7 +22965,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22976,7 +22984,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -22994,7 +23003,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23012,7 +23022,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23030,7 +23041,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23048,7 +23060,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23066,7 +23079,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23084,7 +23098,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23102,7 +23117,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23120,7 +23136,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23138,7 +23155,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23156,7 +23174,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23174,7 +23193,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23192,7 +23212,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23210,7 +23231,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23228,7 +23250,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23246,7 +23269,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23264,7 +23288,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23282,7 +23307,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23300,7 +23326,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23318,7 +23345,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23336,7 +23364,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23354,7 +23383,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23372,7 +23402,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23390,7 +23421,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23408,7 +23440,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23426,7 +23459,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23444,7 +23478,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23462,7 +23497,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23480,7 +23516,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23498,7 +23535,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23516,7 +23554,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23534,7 +23573,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23552,7 +23592,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23570,7 +23611,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23588,7 +23630,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23606,7 +23649,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23624,7 +23668,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23642,7 +23687,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23660,7 +23706,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23678,7 +23725,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23696,7 +23744,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23714,7 +23763,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23732,7 +23782,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23750,7 +23801,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23768,7 +23820,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23786,7 +23839,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23804,7 +23858,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23822,7 +23877,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23840,7 +23896,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23858,7 +23915,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23876,7 +23934,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23894,7 +23953,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23912,7 +23972,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23930,7 +23991,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23948,7 +24010,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23966,7 +24029,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -23984,7 +24048,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24002,7 +24067,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24020,7 +24086,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24038,7 +24105,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24056,7 +24124,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24074,7 +24143,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24092,7 +24162,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24110,7 +24181,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24128,7 +24200,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24146,7 +24219,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24164,7 +24238,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24182,7 +24257,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24200,7 +24276,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24218,7 +24295,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24236,7 +24314,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24254,7 +24333,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24272,7 +24352,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24290,7 +24371,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24308,7 +24390,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24326,7 +24409,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24344,7 +24428,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24362,7 +24447,8 @@
         "underlyingTokenDecimals": 2,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24380,7 +24466,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24398,7 +24485,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24416,7 +24504,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24434,7 +24523,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24452,7 +24542,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24470,7 +24561,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24488,7 +24580,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24506,7 +24599,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24524,7 +24618,8 @@
         "underlyingTokenDecimals": 8,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24542,7 +24637,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24560,7 +24656,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24578,7 +24675,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24596,7 +24694,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24614,7 +24713,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24632,7 +24732,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24650,7 +24751,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24668,7 +24770,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24686,7 +24789,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24704,7 +24808,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24722,7 +24827,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24740,7 +24846,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24758,7 +24865,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24776,7 +24884,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24794,7 +24903,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24812,7 +24922,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24830,7 +24941,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24848,7 +24960,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24866,7 +24979,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24884,7 +24998,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24902,7 +25017,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24920,7 +25036,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24938,7 +25055,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24956,7 +25074,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24974,7 +25093,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -24992,7 +25112,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25010,7 +25131,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25028,7 +25150,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25046,7 +25169,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25064,7 +25188,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25082,7 +25207,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25100,7 +25226,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25118,7 +25245,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25136,7 +25264,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25154,7 +25283,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25172,7 +25302,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25190,7 +25321,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25208,7 +25340,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25226,7 +25359,8 @@
         "underlyingTokenDecimals": 9,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25244,7 +25378,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25262,7 +25397,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25280,7 +25416,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25298,7 +25435,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25316,7 +25454,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25334,7 +25473,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25352,7 +25492,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25370,7 +25511,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -25399,6 +25541,1430 @@
         "originAddress": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
         "featured": true,
         "featureIndex": 5
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xE036478Da9A7ed89b56FE39A06e1FC1a4b38D4Ea",
+      "name": "Aave Ethereum PT_USDe_7MAY2026",
+      "symbol": "aEthPT_USDe_7MAY2026",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xE036478Da9A7ed89b56FE39A06e1FC1a4b38D4Ea&token=aEthPT_USDe_7MAY2026",
+      "extensions": {
+        "protocol": "aave",
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0xAeBf0Bb9f57E89260d57f31AF34eB58657d96Ce0",
+        "underlyingTokenName": "PT Ethena USDe 7MAY2026",
+        "underlyingTokenSymbol": "PT-USDe-7MAY2026",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x81b76ff3FeD28BA0B4a5D4c76Bd5C13Bd0641d86",
+      "name": "Aave Ethereum PT_sUSDe_7MAY2026",
+      "symbol": "aEthPT_sUSDe_7MAY2026",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x81b76ff3FeD28BA0B4a5D4c76Bd5C13Bd0641d86&token=aEthPT_sUSDe_7MAY2026",
+      "extensions": {
+        "protocol": "aave",
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x3de0ff76E8b528C092d47b9DaC775931cef80F49",
+        "underlyingTokenName": "PT Ethena sUSDE 7MAY2026",
+        "underlyingTokenSymbol": "PT-sUSDE-7MAY2026",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1241ec22C9BdF16BA1Eb636F2a8de7e28A4343Cf",
+      "name": "Aave Ethereum PT_srUSDe_2APR2026",
+      "symbol": "aEthPT_srUSDe_2APR2026",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0x1241ec22C9BdF16BA1Eb636F2a8de7e28A4343Cf&token=aEthPT_srUSDe_2APR2026",
+      "extensions": {
+        "protocol": "aave",
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x9Bf45ab47747F4B4dD09B3C2c73953484b4eB375",
+        "underlyingTokenName": "PT Strata Senior USDe 2APR2026",
+        "underlyingTokenSymbol": "PT-srUSDe-2APR2026",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc293744fFbcf46696D589f5C415e71BC491519cD",
+      "name": "Aave Horizon RWA ACRED",
+      "symbol": "aHorRwaACRED",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xc293744fFbcf46696D589f5C415e71BC491519cD&token=aHorRwaACRED",
+      "extensions": {
+        "protocol": "aave",
+        "aaveAToken": true,
+        "underlyingTokenAddress": "0x17418038ecF73BA4026c4f428547BF099706F27B",
+        "underlyingTokenName": "Apollo Diversified Credit Securitize Fund",
+        "underlyingTokenSymbol": "ACRED",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x23f5E9c35820f4baB695Ac1F19c203cC3f8e1e11",
+      "name": "sky.money USDT Savings",
+      "symbol": "skyMoneyUsdtSavings",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xBEeFF047C03714965a54b671A37C18beF6b96210",
+      "name": "Steakhouse Reservoir USDC",
+      "symbol": "bbqSUDCreservoir",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
+      "name": "Gauntlet USDC Prime",
+      "symbol": "gtusdcp",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xA7A78E8e98c734f87A3B07D8DB627C67001ABD02",
+      "name": "gtsy",
+      "symbol": "gtsy",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa30D20cB10c869bAf99EbeADFD79408fe7Ad8FaA",
+      "name": "gtsy (usdt)",
+      "symbol": "gusdt",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x56bfa6f53669B836D1E0Dfa5e99706b12c373ecf",
+      "name": "sky.money USDC Risk Capital",
+      "symbol": "skyMoneyUsdcRiskCapital",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bD3A43863c07B6A01581FADa0E1614ca5DF0E3d",
+      "name": "sky.money USDT Risk Capital",
+      "symbol": "skyMoneyUsdtRiskCapital",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeeff2C5bF38f90e3482a8b19F12E5a6D2FCa757",
+      "name": "Steakhouse High Yield Instant",
+      "symbol": "bbqUSDC",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef0046fcab1dE47E41fB75BB3dC4Dfc94108E3",
+      "name": "Steakhouse Prime Instant",
+      "symbol": "steakETH",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xE571B648569619566CF6ce1060C97B621CB635D3",
+      "name": "Gauntlet USDT Frontier",
+      "symbol": "gtusdtf",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1E9242e075Db4bdd3f3c721D7d5fd4180A94A7e",
+      "name": "Re Ecosystem Vault",
+      "symbol": "REECOUSDC",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xBeefF08dF54897e7544aB01d0e86f013DA354111",
+      "name": "Grove x Steakhouse USDC",
+      "symbol": "grove-bbqUSDC",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6aB8dd6124E5F5789B8b5074C5760b9917A2DFc6",
+      "name": "Gauntlet USDT Core",
+      "symbol": "SGUTC",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xBb50A5341368751024ddf33385BA8cf61fE65FF9",
+      "name": "kpk ETH Prime V2",
+      "symbol": "kpk_ETH_PrimeV2",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef003C68896c7D2c3c60d363e8d71a49Ab2bf9",
+      "name": "Steakhouse Prime Instant",
+      "symbol": "steakUSDT",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xE0181090c22579B6A217f1522cbf8c9f1F0C1965",
+      "name": "RockawayX USDC Yield",
+      "symbol": "roxUSDCy",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x093272C07700d3cA5301C3Bf9B3A392624179E2F",
+      "name": "Hyperithm USDC Apex",
+      "symbol": "hyperUSDCa",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ceB0f01Cb7187a2EBED5661eCC4d5701d8F2350",
+      "name": "August USDC V2",
+      "symbol": "augustUSDCv2",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2221Aa07ec3266DA87763E2b1e28d07A8a4e53b",
+      "name": "Api3 Core USDC",
+      "symbol": "Api3CoreUSDC",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeeff07d991C04CD640DE9F15C08ba59c4FEDEb7",
+      "name": "Steakhouse High Yield Instant",
+      "symbol": "bbqUSDT",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "underlyingTokenName": "Tether USD",
+        "underlyingTokenSymbol": "USDT",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc582f04d8a82795aa2ff9c8bb4c1c889fe7b754e",
+      "name": "Gauntlet USDC Frontier",
+      "symbol": "gtusdcf",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8875aaebc4f830524e35d57f9772ffacbdd6c45",
+      "name": "Gauntlet USDC RWA",
+      "symbol": "gtusdcrwa",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458",
+      "name": "Gauntlet USDC Core",
+      "symbol": "gtUSDCcore",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc080f56504e0278828a403269db945f6c6d6e014",
+      "name": "Gauntlet eUSD Core",
+      "symbol": "gteUSDc",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/eusd.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd63070114470f685b75b74d60eec7c1113d33a3d",
+      "name": "MEV Capital USDC",
+      "symbol": "USUALUSDC+",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9178ebe0691593184c1d785a864b62a326cc3509",
+      "name": "kpk USDC Yield",
+      "symbol": "kpk_USDC_Yield",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xcdaea3dde6ce5969aa1414a82a3a681ced51ce72",
+      "name": "Hyperithm USDC Core",
+      "symbol": "hyperUSDCc",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0f05e4de970a1aaf77f8c2f823953a367504ba9",
+      "name": "ALPHA USDC Core",
+      "symbol": "aUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x711a68a82dd80cb0435b281af76b0b80804efab9",
+      "name": "August USDC",
+      "symbol": "augustUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef346d7099865208ff331e4f648f4154ddaa05",
+      "name": "Steakhouse Reservoir USDC",
+      "symbol": "bbqUSDCreservoir",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeefc1cdafc5b4a649b54d07afc6bf0f75c6f4e2",
+      "name": "Steakhouse Ethena USDtb",
+      "symbol": "steakUSDTBethena",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdtb.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x87870bca3f3fd6335c3f4ce8392d69350b4fa4e2",
+      "name": "USDG Market",
+      "symbol": "USDG",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xe343167631d89B6Ffc58B88d6b7fB0228795491D&token=USDG",
+      "extensions": {
+        "protocol": "aave",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b7cca326004967f9d2b7cf5f2328d82cf65b302",
+      "name": "August AUSD",
+      "symbol": "augustAUSD",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/ausd.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b2d98bbf3e38df1d1b7be7343732e32e8b1f818",
+      "name": "Cap Ecosystem USDC",
+      "symbol": "capUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeeff2b772fa2f443cbd1dd6d33b0c4bebf4aeb7",
+      "name": "Steakhouse High Yield AUSD",
+      "symbol": "bbqAUSD",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/ausd.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x777791c4d6dc2ce140d00d2828a7c93503c67777",
+      "name": "Hyperithm USDC Apex",
+      "symbol": "hyperUSDCa",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeefff209270748ddd194831b3fa287a5386f5bc",
+      "name": "Smokehouse USDC",
+      "symbol": "bbqUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c26793c7f1e2785c09b460676e797b716f0bc8e",
+      "name": "Keyrock USDC",
+      "symbol": "kUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x79fd640000f8563a866322483524a4b48f1ed702",
+      "name": "Gauntlet USDT Frontier",
+      "symbol": "gtusdtf",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdt.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cb3649114051ca5119141a34c200d65dc0faa73",
+      "name": "Gauntlet USDT Prime",
+      "symbol": "gtUSDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdt.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc54b4e08c1dcc199fdd35c6b5ab589ffd3428a8d",
+      "name": "Vault Bridge USDT",
+      "symbol": "vbgtUSDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdt.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef1f5bd88285e5b239b6aacb991d38cca23ac9",
+      "name": "Steakhouse infiniFi USDC",
+      "symbol": "steakUSDCinfinifi",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef047a543e45807105e51a8bbefcc5950fcfba",
+      "name": "Steakhouse USDT",
+      "symbol": "steakUSDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdt.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0804346780b4c2e3be118ac957d1db82f9d7484",
+      "name": "Smokehouse USDT",
+      "symbol": "bbqUSDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdt.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9bddd4a9b3a45f980e11fdde96e16364ddbec49",
+      "name": "Yearn OG USDC",
+      "symbol": "ymvOG-USDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x62067831c193810f3b044cc42249632b5d08bc6b",
+      "name": "Kabu USDC",
+      "symbol": "KabuUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xe108fbc04852b5df72f9e44d7c29f47e7a993add",
+      "name": "kpk USDC Prime",
+      "symbol": "kpk_USDC_Prime",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef96b330ef1fe7ebe41ece0bd4a41a94bc03dc",
+      "name": "Cronos USDC",
+      "symbol": "cronosUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
+      "name": "Steakhouse USDC",
+      "symbol": "steakUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd0f28e19c1780eb6396170735d45153d261490d",
+      "name": "Gauntlet USDC Prime",
+      "symbol": "gtUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa71d08a159258553a5ac190d60fa919425ff02ea",
+      "name": "Hakutora USDT",
+      "symbol": "hUSDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdt.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3f4d94a209045ef35661e657db9adac584141f1",
+      "name": "Api3 Core USDC",
+      "symbol": "Api3CoreUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x68aea7b82df6ccdf76235d46445ed83f85f845a3",
+      "name": "Yearn USDC",
+      "symbol": "oevUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeefb9f61cc44895d8aec381373555a64191a9c4",
+      "name": "Vault Bridge USDC",
+      "symbol": "vbshUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e033931ad43597d96d6bcc25c280717730b58b1",
+      "name": "USDC Market",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&token=USDC",
+      "extensions": {
+        "protocol": "aave",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ff4186188f8406917293a9e01a1ca16d3cf9e59",
+      "name": "SwissBorg USDC",
+      "symbol": "sbMorphoUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeefff68cc520d68f82641eff84330c631e2490e",
+      "name": "Smokehouse DAI",
+      "symbol": "bbqDAI",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/dai.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x500331c9ff24d9d11aee6b07734aa72343ea74a5",
+      "name": "Gauntlet DAI Core",
+      "symbol": "gtDAIcore",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/dai.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x974c8fbf4fd795f66b85b73ebc988a51f1a040a9",
+      "name": "Hakutora USDC",
+      "symbol": "hUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef2b5fd3d94469b7782aebe6364e6e6fb1b709",
+      "name": "Grove x Steakhouse USDC High Yield",
+      "symbol": "grove-bbqUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xae05cd22df81871bc7cc2a04becfb516bfe332c8",
+      "name": "USDC Market",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-logos.family.co/asset?id=1:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&token=USDC",
+      "extensions": {
+        "protocol": "aave",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeeffff0629438ad198c47f80d66fa4be5c0caf6",
+      "name": "Grove x Steakhouse High Yield AUSD",
+      "symbol": "grove-bbqAUSD",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/ausd.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc88effd6e74d55c78290892809955463468e982a",
+      "name": "kpk ETH Yield",
+      "symbol": "kpk_ETH_Yield",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x71cb2f8038b2c5d65ddc740b2f3268890cd2a89c",
+      "name": "Sentora RLUSD",
+      "symbol": "senRLUSD",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/rlusd.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x19b3cd7032b8c062e8d44eacad661a0970dd8c55",
+      "name": "Sentora PYUSD",
+      "symbol": "senPYUSD",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/pyusd.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6859b34a9379122d25a9fa46f0882d434fee36c3",
+      "name": "Metronome msUSD Vault",
+      "symbol": "gtmsUSDc",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/msusd.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x78b18e07dc43017fceaabad0751d6464c0f56b25",
+      "name": "Metronome msETH Vault",
+      "symbol": "gtmsETHc",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/mseth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x47fe8ab9ee47dd65c24df52324181790b9f47efc",
+      "name": "ALPHA wETH Core",
+      "symbol": "aWETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x739d8a60ed4b14e4cb6dcaeaf79d2ec0ca092237",
+      "name": "SingularV ETH",
+      "symbol": "svETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d6d386c4855d9b604d7e14c70526407f6272394",
+      "name": "Hyperithm ETH Apex",
+      "symbol": "hyperETHa",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xd564f765f9ad3e7d2d6ca782100795a885e8e7c8",
+      "name": "kpk ETH Prime",
+      "symbol": "kpk_ETH_Prime",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c6aec603d48ebf1cecc7b247a2c3da08b398dc1",
+      "name": "kpk EURC Yield",
+      "symbol": "kpk_EURC_Yield",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/eurc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x66320aff501d091d0929e7208977a0a94b823b43",
+      "name": "Hyperithm cbBTC Apex",
+      "symbol": "hypercbBTCa",
+      "decimals": 8,
+      "logoURI": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2371e134e3455e0593363cbf89d3b6cf53740618",
+      "name": "Gauntlet WETH Prime",
+      "symbol": "gtWETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x31a5684983eee865d943a696aac155363ba024f9",
+      "name": "Vault Bridge WETH",
+      "symbol": "vbgtWETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xe89371eaaac6d46d4c3ed23453241987916224fc",
+      "name": "Yearn OG WETH",
+      "symbol": "ymvOG-WETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeef050ecd6a16c4e7bffbb52ebba7846c4b8cd4",
+      "name": "Steakhouse ETH",
+      "symbol": "steakETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ed10624315b74a78f11fabedaa1a228c198aefb",
+      "name": "Gauntlet EURC Core",
+      "symbol": "gteurcc",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/eurc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x701907283a57ff77e255c3f1aad790466b8ce4ef",
+      "name": "Index Coop hyETH",
+      "symbol": "mhyETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c793f5cb25b35a99648783c01e6cccc200d2096",
+      "name": "Sentora PYUSD Core",
+      "symbol": "senPYUSDcore",
+      "decimals": 6,
+      "logoURI": "https://cdn.morpho.org/assets/logos/pyusd.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658",
+      "name": "Gauntlet WETH Core",
+      "symbol": "gtLRTcore",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a8bc3b04b7f3d87cfc09ba407dced575f2d61d8",
+      "name": "MEV Capital wETH",
+      "symbol": "MCwETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x78fc2c2ed1a4cdb5402365934ae5648adad094d0",
+      "name": "Re7 WETH",
+      "symbol": "Re7WETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x443df5eee3196e9b2dd77cabd3ea76c3dee8f9b2",
+      "name": "Gauntlet WBTC Core",
+      "symbol": "gtWBTCc",
+      "decimals": 8,
+      "logoURI": "https://cdn.morpho.org/assets/logos/wbtc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x833adaef212c5cd3f78906b44bbfb18258f238f0",
+      "name": "Smokehouse WSTETH",
+      "symbol": "bbqWSTETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/wsteth.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x75741a12b36d181f44f389e0c6b1e0210311e3ff",
+      "name": "Steakhouse EURCV",
+      "symbol": "steakEURCV",
+      "decimals": 18,
+      "logoURI": "https://cdn.morpho.org/assets/logos/eurcv.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x812b2c6ab3f4471c0e43d4bb61098a9211017427",
+      "name": "Vault Bridge WBTC",
+      "symbol": "vbgtWBTC",
+      "decimals": 8,
+      "logoURI": "https://cdn.morpho.org/assets/logos/wbtc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdc94785959b73f7a168452b3654e44fec6a750e4",
+      "name": "Gauntlet LBTC Core",
+      "symbol": "gtLBTCc",
+      "decimals": 8,
+      "logoURI": "https://cdn.morpho.org/assets/logos/lbtc.svg",
+      "extensions": {
+        "protocol": "morpho",
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x73Ea4fff78a427d8b9bd77216aF4c42e78E2F5b8",
+      "name": "GTEST 1.0",
+      "symbol": "GTEST",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "underlyingTokenName": "USDCoin",
+        "underlyingTokenSymbol": "USDC",
+        "underlyingTokenDecimals": 6,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Dfe70B05657949A5dB340754aD664810ac63b21",
+      "name": "WETH ARM Vault",
+      "symbol": "WETH-ARM",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "protocol": "morpho",
+        "underlyingTokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "underlyingTokenName": "Wrapped Ether",
+        "underlyingTokenSymbol": "WETH",
+        "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        }
       }
     }
   ],

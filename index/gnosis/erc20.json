@@ -91,7 +91,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -109,7 +110,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -127,7 +129,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -145,7 +148,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -163,7 +167,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -181,7 +186,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -199,7 +205,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -217,7 +224,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "protocol": "aave"
       }
     },
     {
@@ -233,6 +241,21 @@
         "underlyingTokenName": "Wrapped liquid staked Ether 2.0 from Mainnet",
         "underlyingTokenSymbol": "wstETH",
         "underlyingTokenDecimals": 18,
+        "indexingInfo": {
+          "useOnChainBalance": true
+        },
+        "protocol": "aave"
+      }
+    },
+    {
+      "chainId": 100,
+      "address": "0xb50201558b00496a145fe76f7424749556e326d8",
+      "name": "EURe Market",
+      "symbol": "EURe",
+      "decimals": 18,
+      "logoURI": "https://token-logos.family.co/asset?id=100:0xcB444e90D8198415266c6a2724b7900fb12FC56E&token=EURe",
+      "extensions": {
+        "protocol": "aave",
         "indexingInfo": {
           "useOnChainBalance": true
         }
