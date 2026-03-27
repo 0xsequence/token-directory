@@ -10,3 +10,30 @@ jobs:
       - name: Validate JSONs
         run: bash ./tools/scripts/jsonlint.sh
         # env:
+
+  auto-reindex:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Reindex and commit if changed
+        run: |
+          pnpm run reindex
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add index/index.json
+            git commit -m "reindex"
+            git push
+          fi
