@@ -3,12 +3,7 @@
   "chainId": 1,
   "tokenStandard": "erc20",
   "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
-  "keywords": [
-    "erc20",
-    "fungible",
-    "stablecoin",
-    "coingecko"
-  ],
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
   "timestamp": "2021-01-27T22:00:03.430Z",
   "tokens": [
     {
@@ -27243,6 +27238,214 @@
         "indexingInfo": {
           "useOnChainBalance": true
         }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF5017d0163ecb99D9B5D94e3b4D7b09Af44D8AE",
+      "name": "Tether USD (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWUSDT",
+      "decimals": 6,
+      "logoURI": "https://explorer.d-bis.org/token-icons/cUSDT.png",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWUSDT) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cUSDT",
+        "explorerUrl": "https://etherscan.io/address/0xaF5017d0163ecb99D9B5D94e3b4D7b09Af44D8AE"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2de5F116bFcE3d0f922d9C8351e0c5Fc24b9284a",
+      "name": "USD Coin (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWUSDC",
+      "decimals": 6,
+      "logoURI": "https://explorer.d-bis.org/token-icons/cUSDC.png",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWUSDC) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cUSDC",
+        "explorerUrl": "https://etherscan.io/address/0x2de5F116bFcE3d0f922d9C8351e0c5Fc24b9284a"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4aEAa8cD3fB41Dc8437FaC7639B6d91B60A5e8d",
+      "name": "Euro Coin (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWEURC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Order-of-Hospitallers/proxmox-cp/main/token-lists/logos/gru/cEURC.svg",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWEURC) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cEURC",
+        "explorerUrl": "https://etherscan.io/address/0xD4aEAa8cD3fB41Dc8437FaC7639B6d91B60A5e8d"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x855d74FFB6CF75721a9bAbc8B2ed35c8119241dC",
+      "name": "Tether EUR (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWEURT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Order-of-Hospitallers/proxmox-cp/main/token-lists/logos/gru/cEURT.svg",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWEURT) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cEURT",
+        "explorerUrl": "https://etherscan.io/address/0x855d74FFB6CF75721a9bAbc8B2ed35c8119241dC"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc074007dc0Bfb384B1cf6426a56287Ed23FE4D52",
+      "name": "Pound Sterling (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWGBPC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Order-of-Hospitallers/proxmox-cp/main/token-lists/logos/gru/cGBPC.svg",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWGBPC) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cGBPC",
+        "explorerUrl": "https://etherscan.io/address/0xc074007dc0Bfb384B1cf6426a56287Ed23FE4D52"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1dDF9970F01c76A692Fdba2706203E6f16e0C46F",
+      "name": "Tether GBP (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWGBPT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Order-of-Hospitallers/proxmox-cp/main/token-lists/logos/gru/cGBPT.svg",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWGBPT) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cGBPT",
+        "explorerUrl": "https://etherscan.io/address/0x1dDF9970F01c76A692Fdba2706203E6f16e0C46F"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5020Db641B3Fc0dAbBc0c688C845bc4E3699f35F",
+      "name": "Australian Dollar (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWAUDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Order-of-Hospitallers/proxmox-cp/main/token-lists/logos/gru/cAUDC.svg",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWAUDC) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cAUDC",
+        "explorerUrl": "https://etherscan.io/address/0x5020Db641B3Fc0dAbBc0c688C845bc4E3699f35F"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x07EEd0D7dD40984e47B9D3a3bdded1c536435582",
+      "name": "Japanese Yen (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWJPYC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Order-of-Hospitallers/proxmox-cp/main/token-lists/logos/gru/cJPYC.svg",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWJPYC) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cJPYC",
+        "explorerUrl": "https://etherscan.io/address/0x07EEd0D7dD40984e47B9D3a3bdded1c536435582"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F91C5E6Ddd46403746aAC970D05d70FFe404780",
+      "name": "Swiss Franc (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWCHFC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Order-of-Hospitallers/proxmox-cp/main/token-lists/logos/gru/cCHFC.svg",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWCHFC) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cCHFC",
+        "explorerUrl": "https://etherscan.io/address/0x0F91C5E6Ddd46403746aAC970D05d70FFe404780"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x209FE32fe7B541751D190ae4e50cd005DcF8EDb4",
+      "name": "Canadian Dollar (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWCADC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Order-of-Hospitallers/proxmox-cp/main/token-lists/logos/gru/cCADC.svg",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWCADC) on Ethereum Mainnet.",
+        "categories": ["stablecoin", "defi", "wrapped", "compliant"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cCADC",
+        "explorerUrl": "https://etherscan.io/address/0x209FE32fe7B541751D190ae4e50cd005DcF8EDb4"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x572Be0fa8CA0534d642A567CEDb398B771D8a715",
+      "name": "Gold (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWXAUC",
+      "decimals": 6,
+      "logoURI": "https://explorer.d-bis.org/token-icons/cXAUC.png",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWXAUC) on Ethereum Mainnet.",
+        "categories": ["defi", "wrapped", "compliant", "commodity"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cXAUC",
+        "explorerUrl": "https://etherscan.io/address/0x572Be0fa8CA0534d642A567CEDb398B771D8a715"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xACE1DBF857549a11aF1322e1f91F2F64b029c906",
+      "name": "Tether XAU (Compliant Wrapped ISO-4217 M1)",
+      "symbol": "cWXAUT",
+      "decimals": 6,
+      "logoURI": "https://explorer.d-bis.org/token-icons/cXAUT.png",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "GRU transport wrapped token (cWXAUT) on Ethereum Mainnet.",
+        "categories": ["defi", "wrapped", "compliant", "commodity"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cXAUT",
+        "explorerUrl": "https://etherscan.io/address/0xACE1DBF857549a11aF1322e1f91F2F64b029c906"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xf6dC5587e18F27Adff60E303fDD98F35b50FA8a5",
+      "name": "Wrapped Ethereum Mainnet Gas (Compliant)",
+      "symbol": "cWETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+      "extensions": {
+        "link": "https://d-bis.org",
+        "description": "Gas-family wrapped mirror on Ethereum Mainnet.",
+        "categories": ["defi", "wrapped", "compliant", "gas"],
+        "canonicalChainId": 138,
+        "canonicalSymbol": "cETH",
+        "explorerUrl": "https://etherscan.io/address/0xf6dC5587e18F27Adff60E303fDD98F35b50FA8a5"
       }
     }
   ],
