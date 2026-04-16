@@ -8426,7 +8426,15 @@
           "useOnChainBalance": true
         }
       }
-    }
+    }, 
+    {
+  "chainId": 137,
+  "address": "0xda0056076c3937f6b72817aeef4ca42432da0cc5",
+  "name": "Stella",
+  "symbol": "STELLA",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/sportivastella/stella-assets/main/file_00000000aff87230932cecaf7294a51a~2.png"
+  } 
   ],
   "version": {
     "major": 1,
