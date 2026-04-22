@@ -129,7 +129,9 @@ async function fetchCoinList(
   const response = await fetchWithRetry(url, { 'x-cg-pro-api-key': apiKey })
 
   if (!response.ok) {
-    throw new Error(`CoinGecko /coins/list failed with status ${response.status}`)
+    throw new Error(
+      `CoinGecko /coins/list failed with status ${response.status}`
+    )
   }
 
   const coins = (await response.json()) as CoinListEntry[]
@@ -171,8 +173,7 @@ async function fetchCoinByContract(
   platformId: string,
   address: string
 ): Promise<{ id: string; volume: number; atl_date: string | null } | null> {
-  const url =
-    `${COINGECKO_API_BASE}/coins/${platformId}/contract/${address.toLowerCase()}`
+  const url = `${COINGECKO_API_BASE}/coins/${platformId}/contract/${address.toLowerCase()}`
   const response = await fetchWithRetry(url, { 'x-cg-pro-api-key': apiKey })
 
   if (!response.ok) return null
@@ -274,7 +275,8 @@ async function processChain(
 
   const eligible = resolvedIds.length + unresolvedTokens.length
   const maxFallback = 50
-  const willFallback = unresolvedTokens.length > 0 && unresolvedTokens.length <= maxFallback
+  const willFallback =
+    unresolvedTokens.length > 0 && unresolvedTokens.length <= maxFallback
   console.log(
     `[${chain}] Resolved ${resolvedIds.length}/${eligible} eligible tokens via bulk lookup` +
       (willFallback
@@ -330,9 +332,7 @@ async function processChain(
   }
 
   // Re-sort by volume descending after merge
-  marketData.sort(
-    (a, b) => (b.total_volume ?? 0) - (a.total_volume ?? 0)
-  )
+  marketData.sort((a, b) => (b.total_volume ?? 0) - (a.total_volume ?? 0))
 
   // Filter to those with volume and take top N
   const ranked = marketData
@@ -437,10 +437,13 @@ async function processChain(
       const newRank = featuredAddresses.get(addrLower)!
       const oldRank = oldFeatured.get(addrLower)
       const status = oldRank != null ? `was #${oldRank}` : 'NEW'
-      const vol = entry.total_volume != null
-        ? `$${entry.total_volume.toLocaleString('en-US', { maximumFractionDigits: 0 })}`
-        : 'n/a'
-      console.log(`  #${newRank}  ${token.symbol} (${token.address}) vol=${vol} [${status}]`)
+      const vol =
+        entry.total_volume != null
+          ? `$${entry.total_volume.toLocaleString('en-US', { maximumFractionDigits: 0 })}`
+          : 'n/a'
+      console.log(
+        `  #${newRank}  ${token.symbol} (${token.address}) vol=${vol} [${status}]`
+      )
     }
   }
 

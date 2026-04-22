@@ -303,10 +303,7 @@ const mergeTokens = (
 const tagExistingATokens = (tokens: TokenListEntry[]): number => {
   let count = 0
   for (const token of tokens) {
-    if (
-      token.extensions?.aaveAToken === true &&
-      !token.extensions?.protocol
-    ) {
+    if (token.extensions?.aaveAToken === true && !token.extensions?.protocol) {
       token.extensions.protocol = 'aave'
       count++
     }
@@ -376,9 +373,7 @@ const processMarkets = async () => {
     const parts: string[] = []
     if (additions.length) parts.push(`${additions.length} added`)
     if (tagged) parts.push(`${tagged} tagged with protocol`)
-    console.log(
-      `[${chainFolderName}] ${parts.join(', ')} -> ${tokenListPath}`
-    )
+    console.log(`[${chainFolderName}] ${parts.join(', ')} -> ${tokenListPath}`)
   }
 }
 
@@ -406,7 +401,8 @@ async function fetchV2Reserves(chainId: number): Promise<V2Reserve[]> {
       return []
     }
 
-    const payload = (await response.json()) as GraphqlResponse<V2ReservesResponse>
+    const payload =
+      (await response.json()) as GraphqlResponse<V2ReservesResponse>
 
     if (payload.errors?.length) {
       const messages = payload.errors
@@ -472,7 +468,9 @@ const processV2Markets = async () => {
   }
 
   const chainIds = Object.keys(V2_SUBGRAPH_IDS).map(Number)
-  console.log(`\n[V2] Fetching Aave V2 tokens for chain IDs: ${chainIds.join(', ')}`)
+  console.log(
+    `\n[V2] Fetching Aave V2 tokens for chain IDs: ${chainIds.join(', ')}`
+  )
 
   for (const chainId of chainIds) {
     const folderName = CHAIN_ID_TO_FOLDER_NAME[chainId]

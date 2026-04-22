@@ -293,8 +293,7 @@ async function main() {
   for (const [chainId, vaults] of byChain) {
     const folder = CHAIN_ID_TO_FOLDER[chainId]
     vaults.sort(
-      (a, b) =>
-        (b.state?.totalAssetsUsd ?? 0) - (a.state?.totalAssetsUsd ?? 0)
+      (a, b) => (b.state?.totalAssetsUsd ?? 0) - (a.state?.totalAssetsUsd ?? 0)
     )
     const top = vaults.slice(0, MAX_VAULTS_PER_CHAIN)
     selected.push(...top)

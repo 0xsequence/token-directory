@@ -232,7 +232,9 @@ async function processChain(
   )
 
   // Fetch top tokens by volume for this chain's category
-  console.log(`[${chain}] Fetching top ${count} tokens from category ${category}...`)
+  console.log(
+    `[${chain}] Fetching top ${count} tokens from category ${category}...`
+  )
   const markets = await fetchCategoryMarkets(apiKey, category, count)
   console.log(`[${chain}] Got ${markets.length} tokens from CoinGecko markets`)
 
@@ -255,7 +257,9 @@ async function processChain(
 
     // Skip tokens newer than 1 month (by atl_date as proxy for age)
     if (market.atl_date && new Date(market.atl_date) > minTokenAge) {
-      console.log(`  [${chain}] Skipping ${market.symbol} (too new, atl_date: ${market.atl_date})`)
+      console.log(
+        `  [${chain}] Skipping ${market.symbol} (too new, atl_date: ${market.atl_date})`
+      )
       continue
     }
 
@@ -306,7 +310,9 @@ async function processChain(
   }
 
   // Print what would be added
-  console.log(`\n[${chain}] ${write ? 'Adding' : 'Would add'} ${additions.length} tokens:`)
+  console.log(
+    `\n[${chain}] ${write ? 'Adding' : 'Would add'} ${additions.length} tokens:`
+  )
   if (additions.length > 0) {
     console.log(`\nExample entry:`)
     console.log(JSON.stringify(additions[0], null, 2))
@@ -315,9 +321,8 @@ async function processChain(
     }
   }
   for (const token of additions) {
-    const vol = newTokens.find(
-      t => t.address === token.address
-    )?.market.total_volume
+    const vol = newTokens.find(t => t.address === token.address)?.market
+      .total_volume
     const volStr =
       vol != null
         ? `$${vol.toLocaleString('en-US', { maximumFractionDigits: 0 })}`
@@ -334,7 +339,9 @@ async function processChain(
 
   tokenList.tokens.push(...additions)
   await fs.writeFile(tokenListPath, `${JSON.stringify(tokenList, null, 2)}\n`)
-  console.log(`[${chain}] Wrote ${additions.length} new tokens to ${tokenListPath}`)
+  console.log(
+    `[${chain}] Wrote ${additions.length} new tokens to ${tokenListPath}`
+  )
 }
 
 const main = async () => {
