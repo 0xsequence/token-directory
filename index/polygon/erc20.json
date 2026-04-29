@@ -32,6 +32,20 @@
     },
     {
       "chainId": 137,
+      "address": "0xd1CD49A08AeF3Af93457aEc17C786C2b7F48eCd7",
+      "name": "Staked POL",
+      "symbol": "sPOL",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/polygon_spol.svg",
+      "extensions": {
+        "link": "https://polygon.technology/",
+        "description": "Staked POL (sPOL) represents POL tokens staked through Polygon's native staking mechanism.",
+        "categories": ["staking"],
+        "ogImage": null
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x03f61137bfb86be07394f0fd07a33984020f96d8",
       "name": "Xpendium",
       "symbol": "XPND",
