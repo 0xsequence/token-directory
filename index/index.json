@@ -8,7 +8,7 @@
         "2-sushiswap.json": "78cd163aaac1eefc5524c3aea72b7aa83bb996f446b2d2c9b332c57c16f300f9",
         "3-pancakeswap-default.json": "9c494f5ce246deb4f54f6928aa71f12425fce38369c77292fb63dcba5f58299e",
         "4-pancakeswap-extended.json": "a35e2f0743c2c1a7402e32a9163ebe325875eea2129cacde24e0d8173e6c8e0a",
-        "5-katana.json": "6502d29471b14ed8b420cb81646730876e876f2de7288349a444347ebf730641"
+        "5-katana.json": "3e5324525dca17bca4b33c6a41543f73a60ab1324e1284f169d8eeb4c70d7ff2"
       }
     },
     "amoy": {
@@ -200,7 +200,7 @@
     "katana": {
       "chainId": 747474,
       "tokenLists": {
-        "erc20.json": "6b6f5ded44c4ad95b3ca923afbac40a32ccee707ccc810cf10b4d5f8a61b104f"
+        "erc20.json": "6925b0ed98d271c86c1b3d408195bfd6a2eb025be852d2fb4c4c4a873afcbdc2"
       }
     },
     "mainnet": {
