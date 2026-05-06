@@ -281,10 +281,7 @@
       "originTokenAddress": "0x6bef15d938d4e72056ac92ea4bdd0d76b1c4ad29",
       "chainId": 747474,
       "address": "0xb244Add9FE6cB17558221e4Dfea960e680CCD29b",
-      "logoURI": "https://assets.katana.network/icons/prove.svg",
-      "tags": [
-        "priority"
-      ]
+      "logoURI": "https://assets.katana.network/icons/prove.svg"
     },
     {
       "name": "Bridge-wrapped ChainLink Token",
@@ -398,10 +395,7 @@
       "chainId": 747474,
       "address": "0x7231dbaCdFc968E07656D12389AB20De82FbfCeB",
       "originTokenAddress": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://assets.katana.network/icons/avkat.png",
-      "tags": [
-        "priority"
-      ]
+      "logoURI": "https://assets.katana.network/icons/avkat.png"
     }
   ]
 }
