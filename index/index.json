@@ -316,7 +316,7 @@
     "sonic": {
       "chainId": 146,
       "tokenLists": {
-        "erc20.json": "575d1610c4de7b9139023c82c0bac301cd8a3edd57be306e29453a2850016c7c"
+        "erc20.json": "c7ae07b87bb9a65cf1a38ec7bb464e845ea6e066fa631bedc0fc85d04f2aa7ed"
       }
     }
   }
