@@ -48,7 +48,7 @@
       "name": "USD Somnia",
       "symbol": "USDso",
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://images.cryptorank.io/coins/somnia_network1755874008531.png",
       "extensions": {
         "featured": true,
         "featureIndex": 2
