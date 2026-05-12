@@ -8,11 +8,39 @@
   "tokens": [
     {
       "chainId": 5031,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "Somnia",
+      "symbol": "SOMI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/5031/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Somnia",
+      "symbol": "SOMI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/5031/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 5031,
       "address": "0x28BEc7E30E6faee657a03e19Bf1128AaD7632A00",
       "name": "Bridged USDC (Stargate)",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
     },
     {
       "chainId": 5031,
@@ -20,7 +48,11 @@
       "name": "USD Somnia",
       "symbol": "USDso",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 2
+      }
     }
   ],
   "version": {
