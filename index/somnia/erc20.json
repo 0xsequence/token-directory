@@ -1,0 +1,58 @@
+{
+  "name": "sequence-erc20-somnia",
+  "chainId": 5031,
+  "tokenStandard": "erc20",
+  "logoURI": "",
+  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "timestamp": "2026-05-13T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 5031,
+      "address": "0x28BEc7E30E6faee657a03e19Bf1128AaD7632A00",
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0x00000022dA000002656c64D9eA6011ea952D008A",
+      "name": "USD Somnia",
+      "symbol": "USDso",
+      "decimals": 6,
+      "logoURI": "",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0xC5098b3cA516784323872F17235fa074E167D3D2",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 2
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0x936Ab8C674bcb567CD5dEB85D8A216494704E9D8",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0xc02aa39b223fe8d0a0e5c4f27ead9083c756cc2.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 3
+      }
+    }
+  ]
+}
