@@ -77,6 +77,18 @@
         "featured": true,
         "featureIndex": 4
       }
+    },
+    {
+      "chainId": 5031,
+      "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
+      "name": "Wrapped SOMI",
+      "symbol": "WSOMI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/5031/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 5
+      }
     }
   ],
   "version": {
