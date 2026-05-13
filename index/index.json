@@ -307,6 +307,12 @@
         "misc.json": "71ff0898bb8677b3f1af5c01e5a4f6397e27f90f614dc9fba97e07210a9c6b7b"
       }
     },
+    "somnia": {
+      "chainId": 5031,
+      "tokenLists": {
+        "erc20.json": "af75d3d62197831c65946fe26e351a64e065b8fff1f320e270e1a7a72f95f493"
+      }
+    },
     "soneium": {
       "chainId": 1868,
       "tokenLists": {

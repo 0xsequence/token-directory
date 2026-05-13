@@ -1,0 +1,87 @@
+{
+  "name": "sequence-erc20-somnia",
+  "chainId": 5031,
+  "tokenStandard": "erc20",
+  "logoURI": "",
+  "keywords": ["erc20", "fungible", "stablecoin"],
+  "timestamp": "2026-05-12T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 5031,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "Somnia",
+      "symbol": "SOMI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/5031/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Somnia",
+      "symbol": "SOMI",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/5031/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0x28BEc7E30E6faee657a03e19Bf1128AaD7632A00",
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0x00000022dA000002656c64D9eA6011ea952D008A",
+      "name": "USD Somnia",
+      "symbol": "USDso",
+      "decimals": 18,
+      "logoURI": "https://images.cryptorank.io/coins/somnia_network1755874008531.png",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 2
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0xC5098b3cA516784323872F17235fa074E167D3D2",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 3
+      }
+    },
+    {
+      "chainId": 5031,
+      "address": "0x936Ab8C674bcb567CD5dEB85D8A216494704E9D8",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 4
+      }
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

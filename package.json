@@ -6,6 +6,7 @@
   "main": "dist/index.json",
   "author": "github.com/0xsequence",
   "license": "MIT",
+  "packageManager": "pnpm@9.15.9",
   "scripts": {
     "reindex": "tsx tools/reindex.ts",
     "sync-external": "tsx tools/sync-external.ts",
