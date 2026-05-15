@@ -12,7 +12,7 @@
       "name": "Somnia",
       "symbol": "SOMI",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/5031/0x0000000000000000000000000000000000000000.webp",
+      "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/master/index/somnia/logos/somi.png",
       "extensions": {
         "featured": true,
         "featureIndex": 0
@@ -24,7 +24,7 @@
       "name": "Somnia",
       "symbol": "SOMI",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/5031/0x0000000000000000000000000000000000000000.webp",
+      "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/master/index/somnia/logos/somi.png",
       "extensions": {
         "featured": true,
         "featureIndex": 0
@@ -48,7 +48,7 @@
       "name": "USD Somnia",
       "symbol": "USDso",
       "decimals": 18,
-      "logoURI": "https://images.cryptorank.io/coins/somnia_network1755874008531.png",
+      "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/master/index/somnia/logos/usdso.png",
       "extensions": {
         "featured": true,
         "featureIndex": 2
@@ -84,7 +84,7 @@
       "name": "Wrapped SOMI",
       "symbol": "WSOMI",
       "decimals": 18,
-      "logoURI": "https://assets.sequence.info/images/tokens/large/5031/0x0000000000000000000000000000000000000000.webp",
+      "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/master/index/somnia/logos/somi.png",
       "extensions": {
         "featured": true,
         "featureIndex": 5
