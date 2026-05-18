@@ -2,7 +2,7 @@
   "name": "sequence-erc20-somnia",
   "chainId": 5031,
   "tokenStandard": "erc20",
-  "logoURI": "",
+  "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/master/index/somnia/logos/somi.png",
   "keywords": ["erc20", "fungible", "stablecoin"],
   "timestamp": "2026-05-12T00:00:00.000Z",
   "tokens": [
