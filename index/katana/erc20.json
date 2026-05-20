@@ -228,6 +228,94 @@
     },
     {
       "chainId": 747474,
+      "address": "0x4570545894be2140708048781276bbd0fae15514",
+      "name": "Bridge-wrapped ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/link.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x7fa65cb97efb27ad709b29856aafcbd51a294237",
+      "name": "Bridge-wrapped Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/pepe.svg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/frxusd.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "name": "Staked Frax USD",
+      "symbol": "sfrxUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/sfrxusd.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x0f26bbb8962d73bc891327f14db5162d5279899f",
+      "name": "KAI",
+      "symbol": "KAI",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/kai.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xca52d08737e6af8763a2bf6034b3b03868f24dda",
+      "name": "dTRINITY USD",
+      "symbol": "dUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/dusd.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xfcef626de4a0175ac962dd43eb0a002819faaefe",
+      "name": "Staked YUSD",
+      "symbol": "sYUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/syusd.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xfba805659e5050544e185cccdf592fd77f8c7210",
+      "name": "Kitsu",
+      "symbol": "KITSU",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/kitsu.jpg"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xa600a613c967b9edf2b6019ea300abc738f88637",
+      "name": "BUSHIDO",
+      "symbol": "BUSHIDO",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/bushido.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x2A66d51407b84b82b5AFF3DeC4D49f72CBCD322a",
+      "name": "Unity",
+      "symbol": "UTY",
+      "decimals": 18,
+      "logoURI": "https://assets.katana.network/icons/uty.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x0eF68c1aB3C83CF11f9546FaBA385E8a1bd38d74",
+      "name": "Woofy",
+      "symbol": "WOOFY",
+      "decimals": 12,
+      "logoURI": "https://assets.katana.network/icons/woofy.svg"
+    },
+    {
+      "chainId": 747474,
       "address": "0x93Fec6639717b6215A48E5a72a162C50DCC40d68",
       "name": "AUSD yVault",
       "symbol": "AUSD",
