@@ -1615,6 +1615,18 @@
           "useOnChainBalance": true
         }
       }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x46C85152bFe9f96829aA94755D9f915F9B10EF5F",
+      "name": "cNGN",
+      "symbol": "cNGN",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69200/large/cNGN_Logo_Icon_Purple.png?1757836603",
+      "extensions": {
+        "link": "https://cngn.co",
+        "description": "cNGN (Compliant Naira) is a regulated Nigerian Naira-backed stablecoin, pegged 1:1 to the Naira and collateralized by reserves held in designated commercial banks. Issued under the approval of Nigeria's SEC Regulatory Incubation Program, cNGN enables remittances, commerce, and DeFi across multiple blockchains including Base."
+      }
     }
   ],
   "version": {
