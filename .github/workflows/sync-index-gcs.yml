@@ -31,13 +31,13 @@ jobs:
           # Secret containing the full service account JSON key
           credentials_json: ${{ secrets.GCP_SA_KEY }}
 
-      - name: Setup gcloud
-        uses: google-github-actions/setup-gcloud@v2
+      - name: Install gsutil
+        run: pip install -U gsutil
 
       - name: Sync ./index/ to GCS
-        # --delete removes remote objects that no longer exist locally,
+        # -d deletes remote objects that no longer exist locally,
         # so the bucket stays an exact mirror of ./index/
-        run: gcloud storage rsync ./index/ "gs://${GCS_BUCKET}/${GCS_PREFIX}/" --delete
+        run: gsutil -m rsync -r -d ./index/ "gs://${GCS_BUCKET}/${GCS_PREFIX}/"
 
       - name: Verify public index.json
         run: |
