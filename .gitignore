@@ -2,4 +2,5 @@
 node_modules
 tools/node_modules
 tools/config/creds.env
+gcp-sa-key.json
 yarn-error.log
