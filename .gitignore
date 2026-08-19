@@ -2,4 +2,5 @@
 node_modules
 tools/node_modules
 tools/config/creds.env
+tools/.fee-on-transfer-cache.*
 yarn-error.log
