@@ -2,5 +2,6 @@
 node_modules
 tools/node_modules
 tools/config/creds.env
+tools/.fee-on-transfer-cache.*
 gcp-sa-key.json
 yarn-error.log

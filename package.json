@@ -17,6 +17,7 @@
     "sync-external": "tsx tools/sync-external.ts",
     "update-featured": "tsx tools/update-featured.ts",
     "sync-coingecko": "tsx tools/sync-coingecko.ts",
+    "sync-fee-on-transfer": "tsx tools/sync-fee-on-transfer.ts",
     "format": "prettier --write .",
     "prepare": "husky"
   },
