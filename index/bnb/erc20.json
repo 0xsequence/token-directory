@@ -637,6 +637,23 @@
         },
         "protocol": "aave"
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0x5cA42204cDAa70d5c773946e69dE942b85CA6706",
+      "name": "Position Token",
+      "symbol": "POSI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/17459/large/posi.png?1696517002",
+      "extensions": {
+        "link": "https://position.exchange/",
+        "description": "Position Exchange is a decentralized trading protocol on BNB Chain offering perpetual futures, staking and yield products. POSI is its governance and utility token.",
+        "categories": ["defi", "governance", "staking"],
+        "ogImage": null,
+        "originChainId": 56,
+        "originAddress": null,
+        "feeOnTransfer": true
+      }
     }
   ],
   "version": {

@@ -2311,7 +2311,8 @@
         "categories": ["gaming", "casino"],
         "ogImage": null,
         "originChainId": 1,
-        "originAddress": "0x1f6deadcb526c4710cf941872b86dcdfbbbd9211"
+        "originAddress": "0x1f6deadcb526c4710cf941872b86dcdfbbbd9211",
+        "feeOnTransfer": true
       }
     },
     {
