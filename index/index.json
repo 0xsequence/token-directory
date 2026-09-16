@@ -51,6 +51,12 @@
         "misc.json": "dcd7b7959ef6dc035d6a0dd439737094b48f3e0f9d544b1d3e7f44fdcd85df72"
       }
     },
+    "arc": {
+      "chainId": 5042,
+      "tokenLists": {
+        "erc20.json": "b6e0b2fe77b89386c91d93ce3b19edef08b34bb01ddc72334d477c3fc014f5a2"
+      }
+    },
     "arc-testnet": {
       "chainId": 5042002,
       "tokenLists": {
