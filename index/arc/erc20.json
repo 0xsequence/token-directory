@@ -4,7 +4,7 @@
   "tokenStandard": "erc20",
   "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/master/index/arc/logos/arc.svg",
   "keywords": ["erc20", "fungible", "stablecoin", "arc"],
-  "timestamp": "2026-09-16T18:00:00.000Z",
+  "timestamp": "2026-09-16T19:30:00.000Z",
   "tokens": [
     {
       "chainId": 5042,
@@ -37,6 +37,22 @@
       "symbol": "EURC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/26045/large/euro-coin.png"
+    },
+    {
+      "chainId": 5042,
+      "address": "0x171A4217b86A807A64eB94757Db6849fb4bDbAA0",
+      "name": "Circle Wrapped Bitcoin",
+      "symbol": "cirBTC",
+      "decimals": 8,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102172745/large/cirbtc.jpg"
+    },
+    {
+      "chainId": 5042,
+      "address": "0x8a5D989Bbb96929F689B0200f435f53dA42bF490",
+      "name": "US Yield Coin",
+      "symbol": "USYC",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51054/large/Hashnote_SDYC_200x200.png"
     }
   ],
   "version": {
