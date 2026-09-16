@@ -3,7 +3,7 @@
   "chainId": 4663,
   "tokenStandard": "erc20",
   "keywords": ["erc20", "fungible", "stablecoin", "stocks", "robinhood"],
-  "timestamp": "2026-09-16T20:00:00.000Z",
+  "timestamp": "2026-09-16T20:30:00.000Z",
   "tokens": [
     {
       "chainId": 4663,
@@ -840,6 +840,758 @@
       "symbol": "FUTU",
       "decimals": 18,
       "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xeb30663bdff0622ef4e4e5cbb4e975f19f33f51d.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5",
+      "name": "ExxonMobil Holdings Corporation • Robinhood Token",
+      "symbol": "XOM",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xf9b46d3d1b22199d4d1025a9cedb540a33f1a2d5.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x93Dbb1d2Dc5D63F4abACFF30485273f538Df68Ac",
+      "name": "Comfort Systems • Robinhood Token",
+      "symbol": "FIX",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x93dbb1d2dc5d63f4abacff30485273f538df68ac.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0C3260aF4B8f13a69c4c2dFb84fD667890CDFa14",
+      "name": "ServiceNow • Robinhood Token",
+      "symbol": "NOW",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x0c3260af4b8f13a69c4c2dfb84fd667890cdfa14.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xA249BAF1063Af884807C1E1400AEf7784836917E",
+      "name": "AppLovin • Robinhood Token",
+      "symbol": "APP",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xa249baf1063af884807c1e1400aef7784836917e.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB853bC83a753342a4f8320ea680b4B1E84118D21",
+      "name": "Infleqtion • Robinhood Token",
+      "symbol": "INFQ",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb853bc83a753342a4f8320ea680b4b1e84118d21.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1Eebee7F74517e0279dFb09d25B0407bEEc3FDd6",
+      "name": "NuScale Power • Robinhood Token",
+      "symbol": "SMR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x1eebee7f74517e0279dfb09d25b0407beec3fdd6.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF0AB0c93bE6F41369d302e55db1A96b3c430212D",
+      "name": "IREN Limited • Robinhood Token",
+      "symbol": "IREN",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xf0ab0c93be6f41369d302e55db1a96b3c430212d.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc01aA1fECeC0605b13bc84874ff7256C0f5F562a",
+      "name": "Super Micro Computer • Robinhood Token",
+      "symbol": "SMCI",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc01aa1fecec0605b13bc84874ff7256c0f5f562a.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x4D67253bc223e6b0e104F1084c1fb2b669dDC41b",
+      "name": "Credo Technology Group • Robinhood Token",
+      "symbol": "CRDO",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x4d67253bc223e6b0e104f1084c1fb2b669ddc41b.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xb1969f6604CA1AE7a2cD3F1827876e914594CA2D",
+      "name": "T1 Energy • Robinhood Token",
+      "symbol": "TE",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb1969f6604ca1ae7a2cd3f1827876e914594ca2d.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0f17206447090e464C277571124dD2688E48AEA9",
+      "name": "Qualcomm • Robinhood Token",
+      "symbol": "QCOM",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x0f17206447090e464c277571124dd2688e48aea9.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xb8DBf92F9741c9ac1c32115E78581f23509916FD",
+      "name": "Applied Digital • Robinhood Token",
+      "symbol": "APLD",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb8dbf92f9741c9ac1c32115e78581f23509916fd.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x92Ef19E82bD8fF36661DE838D5eaE7e5CEF0EfFE",
+      "name": "Redwire • Robinhood Token",
+      "symbol": "RDW",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x92ef19e82bd8ff36661de838d5eae7e5cef0effe.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x373C06c4f7BDe527D7Dae4BA169E42b55E393CeD",
+      "name": "Aurora Innovation • Robinhood Token",
+      "symbol": "AUR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x373c06c4f7bde527d7dae4ba169e42b55e393ced.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF543967EEBB6f1917992eF0E68De63ab07a5a0dA",
+      "name": "Cisco Systems • Robinhood Token",
+      "symbol": "CSCO",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xf543967eebb6f1917992ef0e68de63ab07a5a0da.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xDdf2266b79abf0B48898959B0ed6E6adf512be74",
+      "name": "MongoDB • Robinhood Token",
+      "symbol": "MDB",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xddf2266b79abf0b48898959b0ed6e6adf512be74.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x348Be1A8663f15edDe5CDf8A96BB69078f7aB6Fd",
+      "name": "TeraWulf • Robinhood Token",
+      "symbol": "WULF",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x348be1a8663f15edde5cdf8a96bb69078f7ab6fd.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x15Cd20759CE7F3285c29A319dE2D1A2e098c6f43",
+      "name": "State Street Technology Select Sector SPDR ETF • Robinhood Token",
+      "symbol": "XLK",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x15cd20759ce7f3285c29a319de2d1a2e098c6f43.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2778C5024D5cA2CdB0f8eAD671ffc69963AdCD9C",
+      "name": "Teradyne • Robinhood Token",
+      "symbol": "TER",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x2778c5024d5ca2cdb0f8ead671ffc69963adcd9c.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xa5D4968421bA94814Be3B136b15cf422101aC1a3",
+      "name": "Intuitive Machines • Robinhood Token",
+      "symbol": "LUNR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xa5d4968421ba94814be3b136b15cf422101ac1a3.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xEB61c0Ed490A367d4E3631cCf8a74B3bfc7E775D",
+      "name": "Huntington Ingalls • Robinhood Token",
+      "symbol": "HII",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xeb61c0ed490a367d4e3631ccf8a74b3bfc7e775d.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x77E655E37F4d913fB9540e0d541D824171a60e81",
+      "name": "Silicon Motion • Robinhood Token",
+      "symbol": "SIMO",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x77e655e37f4d913fb9540e0d541d824171a60e81.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x56d23beE5f41A7120170b0c603Dae30128e460e9",
+      "name": "Intuit • Robinhood Token",
+      "symbol": "INTU",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x56d23bee5f41a7120170b0c603dae30128e460e9.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x12e3c047bf9AeCAF9dDC98c05C31BFD1dd043993",
+      "name": "Kohls Corporation • Robinhood Token",
+      "symbol": "KSS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x12e3c047bf9aecaf9ddc98c05c31bfd1dd043993.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x748c32c3ca24eDf31ea597Db1F3d330a7a6DA3Dc",
+      "name": "Astera Labs, Inc. • Robinhood Token",
+      "symbol": "ALAB",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x748c32c3ca24edf31ea597db1f3d330a7a6da3dc.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8cF07C5A878945185d327aAa6e33FAa95F95e7bF",
+      "name": "Celsius • Robinhood Token",
+      "symbol": "CELH",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x8cf07c5a878945185d327aaa6e33faa95f95e7bf.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x141eEa040c2250eEc0314e336975e81f85f6585e",
+      "name": "AXT • Robinhood Token",
+      "symbol": "AXTI",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x141eea040c2250eec0314e336975e81f85f6585e.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x558378E000D634A36593E338eBacdd6207640EfE",
+      "name": "IonQ • Robinhood Token",
+      "symbol": "IONQ",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x558378e000d634a36593e338ebacdd6207640efe.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x57b0030166DB0C31690d1A5aA167e2e26e2C29a4",
+      "name": "Lam Research Corp • Robinhood Token",
+      "symbol": "LRCX",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x57b0030166db0c31690d1a5aa167e2e26e2c29a4.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x284358abc07F9359f19f4b5b4aC91901Be2597Ba",
+      "name": "Rigetti Computing • Robinhood Token",
+      "symbol": "RGTI",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x284358abc07f9359f19f4b5b4ac91901be2597ba.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x3FB8976980d486084b2eb4a404BD12e72823958f",
+      "name": "Fortinet • Robinhood Token",
+      "symbol": "FTNT",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x3fb8976980d486084b2eb4a404bd12e72823958f.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC27dBD474aF5181c5A8777903690D8D262D12648",
+      "name": "Axon • Robinhood Token",
+      "symbol": "AXON",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc27dbd474af5181c5a8777903690d8d262d12648.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x26dCbfb34FC83CAbD6990f449674efDc6097fF85",
+      "name": "ViaSat • Robinhood Token",
+      "symbol": "VSAT",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x26dcbfb34fc83cabd6990f449674efdc6097ff85.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x561e2a49212b7cCF47f2744Ccb83e200722fADBc",
+      "name": "Vistra • Robinhood Token",
+      "symbol": "VST",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x561e2a49212b7ccf47f2744ccb83e200722fadbc.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7dc013eB55e436f30d7ED1AFE4E36d6e45e3c3f7",
+      "name": "Zscaler • Robinhood Token",
+      "symbol": "ZS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x7dc013eb55e436f30d7ed1afe4e36d6e45e3c3f7.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0b5fb4031cae9163db10B169Ee72685F0EdC8545",
+      "name": "Trade Desk • Robinhood Token",
+      "symbol": "TTD",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x0b5fb4031cae9163db10b169ee72685f0edc8545.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xBf449977089c718C004a66C554B26B94ef3Ad4De",
+      "name": "Celestica • Robinhood Token",
+      "symbol": "CLS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xbf449977089c718c004a66c554b26b94ef3ad4de.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x3139D77Ace0cbAA5bDfD38bD1F1911a794AF0B0e",
+      "name": "Abcellera Biologics • Robinhood Token",
+      "symbol": "ABCL",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x3139d77ace0cbaa5bdfd38bd1f1911a794af0b0e.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC583c60aeF9Dc401Da72cEC1B404743a93cea1Cc",
+      "name": "D-Wave Quantum Inc. Common Stock • Robinhood Token",
+      "symbol": "QBTS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc583c60aef9dc401da72cec1b404743a93cea1cc.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7c04E6A3368F2A1DE3874f0e80d2e0A1a9915da6",
+      "name": "Corning • Robinhood Token",
+      "symbol": "GLW",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x7c04e6a3368f2a1de3874f0e80d2e0a1a9915da6.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xd63ABB2C13d7a8421a8017a712802053568e3C1D",
+      "name": "Schwab US Dividend Equity ETF • Robinhood Token",
+      "symbol": "SCHD",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xd63abb2c13d7a8421a8017a712802053568e3c1d.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0E6e67Ba88e7b5d9B67636A215c76779B948dE79",
+      "name": "United Microelectronics • Robinhood Token",
+      "symbol": "UMC",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x0e6e67ba88e7b5d9b67636a215c76779b948de79.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB039597eD45CBa7B6E2fb9E8BE51802969CEe5Be",
+      "name": "Palo Alto Networks • Robinhood Token",
+      "symbol": "PANW",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb039597ed45cba7b6e2fb9e8be51802969cee5be.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xb334C5cE741B80B5B671F47F5C269Cb193fe8E24",
+      "name": "Joby Aviation • Robinhood Token",
+      "symbol": "JOBY",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb334c5ce741b80b5b671f47f5c269cb193fe8e24.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xAA4d64474c172010aB57719cb9951E6142a100d3",
+      "name": "Planet Labs • Robinhood Token",
+      "symbol": "PL",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xaa4d64474c172010ab57719cb9951e6142a100d3.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xFA78C12E6488814A0262E4e802749a4a737d5fB7",
+      "name": "Vertiv • Robinhood Token",
+      "symbol": "VRT",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xfa78c12e6488814a0262e4e802749a4a737d5fb7.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x89776d4Cd68193597A2fC132cfaC1fDe36CCeA8a",
+      "name": "Tower Semiconductor • Robinhood Token",
+      "symbol": "TSEM",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x89776d4cd68193597a2fc132cfac1fde36ccea8a.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc02f12B9fe9E707079EC0d546f3050d3F6C1F8bD",
+      "name": "DigitalOcean • Robinhood Token",
+      "symbol": "DOCN",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc02f12b9fe9e707079ec0d546f3050d3f6c1f8bd.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x28bABD556b60E53663B8615036479a29c2CDd1Bf",
+      "name": "Arista • Robinhood Token",
+      "symbol": "ANET",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x28babd556b60e53663b8615036479a29c2cdd1bf.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xfb2664f07B6Aadd29ea7a59D8859b1AeB8645cDa",
+      "name": "UiPath • Robinhood Token",
+      "symbol": "PATH",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xfb2664f07b6aadd29ea7a59d8859b1aeb8645cda.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5B97476b922F3305131B8f0B9D333172E87f4aaE",
+      "name": "Atlassian Corporation • Robinhood Token",
+      "symbol": "TEAM",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x5b97476b922f3305131b8f0b9d333172e87f4aae.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9ECe29A4A2397C0a35fb5fA8EE2b9509130a98cc",
+      "name": "Fiserv • Robinhood Token",
+      "symbol": "FISV",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x9ece29a4a2397c0a35fb5fa8ee2b9509130a98cc.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x237c16D66590F67B886d978ACD362EAeaD8B18c7",
+      "name": "Powell Industries • Robinhood Token",
+      "symbol": "POWL",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x237c16d66590f67b886d978acd362eaead8b18c7.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x48961813349333209994750ffA89b3c5C22eC969",
+      "name": "MaxLinear • Robinhood Token",
+      "symbol": "MXL",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x48961813349333209994750ffa89b3c5c22ec969.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF6290b5e7C26502e2dA514C31509849718EA76A5",
+      "name": "AeroVironment • Robinhood Token",
+      "symbol": "AVAV",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xf6290b5e7c26502e2da514c31509849718ea76a5.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xA8eB3BCcbf2017eE7CBfb652eB51CF2E1B153289",
+      "name": "Xanadu Quantum • Robinhood Token",
+      "symbol": "XNDU",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xa8eb3bccbf2017ee7cbfb652eb51cf2e1b153289.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xa48F22A46C0F1C46CA7D111CB6c137c271987180",
+      "name": "Fair Isaac • Robinhood Token",
+      "symbol": "FICO",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xa48f22a46c0f1c46ca7d111cb6c137c271987180.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xAd622320e520de39e72d41EF07438C3Fd3354875",
+      "name": "Invesco S&P 500 Momentum ETF • Robinhood Token",
+      "symbol": "SPMO",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xad622320e520de39e72d41ef07438c3fd3354875.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1c690498150252222C275A5CEd69d3A6b1f52D5E",
+      "name": "iShares MSCI Taiwan Capped ETF • Robinhood Token",
+      "symbol": "EWT",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x1c690498150252222c275a5ced69d3a6b1f52d5e.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xAEa445c5F3DB1a462998ccC422A875A361ee5d99",
+      "name": "Howmet Aerospace • Robinhood Token",
+      "symbol": "HWM",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xaea445c5f3db1a462998ccc422a875a361ee5d99.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x99D9D8663545151603863C5AcbD6FC3218899009",
+      "name": "Ambarella • Robinhood Token",
+      "symbol": "AMBA",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x99d9d8663545151603863c5acbd6fc3218899009.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x62200915e7DEab1eC7f79fb246daDbB80eACdDd0",
+      "name": "Clover Health Investments • Robinhood Token",
+      "symbol": "CLOV",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x62200915e7deab1ec7f79fb246dadbb80eacddd0.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xEAf2512dFC1bEAc608F8794B3793CD4E02894Aa6",
+      "name": "Jabil Inc. • Robinhood Token",
+      "symbol": "JBL",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xeaf2512dfc1beac608f8794b3793cd4e02894aa6.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xf1953DAB6FaD537488d5A022361FfAa8B4c95eC6",
+      "name": "Innodata • Robinhood Token",
+      "symbol": "INOD",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xf1953dab6fad537488d5a022361ffaa8b4c95ec6.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x52D50D0280AD1054b43f052bD70a49a212A1b128",
+      "name": "Monolithic Power Systems • Robinhood Token",
+      "symbol": "MPWR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x52d50d0280ad1054b43f052bd70a49a212a1b128.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x92F9F459F1a9a5AD266b182BE7Bffd1C6c666894",
+      "name": "Coherent • Robinhood Token",
+      "symbol": "COHR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x92f9f459f1a9a5ad266b182be7bffd1c6c666894.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xBE274710Bf3d9567e1B290eF6a5F9f90ca016FD8",
+      "name": "iShares 1-3 Year Treasury Bond ETF • Robinhood Token",
+      "symbol": "SHY",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xbe274710bf3d9567e1b290ef6a5f9f90ca016fd8.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xcBB95BBF36099d34dA091dc6Fa6F49EfA257Cee3",
+      "name": "CleanSpark • Robinhood Token",
+      "symbol": "CLSK",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xcbb95bbf36099d34da091dc6fa6f49efa257cee3.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7FD06a4d81cCfA3F351394E144d5191874C31313",
+      "name": "Kratos Defense & Security Solutions • Robinhood Token",
+      "symbol": "KTOS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x7fd06a4d81ccfa3f351394e144d5191874c31313.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7c148F74ac7445D1F28366b7FcDC6792a9Fcd0Cf",
+      "name": "ImmunityBio, • Robinhood Token",
+      "symbol": "IBRX",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x7c148f74ac7445d1f28366b7fcdc6792a9fcd0cf.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5F604fBA1162193A4388A5DFa56F556f3E133cC2",
+      "name": "Aehr • Robinhood Token",
+      "symbol": "AEHR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x5f604fba1162193a4388a5dfa56f556f3e133cc2.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x48d60243c66437c6ac3c2495Be94747aEd5Dfe25",
+      "name": "L3Harris • Robinhood Token",
+      "symbol": "LHX",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x48d60243c66437c6ac3c2495be94747aed5dfe25.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x63D5a3b6939a33f1e75d8Bcd85759858239600DB",
+      "name": "Cognizant • Robinhood Token",
+      "symbol": "CTSH",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x63d5a3b6939a33f1e75d8bcd85759858239600db.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xbE6702d7b70315376dC48a3293f24f0982F86386",
+      "name": "Navitas Semiconductor • Robinhood Token",
+      "symbol": "NVTS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xbe6702d7b70315376dc48a3293f24f0982f86386.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC93f4d80e268AB922e871bd169156C3CC41894e6",
+      "name": "MACOM • Robinhood Token",
+      "symbol": "MTSI",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc93f4d80e268ab922e871bd169156c3cc41894e6.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc6Cbad1016b38B797610c25E1dc7D95988B1f362",
+      "name": "Modine • Robinhood Token",
+      "symbol": "MOD",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc6cbad1016b38b797610c25e1dc7d95988b1f362.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x285b231728c7E4333799183DF1094d775246a535",
+      "name": "SELLAS Life Sciences • Robinhood Token",
+      "symbol": "SLS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x285b231728c7e4333799183df1094d775246a535.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xfAf9cb261B5FCC1f404Bb10CD39C5c6C1974E612",
+      "name": "Advanced Energy • Robinhood Token",
+      "symbol": "AEIS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xfaf9cb261b5fcc1f404bb10cd39c5c6c1974e612.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8B2f88497f15A18E9D4FFa1a8fFB8538399aE774",
+      "name": "Oklo • Robinhood Token",
+      "symbol": "OKLO",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x8b2f88497f15a18e9d4ffa1a8ffb8538399ae774.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x94B8AAE43A1cCc08Aa64B7D1F29b4D920aF4a0C9",
+      "name": "GE Vernova • Robinhood Token",
+      "symbol": "GEV",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x94b8aae43a1ccc08aa64b7d1f29b4d920af4a0c9.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB1CC0EC7Db69Cf43539119814df40071b9d61793",
+      "name": "Tempus AI • Robinhood Token",
+      "symbol": "TEM",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb1cc0ec7db69cf43539119814df40071b9d61793.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x4189F0c66EBBB0bfeF1C31f763131361EF32f77C",
+      "name": "Permian Resources • Robinhood Token",
+      "symbol": "PR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x4189f0c66ebbb0bfef1c31f763131361ef32f77c.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x282e87451E10fA6679BC7D76C69BE44cD3fC777C",
+      "name": "Fluence Energy • Robinhood Token",
+      "symbol": "FLNC",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x282e87451e10fa6679bc7d76c69be44cd3fc777c.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x40E7a279850e443f582059ae5dC1c3b6563E6395",
+      "name": "Ouster • Robinhood Token",
+      "symbol": "OUST",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x40e7a279850e443f582059ae5dc1c3b6563e6395.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x6006ed4B2F94110851ff7509D97D034f0EeD9226",
+      "name": "Vicor • Robinhood Token",
+      "symbol": "VICR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x6006ed4b2f94110851ff7509d97d034f0eed9226.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9Ab02Ead789b6903c3c44d0ED32F9c707CDF12FD",
+      "name": "Quanta • Robinhood Token",
+      "symbol": "PWR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x9ab02ead789b6903c3c44d0ed32f9c707cdf12fd.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xDd356AA38F40A7b7076755aC854B6FBb1F0D305B",
+      "name": "Amkor Technology • Robinhood Token",
+      "symbol": "AMKR",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xdd356aa38f40a7b7076755ac854b6fbb1f0d305b.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x96b933C74eCB4A0926b9210cef7b743EF46be2E9",
+      "name": "KLA • Robinhood Token",
+      "symbol": "KLAC",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x96b933c74ecb4a0926b9210cef7b743ef46be2e9.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x44f6D488021f8233B9416294d1FE9b1fEe28382d",
+      "name": "Ciena • Robinhood Token",
+      "symbol": "CIEN",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x44f6d488021f8233b9416294d1fe9b1fee28382d.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8ff63eAeEe3fE54Ba450c4F5538064Ec5A893Aef",
+      "name": "Onto Innovation • Robinhood Token",
+      "symbol": "ONTO",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x8ff63eaeee3fe54ba450c4f5538064ec5a893aef.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xf7181b63Fdb858558A74ba96BC42732684cd7965",
+      "name": "Navan • Robinhood Token",
+      "symbol": "NAVN",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xf7181b63fdb858558a74ba96bc42732684cd7965.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0xea72Ecca2d0f6bFA1394DBBCff85b52CD4233931",
+      "name": "CrowdStrike Holdings • Robinhood Token",
+      "symbol": "CRWD",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xea72ecca2d0f6bfa1394dbbcff85b52cd4233931.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x95052ddcd5DC25641657424A8Cf04834997E1730",
+      "name": "EchoStar • Robinhood Token",
+      "symbol": "SATS",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x95052ddcd5dc25641657424a8cf04834997e1730.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2F62fC9fAbb470C690f141c28340eD832bB27020",
+      "name": "Vanguard Total Bond Market ETF • Robinhood Token",
+      "symbol": "BND",
+      "decimals": 18,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x2f62fc9fabb470c690f141c28340ed832bb27020.png"
     }
   ],
   "version": {
