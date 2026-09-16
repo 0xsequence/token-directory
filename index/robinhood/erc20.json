@@ -1,0 +1,50 @@
+{
+  "name": "sequence-erc20-robinhood",
+  "chainId": 4663,
+  "tokenStandard": "erc20",
+  "keywords": ["erc20", "fungible", "stablecoin", "robinhood"],
+  "timestamp": "2026-09-16T19:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 4663,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 0
+      }
+    },
+    {
+      "chainId": 4663,
+      "address": "0x80e0e24718dbFcad49ECAA6F1e6C89A190586cA8",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+      "extensions": {
+        "featured": true,
+        "featureIndex": 1
+      }
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
