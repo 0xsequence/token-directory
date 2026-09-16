@@ -4,7 +4,7 @@
   "tokenStandard": "erc20",
   "logoURI": "https://raw.githubusercontent.com/0xsequence/token-directory/master/index/arc/logos/arc.svg",
   "keywords": ["erc20", "fungible", "stablecoin", "arc"],
-  "timestamp": "2026-09-16T19:30:00.000Z",
+  "timestamp": "2026-09-16T19:46:28.799Z",
   "tokens": [
     {
       "chainId": 5042,
@@ -28,7 +28,10 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+      "extensions": {
+        "blacklist": true
+      }
     },
     {
       "chainId": 5042,
@@ -58,6 +61,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
