@@ -283,7 +283,7 @@
     "robinhood": {
       "chainId": 4663,
       "tokenLists": {
-        "erc20.json": "86b583fc33395f1d17f2d6f04f49563a0d2c44854c604dc8587d8ad3cad03555"
+        "erc20.json": "4646e94a8707e97605816d8921082c62b2a0531f6026cf68e0e110983843ea3f"
       }
     },
     "sandbox-testnet": {
