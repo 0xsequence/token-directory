@@ -54,7 +54,7 @@
     "arc": {
       "chainId": 5042,
       "tokenLists": {
-        "erc20.json": "b6e0b2fe77b89386c91d93ce3b19edef08b34bb01ddc72334d477c3fc014f5a2"
+        "erc20.json": "cd14e0e598ed8661e086de551e17019a398c581eb36ca3b72985c30666edd50c"
       }
     },
     "arc-testnet": {
