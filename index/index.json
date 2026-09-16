@@ -280,6 +280,12 @@
         "misc.json": "b8853f0471b8aba265f1353a26480efc315a55931c09c4e60d19cb71fe75f9d0"
       }
     },
+    "robinhood": {
+      "chainId": 4663,
+      "tokenLists": {
+        "erc20.json": "86b583fc33395f1d17f2d6f04f49563a0d2c44854c604dc8587d8ad3cad03555"
+      }
+    },
     "sandbox-testnet": {
       "chainId": 6252,
       "tokenLists": {
