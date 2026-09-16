@@ -45,6 +45,14 @@
       "symbol": "cirBTC",
       "decimals": 8,
       "logoURI": "https://coin-images.coingecko.com/coins/images/102172745/large/cirbtc.jpg"
+    },
+    {
+      "chainId": 5042,
+      "address": "0x8a5D989Bbb96929F689B0200f435f53dA42bF490",
+      "name": "US Yield Coin",
+      "symbol": "USYC",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51054/large/Hashnote_SDYC_200x200.png"
     }
   ],
   "version": {
