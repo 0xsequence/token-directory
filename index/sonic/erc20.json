@@ -3,7 +3,12 @@
   "chainId": 146,
   "tokenStandard": "erc20",
   "logoURI": "",
-  "keywords": ["erc20", "fungible", "stablecoin", "coingecko"],
+  "keywords": [
+    "erc20",
+    "fungible",
+    "stablecoin",
+    "coingecko"
+  ],
   "timestamp": "2025-09-01T00:00:00.000Z",
   "tokens": [
     {
@@ -76,6 +81,19 @@
       "extensions": {
         "featured": true,
         "featureIndex": 4
+      }
+    },
+    {
+      "chainId": 146,
+      "address": "0x5cccebcb0c0af721a6539afda1628eeaaf7d6c5c",
+      "name": "Hedge Token",
+      "symbol": "HEDGE",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/IXYOX7V.png",
+      "extensions": {
+        "link": "https://sonicpump.meme",
+        "description": "Native token of Hedgehog Protocol, a permissionless meme token launchpad on Sonic with bonding curve liquidity.",
+        "ogImage": null
       }
     }
   ],
