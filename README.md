@@ -59,6 +59,37 @@ pnpm update-featured -- --write --count 20
 
 Supported chains: mainnet, arbitrum, polygon, optimism, base, avalanche, bnb, gnosis, arbitrum-nova.
 
+## Sync Fee-on-Transfer Tokens
+
+Flags tokens that tax transfers with `extensions.feeOnTransfer: true`, so consumers can refuse to
+quote a fixed amount the recipient will never receive in full.
+
+Detection uses the [GoPlus token security API](https://gopluslabs.io/token-security-api): any
+token with a non-zero `transfer_tax` is flagged. An empty `transfer_tax` means GoPlus has no
+result for the token, which is counted as unknown rather than treated as zero. GoPlus only computes
+fresh reports for single-address requests, so tokens are queried one at a time with a 4s delay and
+rate-limit responses are retried with backoff — a full scan takes hours. Results are cached in
+`tools/.fee-on-transfer-cache.json` so an interrupted scan resumes.
+
+By default the script performs a **dry run**. Pass `--write` to apply changes.
+
+```bash
+# Preview all supported chains
+pnpm sync-fee-on-transfer
+
+# Preview a single chain
+pnpm sync-fee-on-transfer -- --chain bnb
+
+# Apply changes
+pnpm sync-fee-on-transfer -- --write
+```
+
+Supported chains (those GoPlus covers): mainnet, polygon, base, optimism, arbitrum, avalanche, bnb,
+gnosis, berachain, soneium, sonic, monad.
+
+Run `pnpm format` afterwards: the script writes with `JSON.stringify`, which expands short
+arrays that Prettier keeps inline.
+
 ## Sync Rebasing Tokens
 
 Flags tokens whose balances change without a transfer — Aave aTokens, Lido stETH, Ampleforth,
@@ -137,6 +168,7 @@ See [here](https://github.com/0xsequence/token-directory/blob/master/index/mainn
 ```
 
 `feeOnTransfer` and `rebasing` are populated by tooling rather than by hand — see
+[Sync Fee-on-Transfer Tokens](#sync-fee-on-transfer-tokens) and
 [Sync Rebasing Tokens](#sync-rebasing-tokens). Both are present only when true, so absence
 means "no evidence gathered", not "verified false".
 
