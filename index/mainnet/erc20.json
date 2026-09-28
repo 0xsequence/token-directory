@@ -4301,7 +4301,8 @@
       "extensions": {
         "link": "https://www.ampleforth.org/",
         "description": "Ampleforth is a digital-asset-protocol for smart commodity-money.\r\n\r\nThe smart commodity money with a unique elastic supply protocol. AMPL supply expands and contracts in response to it’s price deviating from a 1 USD target. Deviations result in a supply change of AMPLs once every 24 hours, increasing or decreasing the number of tokens in each holder’s wallet pro-rata. Ampleforth is the only asset in the world with this elastic supply property, and therefore has counter-cyclical trading pressure and is uncorrelated with other digital assets such as Bitcoin.",
-        "ogImage": "https://assets.fragments.org/images/ampl_default_image_1.jpg"
+        "ogImage": "https://assets.fragments.org/images/ampl_default_image_1.jpg",
+        "rebasing": true
       }
     },
     {
@@ -8031,7 +8032,8 @@
       "extensions": {
         "link": "https://aave.com/atokens",
         "description": "Aave DAI is an interest bearing token minted upon deposit and burned when redeemed. The aDAI is pegged 1:1 to the value of the underlying DAI that is deposited in Aave protocol. aDAI, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aDAI accrue interest in real time, directly in your wallet!",
-        "ogImage": "https://aave.com/favicon64.png"
+        "ogImage": "https://aave.com/favicon64.png",
+        "rebasing": true
       }
     },
     {
@@ -9590,7 +9592,8 @@
       "extensions": {
         "link": "https://aave.com/atokens",
         "description": "Aave SUSD is an interest bearing token minted upon deposit and burned when redeemed. The aSUSD is pegged 1:1 to the value of the underlying SUSD that is deposited in Aave protocol. aSUSD, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aSUSD accrue interest in real time, directly in your wallet!",
-        "ogImage": "https://aave.com/favicon64.png"
+        "ogImage": "https://aave.com/favicon64.png",
+        "rebasing": true
       }
     },
     {
@@ -9603,7 +9606,8 @@
       "extensions": {
         "link": "https://aave.com/atokens",
         "description": "Aave LINK is an interest bearing token minted upon deposit and burned when redeemed. The aLINK is pegged 1:1 to the value of the underlying LINK that is deposited in Aave protocol. aLINK, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aLINK accrue interest in real time, directly in your wallet!",
-        "ogImage": "https://aave.com/favicon64.png"
+        "ogImage": "https://aave.com/favicon64.png",
+        "rebasing": true
       }
     },
     {
@@ -9616,7 +9620,8 @@
       "extensions": {
         "link": "https://aave.com/atokens",
         "description": "Aave SNX is an interest bearing token minted upon deposit and burned when redeemed. The aSNX is pegged 1:1 to the value of the underlying SNX that is deposited in Aave protocol. aSNX, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aSNX accrue interest in real time, directly in your wallet!",
-        "ogImage": "https://aave.com/favicon64.png"
+        "ogImage": "https://aave.com/favicon64.png",
+        "rebasing": true
       }
     },
     {
@@ -9629,7 +9634,8 @@
       "extensions": {
         "link": "https://aave.com/atokens",
         "description": "Aave BUSD is an interest bearing token pegged 1:1 to underlying BUSD deposited in Aave. aBUSD accrue interest in real time in your wallet.",
-        "ogImage": "https://aave.com/favicon64.png"
+        "ogImage": "https://aave.com/favicon64.png",
+        "rebasing": true
       }
     },
     {
@@ -14519,7 +14525,8 @@
       "extensions": {
         "link": "https://www.ousd.com",
         "description": "Origin Dollar (OUSD) is the first stablecoin that earns a yield while it's still in your wallet. Built by the team at Origin Protocol (OGN).",
-        "ogImage": "https://ousd.com/images/share-facebook.png"
+        "ogImage": "https://ousd.com/images/share-facebook.png",
+        "rebasing": true
       }
     },
     {
@@ -20770,7 +20777,8 @@
         "link": "https://www.lido.fi",
         "description": "Lido Staked Ether (stETH) is a token that represents your staked ether in Lido, combining the value of initial deposit and staking rewards. stETH tokens are minted upon deposit and burned when redeemed. stETH token balances are pegged 1:1 to the ethers that are staked by Lido and the token’s balances are updated daily to reflect earnings and rewards. stETH tokens can be used as one would use ether, allowing you to earn ETH 2.0 staking rewards whilst benefiting from e.g. yields across decentralised finance products.",
         "ogImage": "/static/images/meta/lido.png",
-        "featureIndex": 19
+        "featureIndex": 19,
+        "rebasing": true
       }
     },
     {
@@ -22960,7 +22968,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -22979,7 +22988,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -22998,7 +23008,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23017,7 +23028,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23036,7 +23048,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23055,7 +23068,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23074,7 +23088,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23093,7 +23108,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23112,7 +23128,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23131,7 +23148,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23150,7 +23168,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23169,7 +23188,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23188,7 +23208,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23207,7 +23228,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23226,7 +23248,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23245,7 +23268,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23264,7 +23288,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23283,7 +23308,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23302,7 +23328,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23321,7 +23348,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23340,7 +23368,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23359,7 +23388,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23378,7 +23408,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23397,7 +23428,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23416,7 +23448,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23435,7 +23468,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23454,7 +23488,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23473,7 +23508,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23492,7 +23528,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23511,7 +23548,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23530,7 +23568,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23549,7 +23588,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23568,7 +23608,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23587,7 +23628,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23606,7 +23648,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23625,7 +23668,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23644,7 +23688,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23663,7 +23708,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23682,7 +23728,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23701,7 +23748,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23720,7 +23768,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23739,7 +23788,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23758,7 +23808,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23777,7 +23828,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23796,7 +23848,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23815,7 +23868,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23834,7 +23888,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23853,7 +23908,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23872,7 +23928,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23891,7 +23948,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23910,7 +23968,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23929,7 +23988,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23948,7 +24008,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23967,7 +24028,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -23986,7 +24048,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24005,7 +24068,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24024,7 +24088,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24043,7 +24108,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24062,7 +24128,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24081,7 +24148,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24100,7 +24168,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24119,7 +24188,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24138,7 +24208,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24157,7 +24228,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24176,7 +24248,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24195,7 +24268,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24214,7 +24288,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24233,7 +24308,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24252,7 +24328,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24271,7 +24348,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24290,7 +24368,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24309,7 +24388,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24328,7 +24408,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24347,7 +24428,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24366,7 +24448,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24385,7 +24468,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24404,7 +24488,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24423,7 +24508,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24442,7 +24528,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24461,7 +24548,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24480,7 +24568,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24499,7 +24588,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24518,7 +24608,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24537,7 +24628,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24556,7 +24648,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24575,7 +24668,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24594,7 +24688,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24613,7 +24708,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24632,7 +24728,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24651,7 +24748,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24670,7 +24768,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24689,7 +24788,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24708,7 +24808,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24727,7 +24828,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24746,7 +24848,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24765,7 +24868,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24784,7 +24888,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24803,7 +24908,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24822,7 +24928,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24841,7 +24948,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24860,7 +24968,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24879,7 +24988,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24898,7 +25008,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24917,7 +25028,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24936,7 +25048,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24955,7 +25068,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24974,7 +25088,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -24993,7 +25108,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25012,7 +25128,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25031,7 +25148,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25050,7 +25168,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25069,7 +25188,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25088,7 +25208,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25107,7 +25228,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25126,7 +25248,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25145,7 +25268,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25164,7 +25288,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25183,7 +25308,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25202,7 +25328,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25221,7 +25348,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25240,7 +25368,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25259,7 +25388,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25278,7 +25408,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25297,7 +25428,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25316,7 +25448,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25335,7 +25468,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25354,7 +25488,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25373,7 +25508,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25392,7 +25528,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25411,7 +25548,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25430,7 +25568,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25449,7 +25588,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25468,7 +25608,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25487,7 +25628,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25506,7 +25648,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25525,7 +25668,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25544,7 +25688,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25563,7 +25708,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25582,7 +25728,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25601,7 +25748,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25620,7 +25768,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25639,7 +25788,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -25686,7 +25836,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "rebasing": true
       }
     },
     {
@@ -25705,7 +25856,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "rebasing": true
       }
     },
     {
@@ -25724,7 +25876,8 @@
         "underlyingTokenDecimals": 18,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "rebasing": true
       }
     },
     {
@@ -25743,7 +25896,8 @@
         "underlyingTokenDecimals": 6,
         "indexingInfo": {
           "useOnChainBalance": true
-        }
+        },
+        "rebasing": true
       }
     },
     {

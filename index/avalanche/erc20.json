@@ -218,7 +218,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -237,7 +238,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -256,7 +258,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -275,7 +278,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -294,7 +298,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -313,7 +318,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -332,7 +338,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -351,7 +358,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -370,7 +378,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -389,7 +398,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -408,7 +418,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -427,7 +438,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -446,7 +458,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -465,7 +478,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -484,7 +498,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -503,7 +518,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -522,7 +538,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -541,7 +558,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -560,7 +578,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -579,7 +598,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -598,7 +618,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -617,7 +638,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -636,7 +658,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -655,7 +678,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -674,7 +698,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     }
   ]
