@@ -31,11 +31,11 @@
     },
     {
       "chainId": 4663,
-      "address": "0x80e0e24718dbFcad49ECAA6F1e6C89A190586cA8",
-      "name": "USD Coin",
-      "symbol": "USDC",
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      "name": "Global Dollar",
+      "symbol": "USDG",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png",
       "extensions": {
         "featured": true,
         "featureIndex": 1
