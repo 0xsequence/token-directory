@@ -102,15 +102,15 @@
       }
     },
     "bali-82": {
-      "chainId": 82,
+      "chainId": 828282,
       "tokenLists": {
-        "erc20.json": "a10e0108549b04995b1935423dc375b4ef7d688e9c1f03069a6cc341f79a6b7b"
+        "erc20.json": "2d8c51e6f3089b386b28c0b0d6488bab3ae1727b6d721ce0cd59bfc118537e9c"
       }
     },
     "bali-85": {
-      "chainId": 85,
+      "chainId": 858585,
       "tokenLists": {
-        "erc20.json": "ca88a6fe94806cd668a946185050e8397bc65e40f12dc9d3321e60abff5e94da"
+        "erc20.json": "128a6acfc598269da7efb08a9e551e026828b13a4628794ca02485a35b6c0fad"
       }
     },
     "base": {
