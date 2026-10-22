@@ -21,6 +21,17 @@
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 858585,
+      "address": "0x477B04BbFcDc3097A3d878375D40523c87382978",
+      "name": "Agglayer E2E Token",
+      "symbol": "E2E",
+      "decimals": 18,
+      "extensions": {
+        "originChainId": 828282,
+        "originAddress": "0xCA2B03B319145447B3E4F432c17D45351198Db86"
+      }
     }
   ],
   "version": {
