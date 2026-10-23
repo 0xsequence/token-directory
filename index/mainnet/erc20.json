@@ -27525,6 +27525,28 @@
           "useOnChainBalance": true
         }
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x35fA164735182de50811E8e2E824cFb9B6118ac2",
+      "name": "ether.fi ETH",
+      "symbol": "eETH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33049/large/ether.fi_eETH.png?1700473063",
+      "extensions": {
+        "coingeckoId": "ether-fi-staked-eth"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33033/large/weETH.png?1701438396",
+      "extensions": {
+        "coingeckoId": "wrapped-eeth"
+      }
     }
   ],
   "version": {
