@@ -701,6 +701,13 @@
         "protocol": "aave",
         "rebasing": true
       }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa659d083b677d6bffe1cb704e1473b896727be6d",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18
     }
   ]
 }

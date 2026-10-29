@@ -241,6 +241,55 @@
       "symbol": "avKAT",
       "decimals": 18,
       "logoURI": "https://assets.katana.network/icons/avkat.png"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x61d4f9d3797ba4da152238c53a6f93fb665c3c1d",
+      "name": "Steakhouse Prime USDC",
+      "symbol": "steakUSDC",
+      "decimals": 18
+    },
+    {
+      "chainId": 747474,
+      "address": "0xe007ca01894c863d7898045ed5a3b4abf0b18f37",
+      "name": "vbETH yVault",
+      "symbol": "yvvbETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 747474,
+      "address": "0xaa0362ecc584b985056e47812931270b99c91f9d",
+      "name": "vbWBTC yVault",
+      "symbol": "yvvbWBTC",
+      "decimals": 8
+    },
+    {
+      "chainId": 747474,
+      "address": "0x6a31358e58b8692ce5317181ff3379a5766a7aba",
+      "name": "Clearstar Core USDC",
+      "symbol": "CSCORES",
+      "decimals": 18
+    },
+    {
+      "chainId": 747474,
+      "address": "0x9b1ae9548e4b46ceb6650f6cec702baf5cf2b8cc",
+      "name": "Yearn KAT",
+      "symbol": "ymvKATv2",
+      "decimals": 18
+    },
+    {
+      "chainId": 747474,
+      "address": "0xbeeff2d5d126d4809195eea02b605423917bb6c6",
+      "name": "Steakhouse High Yield USDC",
+      "symbol": "bbqUSDC",
+      "decimals": 18
+    },
+    {
+      "chainId": 747474,
+      "address": "0x5920a6fc553af799542eda628adfcc9ea52e141c",
+      "name": "Yearn OG ETH",
+      "symbol": "yOG-ETH",
+      "decimals": 18
     }
   ],
   "version": {
