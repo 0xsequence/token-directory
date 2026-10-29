@@ -33271,19 +33271,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
-      "name": "Mutant Ape Yacht Club",
-      "type": "ERC721",
-      "symbol": "MUTANT",
-      "logoURI": "https://i2c.seadn.io/collection/mutant-ape-yacht-club/image/33dcf5ce12bc4760bf912a5b3f5979/f033dcf5ce12bc4760bf912a5b3f5979.png?h=250&w=250",
-      "extensions": {
-        "link": "https://yuga.com/",
-        "description": "The MUTANT APE YACHT CLUB is a collection of up to 20,000 Mutant Apes that can only be created by exposing an existing Bored Ape to a vial of MUTANT SERUM or by minting a Mutant Ape in the public sale.",
-        "ogImage": "https://i2c.seadn.io/collection/mutant-ape-yacht-club/banner/07d76505d9dedc6502fbc3ca4e9178/0807d76505d9dedc6502fbc3ca4e9178.png?w=2000"
-      }
-    },
-    {
-      "chainId": 1,
       "address": "0x8821bee2ba0df28761afff119d66390d594cd280",
       "name": "DeGods",
       "type": "ERC721",

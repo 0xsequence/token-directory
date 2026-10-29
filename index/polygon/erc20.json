@@ -5879,20 +5879,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xc6480da81151b2277761024599e8db2ad4c388c8",
-      "name": "Decentral Games ICE",
-      "symbol": "ICE",
-      "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/decentralgames_32.png?v=2",
-      "extensions": {
-        "link": "https://decentral.games/",
-        "description": "We build games that reward you to play. Play, earn, and scale your own metaverse guild. ICE Poker beta is now live.",
-        "categories": ["gaming", "casino", "reward", "defi"],
-        "ogImage": null
-      }
-    },
-    {
-      "chainId": 137,
       "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
       "name": "Sunflower Land",
       "symbol": "SFL",

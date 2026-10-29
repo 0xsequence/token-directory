@@ -84,11 +84,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xB5c3023dbEcE7a6Bb78014000CD1C8ce940B50a0",
-      "name": "Skyweaver Market Fee"
-    },
-    {
-      "chainId": 137,
       "address": "0xA841aa6805957486cC2e30bb30b737e3F5b14E17",
       "name": "Skyweaver Conquest Tickets Factory",
       "standard": "skyweaver-conquest-factory",
