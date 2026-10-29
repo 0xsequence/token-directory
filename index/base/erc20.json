@@ -1642,6 +1642,34 @@
         "link": "https://cngn.co",
         "description": "cNGN (Compliant Naira) is a regulated Nigerian Naira-backed stablecoin, pegged 1:1 to the Naira and collateralized by reserves held in designated commercial banks. Issued under the approval of Nigeria's SEC Regulatory Incubation Program, cNGN enables remittances, commerce, and DeFi across multiple blockchains including Base."
       }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xef5997c2cf2f6c138196f8a6203afc335206b3c1",
+      "name": "OWB",
+      "symbol": "OWB",
+      "decimals": 18
+    },
+    {
+      "chainId": 8453,
+      "address": "0xb2000000000000000000008bc8786b856e61707c",
+      "name": "Meta Platforms Inc.",
+      "symbol": "METAc",
+      "decimals": 8
+    },
+    {
+      "chainId": 8453,
+      "address": "0xb2000000000000000000001e800a7f5189430cd0",
+      "name": "Tesla Inc.",
+      "symbol": "TSLAc",
+      "decimals": 8
+    },
+    {
+      "chainId": 8453,
+      "address": "0x27d7959cf26135d8019d0f1e4a2280a8a355c4f5",
+      "name": "LESTER by Virtuals",
+      "symbol": "LESTER",
+      "decimals": 18
     }
   ],
   "version": {

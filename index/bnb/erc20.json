@@ -662,6 +662,20 @@
         "originAddress": null,
         "feeOnTransfer": true
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0xbe9d156892e55e7154bcd3cb0fea677f9d3103e1",
+      "name": "SpaceX",
+      "symbol": "SPCXB",
+      "decimals": 18
+    },
+    {
+      "chainId": 56,
+      "address": "0xcc1b8207853662c5cfabfb028806ec06ea1f6ac6",
+      "name": "KinToken",
+      "symbol": "KIN",
+      "decimals": 18
     }
   ],
   "version": {
