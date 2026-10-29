@@ -502,7 +502,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -521,7 +522,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -540,7 +542,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -559,7 +562,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -578,7 +582,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -597,7 +602,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -616,7 +622,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -635,8 +642,40 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0x5cA42204cDAa70d5c773946e69dE942b85CA6706",
+      "name": "Position Token",
+      "symbol": "POSI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/17459/large/posi.png?1696517002",
+      "extensions": {
+        "link": "https://position.exchange/",
+        "description": "Position Exchange is a decentralized trading protocol on BNB Chain offering perpetual futures, staking and yield products. POSI is its governance and utility token.",
+        "categories": ["defi", "governance", "staking"],
+        "ogImage": null,
+        "originChainId": 56,
+        "originAddress": null,
+        "feeOnTransfer": true
+      }
+    },
+    {
+      "chainId": 56,
+      "address": "0xbe9d156892e55e7154bcd3cb0fea677f9d3103e1",
+      "name": "SpaceX",
+      "symbol": "SPCXB",
+      "decimals": 18
+    },
+    {
+      "chainId": 56,
+      "address": "0xcc1b8207853662c5cfabfb028806ec06ea1f6ac6",
+      "name": "KinToken",
+      "symbol": "KIN",
+      "decimals": 18
     }
   ],
   "version": {

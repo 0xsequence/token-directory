@@ -4,6 +4,9 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  ws: 8.21.3
+
 importers:
 
   .:
@@ -244,7 +247,7 @@ packages:
   isows@1.0.7:
     resolution: {integrity: sha512-I1fSfDCZL5P0v33sVqeTDSpcstAg/N+wF5HS033mogOVIp4B+oHC7oOCsA3axAbBSGTJ8QubbNmnIRN/h8U7hg==}
     peerDependencies:
-      ws: '*'
+      ws: 8.21.3
 
   ox@0.12.4:
     resolution: {integrity: sha512-+P+C7QzuwPV8lu79dOwjBKfB2CbnbEXe/hfyyrff1drrO1nOOj3Hc87svHfcW1yneRr3WXaKr6nz11nq+/DF9Q==}
@@ -278,8 +281,8 @@ packages:
       typescript:
         optional: true
 
-  ws@8.18.3:
-    resolution: {integrity: sha512-PEIGCY5tSlUt50cqyMXfCzX+oOPqN0vuGqWzbcJ2xvnkzkq46oOpz7dQaTDBdfICb4N14+GARUDw2XV2N4tvzg==}
+  ws@8.21.3:
+    resolution: {integrity: sha512-201TZ/kPWxoPr/OKWjquZR1SWKXcvxdH+e1xrx89b3YbmzLMFCLfnaG1HFIgWzJOEWZ7MvpK++odZufgYR50Rw==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
@@ -439,9 +442,9 @@ snapshots:
 
   husky@9.1.7: {}
 
-  isows@1.0.7(ws@8.18.3):
+  isows@1.0.7(ws@8.21.3):
     dependencies:
-      ws: 8.18.3
+      ws: 8.21.3
 
   ox@0.12.4:
     dependencies:
@@ -476,12 +479,12 @@ snapshots:
       '@scure/bip32': 1.7.0
       '@scure/bip39': 1.6.0
       abitype: 1.2.3
-      isows: 1.0.7(ws@8.18.3)
+      isows: 1.0.7(ws@8.21.3)
       ox: 0.12.4
-      ws: 8.18.3
+      ws: 8.21.3
     transitivePeerDependencies:
       - bufferutil
       - utf-8-validate
       - zod
 
-  ws@8.18.3: {}
+  ws@8.21.3: {}

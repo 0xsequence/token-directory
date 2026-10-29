@@ -28,7 +28,7 @@
       "chainId": 42161,
       "tokenLists": {
         "erc1155.json": "efdf23b5c46d712ebba7b3fd5226518b4dd190badda613b3a5718d178a67f3e9",
-        "erc20.json": "1fd91cf3fa66bf9442854214f4652edaa9268dbccdd7d3e33f3cdbe2383df35f",
+        "erc20.json": "b934ad685bbbbae19d8a8e149def9d7e495e610353b1f98c273b8044633ed0fe",
         "erc721.json": "e8a31ae32437b84c1bfdc91d51a14c0d401ddd703ebe233aa4cc30ed2c236dc7",
         "misc.json": "7fdcd6fbf97166c6c38d0b7c59d5f34beeb611cdaea6fe0c7bf37ed9b4b3ad83"
       }
@@ -49,6 +49,12 @@
         "erc20.json": "9b9967b61edca63a615beb495c795f4d9aae50d99242804ba285262a6b4d7ec1",
         "erc721.json": "f2ce5370cbefc09995e58e8ac42b58c61ec1e89f7b5306c4b3e882a3820c88da",
         "misc.json": "dcd7b7959ef6dc035d6a0dd439737094b48f3e0f9d544b1d3e7f44fdcd85df72"
+      }
+    },
+    "arc": {
+      "chainId": 5042,
+      "tokenLists": {
+        "erc20.json": "30c25931aef4f03f73e119466da6b5b06518dc6eea793c84555587e34f7e1a58"
       }
     },
     "arc-testnet": {
@@ -81,7 +87,7 @@
       "chainId": 43114,
       "tokenLists": {
         "erc1155.json": "87e84f05ad461615cca7a29b579fc5b20694a12b7b4a729088dc23eb01c6b41c",
-        "erc20.json": "17d62612fac5347b54719dfa4ad85da102792a93b2bb4fe9816e48ca0155d33d",
+        "erc20.json": "2ebb719eaffaafbb6c76ad72825697bcfde4549073e2788f67d15fe20414a120",
         "erc721.json": "0649e6b67af5860e10c6211d3e097bfce25b9cf25eaee216e29a68304f4f3a74",
         "misc.json": "92e1d2eb863ba815365f798d5ffef9185971eae5e4eb58d412a4dababcab960b"
       }
@@ -95,11 +101,23 @@
         "misc.json": "9169852a3e96378280882a0a40598fdec7a413ee186875aa530eaddb2c4b93e3"
       }
     },
+    "bali-82": {
+      "chainId": 828282,
+      "tokenLists": {
+        "erc20.json": "aeddb1066c3a9c70fad73a32e8b54d5b364d9f8c3c1f5f1bf18f7a5b4bbd19cf"
+      }
+    },
+    "bali-85": {
+      "chainId": 858585,
+      "tokenLists": {
+        "erc20.json": "dacf7ca8ddcbe1e82678e100a75e96beb5e3673f2572d2fa958a5d8cfb7d641a"
+      }
+    },
     "base": {
       "chainId": 8453,
       "tokenLists": {
         "erc1155.json": "1939b05371600ce96c9584299659f67230a939735f607db71169a3d6af439b8f",
-        "erc20.json": "7f7e48b3c5bbe94adbb30da3df5585b77ccecc40ab0934bfc9efefe7e536038c",
+        "erc20.json": "8159d8aac4ed17a3021968e0902f00b4ed0014a8c5102aad531d54db6e71ab5b",
         "erc721.json": "a2420c3efcbff0f0be19ce1c1f9ecafb510098a5f4aa802cc72e75cf06d141ee",
         "misc.json": "5d196e02d0d93403a221925aa68194f8946e506c3d3a38f528a3f310bdc21f6c"
       }
@@ -117,7 +135,7 @@
       "chainId": 84532,
       "tokenLists": {
         "erc1155.json": "90b87f976209d848d87f802b00e2f4d6f0931f7ddeb5ee2b9f4d7799e24e629c",
-        "erc20.json": "70cb38f70856af3d5969ad22d62ca05ae7d8204ecd74e420468d43d94cfbf8b3",
+        "erc20.json": "5f117820cf0939f4b481ea2e00a0f4dae006a9f18797f9c6b35e887349040614",
         "erc721.json": "6f98afc458aeedebb4a5e6766770564d1b13b7329f235e4aec06fee0aba61b3d",
         "misc.json": "012d3ed4c4aca85a7a8a7cb0496734713302a4dd9c67a0be68df0112b67b20c8"
       }
@@ -132,7 +150,7 @@
       "chainId": 56,
       "tokenLists": {
         "erc1155.json": "ae7818922dbfa44cc008d2a1efc4bf0a6545f92c66fe2ee2596d75be78892bc6",
-        "erc20.json": "a012f8c60aa01d9b05386beeb1789f0b064d7dcfb11a7e5ffedee411e0401acc",
+        "erc20.json": "9d56454ab01767ed8c79c5e9c56cb6cb9e53a14bc6100f6c84f01b0c96b34322",
         "erc721.json": "e5471df6794131d1eb8a2a03a5984052a87015b5c1b204eb98762b492ecac91e",
         "misc.json": "bf2fb3b03bd2fdda14b8b13075d0e4bbe3eef0daf4bf83f1a6125d9939cf4e86"
       }
@@ -162,7 +180,7 @@
       "chainId": 100,
       "tokenLists": {
         "erc1155.json": "8932ecfce6b8951d24a850e08de16105fe8d394764f8beefc016b571d894c46f",
-        "erc20.json": "a7e720784c1a6223e3fdc19dd98ede7f4c4b899ec4dfc4bde6403128dcf62d45",
+        "erc20.json": "f067786808d83bb3db15db1890f029fa10c6d9b32d74ce4107447fd48928bcfe",
         "erc721.json": "ce8e5cd39632d71337faa7e4678fad3d0f215a648bea78bed3fbba3c9a032a0f",
         "misc.json": "5d5dbda639f269f54df67d8a844353522df6224fb0c4a898a2494d3677ab3921"
       }
@@ -200,14 +218,14 @@
     "katana": {
       "chainId": 747474,
       "tokenLists": {
-        "erc20.json": "6925b0ed98d271c86c1b3d408195bfd6a2eb025be852d2fb4c4c4a873afcbdc2"
+        "erc20.json": "3dfd3dd208c5b0028a34ff74f6fb90750eb74440174c568b2235611f2cdcec4b"
       }
     },
     "mainnet": {
       "chainId": 1,
       "tokenLists": {
         "erc1155.json": "05a4b8873fcb7ae59997e4381a1b7470dd9bcc6120ed4f7d331f751cc1af519a",
-        "erc20.json": "12350fb8763dc76cecf2154fb701abfd0b9e773ee2470005a6e04bfa0350748b",
+        "erc20.json": "315d246eccdcbb1b700be619e8fb5bec10541f05f5f400a61c25e25cc8cd0907",
         "erc721.json": "8e6349df6152d116602a6626909083d8a97892b981a42ca8470db6670d3da66d",
         "misc.json": "f98a5ccf5fa208e0861c020ad16b44adfafff42d8f359fa94e6701a7397b1e92"
       }
@@ -232,7 +250,7 @@
       "chainId": 10,
       "tokenLists": {
         "erc1155.json": "d3b8cd8af641eb038f784d1ad753c51ec8262a3c93f6a6d56ba1620a7d88e0e0",
-        "erc20.json": "9f33579559ede3850dcb42758bec5e0f3ca41c405b4874de74c4ade0156b7844",
+        "erc20.json": "7b326e59545e96124eef3d0e4d1000508acd5e251327480aecc882317a0ab5b2",
         "erc721.json": "b31e44ac1f7d75445c07eb621f4c84aed399a228bc00e8c97d322aac6af81452",
         "misc.json": "125585e3bdfbabdba8c61efbe6344dc4213b47d22013779adf728e9a0d6dd92c"
       }
@@ -250,7 +268,7 @@
       "chainId": 137,
       "tokenLists": {
         "erc1155.json": "f6a710897facb2b4caa28a78694166302811cbd31139d04cccdc4a3e4a18a36c",
-        "erc20.json": "d14965f7db29337b7309ebe26db10beefdfa46873f15633d4eaa9e6e7dc75a91",
+        "erc20.json": "1338caa0e1983cc3f1e5f2a307b23fa52dc60c40e1d4a25fe999538133a859ba",
         "erc721.json": "e32b38f33246eb5dc67bacbb7d72ac0612060cc20aed7d628c30320708fff62f",
         "misc.json": "80ed5add20b07abafcd9ced20d8cdc0ba6a588b724320c66739e1db3d264d503"
       }
@@ -272,6 +290,12 @@
         "erc20.json": "334515966386f42342f930400ec70acc7410a5be898a0c060eb5d2243ee9011c",
         "erc721.json": "a358c70f620e4fac608da34aaa0d59bff326b5df7d407e7faf538f6a5058f7cf",
         "misc.json": "b8853f0471b8aba265f1353a26480efc315a55931c09c4e60d19cb71fe75f9d0"
+      }
+    },
+    "robinhood": {
+      "chainId": 4663,
+      "tokenLists": {
+        "erc20.json": "d37b3a2e4f463a95ff057f8f1589e121170a9c076250f746c4cec60943b2fec1"
       }
     },
     "sandbox-testnet": {
@@ -307,10 +331,16 @@
         "misc.json": "71ff0898bb8677b3f1af5c01e5a4f6397e27f90f614dc9fba97e07210a9c6b7b"
       }
     },
+    "somnia": {
+      "chainId": 5031,
+      "tokenLists": {
+        "erc20.json": "a12e68c49e11843b91a4efa4b2e435d1f9c9d9788d065d0f1707dc35ddc95a58"
+      }
+    },
     "soneium": {
       "chainId": 1868,
       "tokenLists": {
-        "erc20.json": "9c5eeee721683e67210693f7bae2181a68379bebba67b785f5f22c70a41932b8"
+        "erc20.json": "d63d6ade29f3b8b234c2affb5aa8ddf78f9cf2bd2714d88a4f23f6e58fb75238"
       }
     },
     "sonic": {

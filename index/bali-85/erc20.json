@@ -1,0 +1,42 @@
+{
+  "name": "sequence-erc20-bali-85",
+  "chainId": 858585,
+  "tokenStandard": "erc20",
+  "logoURI": "https://avatars.githubusercontent.com/u/35579638?s=400&u=41e1dbfbbf6f98037069c918c9383ffb8e978fb7&v=4",
+  "keywords": ["erc20", "bali"],
+  "timestamp": "2026-10-14T22:18:35.000Z",
+  "tokens": [
+    {
+      "chainId": 858585,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 858585,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.sequence.info/images/tokens/large/1/0x0000000000000000000000000000000000000000.webp"
+    },
+    {
+      "chainId": 858585,
+      "address": "0x477B04BbFcDc3097A3d878375D40523c87382978",
+      "name": "Agglayer E2E Token",
+      "symbol": "E2E",
+      "decimals": 18,
+      "extensions": {
+        "originChainId": 828282,
+        "originAddress": "0xCA2B03B319145447B3E4F432c17D45351198Db86"
+      }
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

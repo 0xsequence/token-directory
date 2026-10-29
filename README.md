@@ -59,6 +59,72 @@ pnpm update-featured -- --write --count 20
 
 Supported chains: mainnet, arbitrum, polygon, optimism, base, avalanche, bnb, gnosis, arbitrum-nova.
 
+## Sync Fee-on-Transfer Tokens
+
+Flags tokens that tax transfers with `extensions.feeOnTransfer: true`, so consumers can refuse to
+quote a fixed amount the recipient will never receive in full.
+
+Detection uses the [GoPlus token security API](https://gopluslabs.io/token-security-api): any
+token with a non-zero `transfer_tax` is flagged. An empty `transfer_tax` means GoPlus has no
+result for the token, which is counted as unknown rather than treated as zero. GoPlus only computes
+fresh reports for single-address requests, so tokens are queried one at a time with a 4s delay and
+rate-limit responses are retried with backoff — a full scan takes hours. Results are cached in
+`tools/.fee-on-transfer-cache.json` so an interrupted scan resumes.
+
+By default the script performs a **dry run**. Pass `--write` to apply changes.
+
+```bash
+# Preview all supported chains
+pnpm sync-fee-on-transfer
+
+# Preview a single chain
+pnpm sync-fee-on-transfer -- --chain bnb
+
+# Apply changes
+pnpm sync-fee-on-transfer -- --write
+```
+
+Supported chains (those GoPlus covers): mainnet, polygon, base, optimism, arbitrum, avalanche, bnb,
+gnosis, berachain, soneium, sonic, monad.
+
+Run `pnpm format` afterwards: the script writes with `JSON.stringify`, which expands short
+arrays that Prettier keeps inline.
+
+## Sync Rebasing Tokens
+
+Flags tokens whose balances change without a transfer — Aave aTokens, Lido stETH, Ampleforth,
+Origin OUSD/OETH — with `extensions.rebasing: true`, so consumers can refuse to quote a fixed
+amount against a balance that moves underneath them.
+
+Detection is on-chain and evidence-based: each token is probed over public RPCs for read-only
+selector pairs that only a rebasing implementation exposes (`UNDERLYING_ASSET_ADDRESS` +
+`scaledBalanceOf` for Aave v2/v3, `underlyingAssetAddress` + `principalBalanceOf` for Aave v1,
+`getPooledEthByShares` + `sharesOf` for stETH, `rebasingCreditsPerToken` + `nonRebasingSupply`
+for Origin). ERC-4626 vaults are excluded deliberately: `sUSDe` and `wstETH` move share
+_price_, not balances, so fixed-amount math against them stays correct.
+
+Every probe carries a `totalSupply` sentinel. If the sentinel fails the result is discarded and
+retried in smaller batches, then as individual `eth_call`s — a missing selector and an RPC that
+silently dropped the call are otherwise indistinguishable, and the latter would unflag real
+rebasing tokens. Tokens that never answer are reported as `unreachable` rather than assumed
+clean. Results are cached in `tools/.rebasing-cache.json` so an interrupted scan resumes.
+
+By default the script performs a **dry run**. Pass `--write` to apply changes.
+
+```bash
+# Preview all supported chains
+pnpm sync-rebasing
+
+# Preview a single chain
+pnpm sync-rebasing -- --chain base
+
+# Apply changes
+pnpm sync-rebasing -- --write
+```
+
+Run `pnpm format` afterwards: the script writes with `JSON.stringify`, which expands short
+arrays that Prettier keeps inline.
+
 ## Token List Formats
 
 The ERC-20 token lists present in this repository follow the [Uniswap Token List Schema](https://github.com/Uniswap/token-lists). The original list was populated using [Coingecko](https://www.coingecko.com/en)'s erc20 token list [CoinGecko](https://tokens.coingecko.com/uniswap/all.json). Token description and links are taken from Coingecko's API.
@@ -94,9 +160,17 @@ See [here](https://github.com/0xsequence/token-directory/blob/master/index/mainn
   extensions: {
     link: string | null,        // URL of token's website
     description: string | null, // Short description of token (1000 chars max)
-    ogImage: string | null      // URL of Open Graph image of token website
+    ogImage: string | null,     // URL of Open Graph image of token website
+    feeOnTransfer?: true,       // Set when the token taxes transfers; omitted otherwise
+    rebasing?: true             // Set when balances change without a transfer
+                                // (Aave aTokens, stETH, AMPL); omitted otherwise
 }
 ```
+
+`feeOnTransfer` and `rebasing` are populated by tooling rather than by hand — see
+[Sync Fee-on-Transfer Tokens](#sync-fee-on-transfer-tokens) and
+[Sync Rebasing Tokens](#sync-rebasing-tokens). Both are present only when true, so absence
+means "no evidence gathered", not "verified false".
 
 ### ERC721 and ERC1155
 

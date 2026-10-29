@@ -2311,7 +2311,8 @@
         "categories": ["gaming", "casino"],
         "ogImage": null,
         "originChainId": 1,
-        "originAddress": "0x1f6deadcb526c4710cf941872b86dcdfbbbd9211"
+        "originAddress": "0x1f6deadcb526c4710cf941872b86dcdfbbbd9211",
+        "feeOnTransfer": true
       }
     },
     {
@@ -6133,7 +6134,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6152,7 +6154,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6171,7 +6174,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6190,7 +6194,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6209,7 +6214,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6228,7 +6234,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6247,7 +6254,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6266,7 +6274,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6285,7 +6294,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6304,7 +6314,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6323,7 +6334,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6342,7 +6354,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6361,7 +6374,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6380,7 +6394,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6399,7 +6414,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6418,7 +6434,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6437,7 +6454,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6456,7 +6474,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6475,7 +6494,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6494,7 +6514,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6513,7 +6534,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6532,7 +6554,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6551,7 +6574,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6570,7 +6594,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6589,7 +6614,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6608,7 +6634,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6627,7 +6654,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6646,7 +6674,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6665,7 +6694,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6684,7 +6714,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6703,7 +6734,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6722,7 +6754,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6741,7 +6774,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6760,7 +6794,8 @@
         "indexingInfo": {
           "useOnChainBalance": true
         },
-        "protocol": "aave"
+        "protocol": "aave",
+        "rebasing": true
       }
     },
     {
@@ -6884,6 +6919,20 @@
           "useOnChainBalance": true
         }
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+      "name": "Liquid Staking Matic (PoS)",
+      "symbol": "MaticX",
+      "decimals": 18
+    },
+    {
+      "chainId": 137,
+      "address": "0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb",
+      "name": "Polymarket USD",
+      "symbol": "pUSD",
+      "decimals": 6
     }
   ],
   "version": {

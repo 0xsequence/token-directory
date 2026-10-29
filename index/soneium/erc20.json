@@ -77,6 +77,20 @@
         "featured": true,
         "featureIndex": 4
       }
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
+      "name": "Startale USD",
+      "symbol": "USDSC",
+      "decimals": 6
+    },
+    {
+      "chainId": 1868,
+      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+      "name": "Astar Token",
+      "symbol": "ASTR",
+      "decimals": 18
     }
   ],
   "version": {
