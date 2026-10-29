@@ -100,14 +100,6 @@
     },
     {
       "chainId": 747474,
-      "address": "0x62D6A123E8D19d06d68cf0d2294F9A3A0362c6b3",
-      "name": "Vault Bridge USDS",
-      "symbol": "USDS",
-      "decimals": 18,
-      "logoURI": "https://assets.katana.network/icons/usds.svg"
-    },
-    {
-      "chainId": 747474,
       "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
       "name": "Agora Dollar",
       "symbol": "AUSD",

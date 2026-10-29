@@ -218,7 +218,7 @@
     "katana": {
       "chainId": 747474,
       "tokenLists": {
-        "erc20.json": "3dfd3dd208c5b0028a34ff74f6fb90750eb74440174c568b2235611f2cdcec4b"
+        "erc20.json": "b3a194e9e801681ec6827e5ab5f35364e5b620b223843d3a0f785c32d667ca05"
       }
     },
     "mainnet": {
@@ -226,7 +226,7 @@
       "tokenLists": {
         "erc1155.json": "05a4b8873fcb7ae59997e4381a1b7470dd9bcc6120ed4f7d331f751cc1af519a",
         "erc20.json": "dbe844d864c6cb0a3a03373e7added762e41d4cb7daa3ca02a920e987b91360c",
-        "erc721.json": "8dd6824eacebd79169ee8ae9c9d12a42a8a5598cbedbdfa94965f58204953b42",
+        "erc721.json": "02036ae6b5eba0453d422663050942c45167a7bf74d1ca22470886306e3c7f5e",
         "misc.json": "f98a5ccf5fa208e0861c020ad16b44adfafff42d8f359fa94e6701a7397b1e92"
       }
     },
@@ -268,9 +268,9 @@
       "chainId": 137,
       "tokenLists": {
         "erc1155.json": "f6a710897facb2b4caa28a78694166302811cbd31139d04cccdc4a3e4a18a36c",
-        "erc20.json": "1f823ef882e502d291680db9686c05e68cb5514f6e8f468c1d25b84629021984",
+        "erc20.json": "470cb819b14ccea01a3a685ed5273174abf091bbcb16f1a4cc0b862ee127c858",
         "erc721.json": "e32b38f33246eb5dc67bacbb7d72ac0612060cc20aed7d628c30320708fff62f",
-        "misc.json": "80ed5add20b07abafcd9ced20d8cdc0ba6a588b724320c66739e1db3d264d503"
+        "misc.json": "004258c16748a1d9914a6c147fd3e766e646840017e70710dda509800529aece"
       }
     },
     "polygon-zkevm": {
