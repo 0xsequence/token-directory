@@ -1656,6 +1656,20 @@
       "name": "Meta Platforms Inc.",
       "symbol": "METAc",
       "decimals": 8
+    },
+    {
+      "chainId": 8453,
+      "address": "0xb2000000000000000000001e800a7f5189430cd0",
+      "name": "Tesla Inc.",
+      "symbol": "TSLAc",
+      "decimals": 8
+    },
+    {
+      "chainId": 8453,
+      "address": "0x27d7959cf26135d8019d0f1e4a2280a8a355c4f5",
+      "name": "LESTER by Virtuals",
+      "symbol": "LESTER",
+      "decimals": 18
     }
   ],
   "version": {

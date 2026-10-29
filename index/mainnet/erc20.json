@@ -27554,6 +27554,27 @@
       "name": "Capsule Coin",
       "symbol": "CAPS",
       "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
+      "name": "Liquid Staking Matic",
+      "symbol": "MaticX",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
+      "name": "stk GHO",
+      "symbol": "stkGHO",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8f226da66244f89e70c5b5d1a5c5b0d505eb1d8",
+      "name": "Bitcoin Dollar USDC",
+      "symbol": "bdUSD",
+      "decimals": 8
     }
   ],
   "version": {

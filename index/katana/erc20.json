@@ -290,6 +290,20 @@
       "name": "Yearn OG ETH",
       "symbol": "yOG-ETH",
       "decimals": 18
+    },
+    {
+      "chainId": 747474,
+      "address": "0x94ff40197900a6ea5d9d63c691d89e70ac1343d6",
+      "name": "AlphaYields avKAT",
+      "symbol": "ayKAT",
+      "decimals": 20
+    },
+    {
+      "chainId": 747474,
+      "address": "0x9a6bd7b6fd5c4f87eb66356441502fc7dcdd185b",
+      "name": "vbUSDT yVault",
+      "symbol": "yvvbUSDT",
+      "decimals": 6
     }
   ],
   "version": {
