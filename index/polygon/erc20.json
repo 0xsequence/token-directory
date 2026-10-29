@@ -6925,6 +6925,20 @@
           "useOnChainBalance": true
         }
       }
+    },
+    {
+      "chainId": 137,
+      "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+      "name": "Liquid Staking Matic (PoS)",
+      "symbol": "MaticX",
+      "decimals": 18
+    },
+    {
+      "chainId": 137,
+      "address": "0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb",
+      "name": "Polymarket USD",
+      "symbol": "pUSD",
+      "decimals": 6
     }
   ],
   "version": {
