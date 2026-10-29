@@ -5793,6 +5793,7 @@
       "chainId": 137,
       "address": "0x81067076dcb7d3168ccf7036117b9d72051205e2",
       "name": "SC DxDex.io",
+      "decimals": 18,
       "extensions": {
         "blacklist": true,
         "categories": ["exchange", "defi"]
@@ -5802,6 +5803,7 @@
       "chainId": 137,
       "address": "0x647a337036b448Bed2fF75f27789A73f6Ff56f3f",
       "name": "BuyItUp",
+      "decimals": 4,
       "extensions": {
         "blacklist": true,
         "categories": ["access"]
@@ -5811,6 +5813,7 @@
       "chainId": 137,
       "address": "0x5b56A425F8b45D82EBB57dcA4F02528409ae763B",
       "name": "JustForFun",
+      "decimals": 4,
       "extensions": {
         "blacklist": true,
         "categories": ["access"]
@@ -5820,6 +5823,7 @@
       "chainId": 137,
       "address": "0x9E2d266D6c90F6C0D80a88159b15958f7135B8Af",
       "name": "StakeShare",
+      "decimals": 18,
       "extensions": {
         "blacklist": true,
         "categories": ["access", "staking", "reward"]
@@ -5829,6 +5833,7 @@
       "chainId": 137,
       "address": "0xeCDFf6Fd2f184f8B8987682A10Aa6890ca74c5A8",
       "name": "minereum",
+      "decimals": 8,
       "extensions": {
         "blacklist": true,
         "categories": ["access"]
@@ -5838,6 +5843,7 @@
       "chainId": 137,
       "address": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
       "name": "Minereum Polygon",
+      "decimals": 8,
       "extensions": {
         "blacklist": true,
         "categories": ["access"]
