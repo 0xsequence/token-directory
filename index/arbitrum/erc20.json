@@ -986,8 +986,8 @@
     {
       "chainId": 42161,
       "address": "0x5837e4189819637853a357aF36650902347F5e73",
-      "name": "kpk USDC Yield",
-      "symbol": "kpk_USDC_YieldV2",
+      "name": "KPK USDC Yield",
+      "symbol": "KPK_USDC_Yield",
       "decimals": 18,
       "logoURI": "",
       "extensions": {

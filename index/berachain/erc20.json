@@ -34,7 +34,7 @@
       "chainId": 80094,
       "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
       "name": "USD Coin",
-      "symbol": "USDC",
+      "symbol": "USDC.e",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
       "extensions": {

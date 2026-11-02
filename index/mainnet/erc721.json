@@ -422,9 +422,9 @@
     {
       "chainId": 1,
       "address": "0x5d00d312e171be5342067c09bae883f9bcb2003b",
-      "name": "Etheremon",
+      "name": "EtheremonMonster",
       "standard": "erc721",
-      "symbol": "MON",
+      "symbol": "EMONA",
       "logoURI": "https://lh3.googleusercontent.com/GlQd4qwjjyu4UmEj8poZpDua4f1G4-TSjlN-kNCimmqXDwqp8Jap_9i6pLtSnNqRyZp2caZIy6SCPwDdNyjPobA=s60",
       "extensions": {
         "link": "https://ethermon.io/",
@@ -633,7 +633,7 @@
       "address": "0x22c1f6050e56d2876009903609a2cc3fef83b415",
       "name": "POAP",
       "standard": "erc721",
-      "symbol": "The Proof of Attenda",
+      "symbol": "The Proof of Attendance Protocol",
       "logoURI": "https://lh3.googleusercontent.com/FwLriCvKAMBBFHMxcjqvxjTlmROcDIabIFKRp87NS3u_QfSLxcNThgAzOJSbphgQqnyZ_v2fNgMZQkdCYHUliJwH-Q=s60",
       "extensions": {
         "link": "https://www.poap.xyz/",
@@ -1301,9 +1301,9 @@
     {
       "chainId": 1,
       "address": "0x6a99abebb48819d2abe92c5e4dc4f48dc09a3ee8",
-      "name": "DCL Moonshot",
+      "name": "DCLMNSHT2020",
       "standard": "erc721",
-      "symbol": "MOONSHOT",
+      "symbol": "DCLMNSHT2020",
       "logoURI": "https://lh3.googleusercontent.com/5KIxEGmnAiL5psnMCSLPlfSxDxfRSk4sTQRSyhPdgnu70nGb2YsuVxTmO2iKEkOZOfq476Bl1hAu6aJIKjs1myY=s60",
       "extensions": {
         "link": "https://decentraland.org/",
@@ -2602,7 +2602,7 @@
       "address": "0xe498ec1aff3c1460f6a818826443fd2a7817e775",
       "name": "The Collision by Pak x Trevor Jones",
       "standard": "erc721",
-      "symbol": "THECOLLISIONBYPAKXTR",
+      "symbol": "THECOLLISIONBYPAKXTREVORJONES",
       "logoURI": "https://lh3.googleusercontent.com/UODJQVyuYgM2xLPWwgmyQLNcr_mVQ_HhSOVq3Rl8gm2SAMx5-ZOKP0pxOELN2ZGK9S-R_pncUT43AE3qyxPqsXox10eE6PDdx3VpdQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/themoment",
@@ -2681,7 +2681,7 @@
       "address": "0xb91c1aa27a2eb25228b5d1019ec6b24fe73c5535",
       "name": "Crystal Pops Asia Edition",
       "standard": "erc721",
-      "symbol": "CRYSTALPOPSASIAEDITI",
+      "symbol": "CRYSTALPOPSASIAEDITION",
       "logoURI": "https://lh3.googleusercontent.com/Gq6omT3wwr-9zxvDrKzaYpIlAq2OPBMmw17qU2_AJlfaefiXRIcDqsotWUcTvO--fxJJ5GPw1arepZG46pcAryA3=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/goldweard",
@@ -2864,7 +2864,7 @@
       "address": "0x87d598064c736dd0c712d329afcfaa0ccc1921a1",
       "name": "CryptoFighters",
       "standard": "erc721",
-      "symbol": "FIGHTER",
+      "symbol": "CF",
       "logoURI": "https://lh3.googleusercontent.com/4ct2804JmTW9YMmeX8gEp86UaWaE_m6oA9BVvUK2dNHEz4rTmKh9BYf0k5w9zChiXXjSFnFLzaJ1-YxEDPqVGeZ3YQ=s60",
       "extensions": {
         "link": "https://cryptofighters.io",
@@ -3004,7 +3004,7 @@
       "address": "0xa1eb40c284c5b44419425c4202fa8dabff31006b",
       "name": "POAP",
       "standard": "erc721",
-      "symbol": "Proof Of Attendance ",
+      "symbol": "Proof Of Attendance Protocol",
       "logoURI": "https://lh3.googleusercontent.com/ZQa6-GyjlaugyNPgWsWHooJL6O_CQ6mMoV3yxcs_9CKFxTBXLT7TLkrqMsrjJAhorEubE_hhnrEEXbVjQFtbkdo54Q=s60",
       "extensions": {
         "link": "https://www.poap.xyz/",
@@ -3786,7 +3786,7 @@
       "address": "0xa9354f07c3e9bc1e3effbdf790a0b6dc05a46af8",
       "name": "Harry 'Golden Arm' Hearstashuzen",
       "standard": "erc721",
-      "symbol": "HGA",
+      "symbol": "MAB010",
       "logoURI": "https://lh3.googleusercontent.com/vcLauLUvCfjDSafGBisKjLtNQnKxv042UfxH4JG9ox8zmY49FZa_cRbMKNmJ09bnAjzBaLF0hg3LQmEgLk8pGXY=s120",
       "extensions": {
         "link": "https://www.etherlegends.com",
@@ -3799,7 +3799,7 @@
       "address": "0xb9a6f2ff16812e9ad7e1f759fca4ecd7a3ab74e4",
       "name": "HackFS",
       "standard": "erc721",
-      "symbol": "KEY",
+      "symbol": "UDT",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -3830,7 +3830,7 @@
       "address": "0x72ada42494f4080a02847f6630f1d90af4498124",
       "name": "Triptych of the Architects by PR1MAL CYPHER",
       "standard": "erc721",
-      "symbol": "TRIPTYCHOFTHEARCHITE",
+      "symbol": "TRIPTYCHOFTHEARCHITECTSBYPRMALCYPHER",
       "logoURI": "https://lh3.googleusercontent.com/GNKD78bxsa0ZtMPxqmazw2lrx6TPMrajQKLoGa-IkT2H7mMd6cD3ys6Kpn5meRDhBHWM59e69oiRLhVqFktkwrvL=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/pr1mal",
@@ -4069,7 +4069,7 @@
       "address": "0xb9abb6e7fdc06fe25ac96d3da1c3ef4651ec660a",
       "name": "Open Edition by Slimesunday",
       "standard": "erc721",
-      "symbol": "OPENEDITIONBYSLIMESU",
+      "symbol": "OPENEDITIONBYSLIMESUNDAY",
       "logoURI": "https://lh3.googleusercontent.com/tq31Iblwe3DrVuTZo71zf_rQmKslnXMB0-r4HNkLUF7dxv1IhOxQSz-iY7rTKmWMbXylXkBdOsnZzXZed-Fmlfd6gcFUWDsARWS7Sg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/slimesunday2",
@@ -4126,7 +4126,7 @@
       "address": "0x4e45e92ed38f885d39a733c14f1817217a89d425",
       "name": "Crystal Pops Founders Edition",
       "standard": "erc721",
-      "symbol": "CRYSTALPOPSFOUNDERSE",
+      "symbol": "CRYSTALPOPSFOUNDERSEDITION",
       "logoURI": "https://lh3.googleusercontent.com/Gq6omT3wwr-9zxvDrKzaYpIlAq2OPBMmw17qU2_AJlfaefiXRIcDqsotWUcTvO--fxJJ5GPw1arepZG46pcAryA3=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/goldweard",
@@ -4152,7 +4152,7 @@
       "address": "0xa2d544196fdbc9da15a701c38bb60513c1802ef4",
       "name": "Growing Up...I'm Scared Open Edition by FEWOCiOUS",
       "standard": "erc721",
-      "symbol": "GROWINGUPIMSCAREDOPE",
+      "symbol": "GROWINGUPIMSCAREDOPENEDITIONBYFEWOCIOUS",
       "logoURI": "https://lh3.googleusercontent.com/ZRXLLhatw2osjEvQnsla7rg-ne24tgJ4mgqLT_jZjDBWR_-v5V4nSNUathacUwmkPjJkIHMQvnzfLj8KAW6PIrrK=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/fewocious",
@@ -4205,7 +4205,7 @@
       "address": "0xf71254147ab04be7bc7efd109641f0792de23af1",
       "name": "Happy Creative Land Series 001: Boba Panda Bonanza by Yiying Lu",
       "standard": "erc721",
-      "symbol": "HAPPYCREATIVELANDSER",
+      "symbol": "HAPPYCREATIVELANDSERIESBOBAPANDABONANZABYYIYINGLU",
       "logoURI": "https://lh3.googleusercontent.com/-BqAAn5G68D4GXyyZ5QodTgQ0w524yxyMrHOH_zXOTS0hFASxj9fXlkcr1FGPQHUMaQ1eHatB7ikpjnRDzPYsdoW=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/yiyinglu",
@@ -4240,7 +4240,7 @@
       "address": "0x76f71dcfd0bd0dbeb0ffc7decd0b327cb7dfdc84",
       "name": "Back to the Future x Nike Mag by Tom Yoo",
       "standard": "erc721",
-      "symbol": "BACKTOTHEFUTUREXNIKE",
+      "symbol": "BACKTOTHEFUTUREXNIKEMAGBYTOMYOO",
       "logoURI": "https://lh3.googleusercontent.com/yQgbEuU2qKUuchGiZ81gVWAjVictZiyFd7ZpDnA0Wpjiy6CCDY-oCbXi9aL04z14fUKsBa8UUrhlzZXWSzTA-_93AGpfrmA02uXc=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/tomyoo4",
@@ -4253,7 +4253,7 @@
       "address": "0x35a397b958691f6f27d2f7eb0138a3fd4556393a",
       "name": "THE CYB3RGRACES (2084 Intermezzo) by PR1MAL CYPHER",
       "standard": "erc721",
-      "symbol": "THECYBRGRACESINTERME",
+      "symbol": "THECYBRGRACESINTERMEZZOBYPRMALCYPHER",
       "logoURI": "https://lh3.googleusercontent.com/6cM08gbE7HbI6iERsUYRfCU0aCer9hVddT7fomso9OCrgv99MWnWRc9BY40i9zlrYMeUascxuuZ-vB9JqK_ikPWW=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/pr1mal2",
@@ -4498,7 +4498,7 @@
       "address": "0xbfb69918f12eed843c67058b2ee9059f1440133e",
       "name": "Major Arcana Tarot Deck (Part 2) by Twisted Vacancy",
       "standard": "erc721",
-      "symbol": "MAJORARCANATAROTDECK",
+      "symbol": "MAJORARCANATAROTDECKPARTBYTWISTEDVACANCY",
       "logoURI": "https://lh3.googleusercontent.com/8E6fUQyumJJvFMpBGjo0c7z-9gY6apHvWQ_q9_2LjfDVz3Aq2JO_DQpVqFKi5mxuoKO35TTazRrW1WQGtiHnIWIj9A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/twistedcollectibles",
@@ -4620,7 +4620,7 @@
       "address": "0xd2cd254f7d42c68e1992369a47d7b47afd578109",
       "name": "Mintable.app - Generate your NFTs within seconds",
       "standard": "erc721",
-      "symbol": "Free to make your ow",
+      "symbol": "Free to make your own smart contract! ",
       "logoURI": "https://metadata.mintable.app/jRS5zdDa7PWGtOzXCASrm/0",
       "extensions": {
         "link": "https://mintable.app",
@@ -4774,7 +4774,7 @@
       "address": "0x068138ad82a83cb4cb91abea810b13e95fb2872c",
       "name": "Rare Board #1: The Fiat Barbecue by Alotta Money",
       "standard": "erc721",
-      "symbol": "RAREBOARDTHEFIATBARB",
+      "symbol": "RAREBOARDTHEFIATBARBECUEBYALOTTAMONEY",
       "logoURI": null,
       "extensions": {
         "link": "https://niftygateway.com/collections/alottarareboard",
@@ -4787,7 +4787,7 @@
       "address": "0x4334092242deea8b5d7fa025324b6509c7778846",
       "name": "Space Yacht Iconography Collection by Space Yacht",
       "standard": "erc721",
-      "symbol": "SPACEYACHTICONOGRAPH",
+      "symbol": "SPACEYACHTICONOGRAPHYCOLLECTIONBYSPACEYACHT",
       "logoURI": "https://lh3.googleusercontent.com/9Oc002N5uSd9u4bkIrGLgWq0LvcGcrABvRPlYpT5raeykM_prbBOS90kkM9H-q5DYcg9q_1bDZyM1SYVeEjMj_X_bbeRdM6yRIqU_io=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/spaceyacht2",
@@ -4980,7 +4980,7 @@
       "address": "0x753c3a8567311c8673182847f5e390d960a1e4d0",
       "name": "Jon Burgerman's Pack Collection",
       "standard": "erc721",
-      "symbol": "JONBURGERMANSPACKCOL",
+      "symbol": "JONBURGERMANSPACKCOLLECTION",
       "logoURI": "https://lh3.googleusercontent.com/cawKeOGVFGCHzN-_scY_kdPA1SSR5gXsGjYytsnydS4S7gFeZ3jHFKvjW666Hg44T09vM2OLGQ_pFjsM5odTyVRhjQ=s120",
       "extensions": {
         "link": null,
@@ -5103,7 +5103,7 @@
       "address": "0xb0114bbdce17e0af91b2be32916a1e236cf6034f",
       "name": "Unlock Blog Members",
       "standard": "erc721",
-      "symbol": "KEY",
+      "symbol": "UDT",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -5282,7 +5282,7 @@
       "address": "0xc0d60341cb0ba6ac6ddcd2858e9f3d5c8fe6c45e",
       "name": "Cris Cyborg Collectibles",
       "standard": "erc721",
-      "symbol": "CRISCYBORGCOLLECTIBL",
+      "symbol": "CRISCYBORGCOLLECTIBLES",
       "logoURI": "https://lh3.googleusercontent.com/3F-lKreB9Rra07CFzeiTtI5Xp9EDzo7xq3yU5vF-jrh7J72W6QZ6qKQGLmdUTqAgr7i2oTKOn8z_-YweIywcThKL=s60",
       "extensions": {
         "link": "https://niftygateway.com/collections/cyborg",
@@ -5369,7 +5369,7 @@
       "address": "0xecf1607512ad6c3723991ddcaa1b17d821554a05",
       "name": "Metaphyla: Series 1 by Metageist",
       "standard": "erc721",
-      "symbol": "METAPHYLASERIESBYMET",
+      "symbol": "METAPHYLASERIESBYMETAGEIST",
       "logoURI": "https://lh3.googleusercontent.com/WhhPJtTFFH4fXlK1zxBcz-cbP1RaLsKhI80qzIgFoItOp-rywmr8pULB6sMibU7uI9_EkNC-JC2PQ8De6rgeJpQP=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/metageist",
@@ -5478,7 +5478,7 @@
       "address": "0x951b0d7c1e4f10567d1ebcad1daa91d96ddaac4a",
       "name": "HYPEBIRDS by Olive Allen",
       "standard": "erc721",
-      "symbol": "HYPEBIRDSBYOLIVEALLE",
+      "symbol": "HYPEBIRDSBYOLIVEALLEN",
       "logoURI": "https://lh3.googleusercontent.com/yws1nQs103WfVE3AXeC0u9vI3f7u_oeUlxC19sMzDNSuhkjL9tf6gH9W2bIwafsHCiMqjOfsG3-QTw0d-2j805w=s120",
       "extensions": {
         "link": "https://oliveallen.com/",
@@ -5600,7 +5600,7 @@
       "address": "0x378839a7b6a46d972df8bc016ec984c5d9b841d8",
       "name": "The Boombox Project: Arcade Edition",
       "standard": "erc721",
-      "symbol": "THEBOOMBOXPROJECTARC",
+      "symbol": "THEBOOMBOXPROJECTARCADEEDITION",
       "logoURI": "https://lh3.googleusercontent.com/KyB4Mcz7McbNVVg_HOIub_1-bvgsmRtknAjxvVYsPUG5YUThmlxP-W2mbivaU3tPS8KHSXp36oXDugXA2HvkaWOH=s60",
       "extensions": {
         "link": "https://niftygateway.com/collections/lyleowerko",
@@ -5700,7 +5700,7 @@
       "address": "0x337c0be4fb4238c9fc75a2e20ad4367a79318db9",
       "name": "Twisted Vacancy Stickers",
       "standard": "erc721",
-      "symbol": "TWISTEDVACANCYSTICKE",
+      "symbol": "TWISTEDVACANCYSTICKERS",
       "logoURI": "https://lh3.googleusercontent.com/8E6fUQyumJJvFMpBGjo0c7z-9gY6apHvWQ_q9_2LjfDVz3Aq2JO_DQpVqFKi5mxuoKO35TTazRrW1WQGtiHnIWIj9A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/twistedcollectibles",
@@ -5765,7 +5765,7 @@
       "address": "0x385e81b4d6809bc9875252d3624295988717bdd5",
       "name": "Major Arcana Tarot Deck (Part 1) by Twisted Vacancy",
       "standard": "erc721",
-      "symbol": "MAJORARCANATAROTDECK",
+      "symbol": "MAJORARCANATAROTDECKPARTBYTWISTEDVACANCY",
       "logoURI": "https://lh3.googleusercontent.com/8E6fUQyumJJvFMpBGjo0c7z-9gY6apHvWQ_q9_2LjfDVz3Aq2JO_DQpVqFKi5mxuoKO35TTazRrW1WQGtiHnIWIj9A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/twistedcollectibles",
@@ -5897,7 +5897,7 @@
       "address": "0x9f5b1fa6ec33513b8a9f22cea0acdc9c3b2835b2",
       "name": "Nifty Gateway: The Unbearables",
       "standard": "erc721",
-      "symbol": "OLIVEALLENSTHEUNBEAR",
+      "symbol": "OLIVEALLENSTHEUNBEARABLES",
       "logoURI": "https://lh3.googleusercontent.com/yws1nQs103WfVE3AXeC0u9vI3f7u_oeUlxC19sMzDNSuhkjL9tf6gH9W2bIwafsHCiMqjOfsG3-QTw0d-2j805w=s120",
       "extensions": {
         "link": "https://oliveallen.com/",
@@ -6032,7 +6032,7 @@
       "address": "0x397206a955a6a20d1688ede77a7c767a101a8cfc",
       "name": "Banned From The Internet Open Edition by Slime Sunday",
       "standard": "erc721",
-      "symbol": "BANNEDFROMTHEINTERNE",
+      "symbol": "BANNEDFROMTHEINTERNETOPENEDITIONBYSLIMESUNDAY",
       "logoURI": "https://lh3.googleusercontent.com/tq31Iblwe3DrVuTZo71zf_rQmKslnXMB0-r4HNkLUF7dxv1IhOxQSz-iY7rTKmWMbXylXkBdOsnZzXZed-Fmlfd6gcFUWDsARWS7Sg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/slimesunday2",
@@ -6058,7 +6058,7 @@
       "address": "0x4f8d6d539ce6691c61d891d0f35d507a7f5f052a",
       "name": "Champions Series by Tommy Wilson",
       "standard": "erc721",
-      "symbol": "CHAMPIONSSERIESBYTOM",
+      "symbol": "CHAMPIONSSERIESBYTOMMYWILSON",
       "logoURI": "https://lh3.googleusercontent.com/VGp35NsszJYmLRTIkpSJfvA5wLkAkxd3i14c4KnpIEdXqPMvOdLNxyUspSihcP78_-pO69ulSsteI2acP3VtuI8=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/tommywilson",
@@ -6084,7 +6084,7 @@
       "address": "0x8f56406622d712778682181c66c2fe70123bcbba",
       "name": "Twisted Vacancy Collectibles",
       "standard": "erc721",
-      "symbol": "TWISTEDVACANCYCOLLEC",
+      "symbol": "TWISTEDVACANCYCOLLECTIBLES",
       "logoURI": "https://lh3.googleusercontent.com/8E6fUQyumJJvFMpBGjo0c7z-9gY6apHvWQ_q9_2LjfDVz3Aq2JO_DQpVqFKi5mxuoKO35TTazRrW1WQGtiHnIWIj9A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/twistedcollectibles",
@@ -6110,7 +6110,7 @@
       "address": "0xd73aaa94523ae09547a5348486ba3209df666b68",
       "name": "Space Yacht x Goldweard (Common)",
       "standard": "erc721",
-      "symbol": "SPACEYACHTXGOLDWEARD",
+      "symbol": "SPACEYACHTXGOLDWEARDCOMMON",
       "logoURI": "https://lh3.googleusercontent.com/M9gYx8xG5tpQ7ShW5N-xQmvBLkUjLW5kuTMmVIb7102qcgDRb4cGJSivY-aPu27MFb9kRZRj15mmXVX_O2Gcu9yK=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/spaceyacht",
@@ -6158,7 +6158,7 @@
       "address": "0xdd8a96c20acd430522564c81f7ae5bb234ac28d0",
       "name": "Space Yacht x Goldweard (Rare)",
       "standard": "erc721",
-      "symbol": "SPACEYACHTXGOLDWEARD",
+      "symbol": "SPACEYACHTXGOLDWEARDRARE",
       "logoURI": "https://lh3.googleusercontent.com/M9gYx8xG5tpQ7ShW5N-xQmvBLkUjLW5kuTMmVIb7102qcgDRb4cGJSivY-aPu27MFb9kRZRj15mmXVX_O2Gcu9yK=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/spaceyacht",
@@ -6666,7 +6666,7 @@
       "address": "0x032dad5d1d9f3fba88046b08c2676a0daf96b745",
       "name": "The Best I Could Do by Justin Roiland",
       "standard": "erc721",
-      "symbol": "THEBESTICOULDDOBYJUS",
+      "symbol": "THEBESTICOULDDOBYJUSTINROILAND",
       "logoURI": "https://lh3.googleusercontent.com/45vlPtqD1UV6CBirZwu0zWwOQH3FxNOXb3d-KhXLBRa2-XwJVmMT6iVF5DW-FNvB5rw2Awtnj_3rDgQMxKJ9iq39cBAjWqwy3acj=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/justinroiland916",
@@ -6875,7 +6875,7 @@
       "address": "0xb382f44fc434105a94ca566abdb5ab9fa5dac0ee",
       "name": "Pompeii, a city frozen in time by Yonat Vaks",
       "standard": "erc721",
-      "symbol": "POMPEIIACITYFROZENIN",
+      "symbol": "POMPEIIACITYFROZENINTIMEBYYONATVAKS",
       "logoURI": "https://lh3.googleusercontent.com/GzUkDhY80FbQ1KrFJS3sqLkR2IgndEW0n4HWOrmE8hTABxjsQaq63TJrP3pfCv_dL1YyJlrTF7VbyuVcLKRjVhA=s120",
       "extensions": {
         "link": "https://www.yonatvaks.com",
@@ -6993,7 +6993,7 @@
       "address": "0x78fcad8425ee130e7a7c45a26310bda69a4163fd",
       "name": "Select Illustrations by John Guydo",
       "standard": "erc721",
-      "symbol": "SELECTILLUSTRATIONSB",
+      "symbol": "SELECTILLUSTRATIONSBYJOHNGUYDO",
       "logoURI": "https://lh3.googleusercontent.com/5OVBwQSVxfErwvhzayuF8I4XGdAMaOA9AcnzRFIjhh-4Ha3ftgv0CdqYPwyZ28GVqwn_bxJtEOw5xcPcNJrcLUp8-g=s60",
       "extensions": {
         "link": "https://niftygateway.com/collections/guydo",
@@ -7006,7 +7006,7 @@
       "address": "0xa20f75be9427995e596788c29a10c7d734671251",
       "name": "Hypervision Open Edition by Deadmau5 x Mad Dog Jones",
       "standard": "erc721",
-      "symbol": "HYPERVISIONOPENEDITI",
+      "symbol": "HYPERVISIONOPENEDITIONBYDEADMAUXMADDOGJONES",
       "logoURI": "https://lh3.googleusercontent.com/r_iZXbfudh-z4A3umlQbjbnwehZN3VaT6g4X64VMMpv57MrP_zfsBmvljj1AQZtjbqgZIsREud09nHXN7W3Ri1JtAgAT4KakSK0oJQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/deadmauxmdjopen",
@@ -7032,7 +7032,7 @@
       "address": "0xb3ebb6a057e81708cc884a5dcff0c4a9f91075de",
       "name": "ART of RESISTANCE Packs by PR1MAL CYPHER",
       "standard": "erc721",
-      "symbol": "ARTOFRESISTANCEPACKS",
+      "symbol": "ARTOFRESISTANCEPACKSBYPRMALCYPHER",
       "logoURI": "https://lh3.googleusercontent.com/7_l5fBQjOPj1ZoWt4ZRDb2liF1mHyhIvfJEASOv_uHG5KKU5CgF2q1jaA_a6JFefrdOfHeKfAei29MDgZPudF7LRWVdqaEDEnXlTuA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/pr1malresistance1",
@@ -7067,7 +7067,7 @@
       "address": "0xde6123d1e7b0483b16e745ac329750b170ef79d8",
       "name": "The Title Open Edition by Pak",
       "standard": "erc721",
-      "symbol": "THETITLEOPENEDITIONB",
+      "symbol": "THETITLEOPENEDITIONBYPAK",
       "logoURI": "https://lh3.googleusercontent.com/SCWrktCCf-4ZKAA7hngAt7ne2aXOcH481tLeqebn09km-CDAoJS-v4H-gLiSBJh1ieJcyFW_guVJg-x-Roj8AeAmP2yUsNu_46nnMA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/thetitle",
@@ -7281,7 +7281,7 @@
       "address": "0xf2129ea3cf8f356da9dbaa276773fbf8259d6690",
       "name": "Thank You New York Open Edition by ThankYouX and JN Silva",
       "standard": "erc721",
-      "symbol": "THANKYOUNEWYORKOPENE",
+      "symbol": "THANKYOUNEWYORKOPENEDITIONBYTHANKYOUXANDJNSILVA",
       "logoURI": "https://lh3.googleusercontent.com/AMTY-yWS496T1V7wzL9EFnOq_NnBgGKfvb-_3-Ynuqky9l1lMSuo9Wfa7ksYvZs3aeF3oVa5qfWkn_28XwP1evMwgcfqiqSVz551=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/thankyouxsilva",
@@ -7429,7 +7429,7 @@
       "address": "0x50476811f205c0701ee7792ae1745c5af191f48c",
       "name": "Lyle Owerko Boombox Project",
       "standard": "erc721",
-      "symbol": "LYLEOWERKOBOOMBOXPRO",
+      "symbol": "LYLEOWERKOBOOMBOXPROJECT",
       "logoURI": "https://lh3.googleusercontent.com/KyB4Mcz7McbNVVg_HOIub_1-bvgsmRtknAjxvVYsPUG5YUThmlxP-W2mbivaU3tPS8KHSXp36oXDugXA2HvkaWOH=s60",
       "extensions": {
         "link": "https://niftygateway.com/collections/lyleowerko",
@@ -7731,7 +7731,7 @@
       "address": "0xb2b879764c649c7769f7c90845b0cb2a86add821",
       "name": "FDC 1 Week",
       "standard": "erc721",
-      "symbol": "KEY",
+      "symbol": "UDT",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -7881,7 +7881,7 @@
       "address": "0xc937c594cb126fed0db22b41ab070bc206080825",
       "name": "Carl Cox Live Open Edition by Hipworth x Carl Cox",
       "standard": "erc721",
-      "symbol": "CARLCOXLIVEOPENEDITI",
+      "symbol": "CARLCOXLIVEOPENEDITIONBYHIPWORTHXCARLCOX",
       "logoURI": "https://lh3.googleusercontent.com/itLlNAzTma98oFyhj-yk7DOXsCZ8zPEV6u85blsMJmJyzNNcBjSEC5h9wddWiXby5JsF4cUHZmJxCA6O3N5zAui0HWqKsvlY0ar9Fw=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/hipworthxcarlcox",
@@ -8315,7 +8315,7 @@
       "address": "0x574acd83d37722c60c08268f7755faad39a6ef81",
       "name": "LIQUIFIED by Jakub Spacek",
       "standard": "erc721",
-      "symbol": "LIQUIFIEDBYJAKUBSPAC",
+      "symbol": "LIQUIFIEDBYJAKUBSPACEK",
       "logoURI": "https://lh3.googleusercontent.com/38qrMg3KjzesyHXGVQJY760EcB60GLfyRt2NK1lnZqSpqIH2-oOuZxyoknYrIpCdiNX5z-rOiIW5XEffxShAU1i_=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/jakubspacek",
@@ -8385,7 +8385,7 @@
       "address": "0x7d8d225118f7b93a737cbcf259e03e7887806d08",
       "name": "LIQUIFIED by Jakub Spacek",
       "standard": "erc721",
-      "symbol": "LIQUIFIEDBYJAKUBSPAC",
+      "symbol": "LIQUIFIEDBYJAKUBSPACEK",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -8648,7 +8648,7 @@
       "address": "0x676e18a3a73c7185041f901a0da4dfbf670e04d6",
       "name": "Icons Open Edition by Klarens Malluta",
       "standard": "erc721",
-      "symbol": "ICONSOPENEDITIONBYKL",
+      "symbol": "ICONSOPENEDITIONBYKLARENSMALLUTA",
       "logoURI": "https://lh3.googleusercontent.com/AGLtfrggmIWWymQzsOPa6zK32Mw1Nq-EFPUhy_9jZhHWTxjBG5uxZEtUG42MKUMH2x9GhMp4mNiUu_5ZYZtngeqQ_HfMKTcM5vgNXw=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/klarens",
@@ -9190,7 +9190,7 @@
       "address": "0x8a954618dec93ca46405ecb182823242fbb9fc27",
       "name": "Throwing Shapes Open Edition by SSX3LAU",
       "standard": "erc721",
-      "symbol": "THROWINGSHAPESOPENED",
+      "symbol": "THROWINGSHAPESOPENEDITIONBYSSXLAU",
       "logoURI": "https://lh3.googleusercontent.com/pryXVT8LOxOZZOW9fGb1GuUWdX1PxZhWLCP8sfEyv4vvtX1ZJeGRiB0D3v4plow_9oP-maxyheoA91MqnHUIVHaYeg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/ssx3lau",
@@ -9726,7 +9726,7 @@
       "address": "0x8ed428a5762c4b9b14e7a214fad646b25a339064",
       "name": "Neo City Pop Poster Series Open Edition by Twisted Vacancy",
       "standard": "erc721",
-      "symbol": "NEOCITYPOPPOSTERSERI",
+      "symbol": "NEOCITYPOPPOSTERSERIESOPENEDITIONBYTWISTEDVACANCY",
       "logoURI": "https://lh3.googleusercontent.com/8E6fUQyumJJvFMpBGjo0c7z-9gY6apHvWQ_q9_2LjfDVz3Aq2JO_DQpVqFKi5mxuoKO35TTazRrW1WQGtiHnIWIj9A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/twistedcollectibles",
@@ -9826,7 +9826,7 @@
       "address": "0x1266f2370987f0cbcd14dc144e07b8da1dd920a4",
       "name": "Somatose",
       "standard": "erc721",
-      "symbol": "Official Somatose Ar",
+      "symbol": "Official Somatose Art Webstore",
       "logoURI": "https://lh3.googleusercontent.com/26Y4LiGIue4Dp7VDDPmLr4-qMYh0mXk0MQST50Fbkjy3aSsu6258UUupKg5phJcCpJ_nIx6RwDzdiVEs7HCqgcqkNvQ2ZA3mkZ2T3A=s120",
       "extensions": {
         "link": null,
@@ -9971,7 +9971,7 @@
       "address": "0xf8384521301b02a280984d4c623cd37a5a1ffc4b",
       "name": "Throwing Shapes by SSX3LAU",
       "standard": "erc721",
-      "symbol": "THROWINGSHAPESBYSSXL",
+      "symbol": "THROWINGSHAPESBYSSXLAU",
       "logoURI": "https://lh3.googleusercontent.com/pryXVT8LOxOZZOW9fGb1GuUWdX1PxZhWLCP8sfEyv4vvtX1ZJeGRiB0D3v4plow_9oP-maxyheoA91MqnHUIVHaYeg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/ssx3lau",
@@ -10041,7 +10041,7 @@
       "address": "0x4ac3d17fd6c2db18ec619fe2d68d2c22b18378ff",
       "name": "Ideas r the currency by Mad Dog Jones",
       "standard": "erc721",
-      "symbol": "IDEASRTHECURRENCYBYM",
+      "symbol": "IDEASRTHECURRENCYBYMADDOGJONES",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -10185,7 +10185,7 @@
       "address": "0x5788fd56b93adc3401b03b64c2021b49f721d744",
       "name": "Symbiocene Mythologica By GMUNK",
       "standard": "erc721",
-      "symbol": "SYMBIOCENEMYTHOLOGIC",
+      "symbol": "SYMBIOCENEMYTHOLOGICABYGMUNK",
       "logoURI": "https://lh3.googleusercontent.com/aIpDNWkKf4F_TtETqpyPS5Qj9dDxrxZU9qFil5ZnmWQaIHe084MZl_IzY90WqbGwlNQHsHoWaRL7pIG8WBA0_8k4sAgnJUxK_m4t-oo=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/gmunk",
@@ -10453,7 +10453,7 @@
       "address": "0x1d40a5145b5eb1cd0d0b20de5c8fb13e40585d01",
       "name": "Frenetik Void Open Edition",
       "standard": "erc721",
-      "symbol": "FRENETIKVOIDOPENEDIT",
+      "symbol": "FRENETIKVOIDOPENEDITION",
       "logoURI": "https://lh3.googleusercontent.com/dwD-5l-utRGwjsyf2EVwwcHrQ2EuSSlORfG6MHRmI5QlVSIIQk8PxSbYdIAo_XW4Di3HNXRpS1BhOyI7rEvBgmJ6ug=s60",
       "extensions": {
         "link": "https://www.frenetikvoid.com/",
@@ -10566,7 +10566,7 @@
       "address": "0x166c740d4f42dafa1037b12ad4378a20f246006c",
       "name": "FISHΞRMAN Packs by Steven Baltay",
       "standard": "erc721",
-      "symbol": "FISHΞRMANPACKSBYSTEV",
+      "symbol": "FISHΞRMANPACKSBYSTEVENBALTAY",
       "logoURI": "https://lh3.googleusercontent.com/tQBnHSx2dWJt_u0NV1qyYyXiFIhL8a4oFFz_0cxWtSN213-wHGcFM2lkpI1-gEvnrHBoBUYUYTyyXfdMKiMD3jjD=s120",
       "extensions": {
         "link": "https://www.instagram.com/realimposter/",
@@ -10718,7 +10718,7 @@
       "address": "0x1ced6f767092c099fc1cae22a2629772b0ba936a",
       "name": "Creation (Accusation) by NFN Kalyan",
       "standard": "erc721",
-      "symbol": "CREATIONACCUSATIONBY",
+      "symbol": "CREATIONACCUSATIONBYNFNKALYAN",
       "logoURI": "https://lh3.googleusercontent.com/ctNOGrQ-ZV84zCIvZMtlunhFAdVjS1ce7PsIm5K0mcju0_1P9NR81-E8ERANP8f6UUI8e8nY08r5zMxRmiVHM5w2=s120",
       "extensions": {
         "link": null,
@@ -10845,7 +10845,7 @@
       "address": "0xb5079593acc530e09d552acb2ce4a67194f428f4",
       "name": "That Shit Hurted Open Edition by Zack Fox",
       "standard": "erc721",
-      "symbol": "THATSHITHURTEDOPENED",
+      "symbol": "THATSHITHURTEDOPENEDITIONBYZACKFOX",
       "logoURI": "https://lh3.googleusercontent.com/-AED4HvABJCku8YIk_VdcaDCrmjLuSjjmg-xGASioaxDzB2HwL0TF0xbBIHfwEAUu2lAViJjZyFR1IkXhshq22FzcDwrC_gzky4BwQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/zackfox",
@@ -10893,7 +10893,7 @@
       "address": "0x74162f5491efa02ee6673d6add8dc79222062169",
       "name": "Crystal Pops - Winter Edition by Goldweard",
       "standard": "erc721",
-      "symbol": "CRYSTALPOPSWINTEREDI",
+      "symbol": "CRYSTALPOPSWINTEREDITIONBYGOLDWEARD",
       "logoURI": "https://lh3.googleusercontent.com/Gq6omT3wwr-9zxvDrKzaYpIlAq2OPBMmw17qU2_AJlfaefiXRIcDqsotWUcTvO--fxJJ5GPw1arepZG46pcAryA3=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/goldweard",
@@ -10976,7 +10976,7 @@
       "address": "0x4d27c5de66dbc7acacc4c65426b331879cc40b8c",
       "name": "Drop 2: Alotta Money Open Edition",
       "standard": "erc721",
-      "symbol": "DROPALOTTAMONEYOPENE",
+      "symbol": "DROPALOTTAMONEYOPENEDITION",
       "logoURI": "https://lh3.googleusercontent.com/X80ahrha9oekkfwaK7-RNynF8lZHeVrBcDM2j1WF_tODXYJ6Fo4ndJrrcLrecyTnRIcpFF1F9q6BwLHEgiFN0H28pA-pCqvfCJ6U=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/alotta3",
@@ -11024,7 +11024,7 @@
       "address": "0x8db20e908afef5695baa63ef076189a9b37051cc",
       "name": "MOUNTAIN TIME by David OReilly",
       "standard": "erc721",
-      "symbol": "MOUNTAINTIMEBYDAVIDO",
+      "symbol": "MOUNTAINTIMEBYDAVIDOREILLY",
       "logoURI": "https://lh3.googleusercontent.com/G2nD1StckzFKrNJA9xwOSicMP5BVhiVjxYEnyViYSd70Qe8VJgVukV1L0AXLLc0tvd_uwpg9sc5sTx0Rczz3gVS-b-iH9-k0gjk3=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/davidoreilly",
@@ -11037,7 +11037,7 @@
       "address": "0x59be722aba100b488300cd65e4278be2fc783617",
       "name": "Tranquility Open Edition by Andreas Wannerstedt",
       "standard": "erc721",
-      "symbol": "TRANQUILITYOPENEDITI",
+      "symbol": "TRANQUILITYOPENEDITIONBYANDREASWANNERSTEDT",
       "logoURI": "https://lh3.googleusercontent.com/_dyAMATd7_hAFaJo4nc-NtrRrEL1qbQ2TMF_lFsSI84Fvm7-PGjt38K6mBgMcf8TFYW7Zl5TjDLr47ghQUBrNHYJCNX1LoxJ008OaQs=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/wannerstedt",
@@ -11125,7 +11125,7 @@
       "address": "0xba7f452035e90ce71a8b42de71f38c9863f1d0da",
       "name": "Select works by Julio Bencid",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYJULIOBE",
+      "symbol": "SELECTWORKSBYJULIOBENCID",
       "logoURI": "https://lh3.googleusercontent.com/TP9y5zyVJsLr8x9cl6M6rGjxACzmXOfd-NsYjiVl1znkcTMCxkWOX8k5OgoWgi7BQ-ieY7uYdglblqCOUocDEnqtqg=s120",
       "extensions": {
         "link": null,
@@ -11319,7 +11319,7 @@
       "address": "0x1452a116e3defcb2caa669e9ae6e5d293a5034b6",
       "name": "Dyer Light Art",
       "standard": "erc721",
-      "symbol": "DLA is Unique One of",
+      "symbol": "DLA is Unique One of a Kind Abstract Art Created Using Camera and Light",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -11328,7 +11328,7 @@
       "address": "0xa3c195b5924f0e05528d27bc55d1f158b4c17d06",
       "name": "ART of RESISTANCE Open Editions by PR1MAL CYPHER",
       "standard": "erc721",
-      "symbol": "ARTOFRESISTANCEOPENE",
+      "symbol": "ARTOFRESISTANCEOPENEDITIONSBYPRMALCYPHER",
       "logoURI": "https://lh3.googleusercontent.com/7_l5fBQjOPj1ZoWt4ZRDb2liF1mHyhIvfJEASOv_uHG5KKU5CgF2q1jaA_a6JFefrdOfHeKfAei29MDgZPudF7LRWVdqaEDEnXlTuA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/pr1malresistance1",
@@ -11517,7 +11517,7 @@
       "address": "0xd75c0967a159611dd317b72df68f8edf291905de",
       "name": "Jackson Pollock's Fucking Cigarette",
       "standard": "erc721",
-      "symbol": "JACKSONPOLLOCKSFUCKI",
+      "symbol": "JACKSONPOLLOCKSFUCKINGCIGARETTE",
       "logoURI": "https://lh3.googleusercontent.com/ctNOGrQ-ZV84zCIvZMtlunhFAdVjS1ce7PsIm5K0mcju0_1P9NR81-E8ERANP8f6UUI8e8nY08r5zMxRmiVHM5w2=s120",
       "extensions": {
         "link": null,
@@ -11574,7 +11574,7 @@
       "address": "0x8235e1f5893fe89ec6f7e6dcd989abf6028dbcdf",
       "name": "The Japanese Garden by Six n Five",
       "standard": "erc721",
-      "symbol": "THEJAPANESEGARDENBYS",
+      "symbol": "THEJAPANESEGARDENBYSIXNFIVE",
       "logoURI": "https://lh3.googleusercontent.com/hM6aXvv7cQfVWsvsyycj-O-_qp9NbpnWuozVHzEfiqTpXRsC7ln_eZztgd3pU3TBLGVxzOI6PBACDxDezHwakQ7WwYSVINmwoL7T6g=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/sixnfive",
@@ -11957,7 +11957,7 @@
       "address": "0xf6ece4711f447ca4e8b4dfbc23c192a5832569f9",
       "name": "Astronaut Bob Digital Art & Collectibles",
       "standard": "erc721",
-      "symbol": "Astronaut Bob Digita",
+      "symbol": "Astronaut Bob Digital Art & Collectibles",
       "logoURI": "https://lh3.googleusercontent.com/mFabgVrHX7qLkJoEnQ95etE9zBzQi167MY-aCa3aN2OwaXhYV2jxmlCrkoVgglYxin73lpv-WOkZWUJvAZLNgi_7JdzaRokv3ns-=s120",
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -12001,7 +12001,7 @@
       "address": "0x152242cd9dba772c4e541b51c556772caf47e985",
       "name": "Novus Moneta Seclorum by Lucho Poletti",
       "standard": "erc721",
-      "symbol": "NOVUSMONETASECLORUMB",
+      "symbol": "NOVUSMONETASECLORUMBYLUCHOPOLETTI",
       "logoURI": "https://lh3.googleusercontent.com/VjTa8GKGHYKDpesBrJmuO7csetlhJ6ZmOQk6JLVDtwP1p81xRB9hpr4K7FgrU4pNNK8LknBhZAUKvZUTAxlzLcIm=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/luchopoletti2",
@@ -12079,7 +12079,7 @@
       "address": "0xb882a8fd03be2b001843ad831bd9b451cd30fbec",
       "name": "Vantage x Kidmograph Open Edition",
       "standard": "erc721",
-      "symbol": "VANTAGEXKIDMOGRAPHOP",
+      "symbol": "VANTAGEXKIDMOGRAPHOPENEDITION",
       "logoURI": "https://lh3.googleusercontent.com/faOAV5EPouYFd-vfdmBKTKCX4Fwv3dJe1lUHYbMISOaiXVY9VsJvpsIFJT9h9sRKSDmVMfEvXXTelwC5wkzd6ZFkgioj-2z2-O1l1A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/kidmovantage",
@@ -12136,7 +12136,7 @@
       "address": "0xcaafe532e5f9fefd95b956d4e9f4327c60a17b1d",
       "name": "Slime Friday 69 by Slimesunday",
       "standard": "erc721",
-      "symbol": "SLIMEFRIDAYBYSLIMESU",
+      "symbol": "SLIMEFRIDAYBYSLIMESUNDAY",
       "logoURI": "https://lh3.googleusercontent.com/tq31Iblwe3DrVuTZo71zf_rQmKslnXMB0-r4HNkLUF7dxv1IhOxQSz-iY7rTKmWMbXylXkBdOsnZzXZed-Fmlfd6gcFUWDsARWS7Sg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/slimesunday2",
@@ -12175,7 +12175,7 @@
       "address": "0x39a54d3484ecfe677640a99b803a01b23385a801",
       "name": "BROKEN Open Edition by Marc Tudisco",
       "standard": "erc721",
-      "symbol": "BROKENOPENEDITIONBYM",
+      "symbol": "BROKENOPENEDITIONBYMARCTUDISCO",
       "logoURI": null,
       "extensions": {
         "link": "https://niftygateway.com/collections/marctudisco",
@@ -12337,7 +12337,7 @@
       "address": "0x3d9b128ce781a4a9c1057f785d97131a6357ca38",
       "name": "Forward Together by Josie Bellini",
       "standard": "erc721",
-      "symbol": "FORWARDTOGETHERBYJOS",
+      "symbol": "FORWARDTOGETHERBYJOSIEBELLINI",
       "logoURI": "https://lh3.googleusercontent.com/MH5BjzH36amUJIvYTs1C4ty-ZRcNp9heRIwKCHdEiFmgFISOzvLHhzKEIwtoYNUkfr_1m4or1EA7LAXoJF0lPd0=s120",
       "extensions": {
         "link": "https://josie.io/",
@@ -12468,7 +12468,7 @@
       "address": "0xf9acfb7a7b83344c636e3f3099ef11767b4488fd",
       "name": "CYBERBULLY COLLECTION by Matt Gondek",
       "standard": "erc721",
-      "symbol": "CYBERBULLYCOLLECTION",
+      "symbol": "CYBERBULLYCOLLECTIONBYMATTGONDEK",
       "logoURI": "https://lh3.googleusercontent.com/HQXh0k-VQTEua-rvZNq8M7EBKjFvNMxY-s9hr_dMoJJMDrdBz4vYQtumjbAXUY021IvrMnM4t--AzTtND6ByM7k=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/mattgondek",
@@ -12539,7 +12539,7 @@
       "address": "0x78c54a7523e7bdd63819a8affba7e8702cd48376",
       "name": "Micah Johnson and Matt Szczur",
       "standard": "erc721",
-      "symbol": "MICAHJOHNSONANDMATTS",
+      "symbol": "MICAHJOHNSONANDMATTSZCZUR",
       "logoURI": "https://lh3.googleusercontent.com/7B0oF-3IOFclPXKwCK8hPhvrkviNWN9EhklHNQEe6JAoYLOjFPQR-CAYReGWpaSmpR_C3wJ4XWvrrAmYPw5TsKgp=s120",
       "extensions": {
         "link": "https://micah-art.com/",
@@ -12601,7 +12601,7 @@
       "address": "0xc5b463f2c5abfa13afbd5965920db48c3701444e",
       "name": "Twisted Landscapes Open Edition by Nate Hill",
       "standard": "erc721",
-      "symbol": "TWISTEDLANDSCAPESOPE",
+      "symbol": "TWISTEDLANDSCAPESOPENEDITIONBYNATEHILL",
       "logoURI": "https://lh3.googleusercontent.com/t65CXL-ZUNP4hR5u6MZjwoCKz-KrvlTpA_XEFpwCoHYc5JKU28k2ca_W9d6hW4IgiOcsLeIX8bn167kdd2j9w38nbIQm83lKb1hT4Q=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/natehill",
@@ -13072,7 +13072,7 @@
       "address": "0x236b55f1a685c035c34c38f3657dc1cebaaeda53",
       "name": "SYM Open Edition by ARC x RAC",
       "standard": "erc721",
-      "symbol": "SYMOPENEDITIONBYARCX",
+      "symbol": "SYMOPENEDITIONBYARCXRAC",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -13123,9 +13123,9 @@
     {
       "chainId": 1,
       "address": "0x8aa1b6d4005b69a7c41ab1ab3b6d86d9a3bd093a",
-      "name": "ethArt",
+      "name": "FRZ",
       "standard": "erc721",
-      "symbol": "ARTE",
+      "symbol": "FRZ",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -13433,7 +13433,7 @@
       "address": "0x344a6a1a1d7066bf068efec73d724d06089c2063",
       "name": "The 6 Brides of Lucifer by Billelis",
       "standard": "erc721",
-      "symbol": "THEBRIDESOFLUCIFERBY",
+      "symbol": "THEBRIDESOFLUCIFERBYBILLELIS",
       "logoURI": "https://lh3.googleusercontent.com/h9U2OXmp63jtonRWn1NJiZbq971_W-spxAcpNg5KMPgHwXgOkL4QrXq72vcRxxhyBppx5m2xt0GvcURS-LU_qV31=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/billelis",
@@ -13455,7 +13455,7 @@
       "address": "0xf2a22a760026b1978118d7e256b4420cc531e87b",
       "name": "Digital Shaman by Lans King",
       "standard": "erc721",
-      "symbol": "DIGITALSHAMANBYLANSK",
+      "symbol": "DIGITALSHAMANBYLANSKING",
       "logoURI": "https://lh3.googleusercontent.com/zp_VOwawDkBdYj7yemct8uwWnVxgZEcmbhltWAWUaDeT6IhBsLsHVWhlZbqs-uvVubK2ZWWV8-j5b1UVyoJ5kH-A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/lansking",
@@ -13613,7 +13613,7 @@
       "address": "0xf1ae2f6991b7255d3b5266e6c56333858b3ebdd6",
       "name": "88mph Harvest yCRV Pool Deposit",
       "standard": "erc721",
-      "symbol": "88mph-Harvest-yCRV-D",
+      "symbol": "88mph-Harvest-yCRV-Deposit",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -13767,7 +13767,7 @@
       "address": "0x5eea8902ba05a5ed0ea7e36c7bbf2201a82107e2",
       "name": "Adventures Through The Multiverse by Carlos Luna James",
       "standard": "erc721",
-      "symbol": "ADVENTURESTHROUGHTHE",
+      "symbol": "ADVENTURESTHROUGHTHEMULTIVERSEBYCARLOSLUNAJAMES",
       "logoURI": "https://lh3.googleusercontent.com/sCf-jt8M_tU64yRmgJNO2Fpe3MoePBv7WXh8Tws0Ztkh0FEJ-mbnEMGA8PrKNK1pd0Yb61XQwFy_vMRvF7_Ra2-y=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/carloslunajames",
@@ -13828,7 +13828,7 @@
       "address": "0x6529efcd919ebd7e08859946ce36b26802df65ec",
       "name": "Nifty Ghost Collection by Trevor Andrew",
       "standard": "erc721",
-      "symbol": "NIFTYGHOSTCOLLECTION",
+      "symbol": "NIFTYGHOSTCOLLECTIONBYTREVORANDREW",
       "logoURI": null,
       "extensions": {
         "link": "https://niftygateway.com/collections/trevorandrew",
@@ -13880,7 +13880,7 @@
       "address": "0x8e81712892d9268050a33350cf81f604f026d18d",
       "name": "'Vandal Gummy' Rainbow Camo Edition by WhIsBe",
       "standard": "erc721",
-      "symbol": "VANDALGUMMYRAINBOWCA",
+      "symbol": "VANDALGUMMYRAINBOWCAMOEDITIONBYWHISBE",
       "logoURI": "https://lh3.googleusercontent.com/-02c5SFzqX3g28lHVeiYzF8zOi0GMj9DOG0Y1HAMM-tYur-TBQ9Iz62MnWX5sSrKQG9Yx9IZECC82QFlXH6HEV8=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/whisbe",
@@ -13932,7 +13932,7 @@
       "address": "0x91d12acb6d2548f7a87874b400dfa8739f31226d",
       "name": "REPRESSED// by Fvckrender",
       "standard": "erc721",
-      "symbol": "REPRESSEDBYFVCKRENDE",
+      "symbol": "REPRESSEDBYFVCKRENDER",
       "logoURI": "https://lh3.googleusercontent.com/o-Qc08O0Kw1nBRWIyggO1Fku8FPOPE5OgWkXSr0tfzI6337O6Yw68v6VwVbLNrTBit9eY6Grjv1WcK8qlf7dUDkQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/fvckrender",
@@ -14124,7 +14124,7 @@
       "address": "0x3e4c19ea950f054618dc658e374a694a10548d11",
       "name": "Platonic solids: the elements by Joanie Lemercier",
       "standard": "erc721",
-      "symbol": "PLATONICSOLIDSTHEELE",
+      "symbol": "PLATONICSOLIDSTHEELEMENTSBYJOANIELEMERCIER",
       "logoURI": "https://lh3.googleusercontent.com/Z-QI31H62lyPJCEc_Gi_1CTL0c8wBXPNImKWdPmGa99C6s7WKVz1jeAPCIrovNzbUVgcpP1pWLRpnUFJs4gI_WqgQAzAZ_-BCky2pA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/joanielemercier",
@@ -14216,7 +14216,7 @@
       "address": "0xa81e0193f30bbd6e83366a88b4570e8766ca2131",
       "name": "Warren Buffett – Decentral Eyes by Coldie",
       "standard": "erc721",
-      "symbol": "WARRENBUFFETTDECENTR",
+      "symbol": "WARRENBUFFETTDECENTRALEYESBYCOLDIE",
       "logoURI": "https://lh3.googleusercontent.com/fk6dFxZVmzajzH27DtbztVenZ8mL1_ZZdX3GjAxT5cgbIJRH69QZx8RH7ukqWk2Ir6OQ0odftubqhS-oMyLzLfU=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/coldie2",
@@ -14414,7 +14414,7 @@
       "address": "0x707ac7bf50539a7b3c2adbb6f53f4763a3f7b617",
       "name": "Polly Frocket by Loulou João",
       "standard": "erc721",
-      "symbol": "POLLYFROCKETBYLOULOU",
+      "symbol": "POLLYFROCKETBYLOULOUJOÃO",
       "logoURI": "https://lh3.googleusercontent.com/VGon7ZQeX-fhrSWoVVFm-uB2ChF45_j-zeDpRkhL-PSWK67PRJHKXRLL5yLDTMOsTZMEOnKLjlFnmiUoSxKHNPKe=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/louloujoao",
@@ -14464,9 +14464,9 @@
     {
       "chainId": 1,
       "address": "0x2374425c7e7ddf1d46f771f068d205aed551faf8",
-      "name": "MadToyJunction",
+      "name": "DCDT",
       "standard": "erc721",
-      "symbol": "MTJ",
+      "symbol": "DCDT",
       "logoURI": "https://lh3.googleusercontent.com/yws1nQs103WfVE3AXeC0u9vI3f7u_oeUlxC19sMzDNSuhkjL9tf6gH9W2bIwafsHCiMqjOfsG3-QTw0d-2j805w=s120",
       "extensions": {
         "link": "https://oliveallen.com/",
@@ -14642,7 +14642,7 @@
       "address": "0xbca6a5b87baf836acbf2c2f408a7a5967338e341",
       "name": "Mementos Open Edition by David McLeod",
       "standard": "erc721",
-      "symbol": "MEMENTOSOPENEDITIONB",
+      "symbol": "MEMENTOSOPENEDITIONBYDAVIDMCLEOD",
       "logoURI": "https://lh3.googleusercontent.com/W6BgfQn2GDKl_KR_fa-wUX7xBFjnQEcJHz0p0G4tPuvY4YxCZumhHUjq1mAGqA3pQ00H2tizfsRDT-gBg4hW71xxLPQmYvxAbFrS_j0=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/davidmcleod",
@@ -14682,7 +14682,7 @@
       "address": "0xc2769705c80a744d484e7977728f66b318a68575",
       "name": "Spazzeh",
       "standard": "erc721",
-      "symbol": "A Pixelartist's have",
+      "symbol": "A Pixelartist's haven for pixelart.",
       "logoURI": "https://lh3.googleusercontent.com/uHL-kACw81ekrVS9UuUYen7rviSwWc8_JxliOzUM_d9lV3V6mfM2PEQ6f6kRrquoy-HEEzcBNOJd724Zv9cCBl4=s120",
       "extensions": {
         "link": null,
@@ -14695,7 +14695,7 @@
       "address": "0x20051ec5c65e5211a6b9bccb316616e6b254fb94",
       "name": "Dimenticati Open Edition by Simone Vezzani",
       "standard": "erc721",
-      "symbol": "DIMENTICATIOPENEDITI",
+      "symbol": "DIMENTICATIOPENEDITIONBYSIMONEVEZZANI",
       "logoURI": "https://lh3.googleusercontent.com/Gw_-thaqyyySMewqnKBNorzLhQ1nmGGsvLMX1XpyXMTSnqRqalPe9h2WwHYDHHJznBsmfagzpu0bXwJhmp1m1p4=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/simonevezzani",
@@ -15181,7 +15181,7 @@
       "address": "0x2a741a11233706ee57b25e39d3ad328a6aaf5741",
       "name": "Icon Series Open Edition by Steven Baltay",
       "standard": "erc721",
-      "symbol": "ICONSERIESOPENEDITIO",
+      "symbol": "ICONSERIESOPENEDITIONBYSTEVENBALTAY",
       "logoURI": "https://lh3.googleusercontent.com/tQBnHSx2dWJt_u0NV1qyYyXiFIhL8a4oFFz_0cxWtSN213-wHGcFM2lkpI1-gEvnrHBoBUYUYTyyXfdMKiMD3jjD=s120",
       "extensions": {
         "link": "https://www.instagram.com/realimposter/",
@@ -15216,7 +15216,7 @@
       "address": "0xf068408d745c4e6c6463618bcfe0e4365ae613e6",
       "name": "Information Pamphlet by Gavin Shapiro",
       "standard": "erc721",
-      "symbol": "INFORMATIONPAMPHLETB",
+      "symbol": "INFORMATIONPAMPHLETBYGAVINSHAPIRO",
       "logoURI": "https://lh3.googleusercontent.com/hpIeDe5ni1avwif9ItRrpWWNFl7mFVo3nHXXXOCgm9LVH0bfOK9QIlG8sl7efSnVrAleXdckKCNlcVTuyyvftcDA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/gavinshapiro",
@@ -15238,7 +15238,7 @@
       "address": "0xef60d1a85b9c23aba2e79079f500561b440c97cf",
       "name": "Select Works by Jakub Spacek",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYJAKUBSP",
+      "symbol": "SELECTWORKSBYJAKUBSPACEK",
       "logoURI": "https://lh3.googleusercontent.com/38qrMg3KjzesyHXGVQJY760EcB60GLfyRt2NK1lnZqSpqIH2-oOuZxyoknYrIpCdiNX5z-rOiIW5XEffxShAU1i_=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/jakubspacek",
@@ -15431,7 +15431,7 @@
       "address": "0xa17da9b6ce8f4e1bc8e26eb7d87976bedbc0c939",
       "name": "When I wonder, I wander by Giant Swan",
       "standard": "erc721",
-      "symbol": "WHENIWONDERIWANDERBY",
+      "symbol": "WHENIWONDERIWANDERBYGIANTSWAN",
       "logoURI": "https://lh3.googleusercontent.com/3VPSXRnS_nnFOew-ti_KPnJj_2l4ipW5gR3mLQ67iutGI6PZoGoagLxSJZdbUBNoqrc5h0bR_vpwduY9xjSU77-w=s120",
       "extensions": {
         "link": null,
@@ -15444,7 +15444,7 @@
       "address": "0xc6309e8b5737362560538c98ebe73c81c91d56d1",
       "name": "The 21 Million Project by Carlos Marcial",
       "standard": "erc721",
-      "symbol": "THEMILLIONPROJECTBYC",
+      "symbol": "THEMILLIONPROJECTBYCARLOSMARCIAL",
       "logoURI": "https://lh3.googleusercontent.com/QLYGooSO-UA3M5tRqf_zG7lmn_TL0CT-5GiV7VLnLGX9kSGAwRLwuCK_munCIalljnSywiMP7txo0jrHSkIeGVUO=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/carlosmarcial",
@@ -15541,7 +15541,7 @@
       "address": "0x4140783cc1ba30653a0777126b122931e233ba14",
       "name": "Nifty Ghost Collection Open Edition by Trevor Andrew",
       "standard": "erc721",
-      "symbol": "NIFTYGHOSTCOLLECTION",
+      "symbol": "NIFTYGHOSTCOLLECTIONOPENEDITIONBYTREVORANDREW",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -15844,7 +15844,7 @@
       "address": "0x80f82055b8f5f110971aeba336a2dfd6c4fb6a93",
       "name": "AUGMENTED REALITY ARTWORKS by Jam Sutton",
       "standard": "erc721",
-      "symbol": "AUGMENTEDREALITYARTW",
+      "symbol": "AUGMENTEDREALITYARTWORKSBYJAMSUTTON",
       "logoURI": "https://lh3.googleusercontent.com/w-epMwxOJ3dt_eVQPFPlSIMwMMrrVzcF7r4H66K0hWfkXoyd8jkBy8_n-HR-soMkl4IW1sq8lVa-iLvbkE9cw2C9tfNh4sxsaQFj=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/jamsutton",
@@ -15910,7 +15910,7 @@
       "address": "0xee49ececa7853104a2ac68faff8568598f8af226",
       "name": "88mph Harvest crvHUSD Pool Deposit",
       "standard": "erc721",
-      "symbol": "88mph-Harvest-crvHUS",
+      "symbol": "88mph-Harvest-crvHUSD-Deposit",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -15919,7 +15919,7 @@
       "address": "0x937cbf3eb78cf29f35dfb119efc2796226268e0b",
       "name": "Skeletoons Open Edition By Goldweard",
       "standard": "erc721",
-      "symbol": "SKELETOONSOPENEDITIO",
+      "symbol": "SKELETOONSOPENEDITIONBYGOLDWEARD",
       "logoURI": "https://lh3.googleusercontent.com/Gq6omT3wwr-9zxvDrKzaYpIlAq2OPBMmw17qU2_AJlfaefiXRIcDqsotWUcTvO--fxJJ5GPw1arepZG46pcAryA3=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/goldweard",
@@ -15985,7 +15985,7 @@
       "address": "0x1a55378fc44cf67cb698969582f8c54aa65be41e",
       "name": "Heroes of Cinema by Jose Delbo",
       "standard": "erc721",
-      "symbol": "HEROESOFCINEMABYJOSE",
+      "symbol": "HEROESOFCINEMABYJOSEDELBO",
       "logoURI": "https://lh3.googleusercontent.com/VaAuvbr0qO7TrGcy3VNytW6Oam31Tzyjs_KSWesXpbcKea7qvCHx618CkhxrHfeX-KD_yFgHSFjZOy1uPFgwmu4C-w=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/josedelbo",
@@ -16215,7 +16215,7 @@
       "address": "0xc0cc366a05d24fc63c1147c009f827e94fb4878d",
       "name": "The Array Collection by SSX3LAU",
       "standard": "erc721",
-      "symbol": "THEARRAYCOLLECTIONBY",
+      "symbol": "THEARRAYCOLLECTIONBYSSXLAU",
       "logoURI": "https://lh3.googleusercontent.com/pryXVT8LOxOZZOW9fGb1GuUWdX1PxZhWLCP8sfEyv4vvtX1ZJeGRiB0D3v4plow_9oP-maxyheoA91MqnHUIVHaYeg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/ssx3lau",
@@ -16339,7 +16339,7 @@
       "address": "0xcef3433e4f71124133ee4f08a317beff79b8555c",
       "name": "multis",
       "standard": "erc721",
-      "symbol": "KEY",
+      "symbol": "UDT",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -16440,7 +16440,7 @@
       "address": "0x0989e8882478793ba46bffccb1a5ea7992534bf5",
       "name": "The Honorrollers by Honorroller",
       "standard": "erc721",
-      "symbol": "THEHONORROLLERSBYHON",
+      "symbol": "THEHONORROLLERSBYHONORROLLER",
       "logoURI": "https://lh3.googleusercontent.com/WEs_lFjeWH1ZTzTNByQp89xh_QnYfLhfYuQMU6t-TPz1NmOyxXJFgH6LeZwIA3szd3NaU6_BG4MSkxx9hEsRfPoQlQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/honorroller",
@@ -16611,7 +16611,7 @@
       "address": "0xd46cd035e8a68743aeb09572dc1446d46db6bcdd",
       "name": "Micah Johnson and Dansby Swanson",
       "standard": "erc721",
-      "symbol": "MICAHJOHNSONANDDANSB",
+      "symbol": "MICAHJOHNSONANDDANSBYSWANSON",
       "logoURI": "https://lh3.googleusercontent.com/cZfa5Y9BWeZdVAbzxYbmonArjEs1QBVgwEtPBBmGPmpdaf4JF8vTElSkFUplb-3uZbVZgimxfJEP2qKkFjqonbvJ=s120",
       "extensions": {
         "link": "https://micah-art.com/",
@@ -16712,7 +16712,7 @@
       "address": "0x3b7296d63f799c1566b0c09df61cb7fdd6ac95cb",
       "name": "Looking in the Mirror by FEWOCiOUS",
       "standard": "erc721",
-      "symbol": "LOOKINGINTHEMIRRORBY",
+      "symbol": "LOOKINGINTHEMIRRORBYFEWOCIOUS",
       "logoURI": "https://lh3.googleusercontent.com/ZRXLLhatw2osjEvQnsla7rg-ne24tgJ4mgqLT_jZjDBWR_-v5V4nSNUathacUwmkPjJkIHMQvnzfLj8KAW6PIrrK=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/fewocious",
@@ -16905,7 +16905,7 @@
       "address": "0x5e98f414c00b72f377e8db9b9b40413c00ba61ac",
       "name": "Konbini Series by JENISU",
       "standard": "erc721",
-      "symbol": "KONBINISERIESBYJENIS",
+      "symbol": "KONBINISERIESBYJENISU",
       "logoURI": "https://lh3.googleusercontent.com/KI7xUDo1ifIIMgtK0PE6VrFNzRa8FzPIcsTSjhPRU3N7eSZuMTt1Hb32w3n__EsTc2oW6_IZd8AMNrO-8_heHayT=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/jenisu",
@@ -16918,7 +16918,7 @@
       "address": "0xd33cec84af0e354019dab48a170d9bfa9633c2c2",
       "name": "FIAT vs Bitcoin Open Edition by Jon Noorlander",
       "standard": "erc721",
-      "symbol": "FIATVSBITCOINOPENEDI",
+      "symbol": "FIATVSBITCOINOPENEDITIONBYJONNOORLANDER",
       "logoURI": "https://lh3.googleusercontent.com/46lqlndk5xeZdVVPFnrrR3m8MK_5Bc5DAK58ZHF17tWrml_U7poeBfXAqyLdmKy1eYa89SPpAfvLgcve-FbbjkNm=s120",
       "extensions": {
         "link": null,
@@ -17093,7 +17093,7 @@
       "address": "0xb9b25168c28499b248bbbe514e685eca1892547d",
       "name": "KATE MOSS - RED TOKEN",
       "standard": "erc721",
-      "symbol": "https://www.annaloui",
+      "symbol": "https://www.annalouisesimpson.com/kate-moss-red-token",
       "logoURI": "https://lh3.googleusercontent.com/3AHBx4e9C_Nqnh6uv8bLtjwZgkbwY_2Hj9rVIH2wKRKn5Vv13r3K9EA0vVRHTNPWoe12oQ-v0ZToWaM_nJd3gZk4=s120",
       "extensions": {
         "link": "https://www.annalouisesimpson.com/",
@@ -17229,7 +17229,7 @@
       "address": "0x93eaa057873ffa2a7494391008f17f456556945d",
       "name": "Relief of Neuroaesthetics by Jakub Špaček",
       "standard": "erc721",
-      "symbol": "RELIEFOFNEUROAESTHET",
+      "symbol": "RELIEFOFNEUROAESTHETICSBYJAKUBŠPAČEK",
       "logoURI": "https://lh3.googleusercontent.com/38qrMg3KjzesyHXGVQJY760EcB60GLfyRt2NK1lnZqSpqIH2-oOuZxyoknYrIpCdiNX5z-rOiIW5XEffxShAU1i_=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/jakubspacek",
@@ -17242,7 +17242,7 @@
       "address": "0x116fac0e751316e5c3726af3457773666434c815",
       "name": "Select Works by Vincent Ubags",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYVINCENT",
+      "symbol": "SELECTWORKSBYVINCENTUBAGS",
       "logoURI": "https://lh3.googleusercontent.com/f_3gp_cWE-b8ySSaUAf-MWFz7_93bkOhmkF0pKn8XwyUI_xzAHTq6XIETl2BiHE-fBScWsJW2VBnsgx1wZy_3Cw=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/vincentubags",
@@ -17316,7 +17316,7 @@
       "address": "0x9d27956b06d4b5332067c2d188c8aeb875dcbf4f",
       "name": "Select Works by Alotta Money",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYALOTTAM",
+      "symbol": "SELECTWORKSBYALOTTAMONEY",
       "logoURI": "https://lh3.googleusercontent.com/1V94-QVNqcIhPRsLrd__4CiJfNfO7-lmUxKJDx1VmDEHMkdRP6hyP4E1EC_bsBdJJ310Uim1Cs-v-FjiOckTeGm1=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/alottamoney",
@@ -17364,7 +17364,7 @@
       "address": "0xda74cc9b4a12d412d04ccf2c621f1627c5b123ee",
       "name": "Terra Futura Packs by Blake Kathryn",
       "standard": "erc721",
-      "symbol": "TERRAFUTURAPACKSBYBL",
+      "symbol": "TERRAFUTURAPACKSBYBLAKEKATHRYN",
       "logoURI": "https://lh3.googleusercontent.com/UBdHUlokfKx0f-rJ6GyxdlUnWRTNRsltdrP274AUcKu7QzMGjlt3JpYgYdzmuQ7jvmCrMfnGaiE5n8sNQCQIp7HwGcELwOHAbsxL=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/blakekathrynpacks",
@@ -17377,7 +17377,7 @@
       "address": "0x581df00bceb092482c388ed474152eff0d36bb79",
       "name": "Select Works by Steven Baltay",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYSTEVENB",
+      "symbol": "SELECTWORKSBYSTEVENBALTAY",
       "logoURI": "https://lh3.googleusercontent.com/tQBnHSx2dWJt_u0NV1qyYyXiFIhL8a4oFFz_0cxWtSN213-wHGcFM2lkpI1-gEvnrHBoBUYUYTyyXfdMKiMD3jjD=s120",
       "extensions": {
         "link": "https://www.instagram.com/realimposter/",
@@ -17403,7 +17403,7 @@
       "address": "0xc5df17e0d110601f15b19f62d460af3e504bd6fc",
       "name": "Entangled by Jon Noorlander",
       "standard": "erc721",
-      "symbol": "ENTANGLEDBYJONNOORLA",
+      "symbol": "ENTANGLEDBYJONNOORLANDER",
       "logoURI": "https://lh3.googleusercontent.com/46lqlndk5xeZdVVPFnrrR3m8MK_5Bc5DAK58ZHF17tWrml_U7poeBfXAqyLdmKy1eYa89SPpAfvLgcve-FbbjkNm=s120",
       "extensions": {
         "link": null,
@@ -17499,7 +17499,7 @@
       "address": "0x50634153f5745949c579456445343dbb82c6c032",
       "name": "Still Movements by Mankind",
       "standard": "erc721",
-      "symbol": "STILLMOVEMENTSBYMANK",
+      "symbol": "STILLMOVEMENTSBYMANKIND",
       "logoURI": "https://lh3.googleusercontent.com/ILINbmnq-B7K-xHcgPDbA41WJgkGJwGGNd4a1icoXooiskAnkncehBEc8D86n2jInjIe9YhuCivMhW_mr4XvPsOP=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/mankind",
@@ -17512,7 +17512,7 @@
       "address": "0xa8bd2de03228d1bb1686fe813047f2a4c638723c",
       "name": "DISRUPTOR Open Edition by XCOPY",
       "standard": "erc721",
-      "symbol": "DISRUPTOROPENEDITION",
+      "symbol": "DISRUPTOROPENEDITIONBYXCOPY",
       "logoURI": "https://lh3.googleusercontent.com/daDz5_fx7WTJO4Ew5uV8thdvy_4edFq7P2T2HKMyaQLPRIGf1dHG1ok7lFsaLGCrU_Y7V3zNL4vys28Oe07DXh7m=s120",
       "extensions": {
         "link": "https://xcopyart.com/",
@@ -17573,7 +17573,7 @@
       "address": "0xf186807982b56c2463da2a76bd8b1b69b979f9eb",
       "name": "Cloudy by Bryan Brinkman",
       "standard": "erc721",
-      "symbol": "CLOUDYBYBRYANBRINKMA",
+      "symbol": "CLOUDYBYBRYANBRINKMAN",
       "logoURI": "https://lh3.googleusercontent.com/xTuja2w_KFAN6Y6kVqPLBflkgHztdQG80drD3k2-D_Zd3_HltaJkCrT1KKzOdyPzvYETnHjQBkKSsAKkAbRSpM6b=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/bryanbrinkman",
@@ -17849,7 +17849,7 @@
       "address": "0xc2a7d3b40e26d309328e227e62fd4a43de44091f",
       "name": "Astro & The Universe | Futurstic Art by Studio JQ",
       "standard": "erc721",
-      "symbol": "ASTROTHEUNIVERSEFUTU",
+      "symbol": "ASTROTHEUNIVERSEFUTURSTICARTBYSTUDIOJQ",
       "logoURI": "https://lh3.googleusercontent.com/_2z4BxQC7q2OvAyMD9RN6CfT4AneunNcGzkK0NMUTNv1u076Eambp5mfTnPofsFNyotwy9UVM_FxyoSL7PE7NAPjZQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/studiojq",
@@ -17862,7 +17862,7 @@
       "address": "0x78e133eb8125b1ecddb4b7a520ba2085a20c1144",
       "name": "5 year of Ethereum",
       "standard": "erc721",
-      "symbol": "KEY",
+      "symbol": "UDT",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -17942,7 +17942,7 @@
       "address": "0x35db8ee89099ce0f60699672c19023819a744772",
       "name": "Lans King",
       "standard": "erc721",
-      "symbol": "DIGITALCAPSULESTHEHY",
+      "symbol": "DIGITALCAPSULESTHEHYPERREALITYSHOW",
       "logoURI": "https://lh3.googleusercontent.com/zp_VOwawDkBdYj7yemct8uwWnVxgZEcmbhltWAWUaDeT6IhBsLsHVWhlZbqs-uvVubK2ZWWV8-j5b1UVyoJ5kH-A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/lansking",
@@ -17964,7 +17964,7 @@
       "address": "0x67b50a45a9751b215c5cfce281600e01b02d1f57",
       "name": "Kikai Ningyou",
       "standard": "erc721",
-      "symbol": "TWISTEDVACANCYEDITIO",
+      "symbol": "TWISTEDVACANCYEDITION",
       "logoURI": "https://lh3.googleusercontent.com/8E6fUQyumJJvFMpBGjo0c7z-9gY6apHvWQ_q9_2LjfDVz3Aq2JO_DQpVqFKi5mxuoKO35TTazRrW1WQGtiHnIWIj9A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/twistedcollectibles",
@@ -18039,7 +18039,7 @@
       "address": "0xc54d12e665d7b94cd944d1958cef923ec3bfc7d7",
       "name": "Postage Stamp Series by Jenisu",
       "standard": "erc721",
-      "symbol": "POSTAGESTAMPSERIESBY",
+      "symbol": "POSTAGESTAMPSERIESBYJENISU",
       "logoURI": "https://lh3.googleusercontent.com/KI7xUDo1ifIIMgtK0PE6VrFNzRa8FzPIcsTSjhPRU3N7eSZuMTt1Hb32w3n__EsTc2oW6_IZd8AMNrO-8_heHayT=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/jenisu",
@@ -18347,7 +18347,7 @@
       "address": "0x35d2c040cd252a00dc2cdfb9fd3034bd99da2d45",
       "name": "Select Works by Perry Cooper",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYPERRYCO",
+      "symbol": "SELECTWORKSBYPERRYCOOPER",
       "logoURI": "https://lh3.googleusercontent.com/n93gqRNObIz-5z4bGNeU1_g1oZVd2Hb8LTMW3PbSqw6bqRs5H41dpkMmDJGygvC3VR0md8PqyoLS4ZZcC0uAfJdmGw=s120",
       "extensions": {
         "link": "https://www.instagram.com/perry__cooper/",
@@ -18360,7 +18360,7 @@
       "address": "0xe4ba5dcfe6561b74595f13d3907975d956a7317e",
       "name": "The Gateway & Numen By Arben Vllasaliu",
       "standard": "erc721",
-      "symbol": "THEGATEWAYNUMENBYARB",
+      "symbol": "THEGATEWAYNUMENBYARBENVLLASALIU",
       "logoURI": "https://lh3.googleusercontent.com/Qsk926Nu_je4D6bo0VQ7KTh5Jb5K0NPsgisWU7R4IRpJmdvPUSoPyZz_0U83YrmarZ8mIuVQ_IszcwpmlRZKJvJrMDbbIYDg3h2SgQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/arben2",
@@ -18395,7 +18395,7 @@
       "address": "0x26dc256dc5832a7ea16693319b3ffd90d37f286e",
       "name": "Metamorphosis Open Edition By Metageist",
       "standard": "erc721",
-      "symbol": "METAMORPHOSISOPENEDI",
+      "symbol": "METAMORPHOSISOPENEDITIONBYMETAGEIST",
       "logoURI": "https://lh3.googleusercontent.com/cwf4Wm3NopMwDirki-fY9dmgRfkIqqwY1zhuQHANMRRAVq0Bs-amdcfJqT6YXIDcuaUHU_0fMT-Y-y7qZpdm7Mf_bT0mGO7XRZ7_0w=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/metageist2",
@@ -18632,7 +18632,7 @@
       "address": "0xec5b08d6113a98edb872fa2d8edfa9f2472b823c",
       "name": "88mph Harvest 3CRV Pool Deposit",
       "standard": "erc721",
-      "symbol": "88mph-Harvest-3CRV-D",
+      "symbol": "88mph-Harvest-3CRV-Deposit",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -18641,7 +18641,7 @@
       "address": "0x99b8846bb7540f377e18994a6c34bd4e0e6d79da",
       "name": "Infinite Places by Pi-Slices",
       "standard": "erc721",
-      "symbol": "INFINITEPLACESBYPISL",
+      "symbol": "INFINITEPLACESBYPISLICES",
       "logoURI": "https://lh3.googleusercontent.com/Nztuo01Ld4XQY7fFhFV0wDzBdlNxG2kE12WVNv7M8-EtGpDZl06hNDz2fxHT7pznpx9i7knU3wqcTJbqtYKKTtvugg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/pislices2",
@@ -18654,7 +18654,7 @@
       "address": "0x013d3968cba2052aa1e63f149aa4cba3ea3d45c3",
       "name": "Shapiro500 - Blackout Edition",
       "standard": "erc721",
-      "symbol": "SHAPIROBLACKOUTEDITI",
+      "symbol": "SHAPIROBLACKOUTEDITION",
       "logoURI": "https://lh3.googleusercontent.com/hpIeDe5ni1avwif9ItRrpWWNFl7mFVo3nHXXXOCgm9LVH0bfOK9QIlG8sl7efSnVrAleXdckKCNlcVTuyyvftcDA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/gavinshapiro",
@@ -18676,7 +18676,7 @@
       "address": "0xe0edeeb50b8b31208c4aa10558d10c34060d5719",
       "name": "Lifeforms by Esteban Diácono",
       "standard": "erc721",
-      "symbol": "LIFEFORMSBYESTEBANDI",
+      "symbol": "LIFEFORMSBYESTEBANDIÁCONO",
       "logoURI": "https://lh3.googleusercontent.com/S1SLwphKz5OMZdKQt8n8vph_ORFSEHCe7ZKGJ5HY9t5Ujx1BQ5Y4zWjCDr6Ni2DvVb6TWLHYDLAYv9C9ZbtQTXw=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/estebandiacono",
@@ -18689,7 +18689,7 @@
       "address": "0x8f9043bac98bed14a4ada269d3601fdf4914e97b",
       "name": "Nicely Moving Thing by Lucas Zanotto",
       "standard": "erc721",
-      "symbol": "NICELYMOVINGTHINGBYL",
+      "symbol": "NICELYMOVINGTHINGBYLUCASZANOTTO",
       "logoURI": "https://lh3.googleusercontent.com/Cxf_ZVfXe4uhrXnwEWetkLU5lTMV6KM6b6hdQ9dvzmC9pnHyOMLCP1hkjBVZemmKBDXUT-cHSmXUAvjd95Ii7RCo=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/lucaszanotto",
@@ -18715,7 +18715,7 @@
       "address": "0xc94a53e070f3680bd83c85b8fbb15ba7fc3592aa",
       "name": "I'm A Monster by Twisted Vacancy",
       "standard": "erc721",
-      "symbol": "IMAMONSTERBYTWISTEDV",
+      "symbol": "IMAMONSTERBYTWISTEDVACANCY",
       "logoURI": "https://lh3.googleusercontent.com/8E6fUQyumJJvFMpBGjo0c7z-9gY6apHvWQ_q9_2LjfDVz3Aq2JO_DQpVqFKi5mxuoKO35TTazRrW1WQGtiHnIWIj9A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/twistedcollectibles",
@@ -18780,7 +18780,7 @@
       "address": "0x90d37ba08721337b875a3474784f075f7db4fb07",
       "name": "Tranquility by Andreas Wannerstedt",
       "standard": "erc721",
-      "symbol": "TRANQUILITYBYANDREAS",
+      "symbol": "TRANQUILITYBYANDREASWANNERSTEDT",
       "logoURI": "https://lh3.googleusercontent.com/_dyAMATd7_hAFaJo4nc-NtrRrEL1qbQ2TMF_lFsSI84Fvm7-PGjt38K6mBgMcf8TFYW7Zl5TjDLr47ghQUBrNHYJCNX1LoxJ008OaQs=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/wannerstedt",
@@ -18877,7 +18877,7 @@
       "address": "0x0c0eb6d8f72208c10996780772e8fef1f9db47b8",
       "name": "I've just robbed the crypto bank by Dot Pigeon",
       "standard": "erc721",
-      "symbol": "IVEJUSTROBBEDTHECRYP",
+      "symbol": "IVEJUSTROBBEDTHECRYPTOBANKBYDOTPIGEON",
       "logoURI": "https://lh3.googleusercontent.com/THsnzwrOMBtV7elfGR0b25GdBhpPrjY9KrfihziEPLv_43b4NmYLqiFVNwk29EditQ7KtJ_tn8YNGmpCL2Nr2y7J7B3NKihRHlGOEg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/dotpigeon",
@@ -18912,7 +18912,7 @@
       "address": "0xf6443afda5f035db5cf7f53fb34bec5d917ed3a1",
       "name": "Icons by Klarens Malluta",
       "standard": "erc721",
-      "symbol": "ICONSBYKLARENSMALLUT",
+      "symbol": "ICONSBYKLARENSMALLUTA",
       "logoURI": "https://lh3.googleusercontent.com/AGLtfrggmIWWymQzsOPa6zK32Mw1Nq-EFPUhy_9jZhHWTxjBG5uxZEtUG42MKUMH2x9GhMp4mNiUu_5ZYZtngeqQ_HfMKTcM5vgNXw=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/klarens",
@@ -19044,7 +19044,7 @@
       "address": "0x7f17adbd141667071acd47494bed85ead14ed6a5",
       "name": "IMMERSION by Render Fruit",
       "standard": "erc721",
-      "symbol": "IMMERSIONBYRENDERFRU",
+      "symbol": "IMMERSIONBYRENDERFRUIT",
       "logoURI": "https://lh3.googleusercontent.com/Yu_mmzxpIEQ2ADDMyKbkeqtnFxklPKnjM7Qek-HEYgUhGNcYv0V-bUfU2nUczxRfrfQGKQPe6dmit9BsHwR5wrghyw=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/renderfruit",
@@ -19057,7 +19057,7 @@
       "address": "0x565fffca446719ee3561366dbe8d1ba9bf1a4e89",
       "name": "Be Not Afraid Open Edition by Sarah Zucker",
       "standard": "erc721",
-      "symbol": "BENOTAFRAIDOPENEDITI",
+      "symbol": "BENOTAFRAIDOPENEDITIONBYSARAHZUCKER",
       "logoURI": "https://lh3.googleusercontent.com/ElIIFiHIa6ZPl4o_n5DgujreT71YQQBHu0YVpJp_AweKFIpW2KGLG9Y17AAsMtef6CF1TLT7D-CSY5cEEyKbRPzg7cOCPvm3wbuF=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/SarahZucker2",
@@ -19314,7 +19314,7 @@
       "address": "0xf5871578c8a08f63f2e00c2929c049e12b3914e5",
       "name": "Gonzo Non Fungi Shop",
       "standard": "erc721",
-      "symbol": "Art, memes, and gene",
+      "symbol": "Art, memes, and general gonzo madness from the mind of Johnny Gonzo",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -19323,7 +19323,7 @@
       "address": "0xc4e0bf581d0bd8efa48ea2ffa59057f5e2347a8c",
       "name": "Select Works by Zigor Samaniego",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYZIGORSA",
+      "symbol": "SELECTWORKSBYZIGORSAMANIEGO",
       "logoURI": "https://lh3.googleusercontent.com/Cvph-79bre0AjtOqmnltHNdfu87kXgj_3BpyWdmqL6dYfITdqP9QpjZHGneLIVtuaFv7uXVYls6c8sOMK8eMxNNe=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/zigor",
@@ -19367,7 +19367,7 @@
       "address": "0xccc11b96265ea6c3e18400c8be45c7d96c8332c2",
       "name": "This Is Addictive by Daniel Allen Cohen",
       "standard": "erc721",
-      "symbol": "THISISADDICTIVEBYDAN",
+      "symbol": "THISISADDICTIVEBYDANIELALLENCOHEN",
       "logoURI": "https://lh3.googleusercontent.com/avc4F7jbqlvyM998jp0DpmGvU4_6v5aQ5ouiwMmnWKtjmMVcgsl3JzxSd7gV0RsL1cyD4hczhz0qjDmCuybB08ewGQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/danielallencohen",
@@ -19415,7 +19415,7 @@
       "address": "0xedf550b50218d3c87d99b6fd05722c16e65140c7",
       "name": "Hope for the Apocalypse by Niko Christian",
       "standard": "erc721",
-      "symbol": "HOPEFORTHEAPOCALYPSE",
+      "symbol": "HOPEFORTHEAPOCALYPSEBYNIKOCHRISTIAN",
       "logoURI": "https://lh3.googleusercontent.com/NTk7aLdbRKNhA_o-zZbWemRMkect0Q2XvRS4ZbMedHu6yFgmbMmObMzx8ASOrM0oYYc72qGvcxrmOlBbF0--LFhi8w=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/cnik",
@@ -19502,7 +19502,7 @@
       "address": "0xcd2163d82466b4726a3c9b4d476b89977bf4e924",
       "name": "History of the Future by Skygolpe",
       "standard": "erc721",
-      "symbol": "HISTORYOFTHEFUTUREBY",
+      "symbol": "HISTORYOFTHEFUTUREBYSKYGOLPE",
       "logoURI": "https://lh3.googleusercontent.com/HfZET1xCDzGLQsH1JaapxLe6suFkHiFa8qp0RqfsX6d9FL1szNis1KTz1PwhEsyXgdSbP77mTjNSTlgn_MJ7AhF9EnTToUmztyg6g5Y=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/skygolpe",
@@ -19696,7 +19696,7 @@
       "address": "0x7b61162a188a180c99129e0c7a5230be14d91beb",
       "name": "MANIBUS Open Editions By MREGFX",
       "standard": "erc721",
-      "symbol": "MANIBUSOPENEDITIONSB",
+      "symbol": "MANIBUSOPENEDITIONSBYMREGFX",
       "logoURI": "https://lh3.googleusercontent.com/CRbezyIegfyIWy_Bod9X7G4eyHhWOE-WBfZtYBQnIn1YA_zQoM15sX38O52d0tp8s-s6yFVNo88buxgHTbv2qd59fGrfWCD0WT3wook=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/mregfx",
@@ -19709,7 +19709,7 @@
       "address": "0xa6b6110a896594314ca1de978ee2f2253c84bb93",
       "name": "Select Works by Upendo Taylor",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYUPENDOT",
+      "symbol": "SELECTWORKSBYUPENDOTAYLOR",
       "logoURI": "https://lh3.googleusercontent.com/IcvoIxQouO06bgg-Wl8fliRLUCwpk2d6FANWLekW_g1ytrd7VJGHLmqgHtQ8OvmeuTs-4WoaNQCHludk4ZvkWuTr=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/upendo",
@@ -19925,7 +19925,7 @@
       "address": "0x9b5bb91587899d2169d16bf8086b1824b6b1098a",
       "name": "In reditu Open Edition by Ekaitza",
       "standard": "erc721",
-      "symbol": "INREDITUOPENEDITIONB",
+      "symbol": "INREDITUOPENEDITIONBYEKAITZA",
       "logoURI": "https://lh3.googleusercontent.com/uh-K7Q3rIMPaJfShLIvfyfvTtycC4Lcm-nYKbe1WjUZ7IQlQbGoOMs9VXGwwsD-1PgNv-Z0kJOGQw-IPjgdAt3dhpYuTAZRbAi6o=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/ekaitza2",
@@ -19938,7 +19938,7 @@
       "address": "0x9925b7d92dfe10a4dcef2c873a56c7c3c7c8b656",
       "name": "Select Works by Lucho Poletti",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYLUCHOPO",
+      "symbol": "SELECTWORKSBYLUCHOPOLETTI",
       "logoURI": "https://lh3.googleusercontent.com/zf5w6H5Aj2m3dlTCK4gtOucMKdrKoTR8eWzjkdexyV4XWQmk753QpzQqDIcf74i5BAwPvqpz9sLSOgo_74GmiH9j=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/luchopoletti",
@@ -20052,7 +20052,7 @@
       "address": "0xba38a0cf1f336bcbb1809adec45179cfae2ebd05",
       "name": "Digital Transhumanism by Francesco Mai",
       "standard": "erc721",
-      "symbol": "DIGITALTRANSHUMANISM",
+      "symbol": "DIGITALTRANSHUMANISMBYFRANCESCOMAI",
       "logoURI": "https://lh3.googleusercontent.com/vcvb3z7E8B_2br2GSpj-NaX2V_vHmfXHT6WxvoMfd5anbq-yj7zeBIiz2wPxLiWFGXAWk2Fau25rYiq-VpGzt3Y=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/francescomai",
@@ -20065,7 +20065,7 @@
       "address": "0x1766ed38c58324744ea74c6161b8259e9aa995a9",
       "name": "SELF GROWTH// by Fvckrender",
       "standard": "erc721",
-      "symbol": "SELFGROWTHBYFVCKREND",
+      "symbol": "SELFGROWTHBYFVCKRENDER",
       "logoURI": "https://lh3.googleusercontent.com/o-Qc08O0Kw1nBRWIyggO1Fku8FPOPE5OgWkXSr0tfzI6337O6Yw68v6VwVbLNrTBit9eY6Grjv1WcK8qlf7dUDkQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/fvckrender",
@@ -20091,7 +20091,7 @@
       "address": "0xf6872c479ad348e449aa4346e8e0d6c678acc1c7",
       "name": "Select Works by Pi-Slices",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYPISLICE",
+      "symbol": "SELECTWORKSBYPISLICES",
       "logoURI": "https://lh3.googleusercontent.com/RzxSGCixptw0ZAxaU1zLbfe1664bAdXkWTZsvu6gCGTobEYNDoLprlOJJ8A01G9nVv7KYfFBkuF7fOB2MAvuhcP6bA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/pislices",
@@ -20104,7 +20104,7 @@
       "address": "0x912eecc71be9e8cf43a13176e59b0bd338c223b9",
       "name": "Reverse Cloud by Sarah Ann Banks",
       "standard": "erc721",
-      "symbol": "REVERSECLOUDBYSARAHA",
+      "symbol": "REVERSECLOUDBYSARAHANNBANKS",
       "logoURI": "https://lh3.googleusercontent.com/RG6l1DOJdPMDnwAA2BCp4r-UFt32Pgg4Xx3d3G3HWGj19qs1lnaq7lk6zvvtJ9c7_sQf54SPq7afbRYH_QGJW5AE=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/sarahannbanks",
@@ -20205,7 +20205,7 @@
       "address": "0x7df443e05096623cc6509d1494fb9db7fbf0a5b3",
       "name": "Select Works by Alessio De Vecchi",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYALESSIO",
+      "symbol": "SELECTWORKSBYALESSIODEVECCHI",
       "logoURI": null,
       "extensions": {
         "link": "https://niftygateway.com/collections/alessiodevecchi",
@@ -20390,7 +20390,7 @@
       "address": "0x9ec85d88b1f5fa6c9036272a2c65d68f7ebc3c8d",
       "name": "Creating Infinity by Gavin Shapiro",
       "standard": "erc721",
-      "symbol": "CREATINGINFINITYBYGA",
+      "symbol": "CREATINGINFINITYBYGAVINSHAPIRO",
       "logoURI": "https://lh3.googleusercontent.com/hpIeDe5ni1avwif9ItRrpWWNFl7mFVo3nHXXXOCgm9LVH0bfOK9QIlG8sl7efSnVrAleXdckKCNlcVTuyyvftcDA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/gavinshapiro",
@@ -20778,7 +20778,7 @@
       "address": "0x223ad297e57722cd5cbb0d462e5934e96630afb3",
       "name": "That Shit Hurted by Zack Fox",
       "standard": "erc721",
-      "symbol": "THATSHITHURTEDBYZACK",
+      "symbol": "THATSHITHURTEDBYZACKFOX",
       "logoURI": "https://lh3.googleusercontent.com/-AED4HvABJCku8YIk_VdcaDCrmjLuSjjmg-xGASioaxDzB2HwL0TF0xbBIHfwEAUu2lAViJjZyFR1IkXhshq22FzcDwrC_gzky4BwQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/zackfox",
@@ -21108,7 +21108,7 @@
       "address": "0xa6c9b95e53ccd0497cd106ae49517a4bd0b39453",
       "name": "Self-portraits by Matt Taylor",
       "standard": "erc721",
-      "symbol": "SELFPORTRAITSBYMATTT",
+      "symbol": "SELFPORTRAITSBYMATTTAYLOR",
       "logoURI": "https://lh3.googleusercontent.com/DvslyxL9puL6h75RgibJ9iQE4ux8yWRpfKcXNI6qOf3INV__r8-Ha2yF_0MFsL60ydQAjN2R4abp7V1XQR03AgJ5Iw=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/matttaylor",
@@ -21261,7 +21261,7 @@
       "address": "0xe95452cf73d6023a856e659f2d55323f69d60d1a",
       "name": "WITNESS Open Edition by Kidmograph",
       "standard": "erc721",
-      "symbol": "WITNESSOPENEDITIONBY",
+      "symbol": "WITNESSOPENEDITIONBYKIDMOGRAPH",
       "logoURI": null,
       "extensions": {
         "link": "https://niftygateway.com/collections/kidmograph",
@@ -21642,7 +21642,7 @@
       "address": "0xe9ff91e8a659e1dfd07b239d223da44bab399ef6",
       "name": "Select Works by Darel Carey",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYDARELCA",
+      "symbol": "SELECTWORKSBYDARELCAREY",
       "logoURI": "https://lh3.googleusercontent.com/UfnTATE92ssIREfmVTv-_QD3I-6JfK4y56sm-Dq-zWowY6OoSK10z5wufkgbQhbJLmOX-eRymxEhsVwqqkEvDnHUWA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/darelcarey",
@@ -21690,7 +21690,7 @@
       "address": "0xa547a315f10b2ea2636c6068a0cfbe31ab23ec58",
       "name": "Dead Memes Open Edition by Filip Hodas",
       "standard": "erc721",
-      "symbol": "DEADMEMESOPENEDITION",
+      "symbol": "DEADMEMESOPENEDITIONBYFILIPHODAS",
       "logoURI": "https://lh3.googleusercontent.com/GFfJ3UJQbM-3T2DhpJgtkehdbvNGpuVr34pJEPB-JrR_hOM4wznbdUXFpIwsNmMYn3P273mX7oN0ZttaCrG6UAVHCQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/hoodass",
@@ -21817,7 +21817,7 @@
       "address": "0x7a39cc62642826b0ee8622cdf4586f80c684b5e8",
       "name": "Konibini Series Open Edition by JENISU",
       "standard": "erc721",
-      "symbol": "KONIBINISERIESOPENED",
+      "symbol": "KONIBINISERIESOPENEDITIONBYJENISU",
       "logoURI": "https://lh3.googleusercontent.com/KI7xUDo1ifIIMgtK0PE6VrFNzRa8FzPIcsTSjhPRU3N7eSZuMTt1Hb32w3n__EsTc2oW6_IZd8AMNrO-8_heHayT=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/jenisu",
@@ -21909,7 +21909,7 @@
       "address": "0x75fa3aa7e999b9899010c5f05e52cd0543dab465",
       "name": "FDC 1 Day",
       "standard": "erc721",
-      "symbol": "KEY",
+      "symbol": "UDT",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -22084,7 +22084,7 @@
       "address": "0xba2f636336bb22236423b5def4a0476fda8cd204",
       "name": "OPEN CEREMONY Open Edition by SMECCEA",
       "standard": "erc721",
-      "symbol": "OPENCEREMONYOPENEDIT",
+      "symbol": "OPENCEREMONYOPENEDITIONBYSMECCEA",
       "logoURI": "https://lh3.googleusercontent.com/c1GfLP12MOVPsP7avkDfDo3W-Qf0T0gruafqg02S03NJOF4vGLn2hFOw6WeMGa6i0prSXGC9oSVZaB3EDH9E8aQcZfJNRDdoRTZQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/smeccea",
@@ -22274,7 +22274,7 @@
       "address": "0xe3be322336b19936e934d861094275b24242cd3d",
       "name": "Play by Andrés Reisenger",
       "standard": "erc721",
-      "symbol": "PLAYBYANDRÉSREISENGE",
+      "symbol": "PLAYBYANDRÉSREISENGER",
       "logoURI": "https://lh3.googleusercontent.com/dkna-qOdpWzvAhAnvSs2XC6h_ykfv3tktiuTeLBJO2PoAUo2OXiQ8aO0a0dHorySaiHfiBChsc3ioXSqa_n7zjaE4w=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/andresreisinger",
@@ -22366,7 +22366,7 @@
       "address": "0x94adecd6589da28babdf47436660204ceca16a51",
       "name": "Stimulation Open Edition by Trippyogi",
       "standard": "erc721",
-      "symbol": "STIMULATIONOPENEDITI",
+      "symbol": "STIMULATIONOPENEDITIONBYTRIPPYOGI",
       "logoURI": "https://lh3.googleusercontent.com/68cypTW_mf5tMN1gs0DucfTBXOMheWX9OlpJWdck7a6ZW-ybVIDa4tbh_-jbSX60qdLw5Gkw45LCPY6PXQdPqu2G=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/trippyogi",
@@ -22458,7 +22458,7 @@
       "address": "0x5991de8536f27b166b4c68e9263457cc28e0e405",
       "name": "elliott's coins, tokens, art and oddities",
       "standard": "erc721",
-      "symbol": "historically signifi",
+      "symbol": "historically significant paraphernalia, knick knacks and what not ",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -22731,7 +22731,7 @@
       "address": "0x254af2f37e6f6f63339483746b85d232e5296b9f",
       "name": "Dark Classic by Simone Vezzani",
       "standard": "erc721",
-      "symbol": "DARKCLASSICBYSIMONEV",
+      "symbol": "DARKCLASSICBYSIMONEVEZZANI",
       "logoURI": "https://lh3.googleusercontent.com/Gw_-thaqyyySMewqnKBNorzLhQ1nmGGsvLMX1XpyXMTSnqRqalPe9h2WwHYDHHJznBsmfagzpu0bXwJhmp1m1p4=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/simonevezzani",
@@ -22744,7 +22744,7 @@
       "address": "0x005efb3633638dd0dd336ce671920bccb1ea82bd",
       "name": "Banned From The Internet by Slime Sunday",
       "standard": "erc721",
-      "symbol": "BANNEDFROMTHEINTERNE",
+      "symbol": "BANNEDFROMTHEINTERNETBYSLIMESUNDAY",
       "logoURI": "https://lh3.googleusercontent.com/tq31Iblwe3DrVuTZo71zf_rQmKslnXMB0-r4HNkLUF7dxv1IhOxQSz-iY7rTKmWMbXylXkBdOsnZzXZed-Fmlfd6gcFUWDsARWS7Sg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/slimesunday2",
@@ -22792,7 +22792,7 @@
       "address": "0x2857e8eca70fce3a48ea55258a35b63a5e06e221",
       "name": "Curated Drop Redemption by Ekaitza",
       "standard": "erc721",
-      "symbol": "CURATEDDROPREDEMPTIO",
+      "symbol": "CURATEDDROPREDEMPTIONBYEKAITZA",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -22823,7 +22823,7 @@
       "address": "0xaf753600127df3d06f3252717a1af24c83f60d6f",
       "name": "Yang Rally Digital Collectibles",
       "standard": "erc721",
-      "symbol": "YANGRALLYDIGITALCOLL",
+      "symbol": "YANGRALLYDIGITALCOLLECTIBLES",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -23012,7 +23012,7 @@
       "address": "0x3a44aad55a70412b189f46852499ace9ec0d6de6",
       "name": "Thank You New York by ThankYouX and JN Silva",
       "standard": "erc721",
-      "symbol": "THANKYOUNEWYORKBYTHA",
+      "symbol": "THANKYOUNEWYORKBYTHANKYOUXANDJNSILVA",
       "logoURI": "https://lh3.googleusercontent.com/AMTY-yWS496T1V7wzL9EFnOq_NnBgGKfvb-_3-Ynuqky9l1lMSuo9Wfa7ksYvZs3aeF3oVa5qfWkn_28XwP1evMwgcfqiqSVz551=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/thankyouxsilva",
@@ -23091,7 +23091,7 @@
       "address": "0x9891c4b7cfd414922d9b183efd707ade0ae85e47",
       "name": "Twisted Landscapes by Nate Hill",
       "standard": "erc721",
-      "symbol": "TWISTEDLANDSCAPESBYN",
+      "symbol": "TWISTEDLANDSCAPESBYNATEHILL",
       "logoURI": "https://lh3.googleusercontent.com/t65CXL-ZUNP4hR5u6MZjwoCKz-KrvlTpA_XEFpwCoHYc5JKU28k2ca_W9d6hW4IgiOcsLeIX8bn167kdd2j9w38nbIQm83lKb1hT4Q=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/natehill",
@@ -23359,7 +23359,7 @@
       "address": "0x8c3681c825de337810c879c326bdb118b5b5c609",
       "name": "Machine Hallucinations: Renaissance / Sculpture by Refik Anadol",
       "standard": "erc721",
-      "symbol": "MACHINEHALLUCINATION",
+      "symbol": "MACHINEHALLUCINATIONSRENAISSANCESCULPTUREBYREFIKANADOL",
       "logoURI": "https://lh3.googleusercontent.com/mV5O5i5VPpRfX_dL_lmSc88R6VX1GDWSmudrwvAzr7Qfr2tEuQugEBWbyWkJzZP1_nYI-dxDMAr1sMRtBezeRBAi=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/refikanadol",
@@ -23530,7 +23530,7 @@
       "address": "0xe8916dec282a2a15ba2b80856a44577691b317ae",
       "name": "Neo City Pop Poster Series by Twisted Vacancy",
       "standard": "erc721",
-      "symbol": "NEOCITYPOPPOSTERSERI",
+      "symbol": "NEOCITYPOPPOSTERSERIESBYTWISTEDVACANCY",
       "logoURI": "https://lh3.googleusercontent.com/8E6fUQyumJJvFMpBGjo0c7z-9gY6apHvWQ_q9_2LjfDVz3Aq2JO_DQpVqFKi5mxuoKO35TTazRrW1WQGtiHnIWIj9A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/twistedcollectibles",
@@ -23784,7 +23784,7 @@
       "address": "0xe93a67d8d0bc448a8ca7faa1653e509102dda9cd",
       "name": "Nothing Hurts Anymore by Flore",
       "standard": "erc721",
-      "symbol": "NOTHINGHURTSANYMOREB",
+      "symbol": "NOTHINGHURTSANYMOREBYFLORE",
       "logoURI": "https://lh3.googleusercontent.com/ptrkN1syQlUoKmHInFk987hMF_y6__fYeJWe-rKMtPWEOLaben4sOqUVND9cVAJa3YyF14KrdxrLJrCV_ChcifLX=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/flore",
@@ -24294,7 +24294,7 @@
       "address": "0xe750d24cb2feb19b0cd4af45427e6066a293d836",
       "name": "Julian Assange - Decentral Eyes by Coldie",
       "standard": "erc721",
-      "symbol": "JULIANASSANGEDECENTR",
+      "symbol": "JULIANASSANGEDECENTRALEYESBYCOLDIE",
       "logoURI": "https://lh3.googleusercontent.com/sO76TccoD_7Bv1kKHWiLBoDJDzV8-vii9Jk6Gljljxlxi-0yiz4z3sc3GmzzMlQ2utBefxuFBxqCpf1PKAwk5Bj_TQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/coldie",
@@ -24849,7 +24849,7 @@
       "address": "0xc29491826c757e13bad2d3900c14e750d352a92b",
       "name": "Mementos by David McLeod",
       "standard": "erc721",
-      "symbol": "MEMENTOSBYDAVIDMCLEO",
+      "symbol": "MEMENTOSBYDAVIDMCLEOD",
       "logoURI": "https://lh3.googleusercontent.com/W6BgfQn2GDKl_KR_fa-wUX7xBFjnQEcJHz0p0G4tPuvY4YxCZumhHUjq1mAGqA3pQ00H2tizfsRDT-gBg4hW71xxLPQmYvxAbFrS_j0=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/davidmcleod",
@@ -25267,7 +25267,7 @@
       "address": "0x1b29e5438de83ed6bf50a0ff0218aa38fc485629",
       "name": "I've just robbed the crypto bank by Dot Pigeon",
       "standard": "erc721",
-      "symbol": "IVEJUSTROBBEDTHECRYP",
+      "symbol": "IVEJUSTROBBEDTHECRYPTOBANKBYDOTPIGEON",
       "logoURI": "https://lh3.googleusercontent.com/THsnzwrOMBtV7elfGR0b25GdBhpPrjY9KrfihziEPLv_43b4NmYLqiFVNwk29EditQ7KtJ_tn8YNGmpCL2Nr2y7J7B3NKihRHlGOEg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/dotpigeon",
@@ -25280,7 +25280,7 @@
       "address": "0xbcbb5ff5f7468eae49eb56bce648a503cd00df8f",
       "name": "Champion Series Set Completion by Tommy Wilson",
       "standard": "erc721",
-      "symbol": "CHAMPIONSERIESSETCOM",
+      "symbol": "CHAMPIONSERIESSETCOMPLETIONBYTOMMYWILSON",
       "logoURI": "https://lh3.googleusercontent.com/VGp35NsszJYmLRTIkpSJfvA5wLkAkxd3i14c4KnpIEdXqPMvOdLNxyUspSihcP78_-pO69ulSsteI2acP3VtuI8=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/tommywilson",
@@ -25315,7 +25315,7 @@
       "address": "0xbdd3f8ea1befa8e5adece114bd7f86614f42d777",
       "name": "The Action Series by Lyle Owerko",
       "standard": "erc721",
-      "symbol": "THEACTIONSERIESBYLYL",
+      "symbol": "THEACTIONSERIESBYLYLEOWERKO",
       "logoURI": "https://lh3.googleusercontent.com/KyB4Mcz7McbNVVg_HOIub_1-bvgsmRtknAjxvVYsPUG5YUThmlxP-W2mbivaU3tPS8KHSXp36oXDugXA2HvkaWOH=s60",
       "extensions": {
         "link": "https://niftygateway.com/collections/lyleowerko",
@@ -25328,7 +25328,7 @@
       "address": "0xf3b92198c7c5d0a7f64506e98a70a902c92a253f",
       "name": "Icon Series by Steven Baltay",
       "standard": "erc721",
-      "symbol": "ICONSERIESBYSTEVENBA",
+      "symbol": "ICONSERIESBYSTEVENBALTAY",
       "logoURI": "https://lh3.googleusercontent.com/tQBnHSx2dWJt_u0NV1qyYyXiFIhL8a4oFFz_0cxWtSN213-wHGcFM2lkpI1-gEvnrHBoBUYUYTyyXfdMKiMD3jjD=s120",
       "extensions": {
         "link": "https://www.instagram.com/realimposter/",
@@ -25354,7 +25354,7 @@
       "address": "0xa6055e5dafb54297eded8da5b6e38915443ee1fb",
       "name": "IMMERSION by Render Fruit",
       "standard": "erc721",
-      "symbol": "IMMERSIONBYRENDERFRU",
+      "symbol": "IMMERSIONBYRENDERFRUIT",
       "logoURI": "https://lh3.googleusercontent.com/Yu_mmzxpIEQ2ADDMyKbkeqtnFxklPKnjM7Qek-HEYgUhGNcYv0V-bUfU2nUczxRfrfQGKQPe6dmit9BsHwR5wrghyw=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/renderfruit",
@@ -25380,7 +25380,7 @@
       "address": "0x0ffeb4f2a8f9f651d5c4720d809cd0ad3f5070ba",
       "name": "Hexagons by Bees and Bombs",
       "standard": "erc721",
-      "symbol": "HEXAGONSBYBEESANDBOM",
+      "symbol": "HEXAGONSBYBEESANDBOMBS",
       "logoURI": "https://lh3.googleusercontent.com/-3fMFYBn-G6b_x4uHaWPSyKRT_Zqs2YKPwb20fB2ffiZ1MtXO-UQ1R0bkIojLTfBiGMRQv-5SG5mBE0O0KBdQp0n=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/beesandbombs",
@@ -25484,7 +25484,7 @@
       "address": "0x6910ee0c6efd2f4cb7d06f85fc5782b1a1489725",
       "name": "Dead Memes by Filip Hodas",
       "standard": "erc721",
-      "symbol": "DEADMEMESBYFILIPHODA",
+      "symbol": "DEADMEMESBYFILIPHODAS",
       "logoURI": "https://lh3.googleusercontent.com/GFfJ3UJQbM-3T2DhpJgtkehdbvNGpuVr34pJEPB-JrR_hOM4wznbdUXFpIwsNmMYn3P273mX7oN0ZttaCrG6UAVHCQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/hoodass",
@@ -25528,7 +25528,7 @@
       "address": "0xe295dd1d481ef593715236cc62bc8688a2136cbe",
       "name": "Hybrid Sensations by Trippyogi",
       "standard": "erc721",
-      "symbol": "HYBRIDSENSATIONSBYTR",
+      "symbol": "HYBRIDSENSATIONSBYTRIPPYOGI",
       "logoURI": "https://lh3.googleusercontent.com/68cypTW_mf5tMN1gs0DucfTBXOMheWX9OlpJWdck7a6ZW-ybVIDa4tbh_-jbSX60qdLw5Gkw45LCPY6PXQdPqu2G=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/trippyogi",
@@ -25541,7 +25541,7 @@
       "address": "0x648e89955fbe0d9e3f46c598458c87a4c355c23c",
       "name": "Zeitgeist by Alex Manrique",
       "standard": "erc721",
-      "symbol": "ZEITGEISTBYALEXMANRI",
+      "symbol": "ZEITGEISTBYALEXMANRIQUE",
       "logoURI": "https://lh3.googleusercontent.com/-rc_YkItHwE-RIbgziz0BwBzaDylmjiuv5zdMpxsKwK9tufr_RWzX4yxB52YNjVO0c5kFNM77WJVQ3H1BcsRP4U=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/rendertimes",
@@ -25720,7 +25720,7 @@
       "address": "0x66b25eda64d507fba4ad0eee4c9498552ff698fd",
       "name": "The Moment by Pak x Trevor Jones",
       "standard": "erc721",
-      "symbol": "THEMOMENTBYPAKXTREVO",
+      "symbol": "THEMOMENTBYPAKXTREVORJONES",
       "logoURI": "https://lh3.googleusercontent.com/UODJQVyuYgM2xLPWwgmyQLNcr_mVQ_HhSOVq3Rl8gm2SAMx5-ZOKP0pxOELN2ZGK9S-R_pncUT43AE3qyxPqsXox10eE6PDdx3VpdQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/themoment",
@@ -25746,7 +25746,7 @@
       "address": "0x3dcf3db05758786fe8efaa055eaa3b53ead974a2",
       "name": "Test Store for My files",
       "standard": "erc721",
-      "symbol": "Test Store for My fi",
+      "symbol": "Test Store for My files",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -25865,7 +25865,7 @@
       "address": "0xe3c0505a6a226e960c9d52c1e1f1b5172173da11",
       "name": "Real Collectibles for an Imagined Reality by Gavin Shapiro",
       "standard": "erc721",
-      "symbol": "REALCOLLECTIBLESFORA",
+      "symbol": "REALCOLLECTIBLESFORANIMAGINEDREALITYBYGAVINSHAPIRO",
       "logoURI": "https://lh3.googleusercontent.com/hpIeDe5ni1avwif9ItRrpWWNFl7mFVo3nHXXXOCgm9LVH0bfOK9QIlG8sl7efSnVrAleXdckKCNlcVTuyyvftcDA=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/gavinshapiro",
@@ -26140,7 +26140,7 @@
       "address": "0xbd9872b0d9020350100418fbe4968b8b2a473bb2",
       "name": "Infinity Wishes Open Edition by Allison Bamcat",
       "standard": "erc721",
-      "symbol": "INFINITYWISHESOPENED",
+      "symbol": "INFINITYWISHESOPENEDITIONBYALLISONBAMCAT",
       "logoURI": null,
       "extensions": {
         "link": "https://niftygateway.com/collections/allisonbamcat",
@@ -26175,7 +26175,7 @@
       "address": "0xcf148ba990c47741085adadfd5350d75a492129d",
       "name": "The Action Series Open Edition by Lyle Owerko",
       "standard": "erc721",
-      "symbol": "THEACTIONSERIESOPENE",
+      "symbol": "THEACTIONSERIESOPENEDITIONBYLYLEOWERKO",
       "logoURI": "https://lh3.googleusercontent.com/KyB4Mcz7McbNVVg_HOIub_1-bvgsmRtknAjxvVYsPUG5YUThmlxP-W2mbivaU3tPS8KHSXp36oXDugXA2HvkaWOH=s60",
       "extensions": {
         "link": "https://niftygateway.com/collections/lyleowerko",
@@ -26460,7 +26460,7 @@
       "address": "0x69e03f251b372416287bea1f4e976379b032f68e",
       "name": "Select Works by Kenny Schachter",
       "standard": "erc721",
-      "symbol": "SELECTWORKSBYKENNYSC",
+      "symbol": "SELECTWORKSBYKENNYSCHACHTER",
       "logoURI": "https://lh3.googleusercontent.com/I4YEGXpAMYVxOl3qnIGEGaL1jQb2thWhR3Gcd9L8MpOZ6aQyDAr-0Ds-wOcpAl4VbNRLcyGE9XPFJSrC-2eFldDL=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/kennyschachter",
@@ -26547,7 +26547,7 @@
       "address": "0x01013d4c0c8c80fc4ea4d50bdbbe5ae1e699de29",
       "name": "Dimenticati by Simone Vezzani",
       "standard": "erc721",
-      "symbol": "DIMENTICATIBYSIMONEV",
+      "symbol": "DIMENTICATIBYSIMONEVEZZANI",
       "logoURI": "https://lh3.googleusercontent.com/Gw_-thaqyyySMewqnKBNorzLhQ1nmGGsvLMX1XpyXMTSnqRqalPe9h2WwHYDHHJznBsmfagzpu0bXwJhmp1m1p4=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/simonevezzani",
@@ -26578,7 +26578,7 @@
       "address": "0x426d18bd13c20a05aa6991746234390d88f9e16a",
       "name": "Future Art x Burst_ Open Edition",
       "standard": "erc721",
-      "symbol": "FUTUREARTXBURSTOPENE",
+      "symbol": "FUTUREARTXBURSTOPENEDITION",
       "logoURI": "https://lh3.googleusercontent.com/F_hzWOtTJVPSv_7Oyk7VJf94bA9KTESVkaLF8svxbIQfpuh8jzZOHUKHLNUHjFyuEi2ki-MrZmbj2sYbA9KHQkLZJSF-_qEN0B-vSg=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/futureartopen",
@@ -26622,7 +26622,7 @@
       "address": "0x7f81ebdc93c7edcf1d0422239960c65e2d409c08",
       "name": "Terra Futura by Blake Kathryn",
       "standard": "erc721",
-      "symbol": "TERRAFUTURABYBLAKEKA",
+      "symbol": "TERRAFUTURABYBLAKEKATHRYN",
       "logoURI": "https://lh3.googleusercontent.com/UBdHUlokfKx0f-rJ6GyxdlUnWRTNRsltdrP274AUcKu7QzMGjlt3JpYgYdzmuQ7jvmCrMfnGaiE5n8sNQCQIp7HwGcELwOHAbsxL=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/blakekathrynpacks",
@@ -26688,7 +26688,7 @@
       "address": "0x81db79e27128334e5be96dba3ff4b4b9f56fcebd",
       "name": "Metamorphosis By Metageist",
       "standard": "erc721",
-      "symbol": "METAMORPHOSISBYMETAG",
+      "symbol": "METAMORPHOSISBYMETAGEIST",
       "logoURI": "https://lh3.googleusercontent.com/cwf4Wm3NopMwDirki-fY9dmgRfkIqqwY1zhuQHANMRRAVq0Bs-amdcfJqT6YXIDcuaUHU_0fMT-Y-y7qZpdm7Mf_bT0mGO7XRZ7_0w=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/metageist2",
@@ -26880,7 +26880,7 @@
       "address": "0xea8dc221e660e062e6303b5f09f567a35d104dc7",
       "name": "MOUNTAIN TIME by David OReilly",
       "standard": "erc721",
-      "symbol": "MOUNTAINTIMEBYDAVIDO",
+      "symbol": "MOUNTAINTIMEBYDAVIDOREILLY",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -27047,7 +27047,7 @@
       "address": "0xba36d019b46de198cc07ba10cb9ff6f4ca85b5e3",
       "name": "FIAT vs Bitcoin by Jon Noorlander",
       "standard": "erc721",
-      "symbol": "FIATVSBITCOINBYJONNO",
+      "symbol": "FIATVSBITCOINBYJONNOORLANDER",
       "logoURI": "https://lh3.googleusercontent.com/46lqlndk5xeZdVVPFnrrR3m8MK_5Bc5DAK58ZHF17tWrml_U7poeBfXAqyLdmKy1eYa89SPpAfvLgcve-FbbjkNm=s120",
       "extensions": {
         "link": null,
@@ -27069,7 +27069,7 @@
       "address": "0x82ab5d6d491f6836486bb1d7d43738b4e9f688f0",
       "name": "Blooming Iteration by Manards",
       "standard": "erc721",
-      "symbol": "BLOOMINGITERATIONBYM",
+      "symbol": "BLOOMINGITERATIONBYMANARDS",
       "logoURI": "https://lh3.googleusercontent.com/gr-4vRjfOtsL9NEJMizwGT8ajO971RBvnCxn4SQE48Ca0t3rjd8S-6xA0rFAEz7rWA_l662FRCnnG4QVWXPIBOjh=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/manards",
@@ -27250,7 +27250,7 @@
       "address": "0x5d32e097999bd45f86953abe2b3bf11b4b7ef2ee",
       "name": "Famous NFTs 2020 by Jon Burgerman",
       "standard": "erc721",
-      "symbol": "FAMOUSNFTSBYJONBURGE",
+      "symbol": "FAMOUSNFTSBYJONBURGERMAN",
       "logoURI": "https://lh3.googleusercontent.com/cawKeOGVFGCHzN-_scY_kdPA1SSR5gXsGjYytsnydS4S7gFeZ3jHFKvjW666Hg44T09vM2OLGQ_pFjsM5odTyVRhjQ=s120",
       "extensions": {
         "link": null,
@@ -27654,7 +27654,7 @@
       "address": "0x8971ab330684eddf58cbc41e5c033d4de1c20210",
       "name": "No One is Available. Everyone is busy.",
       "standard": "erc721",
-      "symbol": "NOONEISAVAILABLEEVER",
+      "symbol": "NOONEISAVAILABLEEVERYONEISBUSY",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -27689,7 +27689,7 @@
       "address": "0x7660f37925b89880b6a0a02c7a70567f6353cd00",
       "name": "fabiano speziari editions",
       "standard": "erc721",
-      "symbol": "fabiano speziari edi",
+      "symbol": "fabiano speziari editions",
       "logoURI": "https://lh3.googleusercontent.com/YlbqbDWKni1ew63jOc3kfaEzDlvjnhLijtg3zgs9sj1lXGWM-Es2IhLz0io8J3Ct2Y8vEa-sjOryR4blo3EFSU0f=s120",
       "extensions": {
         "link": "http://www.fabianospeziari.com/",
@@ -27702,7 +27702,7 @@
       "address": "0x72973a4ed18573ef56004df9210aa9756fa311e5",
       "name": "Twerk Skeleton by Space Yacht",
       "standard": "erc721",
-      "symbol": "TWERKSKELETONBYSPACE",
+      "symbol": "TWERKSKELETONBYSPACEYACHT",
       "logoURI": "https://lh3.googleusercontent.com/9Oc002N5uSd9u4bkIrGLgWq0LvcGcrABvRPlYpT5raeykM_prbBOS90kkM9H-q5DYcg9q_1bDZyM1SYVeEjMj_X_bbeRdM6yRIqU_io=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/spaceyacht2",
@@ -29292,7 +29292,7 @@
       "address": "0x475067c43a5b4c132bf5d4d47e465091bbeedb23",
       "name": "Jon Burgerman's Set Completion",
       "standard": "erc721",
-      "symbol": "JONBURGERMANSSETCOMP",
+      "symbol": "JONBURGERMANSSETCOMPLETION",
       "logoURI": "https://lh3.googleusercontent.com/cawKeOGVFGCHzN-_scY_kdPA1SSR5gXsGjYytsnydS4S7gFeZ3jHFKvjW666Hg44T09vM2OLGQ_pFjsM5odTyVRhjQ=s120",
       "extensions": {
         "link": null,
@@ -29621,7 +29621,7 @@
       "address": "0x42050cbab7485be9f29615fc8daf2ce9e4c86388",
       "name": "Be Not Afraid by Sarah Zucker",
       "standard": "erc721",
-      "symbol": "BENOTAFRAIDBYSARAHZU",
+      "symbol": "BENOTAFRAIDBYSARAHZUCKER",
       "logoURI": "https://lh3.googleusercontent.com/ElIIFiHIa6ZPl4o_n5DgujreT71YQQBHu0YVpJp_AweKFIpW2KGLG9Y17AAsMtef6CF1TLT7D-CSY5cEEyKbRPzg7cOCPvm3wbuF=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/SarahZucker2",
@@ -29692,7 +29692,7 @@
       "address": "0x9f9551ef5ce8db4c53adebd32cd9b24373e67c74",
       "name": "Play to Earn Membership",
       "standard": "erc721",
-      "symbol": "KEY",
+      "symbol": "UDT",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -29953,7 +29953,7 @@
       "address": "0x7017644d0520e5340d64d9d3ef40c8765ddcf75c",
       "name": "Coco and IKIGAI by Zigor Samaniego",
       "standard": "erc721",
-      "symbol": "COCOANDIKIGAIBYZIGOR",
+      "symbol": "COCOANDIKIGAIBYZIGORSAMANIEGO",
       "logoURI": "https://lh3.googleusercontent.com/2vLWUG-JcXBWksKhEeeB0VUtD0J1IXiURM7tmiCafeCbmvtQC4KoDHAbr1UxChZIjmeiDqw1oGIIU66TGOF6Lo6B=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/zigor2",
@@ -29984,7 +29984,7 @@
       "address": "0x75e2ada00724e30bf9a19f2565abf40608b12697",
       "name": "88mph Harvest crvHBTC Pool Deposit",
       "standard": "erc721",
-      "symbol": "88mph-Harvest-crvHBT",
+      "symbol": "88mph-Harvest-crvHBTC-Deposit",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -29993,7 +29993,7 @@
       "address": "0x0038b9c31d6bc25d79cf2c24ecba3828b3bb3bb6",
       "name": "Jon Burgerman: The Return",
       "standard": "erc721",
-      "symbol": "JONBURGERMANTHERETUR",
+      "symbol": "JONBURGERMANTHERETURN",
       "logoURI": "https://lh3.googleusercontent.com/cawKeOGVFGCHzN-_scY_kdPA1SSR5gXsGjYytsnydS4S7gFeZ3jHFKvjW666Hg44T09vM2OLGQ_pFjsM5odTyVRhjQ=s120",
       "extensions": {
         "link": null,
@@ -30111,7 +30111,7 @@
       "address": "0x2396183979aeecd287b02007caa8d0c542a63993",
       "name": "Legendary",
       "standard": "erc721",
-      "symbol": "Abstract 3D motion a",
+      "symbol": "Abstract 3D motion art made in Austria",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -30133,7 +30133,7 @@
       "address": "0x7e96645abd31ecb1ddff3daeca83015e52c59a3b",
       "name": "The Gateway Open Edition By Arben Vllasaliu",
       "standard": "erc721",
-      "symbol": "THEGATEWAYOPENEDITIO",
+      "symbol": "THEGATEWAYOPENEDITIONBYARBENVLLASALIU",
       "logoURI": "https://lh3.googleusercontent.com/Qsk926Nu_je4D6bo0VQ7KTh5Jb5K0NPsgisWU7R4IRpJmdvPUSoPyZz_0U83YrmarZ8mIuVQ_IszcwpmlRZKJvJrMDbbIYDg3h2SgQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/arben2",
@@ -30553,7 +30553,7 @@
       "address": "0xab590b4cefae97abda4a8844fe6934e6590edb5c",
       "name": "Jon Burgerman: Art Collection",
       "standard": "erc721",
-      "symbol": "JONBURGERMANARTCOLLE",
+      "symbol": "JONBURGERMANARTCOLLECTION",
       "logoURI": "https://lh3.googleusercontent.com/cawKeOGVFGCHzN-_scY_kdPA1SSR5gXsGjYytsnydS4S7gFeZ3jHFKvjW666Hg44T09vM2OLGQ_pFjsM5odTyVRhjQ=s120",
       "extensions": {
         "link": null,
@@ -30763,7 +30763,7 @@
       "address": "0xed4dfcd9b0584a20b857cfc7ec537b33d75a5247",
       "name": "OPEN CEREMONY by SMECCEA",
       "standard": "erc721",
-      "symbol": "OPENCEREMONYBYSMECCE",
+      "symbol": "OPENCEREMONYBYSMECCEA",
       "logoURI": "https://lh3.googleusercontent.com/c1GfLP12MOVPsP7avkDfDo3W-Qf0T0gruafqg02S03NJOF4vGLn2hFOw6WeMGa6i0prSXGC9oSVZaB3EDH9E8aQcZfJNRDdoRTZQ=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/smeccea",
@@ -30851,7 +30851,7 @@
       "address": "0x87a5f05ce4e0762047adee8be418e8582526dcec",
       "name": "IKIGAI Open Edition by Zigor Samaniego",
       "standard": "erc721",
-      "symbol": "IKIGAIOPENEDITIONBYZ",
+      "symbol": "IKIGAIOPENEDITIONBYZIGORSAMANIEGO",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -30997,7 +30997,7 @@
       "address": "0x3b73c96f3881f840157696ba3434ffa44fbbdea9",
       "name": "Prejudice by Marc Ferrer Vives",
       "standard": "erc721",
-      "symbol": "PREJUDICEBYMARCFERRE",
+      "symbol": "PREJUDICEBYMARCFERRERVIVES",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -31073,7 +31073,7 @@
       "address": "0xb3a268ad0517018902915496c62394356652018a",
       "name": "Delirium",
       "standard": "erc721",
-      "symbol": "THE MADNESS OF OUR M",
+      "symbol": "THE MADNESS OF OUR MEDIA, A COLLECTIBLE HEADLINE EVERYDAY",
       "logoURI": "https://lh3.googleusercontent.com/AKhtyz1mok7IS-ULqWGXB65kys_8YKrTbosnnq3dWSXITcYEcDcoQhl-erihpnr4UWsEfRfyjl10MMpGydhDqx39ddJck9dlBhOC=s120",
       "extensions": {
         "link": "https://www.waltervego.com/",
@@ -31152,7 +31152,7 @@
       "address": "0x930171e3479fd8870089dbc1fee3f19b6099995b",
       "name": "Infinity Wishes by Allison Bamcat",
       "standard": "erc721",
-      "symbol": "INFINITYWISHESBYALLI",
+      "symbol": "INFINITYWISHESBYALLISONBAMCAT",
       "logoURI": null,
       "extensions": {
         "link": "https://niftygateway.com/collections/allisonbamcat",
@@ -31243,7 +31243,7 @@
       "address": "0xf8f1f524c827e66a30871ed55beab0d89b1376df",
       "name": "g.sw~ early works",
       "standard": "erc721",
-      "symbol": "early works 2020-202",
+      "symbol": "early works 2020-2021",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -31534,7 +31534,7 @@
       "address": "0x28802e8bbef429b85bba22f286ef5bb8e83f6d59",
       "name": "Be Not Afraid by Sarah Zucker",
       "standard": "erc721",
-      "symbol": "BENOTAFRAIDBYSARAHZU",
+      "symbol": "BENOTAFRAIDBYSARAHZUCKER",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -32000,7 +32000,7 @@
       "address": "0x57888ef52b9529201c29620b66978cdde58d66a2",
       "name": "Further Adventures Through the Multiverse Open Edition by Carlos",
       "standard": "erc721",
-      "symbol": "FURTHERADVENTURESTHR",
+      "symbol": "FURTHERADVENTURESTHROUGHTHEMULTIVERSEOPENEDITIONBYCARLOSLUNAJAMES",
       "logoURI": "https://lh3.googleusercontent.com/96KvNDoLas2gZoym26fYxBvBcZOimdGpxjM--Hx0O44xHPQPy7PEzYbUPI5h6k3OBT2eZR3e3l80t03-HUZAnx_7INslpfV1Uicd6A=s120",
       "extensions": {
         "link": "https://niftygateway.com/collections/carlosluna2",
@@ -32035,7 +32035,7 @@
       "address": "0xd7c62dd57bfe870bd8cfd964cbd8127112b44f16",
       "name": "maysgrafx",
       "standard": "erc721",
-      "symbol": "loops, digital paint",
+      "symbol": "loops, digital paintings and designs",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -32367,7 +32367,7 @@
       "address": "0xee2b7864d8bc731389562f820148e372f57571d8",
       "name": "MyCrypto Membership (12-Month)",
       "standard": "erc721",
-      "symbol": "KEY",
+      "symbol": "UDT",
       "logoURI": null,
       "extensions": { "link": null, "description": null, "ogImage": null }
     },
@@ -32442,7 +32442,7 @@
       "address": "0x05d398039e57ef9682ab452246668ec86156e325",
       "name": "virtual world business enterprises incorporated: bachelors party",
       "standard": "erc721",
-      "symbol": "dult Bachelor party ",
+      "symbol": "dult Bachelor party in the virtual world. Just yours. You send the code in DAi. I send you the offer for .44 Eth. You click on the offer after purchase and the Url transports you to a special virtual world of sex theme of your choice for the bachelors party.",
       "logoURI": "https://storage.opensea.io/virtual-world-business-enterprises-incorporated-ba-1574202869.png",
       "extensions": {
         "link": "http://www.amazonelope.com",
@@ -33130,7 +33130,7 @@
       "address": "0x4391e3387176ea51488cd9a7e9ddf8ea42cc343b",
       "name": "SINS Collaborations by CryptoArg",
       "standard": "erc721",
-      "symbol": "SINSCOLLABORATIONSBY",
+      "symbol": "SINSCOLLABORATIONSBYCRYPTOARG",
       "logoURI": "https://storage.opensea.io/files/702e436641fbb85b3d562ae98d98b41b.png",
       "extensions": {
         "link": "https://niftygateway.com/collections/cryptoarg",

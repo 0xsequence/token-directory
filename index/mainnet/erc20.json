@@ -89,7 +89,7 @@
       "chainId": 1,
       "address": "0x221657776846890989a759ba2973e427dff5c9bb",
       "name": "Augur",
-      "symbol": "REP",
+      "symbol": "REPv2",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/309/large/REP.png?1596339859",
       "extensions": {
@@ -1100,10 +1100,23 @@
     {
       "chainId": 1,
       "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
-      "name": "Streamr DATAcoin",
-      "symbol": "DATA",
+      "name": "Streamr (old)",
+      "symbol": "XDATA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/1115/large/streamr.png?1547035101",
+      "extensions": {
+        "link": "https://streamr.network/",
+        "description": "Streamr tokenizes streaming data to enable a new way for machines & people to trade it on a decentralised P2P network.",
+        "ogImage": "https://streamr.network/resources/social/public-site.png"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f693ca8d21b157107184d29d398a8d082b38b76",
+      "name": "Streamr",
+      "symbol": "DATA",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/17869/large/DATA_new_symbol_3x.png?1696517392",
       "extensions": {
         "link": "https://streamr.network/",
         "description": "Streamr tokenizes streaming data to enable a new way for machines & people to trade it on a decentralised P2P network.",
@@ -1282,8 +1295,8 @@
     {
       "chainId": 1,
       "address": "0x2e071d2966aa7d8decb1005885ba1977d6038a65",
-      "name": "Etheroll",
-      "symbol": "DICE",
+      "name": "DICE",
+      "symbol": "ROL",
       "decimals": 16,
       "logoURI": "https://assets.coingecko.com/coins/images/1232/large/etheroll.png?1548125481",
       "extensions": {
@@ -1438,8 +1451,8 @@
     {
       "chainId": 1,
       "address": "0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
-      "name": "OST",
-      "symbol": "OST",
+      "name": "Simple Token",
+      "symbol": "ST",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/1367/large/ost.jpg?1547035393",
       "extensions": {
@@ -1907,8 +1920,8 @@
     {
       "chainId": 1,
       "address": "0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82",
-      "name": "Pangea Arbitration ",
-      "symbol": "XPAT",
+      "name": "Pangea Arbitration Token",
+      "symbol": "PAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2070/large/Pangea-Arbitration-Token-Logo.png?1547036374",
       "extensions": {
@@ -3090,8 +3103,8 @@
     {
       "chainId": 1,
       "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
-      "name": "Akropolis",
-      "symbol": "AKRO",
+      "name": "Legacy Kaon",
+      "symbol": "LGKAON",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/3328/large/Akropolis.png?1547037929",
       "extensions": {
@@ -4556,8 +4569,8 @@
     {
       "chainId": 1,
       "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
-      "name": "BitMart Token",
-      "symbol": "BMX",
+      "name": "BitMartToken",
+      "symbol": "BMC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/5236/large/bitmart-token.png?1548835017",
       "extensions": {
@@ -4595,8 +4608,8 @@
     {
       "chainId": 1,
       "address": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
-      "name": "GNY",
-      "symbol": "GNY",
+      "name": "GNYerc20",
+      "symbol": "GNYerc20",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/5300/large/icon_gny.jpg?1601926183",
       "extensions": {
@@ -4791,8 +4804,8 @@
     {
       "chainId": 1,
       "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
-      "name": "Paxos Standard",
-      "symbol": "PAX",
+      "name": "Pax Dollar",
+      "symbol": "USDP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6013/large/paxos_standard.png?1548386291",
       "extensions": {
@@ -6248,7 +6261,7 @@
       "address": "0xf6537fe0df7f0cc0985cf00792cc98249e73efa0",
       "name": "GIV Token",
       "symbol": "GIV",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/8996/large/giv.png?1596069222",
       "extensions": {
         "link": "http://cryptolocally.com/",
@@ -6470,8 +6483,8 @@
     {
       "chainId": 1,
       "address": "0xebf4ca5319f406602eeff68da16261f1216011b5",
-      "name": "Yobit Token",
-      "symbol": "YO",
+      "name": "Yo Token",
+      "symbol": "YOT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9231/large/ybx_logo.gif?1565306320",
       "extensions": {
@@ -7504,7 +7517,7 @@
       "address": "0xcfad57a67689809cda997f655802a119838c9cec",
       "name": "Benscoin",
       "symbol": "BSC",
-      "decimals": 8,
+      "decimals": 7,
       "logoURI": "https://assets.coingecko.com/coins/images/10393/large/Benscoin_Logo_200x200_%28CoinGecko%29.png?1594432611",
       "extensions": {
         "link": "https://benscoin.org/",
@@ -7830,7 +7843,7 @@
       "address": "0x4c6e796bbfe5eb37f9e3e0f66c009c8bf2a5f428",
       "name": "FC Bitcoin",
       "symbol": "FCBTC",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/10750/large/FCBTC.png?1583053684",
       "extensions": {
         "link": "https://fcbitcoin.com",
@@ -7909,7 +7922,7 @@
       "address": "0x46d473a0b3eeec9f55fade641bc576d5bc0b2246",
       "name": "SurfExUtilityToken",
       "symbol": "SURF",
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/10783/large/200x200-logo-blu-grey-bkg-4-e1583512409629.png?1583539501",
       "extensions": {
         "link": "https://surfex.us/",
@@ -9561,7 +9574,7 @@
       "address": "0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab",
       "name": "EasySwap",
       "symbol": "ESWA",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/11721/large/Easyswap.png?1593080991",
       "extensions": {
         "link": "https://easyswap.trade",
@@ -10296,8 +10309,8 @@
     {
       "chainId": 1,
       "address": "0x1f8f123bf24849443a56ed9fc42b9265b7f3a39a",
-      "name": "UniTopia Token",
-      "symbol": "UTO",
+      "name": "UniTopia",
+      "symbol": "uTOPIA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11922/large/logo200.png?1596101623",
       "extensions": {
@@ -11792,7 +11805,7 @@
       "address": "0x9631483f28b7f5cbf7d435ab249be8f709215bc3",
       "name": "Sperax",
       "symbol": "SPA",
-      "decimals": 24,
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12232/large/sperax_logo.jpg?1598342904",
       "extensions": {
         "link": "https://sperax.io/",
@@ -12200,7 +12213,7 @@
       "address": "0x4d953cf077c0c95ba090226e59a18fcf97db44ec",
       "name": "Mini",
       "symbol": "MINI",
-      "decimals": 19,
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12298/large/IrTAVc_GqZ7iQucAa3fNYlh_Cqt3tY9wM_pmzOl5SifscRMpuzrp_dizMzGTiMr_NxDJPCKigBgz8THrzvO_DqT3JLzqZIYeytDBRw3qKI73dljS0BnFaaI2aLadpdCZah4RkhydddLIDDbQlGit77farlQRaq7qEgxdjVe0aqEeh4phE-DWAKi_KS_Yz-fFdDfjWgifVCKkZRBeNSWWQEplxxl.jpg?1598961320",
       "extensions": {
         "link": "https://www.miniswap.org/",
@@ -15328,8 +15341,8 @@
     {
       "chainId": 1,
       "address": "0x1b7c4d4f226ccf3211b0f99c4fdfb84a2606bf8e",
-      "name": "Orb V2",
-      "symbol": "ORB",
+      "name": "OrbV2",
+      "symbol": "ORBV2",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12686/large/favicon_%281%29.png?1601630265",
       "extensions": {
@@ -15917,7 +15930,7 @@
       "address": "0xd9a6803f41a006cbf389f21e55d7a6079dfe8df3",
       "name": "NovaDeFi",
       "symbol": "NMT",
-      "decimals": 19,
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12752/large/nova_defi_logo.png?1602241365",
       "extensions": {
         "link": "https://novadefi.com",
@@ -18525,7 +18538,7 @@
       "address": "0x5935ffc231e93ac04daa089c0f1b94d0fb2449de",
       "name": "Kanva",
       "symbol": "KNV",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/13138/large/5uoWII9M_400x400.png?1605592792",
       "extensions": {
         "link": "https://www.kanva.org/",
@@ -20361,7 +20374,7 @@
       "address": "0xe0bdaafd0aab238c55d68ad54e616305d4a21772",
       "name": "Refract",
       "symbol": "RFR",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/13394/large/refract_logo.png?1608108926",
       "extensions": {
         "link": "https://refraction.finance/",
@@ -20731,7 +20744,7 @@
       "address": "0x168e39f96a653ce0a456560687241b0b2936e5ff",
       "name": "2Based Finance",
       "symbol": "2BASED",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/13439/large/2based.jpg?1608564864",
       "extensions": {
         "link": " https://2based.finance",
