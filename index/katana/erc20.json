@@ -384,6 +384,17 @@
       "name": "vbUSDT yVault",
       "symbol": "yvvbUSDT",
       "decimals": 6
+    },
+    {
+      "chainId": 747474,
+      "address": "0xA85abEf37c7e812ACA761b2BEC62fFF7f3728F1E",
+      "name": "Superform",
+      "symbol": "UP",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70945/large/superform.png?1764747920",
+      "extensions": {
+        "coingeckoId": "superform"
+      }
     }
   ],
   "version": {
